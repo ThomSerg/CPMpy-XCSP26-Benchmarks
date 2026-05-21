@@ -4,7 +4,7 @@
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | — | 162/389 |
+| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | — | — |
 
 ---
 
@@ -24,12 +24,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 74 | 88 | 0 | 27 | 189 |
+_No results yet._
 
 #### Solution Checker
 
-| Solver | Valid | Invalid | Skipped | Total |
-|--------|-------|---------|---------|-------|
-| `ortools` | 0 | 0 | 189 | 189 |
+_Solution checker not enabled._
