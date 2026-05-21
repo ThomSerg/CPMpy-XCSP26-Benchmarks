@@ -4,7 +4,7 @@
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-21 18:07:53 | 222/678 |
+| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-21 18:07:53 | 222/682 |
 
 ---
 
@@ -22,7 +22,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 17:37:28 | — |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
-| `z3` | XCSP3-2025-CSP25 | 🔄 running | 78/200 | 2026-05-21 18:07:56 | 13m 40s |
+| `z3` | XCSP3-2025-CSP25 | 🔄 running | 82/200 | 2026-05-21 18:07:56 | 15m 01s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -35,7 +35,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `exact` | 35 | 12 | 96 | 57 | 200 |
 | `ortools` | 73 | 24 | 48 | 55 | 200 |
 | `pumpkin` | 38 | 7 | 25 | 130 | 200 |
-| `z3` | 23 | 10 | 5 | 40 | 78 |
+| `z3` | 23 | 10 | 5 | 44 | 82 |
 
 #### Solution Checker
 
@@ -44,4 +44,4 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `exact` | 0 | 0 | 200 | 200 |
 | `ortools` | 0 | 0 | 200 | 200 |
 | `pumpkin` | 0 | 0 | 200 | 200 |
-| `z3` | 0 | 0 | 78 | 78 |
+| `z3` | 0 | 0 | 82 | 82 |
