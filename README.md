@@ -16,7 +16,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 0/200 | 2026-05-21 16:59:21 | 0m 00s |
 | `pumpkin` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `z3` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
