@@ -4,7 +4,7 @@
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-21 16:53:14 | 97/200 |
+| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-21 16:53:14 | 112/215 |
 
 ---
 
@@ -16,12 +16,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 0/200 | 2026-05-21 16:59:21 | 0m 08s |
-| `pumpkin` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
-| `z3` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 15/200 | 2026-05-21 16:59:21 | 6m 23s |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
-| `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `ortools` | XCSP3-2025-CSP25 | ⏳ pending | 200/200 | — | — |
 | `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `pumpkin` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `z3` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -29,8 +30,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 
 #### Solve Status
 
-_No results yet._
+| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|---------|-------|
+| `exact` | 14 | 1 | 0 | 0 | 15 |
+| `ortools` | 73 | 24 | 48 | 55 | 200 |
 
 #### Solution Checker
 
-_Solution checker not enabled._
+| Solver | Valid | Invalid | Skipped | Total |
+|--------|-------|---------|---------|-------|
+| `exact` | 0 | 0 | 15 | 15 |
+| `ortools` | 0 | 0 | 200 | 200 |
