@@ -16,11 +16,11 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 118/200 | 2026-05-21 16:23:23 | 2m 03s |
+| `ortools` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
 
-![XCSP3-2025-CSP25](https://raw.githubusercontent.com/ThomSerg/bench-gist-results/main/profile_baseline_XCSP3-2025-CSP25.svg)
+![XCSP3-2025-CSP25](./profile_baseline_XCSP3-2025-CSP25.svg)
 
 #### Solve Status
 
