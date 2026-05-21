@@ -16,7 +16,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 1/200 | 2026-05-21 16:23:23 | 0m 03s |
+| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 118/200 | 2026-05-21 16:23:23 | 2m 03s |
 
 ### Track: XCSP3-2025-CSP25
 
