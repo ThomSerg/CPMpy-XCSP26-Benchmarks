@@ -804,7 +804,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,70
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,3.9965265828650445,,,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-12-03_c25.xml.lzma,UNSAT,353.30597080593,,,,UNSATISFIABLE,ortools_Accordion-12-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-13-02_c25.xml.lzma,SAT,4.230372398160398,,,,FEASIBLE,ortools_Accordion-13-02_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-14-03_c25.xml.lzma,SAT,3.273651141906157,,true,,FEASIBLE,ortools_Accordion-14-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-14-03_c25.xml.lzma,SAT,3.963215576019138,,,,FEASIBLE,ortools_Accordion-14-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-14-04_c25.xml.lzma,SAT,4.326646842062473,,,,FEASIBLE,ortools_Accordion-14-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-15-03_c25.xml.lzma,SAT,5.790896855061874,,,,FEASIBLE,ortools_Accordion-15-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-15-04_c25.xml.lzma,SAT,7.328979366924614,,,,FEASIBLE,ortools_Accordion-15-04_c25.xml.txt.metadata.json
