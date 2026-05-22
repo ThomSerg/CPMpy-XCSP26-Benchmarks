@@ -839,7 +839,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-80-105_c25.xml.lzma,UNK
 baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-80-110_c25.xml.lzma,UNKNOWN,598.2565153560136,,,,UNKNOWN,ortools_ChainReaction-80-110_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-06_c25.xml.lzma,SAT,18.13611910515465,,false,,FEASIBLE,ortools_CrazyFrog-06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-07_c25.xml.lzma,SAT,318.6260986409616,,,,FEASIBLE,ortools_CrazyFrog-07_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-08_c25.xml.lzma,SAT,289.05305108590983,,,,FEASIBLE,ortools_CrazyFrog-08_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-08_c25.xml.lzma,SAT,232.70340679492801,,false,,FEASIBLE,ortools_CrazyFrog-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-09_c25.xml.lzma,UNKNOWN,212.2461034648586,,,memory,,ortools_CrazyFrog-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-10_c25.xml.lzma,UNKNOWN,213.32687443494797,,,memory,,ortools_CrazyFrog-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-table-06_c25.xml.lzma,SAT,83.34894986706786,,true,,FEASIBLE,ortools_CrazyFrog-table-06_c25.xml.txt.metadata.json
