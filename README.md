@@ -4,13 +4,13 @@
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 10:02:15 | 350/1596 |
+| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 10:02:21 | 351/1596 |
 
 ---
 
 ## baseline _(running)_
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-22 10:02:15_
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-22 10:02:21_
 
 ### Live Progress
 
@@ -20,8 +20,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 16:59:21 | — |
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 17:37:28 | — |
 | `z3` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 18:07:56 | — |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 196/200 | 2026-05-22 09:28:32 | 33m 49s |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:54:47 | — |
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 196/200 | 2026-05-22 09:28:32 | 33m 44s |
 | `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 18:43:07 | — |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:19:25 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -38,7 +38,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `exact` | 35 | 12 | 96 | 57 | 200 |
 | `pumpkin` | 38 | 7 | 25 | 130 | 200 |
 | `z3` | 26 | 12 | 32 | 130 | 200 |
-| `gurobi` | 22 | 13 | 6 | 155 | 196 |
+| `gurobi` | 23 | 13 | 6 | 154 | 196 |
 | `pindakaas` | 23 | 12 | 38 | 127 | 200 |
 | `highs` | 20 | 10 | 71 | 99 | 200 |
 | `scip` | 15 | 8 | 71 | 106 | 200 |
@@ -51,7 +51,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `exact` | 0 | 0 | 200 | 200 |
 | `pumpkin` | 0 | 0 | 200 | 200 |
 | `z3` | 0 | 0 | 200 | 200 |
-| `gurobi` | 62 | 0 | 134 | 196 |
+| `gurobi` | 63 | 0 | 133 | 196 |
 | `pindakaas` | 0 | 0 | 200 | 200 |
 | `highs` | 0 | 0 | 200 | 200 |
 | `scip` | 0 | 0 | 200 | 200 |
