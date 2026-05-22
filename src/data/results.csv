@@ -83,6 +83,7 @@ baseline,baseline,XCSP3-2025-COP25,exact,Coprime-21_c25.xml.lzma,UNKNOWN,601.150
 baseline,baseline,XCSP3-2025-COP25,exact,Coprime-22_c25.xml.lzma,UNKNOWN,601.3015073570423,,,walltime,,exact_Coprime-22_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,Coprime-23_c25.xml.lzma,UNKNOWN,601.3310733728576,,,walltime,,exact_Coprime-23_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,Coprime-24_c25.xml.lzma,UNKNOWN,601.2026088680141,,,walltime,,exact_Coprime-24_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,Coprime-25_c25.xml.lzma,UNKNOWN,601.4404503570404,,,walltime,,exact_Coprime-25_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,Coprime-30_c25.xml.lzma,UNKNOWN,257.3904160889797,,,memory,,exact_Coprime-30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,Coprime-40_c25.xml.lzma,UNKNOWN,434.638044774998,,,memory,,exact_Coprime-40_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,Cutstock-00-0_c25.xml.lzma,SAT,1.7996976641006768,4.0,true,,OPTIMAL,exact_Cutstock-00-0_c25.xml.txt.metadata.json
@@ -101,8 +102,17 @@ baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-02-0250_c25.xml.lzma,UNKNOWN,4
 baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-03-0300_c25.xml.lzma,UNKNOWN,415.6850415649824,,,memory,,exact_FAPP-aux-03-0300_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-04-0300_c25.xml.lzma,UNKNOWN,412.0652373479679,,,memory,,exact_FAPP-aux-04-0300_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-05-0350_c25.xml.lzma,UNKNOWN,419.1971039441414,,,memory,,exact_FAPP-aux-05-0350_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-06-0500_c25.xml.lzma,UNKNOWN,454.1943755140528,,,memory,,exact_FAPP-aux-06-0500_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-07-0600_c25.xml.lzma,UNKNOWN,466.02252682088874,,,memory,,exact_FAPP-aux-07-0600_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-08-0700_c25.xml.lzma,UNKNOWN,445.5312202288769,,,memory,,exact_FAPP-aux-08-0700_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-09-0800_c25.xml.lzma,UNKNOWN,462.88943279208615,,,memory,,exact_FAPP-aux-09-0800_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-10-0900_c25.xml.lzma,UNKNOWN,503.2859650279861,,,memory,,exact_FAPP-aux-10-0900_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-17-0300_c25.xml.lzma,UNKNOWN,385.3025411600247,,,memory,,exact_FAPP-aux-17-0300_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-18-0350_c25.xml.lzma,UNKNOWN,397.33307459112257,,,memory,,exact_FAPP-aux-18-0350_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-20-0420_c25.xml.lzma,UNKNOWN,421.1684644080233,,,memory,,exact_FAPP-aux-20-0420_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-21-0500_c25.xml.lzma,UNKNOWN,384.78822821495123,,,memory,,exact_FAPP-aux-21-0500_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-ex1_c25.xml.lzma,SAT,12.879553696839139,523.0,true,,OPTIMAL,exact_FAPP-aux-ex1_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,Fortress1-03_c25.xml.lzma,SAT,15.525376447942108,459518.0,true,,OPTIMAL,exact_Fortress1-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,SAT,10.161222914932296,7.0,true,,OPTIMAL,gurobi_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,SAT,599.4557874382008,14.0,true,,FEASIBLE,gurobi_AlteredStates-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-04_c25.xml.lzma,SAT,600.5493112378754,22.0,true,,FEASIBLE,gurobi_AlteredStates-04_c25.xml.txt.metadata.json
