@@ -4,25 +4,80 @@
 import * as Plot from "npm:@observablehq/plot";
 const sessions = await FileAttachment("data/sessions.csv").csv({typed: true});
 const results = await FileAttachment("data/results.csv").csv({typed: true});
+const curves = await FileAttachment("data/curves.json").json();
 ```
 
 ```js
 const baseline = view(Inputs.select(sessions, {label: "Baseline", format: d => d.name}));
 const candidate = view(Inputs.select(sessions, {label: "Candidate", value: sessions[0], format: d => d.name}));
-const sharedTracks = Array.from(new Set(results
-  .filter(d => d.session_slug === baseline.slug || d.session_slug === candidate.slug)
-  .map(d => d.track))).sort();
-const track = view(Inputs.select(sharedTracks, {label: "Track"}));
-const sharedSolvers = Array.from(new Set(results
-  .filter(d => (d.session_slug === baseline.slug || d.session_slug === candidate.slug) && d.track === track)
-  .map(d => d.solver))).sort();
-const solver = view(Inputs.select(sharedSolvers, {label: "Solver"}));
+```
+
+```js
+const baselineRows = results.filter(d => d.session_slug === baseline.slug);
+const candidateRows = results.filter(d => d.session_slug === candidate.slug);
+const baselineTracks = new Set(baselineRows.map(d => d.track));
+const candidateTracks = new Set(candidateRows.map(d => d.track));
+const commonTracks = [...baselineTracks].filter(t => candidateTracks.has(t)).sort();
+const allTracks = Array.from(new Set([...baselineTracks, ...candidateTracks])).sort();
+const trackOptions = commonTracks.length ? commonTracks : allTracks;
+const selectedTrack = view(Inputs.select(trackOptions, {label: "Track"}));
+```
+
+```js
+const track = trackOptions.includes(selectedTrack) ? selectedTrack : trackOptions[0];
+const baselineTrackRows = baselineRows.filter(d => d.track === track);
+const candidateTrackRows = candidateRows.filter(d => d.track === track);
+const baselineSolvers = new Set(baselineTrackRows.map(d => d.solver));
+const candidateSolvers = new Set(candidateTrackRows.map(d => d.solver));
+const commonSolvers = [...baselineSolvers].filter(s => candidateSolvers.has(s)).sort();
+const allSolvers = Array.from(new Set([...baselineSolvers, ...candidateSolvers])).sort();
+const solverOptions = commonSolvers.length ? commonSolvers : allSolvers;
+const selectedSolver = view(Inputs.select(solverOptions, {label: "Solver"}));
+```
+
+```js
+const solver = solverOptions.includes(selectedSolver) ? selectedSolver : solverOptions[0];
+```
+
+## Performance Profile Overlay
+
+```js
+const baselineSeries = curves.sessions?.[baseline.slug]?.tracks?.[track]?.completion?.series ?? [];
+const candidateSeries = curves.sessions?.[candidate.slug]?.tracks?.[track]?.completion?.series ?? [];
+const overlayRows = [
+  ...baselineSeries
+    .filter(s => s.solver === solver)
+    .flatMap(s => s.x.map((x, i) => ({session: baseline.name, seconds: x, solved: s.y[i]}))),
+  ...candidateSeries
+    .filter(s => s.solver === solver)
+    .flatMap(s => s.x.map((x, i) => ({session: candidate.name, seconds: x, solved: s.y[i]})))
+];
+display(Plot.plot({
+  height: 420,
+  x: {label: "Time (s)", grid: true},
+  y: {label: "Instances solved", grid: true},
+  color: {
+    domain: [baseline.name, candidate.name],
+    range: ["#2563eb", "#dc2626"],
+    legend: true
+  },
+  marks: [
+    Plot.lineY(overlayRows, {
+      x: "seconds",
+      y: "solved",
+      stroke: "session",
+      curve: "step-after",
+      strokeWidth: 2.5
+    }),
+    Plot.ruleY([0])
+  ]
+}));
 ```
 
 ```js
 const key = d => `${d.instance}`;
-const baseRows = results.filter(d => d.session_slug === baseline.slug && d.track === track && d.solver === solver);
-const candRows = results.filter(d => d.session_slug === candidate.slug && d.track === track && d.solver === solver);
+const baseRows = baselineTrackRows.filter(d => d.solver === solver);
+const candRows = candidateTrackRows.filter(d => d.solver === solver);
 const baseByInstance = new Map(baseRows.map(d => [key(d), d]));
 const candByInstance = new Map(candRows.map(d => [key(d), d]));
 const instances = Array.from(new Set([...baseByInstance.keys(), ...candByInstance.keys()])).sort();

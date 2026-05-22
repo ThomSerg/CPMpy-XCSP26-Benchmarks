@@ -2,7 +2,7 @@ export default {
   title: "bench_gist",
   root: "src",
   output: "dist",
-  base: "/bench-gist-results/",
+  base: "/CPMpy-XCSP26-Benchmarks/",
   theme: "light",
   style: "style.css",
   pages: [
