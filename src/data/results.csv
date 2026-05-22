@@ -874,7 +874,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-03-08_c25.xml.lzma,SAT,
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-03-10_c25.xml.lzma,SAT,27.913562268950045,,true,,FEASIBLE,ortools_GracefulGraph-03-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-04-05_c25.xml.lzma,SAT,105.16874009510502,,true,,FEASIBLE,ortools_GracefulGraph-04-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-04-06_c25.xml.lzma,SAT,148.74798771808855,,true,,FEASIBLE,ortools_GracefulGraph-04-06_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-05-04_c25.xml.lzma,UNKNOWN,597.0537383649498,,,,UNKNOWN,ortools_GracefulGraph-05-04_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-05-04_c25.xml.lzma,UNKNOWN,598.1223128619604,,true,,UNKNOWN,ortools_GracefulGraph-05-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-05-05_c25.xml.lzma,UNKNOWN,597.4415436140262,,,,UNKNOWN,ortools_GracefulGraph-05-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-05-06_c25.xml.lzma,UNKNOWN,598.8029320507776,,,,UNKNOWN,ortools_GracefulGraph-05-06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-06-02_c25.xml.lzma,UNKNOWN,597.5417929019313,,,,UNKNOWN,ortools_GracefulGraph-06-02_c25.xml.txt.metadata.json
