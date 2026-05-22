@@ -12,6 +12,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c2_c25.xml.lzma,SAT,13.
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r1_c25.xml.lzma,SAT,8.059704646002501,11.0,true,,OPTIMAL,ortools_BusScheduling-r1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r1a_c25.xml.lzma,SAT,13.222654760116711,11.0,true,,OPTIMAL,ortools_BusScheduling-r1a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r2_c25.xml.lzma,SAT,4.477732769912109,14.0,true,,OPTIMAL,ortools_BusScheduling-r2_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r3_c25.xml.lzma,SAT,83.12158619402908,16.0,true,,OPTIMAL,ortools_BusScheduling-r3_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r4_c25.xml.lzma,SAT,6.802113907178864,25.0,true,,OPTIMAL,ortools_BusScheduling-r4_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r5a_c25.xml.lzma,SAT,15.323249324923381,28.0,true,,OPTIMAL,ortools_BusScheduling-r5a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-t1_c25.xml.lzma,SAT,1.6550047451164573,7.0,true,,OPTIMAL,ortools_BusScheduling-t1_c25.xml.txt.metadata.json
