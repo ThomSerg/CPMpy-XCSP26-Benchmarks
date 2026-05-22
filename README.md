@@ -24,7 +24,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 18:43:07 | — |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:19:25 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
-| `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 0/200 | 2026-05-22 09:28:32 | 0m 01s |
 
 ### Track: XCSP3-2025-CSP25
 
