@@ -1906,7 +1906,7 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LangfordBin-060_c25.xml
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LangfordBin-079_c25.xml.lzma,SAT,4.658019917085767,,,,FEASIBLE,ortools_LangfordBin-079_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LangfordBin-080_c25.xml.lzma,SAT,4.538897718070075,,,,FEASIBLE,ortools_LangfordBin-080_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LangfordBin-120_c25.xml.lzma,SAT,9.914927948033437,,,,FEASIBLE,ortools_LangfordBin-120_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LangfordBin-240_c25.xml.lzma,UNKNOWN,4.085047624073923,,,exitcode:1,,ortools_LangfordBin-240_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LangfordBin-240_c25.xml.lzma,UNKNOWN,599.1693767979741,,true,,UNKNOWN,ortools_LangfordBin-240_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,2.0949424549471587,,,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,2.3134726372081786,,,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,6.0951948100700974,,,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
@@ -1917,8 +1917,8 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,SAT,133.62461635190994,,,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,119.27822540607303,,,memory,,ortools_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,291.15742014395073,,,memory,,ortools_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,1.1388632890302688,,,exitcode:1,,ortools_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,0.9038175109308213,,,exitcode:1,,ortools_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,424.0155370181892,,,memory,,ortools_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,410.0718251450453,,,memory,,ortools_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-0-2-0_c25.xml.lzma,UNKNOWN,2.157598657067865,,,exitcode:1,,ortools_PegSolitaireTable-english-0-2-0_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-0-3-0_c25.xml.lzma,UNKNOWN,2.447171090869233,,,exitcode:1,,ortools_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-0-4-0_c25.xml.lzma,UNKNOWN,2.3252562161069363,,,exitcode:1,,ortools_PegSolitaireTable-english-0-4-0_c25.xml.txt.metadata.json
@@ -1957,7 +1957,7 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Rostering-25-22-30_c25.
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Rostering-25-22-35_c25.xml.lzma,UNKNOWN,2.008020733948797,,,exitcode:1,,ortools_Rostering-25-22-35_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Rostering-25-22-40_c25.xml.lzma,UNKNOWN,2.793582835001871,,,exitcode:1,,ortools_Rostering-25-22-40_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,1.655471660895273,,,exitcode:1,,ortools_Rostering-25-28-20_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Rostering-25-28-25_c25.xml.lzma,UNKNOWN,2.2124697368126363,,,exitcode:1,,ortools_Rostering-25-28-25_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Rostering-25-28-25_c25.xml.lzma,SAT,141.1394423150923,,,,FEASIBLE,ortools_Rostering-25-28-25_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Rostering-25-28-30_c25.xml.lzma,UNKNOWN,2.8184518159832805,,,exitcode:1,,ortools_Rostering-25-28-30_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Rostering-25-28-35_c25.xml.lzma,UNKNOWN,2.4322903950233012,,,exitcode:1,,ortools_Rostering-25-28-35_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Rostering-25-28-40_c25.xml.lzma,UNKNOWN,3.106456574983895,,,exitcode:1,,ortools_Rostering-25-28-40_c25.xml.txt.metadata.json
@@ -1992,7 +1992,7 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-19
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-20_c25.xml.lzma,UNKNOWN,115.09958151401952,,,exitcode:1,,ortools_TilingRythmicCanons1-20_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-21_c25.xml.lzma,UNKNOWN,22.15860588592477,,,exitcode:1,,ortools_TilingRythmicCanons1-21_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-22_c25.xml.lzma,UNKNOWN,21.36439172900282,,,exitcode:1,,ortools_TilingRythmicCanons1-22_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-23_c25.xml.lzma,UNKNOWN,6.755008579930291,,,exitcode:1,,ortools_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-23_c25.xml.lzma,SAT,56.71949100890197,,,,FEASIBLE,ortools_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-24_c25.xml.lzma,UNKNOWN,111.50472629605792,,,exitcode:1,,ortools_TilingRythmicCanons1-24_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-30_c25.xml.lzma,UNKNOWN,12.36347509501502,,,exitcode:1,,ortools_TilingRythmicCanons1-30_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,89.91222087712958,,,exitcode:1,,ortools_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
