@@ -24,7 +24,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:54:47 | — |
 | `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 18:43:07 | — |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:19:25 | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 45/200 | 2026-05-22 10:34:20 | 6m 20s |
+| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 45/200 | 2026-05-22 10:34:20 | 10m 36s |
 
 ### Track: XCSP3-2025-CSP25
 
