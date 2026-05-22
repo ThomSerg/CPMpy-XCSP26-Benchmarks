@@ -927,7 +927,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-3-0_c25.x
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-4-0_c25.xml.lzma,SAT,28.497831703163683,,true,,FEASIBLE,ortools_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-0-0_c25.xml.lzma,UNKNOWN,598.8959475371521,,true,,UNKNOWN,ortools_PegSolitaireTable-english-2-0-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-2-0_c25.xml.lzma,SAT,30.693290502997115,,true,,FEASIBLE,ortools_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-3-0_c25.xml.lzma,UNKNOWN,595.7065967801027,,,,UNKNOWN,ortools_PegSolitaireTable-english-2-3-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-3-0_c25.xml.lzma,UNKNOWN,599.059768774081,,true,,UNKNOWN,ortools_PegSolitaireTable-english-2-3-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-4-0_c25.xml.lzma,UNKNOWN,596.9468870081473,,,,UNKNOWN,ortools_PegSolitaireTable-english-2-4-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-6-0_c25.xml.lzma,UNKNOWN,597.8377746029291,,,,UNKNOWN,ortools_PegSolitaireTable-english-2-6-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-3-3-0_c25.xml.lzma,SAT,26.638780306093395,,true,,FEASIBLE,ortools_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
