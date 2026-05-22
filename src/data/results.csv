@@ -915,7 +915,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0087_c25.xml.l
 baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,454.29112394014373,,,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0207_c25.xml.lzma,UNKNOWN,584.6438257680275,,,,UNKNOWN,ortools_LotteryDesign-32-6-6-2-0207_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,127.82238355698064,,,memory,,ortools_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,239.59470505896024,,,memory,,ortools_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,150.25007277703844,,,memory,,ortools_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,478.7272798891645,,,memory,,ortools_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,552.7092925379984,,,memory,,ortools_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,391.2028819830157,,,memory,,ortools_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
@@ -926,7 +926,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-2-0_c25.x
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-3-0_c25.xml.lzma,UNKNOWN,598.6475466638803,,,,UNKNOWN,ortools_PegSolitaireTable-english-1-3-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-4-0_c25.xml.lzma,SAT,28.497831703163683,,true,,FEASIBLE,ortools_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-0-0_c25.xml.lzma,UNKNOWN,597.2525638819207,,,,UNKNOWN,ortools_PegSolitaireTable-english-2-0-0_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-2-0_c25.xml.lzma,SAT,49.17817654600367,,,,FEASIBLE,ortools_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-2-0_c25.xml.lzma,SAT,30.693290502997115,,true,,FEASIBLE,ortools_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-3-0_c25.xml.lzma,UNKNOWN,595.7065967801027,,,,UNKNOWN,ortools_PegSolitaireTable-english-2-3-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-4-0_c25.xml.lzma,UNKNOWN,596.9468870081473,,,,UNKNOWN,ortools_PegSolitaireTable-english-2-4-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-6-0_c25.xml.lzma,UNKNOWN,597.8377746029291,,,,UNKNOWN,ortools_PegSolitaireTable-english-2-6-0_c25.xml.txt.metadata.json
