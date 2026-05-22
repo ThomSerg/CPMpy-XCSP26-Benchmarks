@@ -957,7 +957,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,Rostering-25-22-30_c25.xml.lzma,UNKNO
 baseline,baseline,XCSP3-2025-CSP25,ortools,Rostering-25-22-35_c25.xml.lzma,UNKNOWN,598.3715838119388,,,,UNKNOWN,ortools_Rostering-25-22-35_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Rostering-25-22-40_c25.xml.lzma,UNKNOWN,600.4594140578993,,,,UNKNOWN,ortools_Rostering-25-22-40_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,598.8873473589774,,,,UNKNOWN,ortools_Rostering-25-28-20_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,Rostering-25-28-25_c25.xml.lzma,SAT,104.99793008109555,,,,FEASIBLE,ortools_Rostering-25-28-25_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,Rostering-25-28-25_c25.xml.lzma,SAT,152.57123051187955,,true,,FEASIBLE,ortools_Rostering-25-28-25_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Rostering-25-28-30_c25.xml.lzma,UNKNOWN,599.4349108310416,,,,UNKNOWN,ortools_Rostering-25-28-30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Rostering-25-28-35_c25.xml.lzma,UNKNOWN,599.6951622390188,,,,UNKNOWN,ortools_Rostering-25-28-35_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Rostering-25-28-40_c25.xml.lzma,UNKNOWN,600.4815484911669,,,,UNKNOWN,ortools_Rostering-25-28-40_c25.xml.txt.metadata.json
