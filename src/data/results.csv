@@ -164,8 +164,11 @@ baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i11_c25.xml.lzma,UNSAT,150.1898170
 baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i12_c25.xml.lzma,UNSAT,123.49624510691501,,true,,UNSATISFIABLE,exact_IHTC-i12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i16_c25.xml.lzma,UNSAT,246.91252556000836,,true,,UNSATISFIABLE,exact_IHTC-i16_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i18_c25.xml.lzma,UNKNOWN,407.64533776184544,,,memory,,exact_IHTC-i18_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i29_c25.xml.lzma,UNKNOWN,601.7062592210714,,,walltime,,exact_IHTC-i29_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i30_c25.xml.lzma,UNKNOWN,483.17629190790467,,,memory,,exact_IHTC-i30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,LowAutocorrelation-010_c25.xml.lzma,SAT,2.572497872868553,13.0,true,,OPTIMAL,exact_LowAutocorrelation-010_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,LowAutocorrelation-020_c25.xml.lzma,SAT,469.6921725878492,26.0,true,,OPTIMAL,exact_LowAutocorrelation-020_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,LowAutocorrelation-040_c25.xml.lzma,UNKNOWN,601.0414443970658,,,walltime,,exact_LowAutocorrelation-040_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,LowAutocorrelation-800_c25.xml.lzma,UNKNOWN,303.5082358010113,,,memory,,exact_LowAutocorrelation-800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,MetabolicNetwork-09_c25.xml.lzma,SAT,1.8069075839594007,2.0,true,,OPTIMAL,exact_MetabolicNetwork-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,MetabolicNetwork-10_c25.xml.lzma,SAT,1.7299279121216387,2.0,true,,OPTIMAL,exact_MetabolicNetwork-10_c25.xml.txt.metadata.json
@@ -187,6 +190,8 @@ baseline,baseline,XCSP3-2025-COP25,exact,RoadefPlaning2-2024-10_c25.xml.lzma,SAT
 baseline,baseline,XCSP3-2025-COP25,exact,RoadefPlaning2-2024-11_c25.xml.lzma,SAT,6.27405067300424,4.0,true,,OPTIMAL,exact_RoadefPlaning2-2024-11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,RollerSplat-04-20_c25.xml.lzma,SAT,18.736955227097496,10.0,true,,OPTIMAL,exact_RollerSplat-04-20_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,RollerSplat-05a-30_c25.xml.lzma,SAT,11.973447639029473,10.0,true,,OPTIMAL,exact_RollerSplat-05a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,SchedulingOS-gp-04-01_c25.xml.lzma,SAT,20.374426403082907,1281.0,true,,OPTIMAL,exact_SchedulingOS-gp-04-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,SchedulingOS-gp-04-05_c25.xml.lzma,SAT,11.999980174936354,1289.0,true,,OPTIMAL,exact_SchedulingOS-gp-04-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,SAT,10.161222914932296,7.0,true,,OPTIMAL,gurobi_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,SAT,599.4557874382008,14.0,true,,FEASIBLE,gurobi_AlteredStates-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-04_c25.xml.lzma,SAT,600.5493112378754,22.0,true,,FEASIBLE,gurobi_AlteredStates-04_c25.xml.txt.metadata.json
