@@ -7,7 +7,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
 | 1 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 15:30:41 | 450/1857 |
-| 2 | **Submission 2025** 🔄 | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:13:27 | 210/1379 |
+| 2 | **Submission 2025** 🔄 | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:52 | 210/1399 |
 
 ---
 
@@ -79,14 +79,14 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate ol
 
 ## Submission 2025 _(running)_
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_numerical location` · Created: 2026-05-22 12:57:37 · Last run: 2026-05-22 22:13:27_
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_numerical location` · Created: 2026-05-22 12:57:37 · Last run: 2026-05-22 22:44:52_
 
 ### Live Progress
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
-| `z3` | XCSP3-2025-CSP25 | 🔄 running | 179/200 | 2026-05-22 22:13:33 | 28m 03s |
+| `z3` | XCSP3-2025-CSP25 | 🔄 running | 199/200 | 2026-05-22 22:13:33 | 31m 22s |
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
 | `cpo` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-22 21:52:42 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
@@ -108,7 +108,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 72 | 21 | 1 | 106 | 200 |
-| `z3` | 23 | 13 | 2 | 141 | 179 |
+| `z3` | 23 | 13 | 5 | 158 | 199 |
 | `gurobi` | 20 | 12 | 15 | 153 | 200 |
 | `cpo` | 21 | 5 | 1 | 173 | 200 |
 | `exact` | 20 | 3 | 38 | 139 | 200 |
@@ -120,7 +120,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `ortools` | 79 | 0 | 121 | 200 |
-| `z3` | 66 | 0 | 113 | 179 |
+| `z3` | 82 | 0 | 117 | 199 |
 | `gurobi` | 81 | 0 | 119 | 200 |
 | `cpo` | 47 | 0 | 153 | 200 |
 | `exact` | 30 | 0 | 170 | 200 |
