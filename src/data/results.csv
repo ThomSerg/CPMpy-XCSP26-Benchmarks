@@ -143,6 +143,13 @@ baseline,baseline,XCSP3-2025-COP25,gurobi,Fortress1-08_c25.xml.lzma,SAT,7.159859
 baseline,baseline,XCSP3-2025-COP25,gurobi,Fortress1-09_c25.xml.lzma,SAT,8.38861114392057,1458951.0,true,,OPTIMAL,gurobi_Fortress1-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,Fortress1-10_c25.xml.lzma,SAT,11.219893038040027,1798536.0,true,,OPTIMAL,gurobi_Fortress1-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,Fortress2-03_c25.xml.lzma,UNKNOWN,400.051928978879,,,memory,,gurobi_Fortress2-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,Fortress2-04_c25.xml.lzma,UNKNOWN,601.6007583369501,,,walltime,,gurobi_Fortress2-04_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,Fortress2-05_c25.xml.lzma,UNKNOWN,601.4026293561328,,,walltime,,gurobi_Fortress2-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,Fortress2-06_c25.xml.lzma,UNKNOWN,601.4184117219411,,,walltime,,gurobi_Fortress2-06_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,Fortress2-07_c25.xml.lzma,UNKNOWN,601.3369645460043,,,walltime,,gurobi_Fortress2-07_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,Fortress2-08_c25.xml.lzma,UNKNOWN,601.6518968620803,,,walltime,,gurobi_Fortress2-08_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,Fortress2-09_c25.xml.lzma,UNKNOWN,601.389119744068,,,walltime,,gurobi_Fortress2-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,Fortress2-10_c25.xml.lzma,UNKNOWN,583.973333719885,,,memory,,gurobi_Fortress2-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,IHTC-i01_c25.xml.lzma,UNSAT,12.537157729035243,,true,,UNSATISFIABLE,gurobi_IHTC-i01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,IHTC-i02_c25.xml.lzma,UNSAT,16.977989890845492,,true,,UNSATISFIABLE,gurobi_IHTC-i02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,IHTC-i03_c25.xml.lzma,UNSAT,16.21751996106468,,true,,UNSATISFIABLE,gurobi_IHTC-i03_c25.xml.txt.metadata.json
@@ -181,6 +188,7 @@ baseline,baseline,XCSP3-2025-COP25,gurobi,RoadefPlaning2-2023-11_c25.xml.lzma,UN
 baseline,baseline,XCSP3-2025-COP25,gurobi,RoadefPlaning2-2024-09_c25.xml.lzma,UNKNOWN,2.340732429875061,,,exitcode:1,,gurobi_RoadefPlaning2-2024-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-04-20_c25.xml.lzma,SAT,18.856523039983585,10.0,true,,OPTIMAL,gurobi_RollerSplat-04-20_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-05a-30_c25.xml.lzma,SAT,15.064519270090386,10.0,true,,OPTIMAL,gurobi_RollerSplat-05a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-04-01_c25.xml.lzma,SAT,8.755901386961341,1281.0,true,,OPTIMAL,gurobi_SchedulingOS-gp-04-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.6558268680237234,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.6033942981157,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.4345904369839,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
