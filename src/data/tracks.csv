@@ -1,0 +1,2 @@
+session_slug,session_name,track,solvers
+baseline,baseline,XCSP3-2025-CSP25,cpo;exact;gurobi;highs;ortools;pindakaas;pumpkin;scip;z3

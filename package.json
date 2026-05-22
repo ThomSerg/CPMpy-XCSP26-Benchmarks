@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@observablehq/framework": "^1.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "observable build",
+    "dev": "observable preview"
+  },
+  "type": "module"
+}

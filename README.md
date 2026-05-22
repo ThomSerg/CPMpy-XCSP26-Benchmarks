@@ -1,5 +1,7 @@
 # Benchmark Gist
 
+Interactive site: https://ThomSerg.github.io/bench-gist-results/
+
 ## Experiments
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
@@ -14,7 +16,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 
 ### Track: XCSP3-2025-CSP25
 
-![XCSP3-2025-CSP25](./profile_baseline_XCSP3-2025-CSP25.svg)
+#### Performance Profile
+
+![XCSP3-2025-CSP25 profile](./profile_baseline_XCSP3-2025-CSP25.svg)
+
+#### Solver Ranking
+
+![XCSP3-2025-CSP25 ranking](./ranking_baseline_XCSP3-2025-CSP25.svg)
 
 #### Solve Status
 
