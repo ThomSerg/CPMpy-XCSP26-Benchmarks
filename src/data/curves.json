@@ -1,5 +1,29 @@
 {
   "sessions": {
+    "Submission_2025": {
+      "tracks": {
+        "XCSP3-2025-CSP25": {
+          "completion": {
+            "series": [
+              {
+                "solved": 0,
+                "solver": "ortools",
+                "x": [
+                  0.0,
+                  600.0
+                ],
+                "y": [
+                  0.0,
+                  0.0
+                ]
+              }
+            ],
+            "total": 30
+          },
+          "time_limit": 600.0
+        }
+      }
+    },
     "baseline": {
       "tracks": {
         "XCSP3-2025-CSP25": {
