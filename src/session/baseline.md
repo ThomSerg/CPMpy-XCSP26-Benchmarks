@@ -47,16 +47,57 @@ const visibleSolvers = activeSolvers.length ? activeSolvers : solvers;
 
 ```js
 const trackCurves = curves.sessions?.[sessionSlug]?.tracks?.[activeTrack]?.completion?.series ?? [];
+const allSolverNames = Array.from(new Set(sessionResults.map(d => d.solver))).sort();
+const solverPalette = [
+  "#2563eb", "#dc2626", "#16a34a", "#9333ea", "#ea580c",
+  "#0891b2", "#be123c", "#4d7c0f", "#7c3aed", "#ca8a04",
+  "#0f766e", "#c2410c", "#1d4ed8", "#a21caf", "#15803d"
+];
+const solverColor = new Map(allSolverNames.map((solver, i) => [
+  solver,
+  solverPalette[i % solverPalette.length]
+]));
 const curveRows = trackCurves
   .filter(s => visibleSolvers.includes(s.solver))
-  .flatMap(s => s.x.map((x, i) => ({solver: s.solver, seconds: x, solved: s.y[i]})));
+  .flatMap(s => s.x.map((x, i) => ({
+    solver: s.solver,
+    seconds: x,
+    solved: s.y[i],
+    label: `${s.solver}\n${x.toFixed(1)}s: ${s.y[i]} solved`
+  })));
 display(Plot.plot({
   height: 420,
   x: {label: "Time (s)", grid: true},
   y: {label: "Instances solved", grid: true},
-  color: {legend: true},
+  color: {
+    domain: allSolverNames,
+    range: allSolverNames.map(s => solverColor.get(s)),
+    legend: true
+  },
   marks: [
-    Plot.lineY(curveRows, {x: "seconds", y: "solved", stroke: "solver", curve: "step-after", strokeWidth: 2}),
+    Plot.lineY(curveRows, {
+      x: "seconds",
+      y: "solved",
+      stroke: "solver",
+      curve: "step-after",
+      strokeWidth: 2.25,
+      title: "label",
+      tip: "x"
+    }),
+    Plot.dot(curveRows, Plot.pointerX({
+      x: "seconds",
+      y: "solved",
+      fill: "solver",
+      r: 4,
+      title: "label",
+      tip: true
+    })),
+    Plot.crosshairX(curveRows, {
+      x: "seconds",
+      y: "solved",
+      color: "#475569",
+      opacity: 0.45
+    }),
     Plot.ruleY([0])
   ]
 }));
