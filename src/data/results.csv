@@ -844,7 +844,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-09_c25.xml.lzma,UNKNOWN,212
 baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-10_c25.xml.lzma,UNKNOWN,213.32687443494797,,,memory,,ortools_CrazyFrog-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-table-06_c25.xml.lzma,SAT,83.34894986706786,,true,,FEASIBLE,ortools_CrazyFrog-table-06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,271.55243180016987,,,memory,,ortools_CrazyFrog-table-07_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,321.2848100201227,,,memory,,ortools_CrazyFrog-table-08_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,225.3235224611126,,,memory,,ortools_CrazyFrog-table-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,120.5438246880658,,,memory,,ortools_CrazyFrog-table-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,124.25597972306423,,,memory,,ortools_CrazyFrog-table-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,5.210889663081616,,true,,UNSATISFIABLE,ortools_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
@@ -862,7 +862,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-3-7-7-06_c25.xml.lzma,SAT,3.9062
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-3-7-7-07_c25.xml.lzma,UNSAT,76.68032604502514,,true,,UNSATISFIABLE,ortools_EFPA-3-7-7-07_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-3-8-8-07_c25.xml.lzma,SAT,27.9221762761008,,true,,FEASIBLE,ortools_EFPA-3-8-8-07_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-3-8-8-08_c25.xml.lzma,UNSAT,366.4411507130135,,,,UNSATISFIABLE,ortools_EFPA-3-8-8-08_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-4-4-5-10_c25.xml.lzma,SAT,148.4402544759214,,,,FEASIBLE,ortools_EFPA-4-4-5-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-4-4-5-10_c25.xml.lzma,SAT,95.61668511782773,,true,,FEASIBLE,ortools_EFPA-4-4-5-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-4-4-5-11_c25.xml.lzma,UNKNOWN,598.1593195078894,,,,UNKNOWN,ortools_EFPA-4-4-5-11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-4-5-4-10_c25.xml.lzma,SAT,29.83611100097187,,true,,FEASIBLE,ortools_EFPA-4-5-4-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-4-5-4-11_c25.xml.lzma,UNKNOWN,594.9416327518411,,,,UNKNOWN,ortools_EFPA-4-5-4-11_c25.xml.txt.metadata.json
@@ -870,7 +870,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-5-4-4-08_c25.xml.lzma,SAT,62.509
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-5-4-4-09_c25.xml.lzma,UNKNOWN,596.2394490058068,,,,UNKNOWN,ortools_EFPA-5-4-4-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-6-4-4-13_c25.xml.lzma,UNKNOWN,598.9327225149609,,,,UNKNOWN,ortools_EFPA-6-4-4-13_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-6-4-4-14_c25.xml.lzma,UNKNOWN,596.0061931211967,,,,UNKNOWN,ortools_EFPA-6-4-4-14_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-03-08_c25.xml.lzma,SAT,29.039724536938593,,,,FEASIBLE,ortools_GracefulGraph-03-08_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-03-08_c25.xml.lzma,SAT,17.960588881047443,,true,,FEASIBLE,ortools_GracefulGraph-03-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-03-10_c25.xml.lzma,SAT,45.510085311951116,,,,FEASIBLE,ortools_GracefulGraph-03-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-04-05_c25.xml.lzma,SAT,164.6026051850058,,,,FEASIBLE,ortools_GracefulGraph-04-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-04-06_c25.xml.lzma,SAT,231.8246521758847,,,,FEASIBLE,ortools_GracefulGraph-04-06_c25.xml.txt.metadata.json
