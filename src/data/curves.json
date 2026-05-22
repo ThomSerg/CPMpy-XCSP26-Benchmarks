@@ -2,7 +2,7 @@
   "sessions": {
     "Submission_2025": {
       "tracks": {
-        "unknown": {
+        "XCSP3-2025-CSP25": {
           "completion": {
             "series": [
               {
@@ -10,7 +10,7 @@
                 "solver": "ortools",
                 "x": [
                   0.0,
-                  300.0
+                  600.0
                 ],
                 "y": [
                   0.0,
@@ -20,7 +20,7 @@
             ],
             "total": 200
           },
-          "time_limit": 300.0
+          "time_limit": 600.0
         }
       }
     },
