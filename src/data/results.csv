@@ -2078,12 +2078,16 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,AlmostMagic-07-130_c25.x
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,AlmostMagic-08-160_c25.xml.lzma,UNSAT,7.313933085184544,,true,,UNSATISFIABLE,gurobi_AlmostMagic-08-160_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,AlmostMagic-09-200_c25.xml.lzma,UNSAT,10.209784826962277,,true,,UNSATISFIABLE,gurobi_AlmostMagic-09-200_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,AlmostMagic-10-250_c25.xml.lzma,UNSAT,15.149769165087491,,true,,UNSATISFIABLE,gurobi_AlmostMagic-10-250_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,ChainReaction-20-025_c25.xml.lzma,SAT,191.10940211592242,,,,FEASIBLE,gurobi_ChainReaction-20-025_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,CrazyFrog-06_c25.xml.lzma,UNKNOWN,178.31377877807245,,,exitcode:1,,gurobi_CrazyFrog-06_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-06_c25.xml.lzma,UNKNOWN,5.6716224199626595,,,exitcode:1,,gurobi_CrazyFrog-table-06_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,96.44386150385253,,,exitcode:1,,gurobi_CrazyFrog-table-07_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,91.8517092789989,,,exitcode:1,,gurobi_CrazyFrog-table-08_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,126.5016770910006,,,memory,,gurobi_CrazyFrog-table-09_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,124.13334901514463,,,memory,,gurobi_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,23.047388612059876,,true,,UNSATISFIABLE,gurobi_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Cryptanalysis-3-05-128_c25.xml.lzma,SAT,8.587947924854234,,,,FEASIBLE,gurobi_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Cryptanalysis-4-09-128_c25.xml.lzma,UNSAT,174.01588177401572,,true,,UNSATISFIABLE,gurobi_Cryptanalysis-4-09-128_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,2.9063671310432255,,,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,124.42521934793331,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,2.7946439520455897,,,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
