@@ -3,7 +3,7 @@ baseline,baseline,XCSP3-2025-CSP25,cpo,26,5,0,169,200,75,0,125
 baseline,baseline,XCSP3-2025-CSP25,exact,35,12,0,153,200,0,0,200
 baseline,baseline,XCSP3-2025-CSP25,gurobi,33,14,0,153,200,153,0,47
 baseline,baseline,XCSP3-2025-CSP25,highs,20,10,0,170,200,0,0,200
-baseline,baseline,XCSP3-2025-CSP25,ortools,73,24,0,103,200,75,3,122
+baseline,baseline,XCSP3-2025-CSP25,ortools,73,24,0,103,200,76,3,121
 baseline,baseline,XCSP3-2025-CSP25,pindakaas,23,12,0,165,200,0,0,200
 baseline,baseline,XCSP3-2025-CSP25,pumpkin,38,7,0,155,200,0,0,200
 baseline,baseline,XCSP3-2025-CSP25,scip,15,8,0,177,200,0,0,200
