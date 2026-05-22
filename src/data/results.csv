@@ -163,13 +163,17 @@ baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i10_c25.xml.lzma,UNSAT,116.0665274
 baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i11_c25.xml.lzma,UNSAT,150.18981707119383,,true,,UNSATISFIABLE,exact_IHTC-i11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i12_c25.xml.lzma,UNSAT,123.49624510691501,,true,,UNSATISFIABLE,exact_IHTC-i12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i16_c25.xml.lzma,UNSAT,246.91252556000836,,true,,UNSATISFIABLE,exact_IHTC-i16_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i18_c25.xml.lzma,UNKNOWN,407.64533776184544,,,memory,,exact_IHTC-i18_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,LowAutocorrelation-010_c25.xml.lzma,SAT,2.572497872868553,13.0,true,,OPTIMAL,exact_LowAutocorrelation-010_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,LowAutocorrelation-020_c25.xml.lzma,SAT,469.6921725878492,26.0,true,,OPTIMAL,exact_LowAutocorrelation-020_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,LowAutocorrelation-800_c25.xml.lzma,UNKNOWN,303.5082358010113,,,memory,,exact_LowAutocorrelation-800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,MetabolicNetwork-09_c25.xml.lzma,SAT,1.8069075839594007,2.0,true,,OPTIMAL,exact_MetabolicNetwork-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,MetabolicNetwork-10_c25.xml.lzma,SAT,1.7299279121216387,2.0,true,,OPTIMAL,exact_MetabolicNetwork-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,MetabolicNetwork-14_c25.xml.lzma,SAT,31.54910667007789,2.0,true,,OPTIMAL,exact_MetabolicNetwork-14_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,MetabolicNetwork-16_c25.xml.lzma,SAT,1.4615140911191702,2.0,true,,OPTIMAL,exact_MetabolicNetwork-16_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,MetabolicNetwork-17_c25.xml.lzma,SAT,2.288001494947821,2.0,true,,OPTIMAL,exact_MetabolicNetwork-17_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,MetabolicNetwork-37_c25.xml.lzma,SAT,28.054572900990024,1.0,true,,OPTIMAL,exact_MetabolicNetwork-37_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,MetabolicNetwork-39_c25.xml.lzma,SAT,259.41111054387875,2.0,true,,OPTIMAL,exact_MetabolicNetwork-39_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,MetabolicNetwork-41_c25.xml.lzma,SAT,9.098199853906408,2.0,true,,OPTIMAL,exact_MetabolicNetwork-41_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,RoadefPlaning2-2021-04_c25.xml.lzma,UNKNOWN,1.9674048139713705,,,exitcode:1,,exact_RoadefPlaning2-2021-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,RoadefPlaning2-2021-05_c25.xml.lzma,SAT,2.178657331969589,0.0,true,,OPTIMAL,exact_RoadefPlaning2-2021-05_c25.xml.txt.metadata.json
