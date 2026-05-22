@@ -4,7 +4,7 @@
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 10:34:17 | 380/1648 |
+| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 10:34:17 | 380/1653 |
 
 ---
 
@@ -24,7 +24,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:54:47 | — |
 | `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 18:43:07 | — |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:19:25 | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 48/200 | 2026-05-22 10:34:20 | 12m 45s |
+| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 55/200 | 2026-05-22 10:34:20 | 14m 48s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -42,7 +42,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `pindakaas` | 23 | 12 | 38 | 127 | 200 |
 | `highs` | 20 | 10 | 71 | 99 | 200 |
 | `scip` | 15 | 8 | 71 | 106 | 200 |
-| `cpo` | 16 | 2 | 0 | 30 | 48 |
+| `cpo` | 16 | 2 | 0 | 37 | 55 |
 
 #### Solution Checker
 
@@ -56,4 +56,4 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `pindakaas` | 0 | 0 | 200 | 200 |
 | `highs` | 0 | 0 | 200 | 200 |
 | `scip` | 0 | 0 | 200 | 200 |
-| `cpo` | 18 | 0 | 30 | 48 |
+| `cpo` | 23 | 0 | 32 | 55 |
