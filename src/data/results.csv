@@ -3153,6 +3153,8 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,Heterosquare-hard-10_c25.xml
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,Heterosquare-hard-15_c25.xml.lzma,UNKNOWN,598.7729633408599,,true,,UNKNOWN,z3_Heterosquare-hard-15_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,Heterosquare-hard-20_c25.xml.lzma,UNKNOWN,598.814840078121,,true,,UNKNOWN,z3_Heterosquare-hard-20_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,LangfordBin-010_c25.xml.lzma,UNSAT,56.70336641580798,,true,,UNSATISFIABLE,z3_LangfordBin-010_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,LangfordBin-013_c25.xml.lzma,UNKNOWN,598.7381545749959,,true,,UNKNOWN,z3_LangfordBin-013_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,LangfordBin-014_c25.xml.lzma,UNKNOWN,598.7469195660669,,true,,UNKNOWN,z3_LangfordBin-014_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,LangfordBin-016_c25.xml.lzma,SAT,1.844453546917066,,,,FEASIBLE,z3_LangfordBin-016_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,LangfordBin-039_c25.xml.lzma,SAT,27.00537148793228,,,,FEASIBLE,z3_LangfordBin-039_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,LangfordBin-040_c25.xml.lzma,SAT,12.706513094017282,,,,FEASIBLE,z3_LangfordBin-040_c25.xml.txt.metadata.json
@@ -3164,6 +3166,7 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0067_
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,31.907325337873772,,,,FEASIBLE,z3_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,43.37998271710239,,,,FEASIBLE,z3_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,285.2180538228713,,,memory,,z3_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,351.15400243597105,,,memory,,z3_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-0-2-0_c25.xml.lzma,UNKNOWN,2.6006117621436715,,,exitcode:1,,z3_PegSolitaireTable-english-0-2-0_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-0-3-0_c25.xml.lzma,UNKNOWN,1.958889805013314,,,exitcode:1,,z3_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-0-4-0_c25.xml.lzma,UNKNOWN,2.2675881208851933,,,exitcode:1,,z3_PegSolitaireTable-english-0-4-0_c25.xml.txt.metadata.json
@@ -3177,6 +3180,7 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-2-
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-2-6-0_c25.xml.lzma,UNKNOWN,1.9809144549071789,,,exitcode:1,,z3_PegSolitaireTable-english-2-6-0_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-3-3-0_c25.xml.lzma,UNKNOWN,2.3502961178310215,,,exitcode:1,,z3_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0300_c25.xml.lzma,UNSAT,93.49896576697938,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0600_c25.xml.lzma,UNSAT,327.62456912896596,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,74.21557026891969,,,,FEASIBLE,z3_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,Rostering-00-14-20_c25.xml.lzma,UNKNOWN,2.075311006978154,,,exitcode:1,,z3_Rostering-00-14-20_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,Rostering-00-14-25_c25.xml.lzma,UNKNOWN,2.388450453057885,,,exitcode:1,,z3_Rostering-00-14-25_c25.xml.txt.metadata.json
