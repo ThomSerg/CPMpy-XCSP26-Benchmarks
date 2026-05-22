@@ -7,7 +7,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
 | 1 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 15:30:41 | 450/1857 |
-| 2 | **Submission 2025** 🔄 | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 21:52:35 | 162/1060 |
+| 2 | **Submission 2025** 🔄 | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 21:52:35 | 172/1180 |
 
 ---
 
@@ -87,8 +87,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
+| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 180/200 | 2026-05-22 21:52:42 | 13m 14s |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 60/200 | 2026-05-22 21:52:42 | 8m 58s |
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-22 21:50:38 | — |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-22 21:48:36 | — |
 | `z3` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -109,8 +109,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 72 | 21 | 1 | 106 | 200 |
 | `gurobi` | 20 | 12 | 15 | 153 | 200 |
+| `cpo` | 20 | 4 | 0 | 156 | 180 |
 | `exact` | 20 | 3 | 38 | 139 | 200 |
-| `cpo` | 12 | 2 | 0 | 46 | 60 |
 | `pumpkin` | 0 | 0 | 0 | 200 | 200 |
 | `scip` | 0 | 0 | 0 | 200 | 200 |
 
@@ -120,7 +120,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 |--------|-------|---------|---------|-------|
 | `ortools` | 79 | 0 | 121 | 200 |
 | `gurobi` | 81 | 0 | 119 | 200 |
+| `cpo` | 31 | 0 | 149 | 180 |
 | `exact` | 30 | 0 | 170 | 200 |
-| `cpo` | 2 | 0 | 58 | 60 |
 | `pumpkin` | 0 | 0 | 200 | 200 |
 | `scip` | 0 | 0 | 200 | 200 |
