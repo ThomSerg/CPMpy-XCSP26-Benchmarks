@@ -800,7 +800,7 @@ baseline,baseline,XCSP3-2025-CSP25,highs,TilingRythmicCanons1-32_c25.xml.lzma,UN
 baseline,baseline,XCSP3-2025-CSP25,highs,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,194.04597082384862,,,memory,,highs_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,highs,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,601.5588125148788,,,walltime,,highs_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,2.9657069421373308,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,70.26413027197123,,,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,61.71220484096557,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,2.7665307950228453,,true,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-12-03_c25.xml.lzma,UNSAT,353.30597080593,,,,UNSATISFIABLE,ortools_Accordion-12-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-13-02_c25.xml.lzma,SAT,3.022779686143622,,true,,FEASIBLE,ortools_Accordion-13-02_c25.xml.txt.metadata.json
