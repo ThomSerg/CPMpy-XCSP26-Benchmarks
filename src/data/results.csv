@@ -1800,7 +1800,7 @@ baseline,baseline,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-32_c25.xml.lzma,UNKNO
 baseline,baseline,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,600.1474128682166,,,,UNKNOWN,z3_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,599.0745990630239,,,,UNKNOWN,z3_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,2.9063671310432255,,,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNKNOWN,4.795618887990713,,,exitcode:1,,ortools_Accordion-11-03_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,124.42521934793331,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,2.7946439520455897,,,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Accordion-12-03_c25.xml.lzma,UNKNOWN,4.7581300779711455,,,exitcode:1,,ortools_Accordion-12-03_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Accordion-13-02_c25.xml.lzma,SAT,2.9563098999205977,,,,FEASIBLE,ortools_Accordion-13-02_c25.xml.txt.metadata.json
@@ -1831,8 +1831,8 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,ChainReaction-40-050_c2
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,ChainReaction-40-055_c25.xml.lzma,SAT,34.29349421290681,,,,FEASIBLE,ortools_ChainReaction-40-055_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,ChainReaction-50-065_c25.xml.lzma,UNKNOWN,2.1283076440449804,,,exitcode:1,,ortools_ChainReaction-50-065_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,ChainReaction-50-070_c25.xml.lzma,SAT,70.61075693904422,,,,FEASIBLE,ortools_ChainReaction-50-070_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,ChainReaction-60-085_c25.xml.lzma,UNKNOWN,2.1013452308252454,,,exitcode:1,,ortools_ChainReaction-60-085_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,ChainReaction-60-090_c25.xml.lzma,UNKNOWN,2.18941623182036,,,exitcode:1,,ortools_ChainReaction-60-090_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,ChainReaction-60-085_c25.xml.lzma,SAT,148.5357607230544,,,,FEASIBLE,ortools_ChainReaction-60-085_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,ChainReaction-60-090_c25.xml.lzma,SAT,194.03343539196067,,,,FEASIBLE,ortools_ChainReaction-60-090_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,ChainReaction-70-095_c25.xml.lzma,UNKNOWN,2.182523190975189,,,exitcode:1,,ortools_ChainReaction-70-095_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,ChainReaction-70-100_c25.xml.lzma,UNKNOWN,2.0428411189932376,,,exitcode:1,,ortools_ChainReaction-70-100_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,ChainReaction-80-105_c25.xml.lzma,UNKNOWN,2.091683803126216,,,exitcode:1,,ortools_ChainReaction-80-105_c25.xml.txt.metadata.json
@@ -1843,10 +1843,10 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,CrazyFrog-08_c25.xml.lz
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,CrazyFrog-09_c25.xml.lzma,UNKNOWN,289.76644141599536,,,memory,,ortools_CrazyFrog-09_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,CrazyFrog-10_c25.xml.lzma,UNKNOWN,292.20685494714417,,,memory,,ortools_CrazyFrog-10_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,CrazyFrog-table-06_c25.xml.lzma,UNKNOWN,8.054028410930187,,,exitcode:1,,ortools_CrazyFrog-table-06_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,164.16596070397645,,,exitcode:1,,ortools_CrazyFrog-table-07_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,155.04144012299366,,,exitcode:1,,ortools_CrazyFrog-table-08_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,131.60962026496418,,,memory,,ortools_CrazyFrog-table-09_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,127.7514863461256,,,memory,,ortools_CrazyFrog-table-10_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,170.53688851720653,,,exitcode:1,,ortools_CrazyFrog-table-07_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,160.54919242393225,,,exitcode:1,,ortools_CrazyFrog-table-08_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,126.20618150080554,,,memory,,ortools_CrazyFrog-table-09_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,126.09736625989899,,,memory,,ortools_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,4.903351589804515,,true,,UNSATISFIABLE,ortools_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Cryptanalysis-3-05-128_c25.xml.lzma,SAT,5.6696676798164845,,,,FEASIBLE,ortools_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Cryptanalysis-4-09-128_c25.xml.lzma,UNSAT,13.313607038231567,,true,,UNSATISFIABLE,ortools_Cryptanalysis-4-09-128_c25.xml.txt.metadata.json
@@ -1859,18 +1859,18 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-12-128_
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-16-128_c25.xml.lzma,UNKNOWN,16.784124296857044,,,exitcode:1,,ortools_Cryptanalysis-6-16-128_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-17-128_c25.xml.lzma,UNKNOWN,17.688151890179142,,,exitcode:1,,ortools_Cryptanalysis-6-17-128_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-3-7-7-06_c25.xml.lzma,SAT,9.454301063902676,,,,FEASIBLE,ortools_EFPA-3-7-7-06_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-3-7-7-07_c25.xml.lzma,UNKNOWN,12.810997437918559,,,exitcode:1,,ortools_EFPA-3-7-7-07_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-3-8-8-07_c25.xml.lzma,UNKNOWN,15.843091848073527,,,exitcode:1,,ortools_EFPA-3-8-8-07_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-3-7-7-07_c25.xml.lzma,UNSAT,83.63479163800366,,true,,UNSATISFIABLE,ortools_EFPA-3-7-7-07_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-3-8-8-07_c25.xml.lzma,SAT,39.491483885096386,,,,FEASIBLE,ortools_EFPA-3-8-8-07_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-3-8-8-08_c25.xml.lzma,UNKNOWN,20.923642161069438,,,exitcode:1,,ortools_EFPA-3-8-8-08_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-4-4-5-10_c25.xml.lzma,UNKNOWN,4.603138444013894,,,exitcode:1,,ortools_EFPA-4-4-5-10_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-4-4-5-10_c25.xml.lzma,SAT,97.64576047216542,,,,FEASIBLE,ortools_EFPA-4-4-5-10_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-4-4-5-11_c25.xml.lzma,UNKNOWN,5.248727225931361,,,exitcode:1,,ortools_EFPA-4-4-5-11_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-4-5-4-10_c25.xml.lzma,UNKNOWN,3.8995201559737325,,,exitcode:1,,ortools_EFPA-4-5-4-10_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-4-5-4-10_c25.xml.lzma,SAT,31.15461095003411,,,,FEASIBLE,ortools_EFPA-4-5-4-10_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-4-5-4-11_c25.xml.lzma,UNKNOWN,5.342367050005123,,,exitcode:1,,ortools_EFPA-4-5-4-11_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-5-4-4-08_c25.xml.lzma,UNKNOWN,3.059442542027682,,,exitcode:1,,ortools_EFPA-5-4-4-08_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-5-4-4-08_c25.xml.lzma,SAT,63.466645271051675,,,,FEASIBLE,ortools_EFPA-5-4-4-08_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-5-4-4-09_c25.xml.lzma,UNKNOWN,3.985532948980108,,,exitcode:1,,ortools_EFPA-5-4-4-09_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-6-4-4-13_c25.xml.lzma,UNKNOWN,5.013401485979557,,,exitcode:1,,ortools_EFPA-6-4-4-13_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,EFPA-6-4-4-14_c25.xml.lzma,UNKNOWN,5.424497500061989,,,exitcode:1,,ortools_EFPA-6-4-4-14_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,GracefulGraph-03-08_c25.xml.lzma,UNKNOWN,1.869338728953153,,,exitcode:1,,ortools_GracefulGraph-03-08_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,GracefulGraph-03-08_c25.xml.lzma,SAT,17.93293442693539,,,,FEASIBLE,ortools_GracefulGraph-03-08_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,GracefulGraph-03-10_c25.xml.lzma,UNKNOWN,2.4799137220252305,,,exitcode:1,,ortools_GracefulGraph-03-10_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,GracefulGraph-04-05_c25.xml.lzma,UNKNOWN,2.024117595050484,,,exitcode:1,,ortools_GracefulGraph-04-05_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,GracefulGraph-04-06_c25.xml.lzma,UNKNOWN,2.0527263609692454,,,exitcode:1,,ortools_GracefulGraph-04-06_c25.xml.txt.metadata.json
