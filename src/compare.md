@@ -1,6 +1,7 @@
 # Compare Sessions
 
 ```js
+import * as Plot from "npm:@observablehq/plot";
 const sessions = await FileAttachment("data/sessions.csv").csv({typed: true});
 const results = await FileAttachment("data/results.csv").csv({typed: true});
 ```

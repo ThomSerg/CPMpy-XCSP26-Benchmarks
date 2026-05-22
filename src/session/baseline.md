@@ -1,6 +1,7 @@
 # baseline
 
 ```js
+import * as Plot from "npm:@observablehq/plot";
 const results = await FileAttachment("../data/results.csv").csv({typed: true});
 const summary = await FileAttachment("../data/solver_summary.csv").csv({typed: true});
 const curves = await FileAttachment("../data/curves.json").json();

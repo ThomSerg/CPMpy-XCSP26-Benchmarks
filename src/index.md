@@ -1,6 +1,7 @@
 # Benchmark Explorer
 
 ```js
+import * as Plot from "npm:@observablehq/plot";
 const sessions = await FileAttachment("data/sessions.csv").csv({typed: true});
 const tracks = await FileAttachment("data/tracks.csv").csv({typed: true});
 const summary = await FileAttachment("data/solver_summary.csv").csv({typed: true});

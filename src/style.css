@@ -1,3 +1,6 @@
+@import url("observablehq:default.css");
+@import url("observablehq:theme-air.css");
+
 :root {
   --brand: #255c99;
   --ink: #17212b;
