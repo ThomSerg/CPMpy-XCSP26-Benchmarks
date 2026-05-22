@@ -1,6 +1,6 @@
 # Benchmark Gist
 
-Interactive site: https://ThomSerg.github.io/bench-gist-results/
+Interactive site: https://ThomSerg.github.io/CPMpy-XCSP26-Benchmarks/
 
 ## Experiments
 
