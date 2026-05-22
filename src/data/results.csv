@@ -945,7 +945,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-5-0140_c25.xml.lz
 baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-5-0160_c25.xml.lzma,UNKNOWN,599.0999042771291,,true,,UNKNOWN,ortools_RamseyPartition-equ-5-0160_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-5-0180_c25.xml.lzma,UNKNOWN,598.4178005990107,,true,,UNKNOWN,ortools_RamseyPartition-equ-5-0180_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-5-0200_c25.xml.lzma,UNKNOWN,600.4454196768347,,true,,UNKNOWN,ortools_RamseyPartition-equ-5-0200_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-5-0400_c25.xml.lzma,UNKNOWN,600.2181806471199,,,,UNKNOWN,ortools_RamseyPartition-equ-5-0400_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-5-0400_c25.xml.lzma,UNKNOWN,601.1706496339757,,true,walltime,UNKNOWN,ortools_RamseyPartition-equ-5-0400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Rostering-00-14-20_c25.xml.lzma,SAT,213.3024647650309,,true,,FEASIBLE,ortools_Rostering-00-14-20_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Rostering-00-14-25_c25.xml.lzma,SAT,204.05747328698635,,true,,FEASIBLE,ortools_Rostering-00-14-25_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Rostering-00-14-30_c25.xml.lzma,UNKNOWN,598.6333192680031,,,,UNKNOWN,ortools_Rostering-00-14-30_c25.xml.txt.metadata.json
