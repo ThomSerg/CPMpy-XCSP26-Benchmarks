@@ -1,5 +1,6 @@
 session_slug,session_name,track,solver,instance,status,seconds,objective,checker_valid,termination_reason,exit_status,metadata_file
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,SAT,10.161222914932296,7.0,true,,OPTIMAL,gurobi_AlteredStates-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-bis-02_c25.xml.lzma,SAT,254.15756769990548,29145505.0,true,,OPTIMAL,gurobi_AlteredStates-bis-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-kansas-02_c25.xml.lzma,SAT,5.821556513896212,96.0,true,,OPTIMAL,gurobi_BlockModeling-kansas-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-karate-02_c25.xml.lzma,SAT,11.335042374907061,77.0,true,,OPTIMAL,gurobi_BlockModeling-karate-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-karate-03_c25.xml.lzma,SAT,68.86168468906544,58.0,true,,OPTIMAL,gurobi_BlockModeling-karate-03_c25.xml.txt.metadata.json
@@ -8,6 +9,7 @@ baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-politicalactor-03_c25.xm
 baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-politicalactor-10_c25.xml.lzma,SAT,54.875369518995285,9.0,true,,OPTIMAL,gurobi_BlockModeling-politicalactor-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,2.867321284953505,33.0,true,,OPTIMAL,gurobi_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-03_c25.xml.lzma,SAT,9.900472790002823,29.0,true,,OPTIMAL,gurobi_BlockModeling-transatlantic-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-05_c25.xml.lzma,SAT,152.70636446913704,22.0,true,,OPTIMAL,gurobi_BlockModeling-transatlantic-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-10_c25.xml.lzma,SAT,22.85540404706262,6.0,true,,OPTIMAL,gurobi_BlockModeling-transatlantic-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BusScheduling-c1_c25.xml.lzma,SAT,3.6606319858692586,26.0,true,,OPTIMAL,gurobi_BusScheduling-c1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BusScheduling-c1a_c25.xml.lzma,SAT,3.1208358800504357,26.0,true,,OPTIMAL,gurobi_BusScheduling-c1a_c25.xml.txt.metadata.json

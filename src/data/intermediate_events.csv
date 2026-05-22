@@ -1,5 +1,10 @@
 session_slug,track,solver,instance,event_index,elapsed,objective
 baseline,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,0,6.005340814590454,6.0
+baseline,XCSP3-2025-COP25,gurobi,AlteredStates-bis-02_c25.xml.lzma,0,4.7901201248168945,0.0
+baseline,XCSP3-2025-COP25,gurobi,AlteredStates-bis-02_c25.xml.lzma,1,6.368551254272461,3271616.0
+baseline,XCSP3-2025-COP25,gurobi,AlteredStates-bis-02_c25.xml.lzma,2,14.669284105300903,14989817.0
+baseline,XCSP3-2025-COP25,gurobi,AlteredStates-bis-02_c25.xml.lzma,3,112.29186630249023,15071064.0
+baseline,XCSP3-2025-COP25,gurobi,AlteredStates-bis-02_c25.xml.lzma,4,142.78680229187012,29145505.0
 baseline,XCSP3-2025-COP25,gurobi,BlockModeling-kansas-02_c25.xml.lzma,0,0.9019196033477783,148.0
 baseline,XCSP3-2025-COP25,gurobi,BlockModeling-kansas-02_c25.xml.lzma,1,0.9330770969390869,105.0
 baseline,XCSP3-2025-COP25,gurobi,BlockModeling-kansas-02_c25.xml.lzma,2,1.0428497791290283,104.0
@@ -32,6 +37,12 @@ baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-03_c25.xml.lzma,0,1
 baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-03_c25.xml.lzma,1,1.0584344863891602,33.0
 baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-03_c25.xml.lzma,2,1.0650913715362549,30.0
 baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-03_c25.xml.lzma,3,5.936482667922974,29.0
+baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-05_c25.xml.lzma,0,2.7461459636688232,30.0
+baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-05_c25.xml.lzma,1,2.7987873554229736,28.0
+baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-05_c25.xml.lzma,2,2.8497238159179688,27.0
+baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-05_c25.xml.lzma,3,3.696235179901123,26.0
+baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-05_c25.xml.lzma,4,4.786279916763306,23.0
+baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-05_c25.xml.lzma,5,29.620481967926025,22.0
 baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-10_c25.xml.lzma,0,8.21963882446289,35.0
 baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-10_c25.xml.lzma,1,8.365806579589844,10.0
 baseline,XCSP3-2025-COP25,gurobi,BlockModeling-transatlantic-10_c25.xml.lzma,2,8.983324766159058,7.0
