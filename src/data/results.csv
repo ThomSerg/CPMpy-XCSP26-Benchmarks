@@ -120,6 +120,11 @@ baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-ex1_c25.xml.lzma,SAT,12.879553
 baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-test01-0150_c25.xml.lzma,UNKNOWN,409.37382110208273,,,memory,,exact_FAPP-aux-test01-0150_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,FAPP-aux-test03-0400_c25.xml.lzma,UNKNOWN,421.50668611517176,,,memory,,exact_FAPP-aux-test03-0400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,Fortress1-03_c25.xml.lzma,SAT,15.525376447942108,459518.0,true,,OPTIMAL,exact_Fortress1-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,Fortress1-04_c25.xml.lzma,SAT,315.83463600696996,649400.0,true,,OPTIMAL,exact_Fortress1-04_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i01_c25.xml.lzma,UNSAT,9.78324779192917,,true,,UNSATISFIABLE,exact_IHTC-i01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i02_c25.xml.lzma,UNSAT,13.581763067981228,,true,,UNSATISFIABLE,exact_IHTC-i02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i03_c25.xml.lzma,UNSAT,14.645193014992401,,true,,UNSATISFIABLE,exact_IHTC-i03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,IHTC-i04_c25.xml.lzma,UNSAT,30.818437512032688,,true,,UNSATISFIABLE,exact_IHTC-i04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,SAT,10.161222914932296,7.0,true,,OPTIMAL,gurobi_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,SAT,599.4557874382008,14.0,true,,FEASIBLE,gurobi_AlteredStates-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-04_c25.xml.lzma,SAT,600.5493112378754,22.0,true,,FEASIBLE,gurobi_AlteredStates-04_c25.xml.txt.metadata.json
