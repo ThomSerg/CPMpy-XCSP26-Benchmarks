@@ -68,3 +68,7 @@ baseline,XCSP3-2025-COP25,ortools,BusScheduling-r4_c25.xml.lzma,5,5.112832784652
 baseline,XCSP3-2025-COP25,ortools,BusScheduling-r5a_c25.xml.lzma,0,13.1210618019104,28.0
 baseline,XCSP3-2025-COP25,ortools,BusScheduling-t1_c25.xml.lzma,0,0.05925750732421875,8.0
 baseline,XCSP3-2025-COP25,ortools,BusScheduling-t1_c25.xml.lzma,1,0.059990644454956055,7.0
+baseline,XCSP3-2025-COP25,ortools,BusScheduling-t2_c25.xml.lzma,0,1.8043367862701416,22.0
+baseline,XCSP3-2025-COP25,ortools,BusScheduling-t2_c25.xml.lzma,1,1.8517038822174072,21.0
+baseline,XCSP3-2025-COP25,ortools,BusScheduling-t2_c25.xml.lzma,2,4.985823392868042,20.0
+baseline,XCSP3-2025-COP25,ortools,BusScheduling-t2_c25.xml.lzma,3,5.406319618225098,19.0
