@@ -911,7 +911,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0007_c25.xml.l
 baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,3.7868636958301067,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,26.038597594946623,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0067_c25.xml.lzma,SAT,74.48914136085659,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0067_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,367.280995025998,,,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,250.12724053207785,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,454.29112394014373,,,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0207_c25.xml.lzma,UNKNOWN,584.6438257680275,,,,UNKNOWN,ortools_LotteryDesign-32-6-6-2-0207_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,173.41455891891383,,,memory,,ortools_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
