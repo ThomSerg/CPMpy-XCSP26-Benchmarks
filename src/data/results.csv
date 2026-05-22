@@ -7,6 +7,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-02_c25.x
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-03_c25.xml.lzma,SAT,224.30695971800014,36.0,true,,OPTIMAL,ortools_BlockModeling-politicalactor-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,3.041356894886121,33.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-03_c25.xml.lzma,SAT,112.61018664902076,29.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-10_c25.xml.lzma,SAT,290.4018956439104,6.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1_c25.xml.lzma,SAT,8.547314294148237,26.0,true,,OPTIMAL,ortools_BusScheduling-c1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1a_c25.xml.lzma,SAT,10.766521393088624,26.0,true,,OPTIMAL,ortools_BusScheduling-c1a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c2_c25.xml.lzma,SAT,13.056676468113437,29.0,true,,OPTIMAL,ortools_BusScheduling-c2_c25.xml.txt.metadata.json
