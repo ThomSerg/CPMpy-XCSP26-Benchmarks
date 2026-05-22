@@ -7,6 +7,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-02_c25.xm
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1_c25.xml.lzma,SAT,8.547314294148237,26.0,true,,OPTIMAL,ortools_BusScheduling-c1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1a_c25.xml.lzma,SAT,10.766521393088624,26.0,true,,OPTIMAL,ortools_BusScheduling-c1a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c2_c25.xml.lzma,SAT,13.056676468113437,29.0,true,,OPTIMAL,ortools_BusScheduling-c2_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r1_c25.xml.lzma,SAT,8.059704646002501,11.0,true,,OPTIMAL,ortools_BusScheduling-r1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
