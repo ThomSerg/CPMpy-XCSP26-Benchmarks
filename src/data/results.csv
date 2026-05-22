@@ -2146,10 +2146,14 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-easy-50_c25
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,601.4025652329437,,,walltime,,gurobi_Heterosquare-easy-60_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-05_c25.xml.lzma,SAT,3.4302615728229284,,,,FEASIBLE,gurobi_Heterosquare-fair-05_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-10_c25.xml.lzma,SAT,62.68313939101063,,,,FEASIBLE,gurobi_Heterosquare-fair-10_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-15_c25.xml.lzma,UNKNOWN,599.226547652157,,true,,UNKNOWN,gurobi_Heterosquare-fair-15_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-20_c25.xml.lzma,UNKNOWN,600.1208253989462,,true,,UNKNOWN,gurobi_Heterosquare-fair-20_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-hard-05_c25.xml.lzma,UNSAT,2.0283068758435547,,true,,UNSATISFIABLE,gurobi_Heterosquare-hard-05_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-hard-10_c25.xml.lzma,UNSAT,4.894398003816605,,true,,UNSATISFIABLE,gurobi_Heterosquare-hard-10_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-hard-15_c25.xml.lzma,UNSAT,40.291806446854025,,true,,UNSATISFIABLE,gurobi_Heterosquare-hard-15_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-hard-20_c25.xml.lzma,UNSAT,185.31378387613222,,true,,UNSATISFIABLE,gurobi_Heterosquare-hard-20_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LangfordBin-010_c25.xml.lzma,UNKNOWN,598.820021054009,,true,,UNKNOWN,gurobi_LangfordBin-010_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LangfordBin-013_c25.xml.lzma,UNKNOWN,598.8640203371178,,true,,UNKNOWN,gurobi_LangfordBin-013_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LangfordBin-016_c25.xml.lzma,SAT,141.31608079210855,,,,FEASIBLE,gurobi_LangfordBin-016_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,2.5109800710342824,,,,FEASIBLE,gurobi_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,3.743517416063696,,,,FEASIBLE,gurobi_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
