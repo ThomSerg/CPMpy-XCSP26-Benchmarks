@@ -1,7 +1,16 @@
 session_slug,session_name,track,solver,instance,status,seconds,objective,checker_valid,termination_reason,exit_status,metadata_file
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,SAT,10.161222914932296,7.0,true,,OPTIMAL,gurobi_AlteredStates-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-06_c25.xml.lzma,UNKNOWN,438.13151293294504,,,memory,,gurobi_AlteredStates-06_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-10_c25.xml.lzma,UNKNOWN,447.90258395508863,,,memory,,gurobi_AlteredStates-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-12_c25.xml.lzma,UNKNOWN,424.82906189817004,,,memory,,gurobi_AlteredStates-12_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-15_c25.xml.lzma,UNKNOWN,397.6299235969782,,,memory,,gurobi_AlteredStates-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-bis-02_c25.xml.lzma,SAT,254.15756769990548,29145505.0,true,,OPTIMAL,gurobi_AlteredStates-bis-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-bis-06_c25.xml.lzma,UNKNOWN,421.3460029109847,,,memory,,gurobi_AlteredStates-bis-06_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-bis-10_c25.xml.lzma,UNKNOWN,457.1921865930781,,,memory,,gurobi_AlteredStates-bis-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-bis-12_c25.xml.lzma,UNKNOWN,425.46366983512416,,,memory,,gurobi_AlteredStates-bis-12_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-bis-15_c25.xml.lzma,UNKNOWN,391.15268486202694,,,memory,,gurobi_AlteredStates-bis-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-kansas-02_c25.xml.lzma,SAT,5.821556513896212,96.0,true,,OPTIMAL,gurobi_BlockModeling-kansas-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-kansas-03_c25.xml.lzma,SAT,451.0619866109919,83.0,true,,OPTIMAL,gurobi_BlockModeling-kansas-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-karate-02_c25.xml.lzma,SAT,11.335042374907061,77.0,true,,OPTIMAL,gurobi_BlockModeling-karate-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-karate-03_c25.xml.lzma,SAT,68.86168468906544,58.0,true,,OPTIMAL,gurobi_BlockModeling-karate-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BlockModeling-politicalactor-02_c25.xml.lzma,SAT,3.2388920029625297,44.0,true,,OPTIMAL,gurobi_BlockModeling-politicalactor-02_c25.xml.txt.metadata.json
@@ -23,6 +32,9 @@ baseline,baseline,XCSP3-2025-COP25,gurobi,BusScheduling-r5_c25.xml.lzma,SAT,4.65
 baseline,baseline,XCSP3-2025-COP25,gurobi,BusScheduling-r5a_c25.xml.lzma,SAT,5.461479912977666,28.0,true,,OPTIMAL,gurobi_BusScheduling-r5a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BusScheduling-t1_c25.xml.lzma,SAT,1.5579519330058247,7.0,true,,OPTIMAL,gurobi_BusScheduling-t1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,BusScheduling-t2_c25.xml.lzma,SAT,2.3178801690228283,19.0,true,,OPTIMAL,gurobi_BusScheduling-t2_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,ChampionsLeague-2024-09_c25.xml.lzma,SAT,2.978176689008251,24.0,true,,OPTIMAL,gurobi_ChampionsLeague-2024-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,ChampionsLeague-2024-35_c25.xml.lzma,SAT,3.406231452943757,12.0,true,,OPTIMAL,gurobi_ChampionsLeague-2024-35_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,ChampionsLeague-strict-2024-09_c25.xml.lzma,SAT,3.192558268085122,22.0,true,,OPTIMAL,gurobi_ChampionsLeague-strict-2024-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.6558268680237234,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.6033942981157,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.4345904369839,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
