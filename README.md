@@ -77,16 +77,9 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate ol
 
 ---
 
-## Submission 2025 _(running)_
+## Submission 2025
 
 _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_numerical location` · Created: 2026-05-22 12:57:37 · Last run: 2026-05-22 15:36:51_
-
-### Live Progress
-
-| Solver | Track | Status | Progress | Started | Elapsed |
-|--------|-------|--------|----------|---------|---------|
-| `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 200/200 | 2026-05-22 15:42:28 | 27m 47s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -103,11 +96,11 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 72 | 21 | 1 | 106 | 200 |
-| `exact` | 20 | 3 | 33 | 144 | 200 |
+| `exact` | 20 | 3 | 37 | 140 | 200 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `ortools` | 79 | 0 | 121 | 200 |
-| `exact` | 23 | 0 | 177 | 200 |
+| `exact` | 29 | 0 | 171 | 200 |
