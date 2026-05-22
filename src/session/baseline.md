@@ -12,12 +12,28 @@ const tracks = Array.from(new Set(sessionResults.map(d => d.track))).sort();
 ```
 
 ```js
-const track = view(Inputs.select(tracks, {label: "Track"}));
-const solvers = Array.from(new Set(sessionResults.filter(d => d.track === track).map(d => d.solver))).sort();
+const selectedTrack = view(Inputs.select(tracks, {label: "Track"}));
+```
+
+```js
+const activeTrack = tracks.includes(selectedTrack) ? selectedTrack : tracks[0];
+const trackResults = activeTrack
+  ? sessionResults.filter(d => d.track === activeTrack)
+  : sessionResults;
+const trackSummary = activeTrack
+  ? sessionSummary.filter(d => d.track === activeTrack)
+  : sessionSummary;
+const solvers = Array.from(new Set(trackResults.map(d => d.solver))).sort();
+```
+
+```js
 const selectedSolverInput = view(Inputs.checkbox(solvers, {
   label: "Solvers",
   value: solvers
 }));
+```
+
+```js
 const selectedSolverValues =
   Array.isArray(selectedSolverInput) ? selectedSolverInput
   : selectedSolverInput instanceof Set ? Array.from(selectedSolverInput)
@@ -30,7 +46,7 @@ const visibleSolvers = activeSolvers.length ? activeSolvers : solvers;
 ```
 
 ```js
-const trackCurves = curves.sessions?.[sessionSlug]?.tracks?.[track]?.completion?.series ?? [];
+const trackCurves = curves.sessions?.[sessionSlug]?.tracks?.[activeTrack]?.completion?.series ?? [];
 const curveRows = trackCurves
   .filter(s => visibleSolvers.includes(s.solver))
   .flatMap(s => s.x.map((x, i) => ({solver: s.solver, seconds: x, solved: s.y[i]})));
@@ -49,8 +65,8 @@ display(Plot.plot({
 ## Ranking
 
 ```js
-const ranking = sessionSummary
-  .filter(d => d.track === track && visibleSolvers.includes(d.solver))
+const ranking = trackSummary
+  .filter(d => visibleSolvers.includes(d.solver))
   .map(d => ({...d, solved: d.sat + d.unsat}))
   .sort((a, b) => b.solved - a.solved || a.solver.localeCompare(b.solver));
 display(Inputs.table(ranking, {
@@ -61,8 +77,8 @@ display(Inputs.table(ranking, {
 ## Results
 
 ```js
-display(Inputs.table(sessionResults
-  .filter(d => d.track === track && visibleSolvers.includes(d.solver)), {
+display(Inputs.table(trackResults
+  .filter(d => visibleSolvers.includes(d.solver)), {
   columns: ["solver", "instance", "status", "seconds", "objective", "checker_valid", "termination_reason"]
 }));
 ```
