@@ -63,7 +63,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 200/200 | 2026-05-22 13:19:24 | 18m 43s |
+| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 200/200 | 2026-05-22 13:19:24 | 20m 51s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -79,10 +79,10 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
-| `ortools` | 70 | 21 | 0 | 109 | 200 |
+| `ortools` | 70 | 21 | 1 | 108 | 200 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `ortools` | 49 | 0 | 151 | 200 |
+| `ortools` | 56 | 0 | 144 | 200 |
