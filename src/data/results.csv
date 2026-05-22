@@ -2170,6 +2170,7 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0067_c25.xml.lzma,SAT,19.75826459005475,,,,FEASIBLE,gurobi_LotteryDesign-32-6-6-2-0067_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,36.46134137711488,,,,FEASIBLE,gurobi_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,47.852990017971024,,,,FEASIBLE,gurobi_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0207_c25.xml.lzma,UNKNOWN,601.2626066498924,,true,walltime,UNKNOWN,gurobi_LotteryDesign-32-6-6-2-0207_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,601.308362893993,,,walltime,,gurobi_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,551.1569219410885,,,memory,,gurobi_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,601.3732922568452,,,walltime,,gurobi_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
@@ -2187,7 +2188,17 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,PegSolitaireTable-englis
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,PegSolitaireTable-english-2-4-0_c25.xml.lzma,UNKNOWN,2.575428450014442,,,exitcode:1,,gurobi_PegSolitaireTable-english-2-4-0_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,PegSolitaireTable-english-2-6-0_c25.xml.lzma,UNKNOWN,2.190210728906095,,,exitcode:1,,gurobi_PegSolitaireTable-english-2-6-0_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,PegSolitaireTable-english-3-3-0_c25.xml.lzma,UNKNOWN,1.808385708834976,,,exitcode:1,,gurobi_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-3-0300_c25.xml.lzma,UNKNOWN,599.9747856468894,,true,,UNKNOWN,gurobi_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-3-0600_c25.xml.lzma,UNKNOWN,601.1489429969806,,true,walltime,UNKNOWN,gurobi_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-3-1200_c25.xml.lzma,UNKNOWN,601.4594123270363,,,walltime,,gurobi_RamseyPartition-equ-3-1200_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-4-0060_c25.xml.lzma,UNKNOWN,598.9088367079385,,true,,UNKNOWN,gurobi_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,311.75530873797834,,true,,UNSATISFIABLE,gurobi_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-4-0064_c25.xml.lzma,UNKNOWN,598.7647686048876,,true,,UNKNOWN,gurobi_RamseyPartition-equ-4-0064_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-4-0080_c25.xml.lzma,UNKNOWN,598.8621705160476,,true,,UNKNOWN,gurobi_RamseyPartition-equ-4-0080_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-4-0100_c25.xml.lzma,UNKNOWN,598.895871757064,,true,,UNKNOWN,gurobi_RamseyPartition-equ-4-0100_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-4-0400_c25.xml.lzma,UNKNOWN,601.101371553028,,true,walltime,UNKNOWN,gurobi_RamseyPartition-equ-4-0400_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-5-0130_c25.xml.lzma,UNKNOWN,599.0422294649761,,true,,UNKNOWN,gurobi_RamseyPartition-equ-5-0130_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-5-0140_c25.xml.lzma,UNKNOWN,599.0875497630332,,true,,UNKNOWN,gurobi_RamseyPartition-equ-5-0140_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Rostering-00-14-20_c25.xml.lzma,UNKNOWN,2.5703702978789806,,,exitcode:1,,gurobi_Rostering-00-14-20_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Rostering-00-14-25_c25.xml.lzma,UNKNOWN,2.0344751479569823,,,exitcode:1,,gurobi_Rostering-00-14-25_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Rostering-00-14-30_c25.xml.lzma,UNKNOWN,2.0545561260078102,,,exitcode:1,,gurobi_Rostering-00-14-30_c25.xml.txt.metadata.json
