@@ -923,7 +923,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-0-2-0_c25.x
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-0-3-0_c25.xml.lzma,UNKNOWN,597.1204358499963,,true,,UNKNOWN,ortools_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-0-4-0_c25.xml.lzma,UNKNOWN,598.6047669700347,,true,,UNKNOWN,ortools_PegSolitaireTable-english-0-4-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-2-0_c25.xml.lzma,UNKNOWN,599.1135854669847,,true,,UNKNOWN,ortools_PegSolitaireTable-english-1-2-0_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-3-0_c25.xml.lzma,UNKNOWN,598.6475466638803,,,,UNKNOWN,ortools_PegSolitaireTable-english-1-3-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-3-0_c25.xml.lzma,UNKNOWN,596.634564609034,,true,,UNKNOWN,ortools_PegSolitaireTable-english-1-3-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-4-0_c25.xml.lzma,SAT,28.497831703163683,,true,,FEASIBLE,ortools_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-0-0_c25.xml.lzma,UNKNOWN,597.2525638819207,,,,UNKNOWN,ortools_PegSolitaireTable-english-2-0-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-2-0_c25.xml.lzma,SAT,30.693290502997115,,true,,FEASIBLE,ortools_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
@@ -969,9 +969,9 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-036-2-3_c25.xml.lzm
 baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-036-2-4_c25.xml.lzma,UNKNOWN,1.9556491021066904,,,exitcode:1,,ortools_RotatingRostering-036-2-4_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-044-2-3_c25.xml.lzma,UNKNOWN,2.1880657779984176,,,exitcode:1,,ortools_RotatingRostering-044-2-3_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-044-2-4_c25.xml.lzma,UNKNOWN,2.229652608046308,,,exitcode:1,,ortools_RotatingRostering-044-2-4_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-052-2-3_c25.xml.lzma,UNKNOWN,2.6750602850224823,,,exitcode:1,,ortools_RotatingRostering-052-2-3_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-052-2-3_c25.xml.lzma,UNKNOWN,2.135530665051192,,,exitcode:1,,ortools_RotatingRostering-052-2-3_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-052-2-4_c25.xml.lzma,UNKNOWN,2.7710982258431613,,,exitcode:1,,ortools_RotatingRostering-052-2-4_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-064-2-4-c25.xml.lzma,UNKNOWN,2.999571491032839,,,exitcode:1,,ortools_RotatingRostering-064-2-4-c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-064-2-4-c25.xml.lzma,UNKNOWN,2.113324011908844,,,exitcode:1,,ortools_RotatingRostering-064-2-4-c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-088-2-4-c25.xml.lzma,UNKNOWN,2.4118132449220866,,,exitcode:1,,ortools_RotatingRostering-088-2-4-c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.3115702581126243,,,exitcode:1,,ortools_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.6136840120889246,,,exitcode:1,,ortools_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
