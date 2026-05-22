@@ -7,7 +7,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
 | 1 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 15:30:41 | 450/1857 |
-| 2 | **Submission 2025** 🔄 | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 21:52:35 | 174/1187 |
+| 2 | **Submission 2025** 🔄 | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:13:27 | 175/1214 |
 
 ---
 
@@ -79,7 +79,7 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate ol
 
 ## Submission 2025 _(running)_
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_numerical location` · Created: 2026-05-22 12:57:37 · Last run: 2026-05-22 21:52:35_
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_numerical location` · Created: 2026-05-22 12:57:37 · Last run: 2026-05-22 22:13:27_
 
 ### Live Progress
 
@@ -87,11 +87,11 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 187/200 | 2026-05-22 21:52:42 | 19m 08s |
+| `cpo` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-22 21:52:42 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
+| `z3` | XCSP3-2025-CSP25 | 🔄 running | 14/200 | 2026-05-22 22:13:33 | 0m 22s |
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-22 21:50:38 | — |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-22 21:48:36 | — |
-| `z3` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -109,8 +109,9 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 72 | 21 | 1 | 106 | 200 |
 | `gurobi` | 20 | 12 | 15 | 153 | 200 |
-| `cpo` | 21 | 5 | 0 | 161 | 187 |
+| `cpo` | 21 | 5 | 1 | 173 | 200 |
 | `exact` | 20 | 3 | 38 | 139 | 200 |
+| `z3` | 1 | 0 | 0 | 13 | 14 |
 | `pumpkin` | 0 | 0 | 0 | 200 | 200 |
 | `scip` | 0 | 0 | 0 | 200 | 200 |
 
@@ -120,7 +121,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 |--------|-------|---------|---------|-------|
 | `ortools` | 79 | 0 | 121 | 200 |
 | `gurobi` | 81 | 0 | 119 | 200 |
-| `cpo` | 34 | 0 | 153 | 187 |
+| `cpo` | 47 | 0 | 153 | 200 |
 | `exact` | 30 | 0 | 170 | 200 |
+| `z3` | 1 | 0 | 13 | 14 |
 | `pumpkin` | 0 | 0 | 200 | 200 |
 | `scip` | 0 | 0 | 200 | 200 |
