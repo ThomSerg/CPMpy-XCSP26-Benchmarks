@@ -977,7 +977,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-124-2-4-c25.xml.lzm
 baseline,baseline,XCSP3-2025-CSP25,ortools,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,2.5697350420523435,,,exitcode:1,,ortools_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,SEDF-19-1-C19-3-3-1_c25.xml.lzma,SAT,21.9080001139082,,true,,FEASIBLE,ortools_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNSAT,262.3837475539185,,true,,UNSATISFIABLE,ortools_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNSAT,391.37215234385803,,,,UNSATISFIABLE,ortools_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNSAT,274.44599412800744,,true,,UNSATISFIABLE,ortools_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,598.3230541569646,,,,UNKNOWN,ortools_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,SEDF-25-2-C5xC5-7-2-1_c25.xml.lzma,UNKNOWN,599.1714913919568,,,,UNKNOWN,ortools_SEDF-25-2-C5xC5-7-2-1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,SEDF-28-1-C7C4-4-3-1_c25.xml.lzma,UNKNOWN,598.1374922799878,,,,UNKNOWN,ortools_SEDF-28-1-C7C4-4-3-1_c25.xml.txt.metadata.json
