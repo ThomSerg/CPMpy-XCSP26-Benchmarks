@@ -1,7 +1,17 @@
 session_slug,session_name,track,solver,instance,status,seconds,objective,checker_valid,termination_reason,exit_status,metadata_file
 baseline,baseline,XCSP3-2025-COP25,exact,AlteredStates-02_c25.xml.lzma,SAT,50.636913201073185,7.0,true,,OPTIMAL,exact_AlteredStates-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,AlteredStates-10_c25.xml.lzma,UNKNOWN,435.75684376689605,,,memory,,exact_AlteredStates-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,AlteredStates-12_c25.xml.lzma,UNKNOWN,414.9961350399535,,,memory,,exact_AlteredStates-12_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,AlteredStates-15_c25.xml.lzma,UNKNOWN,380.6891211641487,,,memory,,exact_AlteredStates-15_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,AlteredStates-bis-10_c25.xml.lzma,UNKNOWN,433.68903022492304,,,memory,,exact_AlteredStates-bis-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,AlteredStates-bis-12_c25.xml.lzma,UNKNOWN,415.13106761011295,,,memory,,exact_AlteredStates-bis-12_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,AlteredStates-bis-15_c25.xml.lzma,UNKNOWN,384.07381060696207,,,memory,,exact_AlteredStates-bis-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,BlockModeling-politicalactor-02_c25.xml.lzma,SAT,13.173528344137594,44.0,true,,OPTIMAL,exact_BlockModeling-politicalactor-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,6.996204769005999,33.0,true,,OPTIMAL,exact_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,BlockModeling-transatlantic-10_c25.xml.lzma,SAT,28.292639396851882,6.0,true,,OPTIMAL,exact_BlockModeling-transatlantic-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,BusScheduling-r1_c25.xml.lzma,SAT,2.053864564979449,11.0,true,,OPTIMAL,exact_BusScheduling-r1_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,BusScheduling-r1a_c25.xml.lzma,SAT,3.9099326888099313,11.0,true,,OPTIMAL,exact_BusScheduling-r1a_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,BusScheduling-r2_c25.xml.lzma,SAT,2.145512711023912,14.0,true,,OPTIMAL,exact_BusScheduling-r2_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,SAT,10.161222914932296,7.0,true,,OPTIMAL,gurobi_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,SAT,599.4557874382008,14.0,true,,FEASIBLE,gurobi_AlteredStates-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-04_c25.xml.lzma,SAT,600.5493112378754,22.0,true,,FEASIBLE,gurobi_AlteredStates-04_c25.xml.txt.metadata.json
