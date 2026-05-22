@@ -214,6 +214,9 @@ baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-06a-30_c25.xml.lzma,UNKNOW
 baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-06b-50_c25.xml.lzma,UNKNOWN,600.3175250589848,,true,,UNKNOWN,gurobi_RollerSplat-06b-50_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-06c-70_c25.xml.lzma,UNKNOWN,601.1770732710138,,true,walltime,UNKNOWN,gurobi_RollerSplat-06c-70_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-06d-90_c25.xml.lzma,UNKNOWN,601.2901100669987,,true,walltime,UNKNOWN,gurobi_RollerSplat-06d-90_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-07a-30_c25.xml.lzma,UNKNOWN,599.626403070055,,true,,UNKNOWN,gurobi_RollerSplat-07a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-07b-50_c25.xml.lzma,UNKNOWN,601.1481841860805,,true,walltime,UNKNOWN,gurobi_RollerSplat-07b-50_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-07c-70_c25.xml.lzma,UNKNOWN,601.1193257060368,,true,walltime,UNKNOWN,gurobi_RollerSplat-07c-70_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-04-01_c25.xml.lzma,SAT,8.755901386961341,1281.0,true,,OPTIMAL,gurobi_SchedulingOS-gp-04-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-04-05_c25.xml.lzma,SAT,8.989238252164796,1289.0,true,,OPTIMAL,gurobi_SchedulingOS-gp-04-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-05-01_c25.xml.lzma,SAT,48.51029136986472,1245.0,true,,OPTIMAL,gurobi_SchedulingOS-gp-05-01_c25.xml.txt.metadata.json
