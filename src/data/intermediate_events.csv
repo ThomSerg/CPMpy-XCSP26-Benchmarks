@@ -289,6 +289,11 @@ baseline,XCSP3-2025-COP25,gurobi,FAPP-aux-ex1_c25.xml.lzma,7,36.048479318618774,
 baseline,XCSP3-2025-COP25,gurobi,FAPP-aux-ex1_c25.xml.lzma,8,36.352041244506836,564.0
 baseline,XCSP3-2025-COP25,gurobi,FAPP-aux-ex1_c25.xml.lzma,9,36.532084226608276,524.0
 baseline,XCSP3-2025-COP25,gurobi,FAPP-aux-ex1_c25.xml.lzma,10,37.26801300048828,523.0
+baseline,XCSP3-2025-COP25,gurobi,Fortress1-06_c25.xml.lzma,0,4.230217218399048,1059124.0
+baseline,XCSP3-2025-COP25,gurobi,Fortress1-09_c25.xml.lzma,0,5.982468605041504,1718929.0
+baseline,XCSP3-2025-COP25,gurobi,Fortress1-09_c25.xml.lzma,1,5.9831976890563965,1458951.0
+baseline,XCSP3-2025-COP25,gurobi,Fortress1-10_c25.xml.lzma,0,8.68541693687439,2548536.0
+baseline,XCSP3-2025-COP25,gurobi,Fortress1-10_c25.xml.lzma,1,8.686902284622192,1798536.0
 baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,0,1.601994514465332,0.0
 baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,1,1.6104848384857178,7.0
 baseline,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,0,13.791685819625854,0.0
