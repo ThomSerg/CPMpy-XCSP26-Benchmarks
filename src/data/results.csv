@@ -854,7 +854,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-4-11-128_c25.xml.lzma,U
 baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-4-12-128_c25.xml.lzma,SAT,69.69229536014609,,true,,FEASIBLE,ortools_Cryptanalysis-4-12-128_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-10-128_c25.xml.lzma,UNSAT,24.72866873908788,,true,,UNSATISFIABLE,ortools_Cryptanalysis-5-10-128_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-14-128_c25.xml.lzma,UNSAT,318.6667895379942,,,,UNSATISFIABLE,ortools_Cryptanalysis-5-14-128_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-15-128_c25.xml.lzma,SAT,211.69030552892946,,,,FEASIBLE,ortools_Cryptanalysis-5-15-128_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-15-128_c25.xml.lzma,SAT,145.65083387796767,,true,,FEASIBLE,ortools_Cryptanalysis-5-15-128_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-12-128_c25.xml.lzma,UNSAT,35.7641843969468,,true,,UNSATISFIABLE,ortools_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-16-128_c25.xml.lzma,UNSAT,515.2349556351546,,,,UNSATISFIABLE,ortools_Cryptanalysis-6-16-128_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-17-128_c25.xml.lzma,SAT,60.03497823700309,,true,,FEASIBLE,ortools_Cryptanalysis-6-17-128_c25.xml.txt.metadata.json
