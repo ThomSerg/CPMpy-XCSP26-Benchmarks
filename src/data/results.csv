@@ -855,10 +855,10 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-4-12-128_c25.xml.lzma,S
 baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-10-128_c25.xml.lzma,UNSAT,24.72866873908788,,true,,UNSATISFIABLE,ortools_Cryptanalysis-5-10-128_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-14-128_c25.xml.lzma,UNSAT,318.6667895379942,,,,UNSATISFIABLE,ortools_Cryptanalysis-5-14-128_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-15-128_c25.xml.lzma,SAT,211.69030552892946,,,,FEASIBLE,ortools_Cryptanalysis-5-15-128_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-12-128_c25.xml.lzma,UNSAT,54.135138381039724,,,,UNSATISFIABLE,ortools_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-12-128_c25.xml.lzma,UNSAT,35.7641843969468,,true,,UNSATISFIABLE,ortools_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-16-128_c25.xml.lzma,UNSAT,515.2349556351546,,,,UNSATISFIABLE,ortools_Cryptanalysis-6-16-128_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-17-128_c25.xml.lzma,SAT,69.48548490088433,,,,FEASIBLE,ortools_Cryptanalysis-6-17-128_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-3-7-7-06_c25.xml.lzma,SAT,5.787448094924912,,,,FEASIBLE,ortools_EFPA-3-7-7-06_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-3-7-7-06_c25.xml.lzma,SAT,3.90627429401502,,true,,FEASIBLE,ortools_EFPA-3-7-7-06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-3-7-7-07_c25.xml.lzma,UNSAT,104.82141802203842,,,,UNSATISFIABLE,ortools_EFPA-3-7-7-07_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-3-8-8-07_c25.xml.lzma,SAT,42.796421706909314,,,,FEASIBLE,ortools_EFPA-3-8-8-07_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-3-8-8-08_c25.xml.lzma,UNSAT,366.4411507130135,,,,UNSATISFIABLE,ortools_EFPA-3-8-8-08_c25.xml.txt.metadata.json
