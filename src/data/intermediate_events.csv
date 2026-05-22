@@ -1,6 +1,14 @@
 session_slug,track,solver,instance,event_index,elapsed,objective
 baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,0,1.601994514465332,0.0
 baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,1,1.6104848384857178,7.0
+baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,0,1.4547967910766602,0.0
+baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,1,1.8768596649169922,6785528.0
+baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,2,1.9105956554412842,8147887.0
+baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,3,2.001044988632202,9723408.0
+baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,4,2.0455803871154785,9975897.0
+baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,5,2.0528836250305176,18584976.0
+baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,6,2.0579817295074463,21775345.0
+baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,7,5.525695085525513,29145505.0
 baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-02_c25.xml.lzma,0,0.3403279781341553,56.0
 baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-02_c25.xml.lzma,1,0.4205818176269531,53.0
 baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-02_c25.xml.lzma,2,0.513676643371582,52.0
