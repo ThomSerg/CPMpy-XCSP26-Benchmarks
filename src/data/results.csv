@@ -54,6 +54,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-strict-2024-15_c25.xm
 baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-strict-2024-35_c25.xml.lzma,SAT,4.591874927980825,11.0,true,,OPTIMAL,ortools_ChampionsLeague-strict-2024-35_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-08_c25.xml.lzma,SAT,3.381480722920969,31.0,true,,OPTIMAL,ortools_Coprime-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-10_c25.xml.lzma,SAT,6.716065014945343,47.0,true,,OPTIMAL,ortools_Coprime-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-12_c25.xml.lzma,SAT,19.3848444360774,59.0,true,,OPTIMAL,ortools_Coprime-12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
