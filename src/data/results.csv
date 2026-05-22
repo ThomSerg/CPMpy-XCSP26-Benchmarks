@@ -221,6 +221,11 @@ baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-04-01_c25.xml.lzma,SAT
 baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-04-05_c25.xml.lzma,SAT,8.989238252164796,1289.0,true,,OPTIMAL,gurobi_SchedulingOS-gp-04-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-05-01_c25.xml.lzma,SAT,48.51029136986472,1245.0,true,,OPTIMAL,gurobi_SchedulingOS-gp-05-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-05-05_c25.xml.lzma,SAT,46.23419457417913,1280.0,true,,OPTIMAL,gurobi_SchedulingOS-gp-05-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-06-01_c25.xml.lzma,SAT,598.9554439450148,1264.0,true,,FEASIBLE,gurobi_SchedulingOS-gp-06-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-06-05_c25.xml.lzma,SAT,598.984519087011,1299.0,true,,FEASIBLE,gurobi_SchedulingOS-gp-06-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-07-01_c25.xml.lzma,SAT,599.0720485039055,1162.0,true,,FEASIBLE,gurobi_SchedulingOS-gp-07-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-07-05_c25.xml.lzma,SAT,599.0705851700623,1157.0,true,,FEASIBLE,gurobi_SchedulingOS-gp-07-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-08-01_c25.xml.lzma,SAT,599.1023878899869,1216.0,true,,FEASIBLE,gurobi_SchedulingOS-gp-08-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,TankAllocation1-0000_c25.xml.lzma,SAT,8.679297090973705,1619.0,true,,OPTIMAL,gurobi_TankAllocation1-0000_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,TankAllocation1-0400_c25.xml.lzma,SAT,5.118624747963622,1226.0,true,,OPTIMAL,gurobi_TankAllocation1-0400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,TankAllocation1-0800_c25.xml.lzma,SAT,18.619473859202117,5830.0,true,,OPTIMAL,gurobi_TankAllocation1-0800_c25.xml.txt.metadata.json
@@ -230,6 +235,8 @@ baseline,baseline,XCSP3-2025-COP25,gurobi,TankAllocation1-2000_c25.xml.lzma,SAT,
 baseline,baseline,XCSP3-2025-COP25,gurobi,TankAllocation1-2400_c25.xml.lzma,SAT,44.20827151299454,4304.0,true,,OPTIMAL,gurobi_TankAllocation1-2400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,TankAllocation1-2591_c25.xml.lzma,SAT,66.38598604709841,1902.0,true,,OPTIMAL,gurobi_TankAllocation1-2591_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,TankAllocation1-chemical_c25.xml.lzma,SAT,3.391313394997269,2296.0000145000195,false,,OPTIMAL,gurobi_TankAllocation1-chemical_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,TankAllocation2-0400_c25.xml.lzma,UNKNOWN,339.23098532599397,,,memory,,gurobi_TankAllocation2-0400_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,TankAllocation2-0800_c25.xml.lzma,UNKNOWN,316.7352376228664,,,memory,,gurobi_TankAllocation2-0800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.6558268680237234,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.6033942981157,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.4345904369839,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
