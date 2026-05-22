@@ -894,7 +894,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,Heterosquare-fair-20_c25.xml.lzma,UNK
 baseline,baseline,XCSP3-2025-CSP25,ortools,Heterosquare-hard-05_c25.xml.lzma,UNSAT,1.8904790850356221,,true,,UNSATISFIABLE,ortools_Heterosquare-hard-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Heterosquare-hard-10_c25.xml.lzma,UNSAT,4.629187267972156,,true,,UNSATISFIABLE,ortools_Heterosquare-hard-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Heterosquare-hard-15_c25.xml.lzma,UNKNOWN,594.8160225870088,,,,UNKNOWN,ortools_Heterosquare-hard-15_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,Heterosquare-hard-20_c25.xml.lzma,UNSAT,2.2454303631093353,,,,UNSATISFIABLE,ortools_Heterosquare-hard-20_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,Heterosquare-hard-20_c25.xml.lzma,UNSAT,1.7044045119546354,,true,,UNSATISFIABLE,ortools_Heterosquare-hard-20_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LangfordBin-010_c25.xml.lzma,UNSAT,2.2271653891075402,,,,UNSATISFIABLE,ortools_LangfordBin-010_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LangfordBin-013_c25.xml.lzma,UNSAT,2.2603126431349665,,,,UNSATISFIABLE,ortools_LangfordBin-013_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LangfordBin-014_c25.xml.lzma,UNSAT,3.2072574079502374,,,,UNSATISFIABLE,ortools_LangfordBin-014_c25.xml.txt.metadata.json
