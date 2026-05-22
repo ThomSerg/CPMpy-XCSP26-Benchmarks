@@ -864,7 +864,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-3-8-8-07_c25.xml.lzma,SAT,27.922
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-3-8-8-08_c25.xml.lzma,UNSAT,366.4411507130135,,,,UNSATISFIABLE,ortools_EFPA-3-8-8-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-4-4-5-10_c25.xml.lzma,SAT,148.4402544759214,,,,FEASIBLE,ortools_EFPA-4-4-5-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-4-4-5-11_c25.xml.lzma,UNKNOWN,598.1593195078894,,,,UNKNOWN,ortools_EFPA-4-4-5-11_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-4-5-4-10_c25.xml.lzma,SAT,46.593798907939345,,,,FEASIBLE,ortools_EFPA-4-5-4-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-4-5-4-10_c25.xml.lzma,SAT,29.83611100097187,,true,,FEASIBLE,ortools_EFPA-4-5-4-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-4-5-4-11_c25.xml.lzma,UNKNOWN,594.9416327518411,,,,UNKNOWN,ortools_EFPA-4-5-4-11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-5-4-4-08_c25.xml.lzma,SAT,87.04338116105646,,,,FEASIBLE,ortools_EFPA-5-4-4-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-5-4-4-09_c25.xml.lzma,UNKNOWN,596.2394490058068,,,,UNKNOWN,ortools_EFPA-5-4-4-09_c25.xml.txt.metadata.json
