@@ -4,13 +4,13 @@
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 09:46:48 | 339/1596 |
+| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 09:47:55 | 340/1596 |
 
 ---
 
 ## baseline _(running)_
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-22 09:46:48_
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-22 09:47:55_
 
 ### Live Progress
 
@@ -22,7 +22,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `z3` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 18:07:56 | — |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:54:47 | — |
 | `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 18:43:07 | — |
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 196/200 | 2026-05-22 09:28:32 | 18m 16s |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 196/200 | 2026-05-22 09:28:32 | 19m 24s |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:19:25 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
@@ -40,7 +40,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `z3` | 26 | 12 | 32 | 130 | 200 |
 | `pindakaas` | 23 | 12 | 38 | 127 | 200 |
 | `highs` | 20 | 10 | 71 | 99 | 200 |
-| `gurobi` | 18 | 6 | 5 | 167 | 196 |
+| `gurobi` | 19 | 6 | 5 | 166 | 196 |
 | `scip` | 15 | 8 | 71 | 106 | 200 |
 
 #### Solution Checker
@@ -53,5 +53,5 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `z3` | 0 | 0 | 200 | 200 |
 | `pindakaas` | 0 | 0 | 200 | 200 |
 | `highs` | 0 | 0 | 200 | 200 |
-| `gurobi` | 27 | 0 | 169 | 196 |
+| `gurobi` | 28 | 0 | 168 | 196 |
 | `scip` | 0 | 0 | 200 | 200 |
