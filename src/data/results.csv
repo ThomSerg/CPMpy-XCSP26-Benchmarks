@@ -207,6 +207,13 @@ baseline,baseline,XCSP3-2025-COP25,gurobi,RoadefPlaning2-2024-10_c25.xml.lzma,SA
 baseline,baseline,XCSP3-2025-COP25,gurobi,RoadefPlaning2-2024-11_c25.xml.lzma,SAT,335.32263938407414,4.0,true,,OPTIMAL,gurobi_RoadefPlaning2-2024-11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-04-20_c25.xml.lzma,SAT,18.856523039983585,10.0,true,,OPTIMAL,gurobi_RollerSplat-04-20_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-05a-30_c25.xml.lzma,SAT,15.064519270090386,10.0,true,,OPTIMAL,gurobi_RollerSplat-05a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-05b-50_c25.xml.lzma,UNKNOWN,599.5427211550996,,true,,UNKNOWN,gurobi_RollerSplat-05b-50_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-05c-70_c25.xml.lzma,UNKNOWN,601.0951727810316,,true,walltime,UNKNOWN,gurobi_RollerSplat-05c-70_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-05d-90_c25.xml.lzma,UNKNOWN,601.1984773729928,,true,walltime,UNKNOWN,gurobi_RollerSplat-05d-90_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-06a-30_c25.xml.lzma,UNKNOWN,599.382251102943,,true,,UNKNOWN,gurobi_RollerSplat-06a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-06b-50_c25.xml.lzma,UNKNOWN,600.3175250589848,,true,,UNKNOWN,gurobi_RollerSplat-06b-50_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-06c-70_c25.xml.lzma,UNKNOWN,601.1770732710138,,true,walltime,UNKNOWN,gurobi_RollerSplat-06c-70_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,RollerSplat-06d-90_c25.xml.lzma,UNKNOWN,601.2901100669987,,true,walltime,UNKNOWN,gurobi_RollerSplat-06d-90_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-04-01_c25.xml.lzma,SAT,8.755901386961341,1281.0,true,,OPTIMAL,gurobi_SchedulingOS-gp-04-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-04-05_c25.xml.lzma,SAT,8.989238252164796,1289.0,true,,OPTIMAL,gurobi_SchedulingOS-gp-04-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,SchedulingOS-gp-05-01_c25.xml.lzma,SAT,48.51029136986472,1245.0,true,,OPTIMAL,gurobi_SchedulingOS-gp-05-01_c25.xml.txt.metadata.json
