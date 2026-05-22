@@ -1988,8 +1988,8 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,PegSolitaireTable-english
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-2-4-0_c25.xml.lzma,UNKNOWN,2.2960507220122963,,,exitcode:1,,exact_PegSolitaireTable-english-2-4-0_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-2-6-0_c25.xml.lzma,UNKNOWN,2.200275438139215,,,exitcode:1,,exact_PegSolitaireTable-english-2-6-0_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-3-3-0_c25.xml.lzma,UNKNOWN,2.3203311068937182,,,exitcode:1,,exact_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,RamseyPartition-equ-3-0300_c25.xml.lzma,UNKNOWN,2.8204274871386588,,,exitcode:1,,exact_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,RamseyPartition-equ-3-0600_c25.xml.lzma,UNKNOWN,7.9492909458931535,,,exitcode:1,,exact_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,RamseyPartition-equ-3-0300_c25.xml.lzma,UNKNOWN,599.4224145999178,,true,,UNKNOWN,exact_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,RamseyPartition-equ-3-0600_c25.xml.lzma,UNKNOWN,601.1234511879738,,,walltime,,exact_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,RamseyPartition-equ-3-1200_c25.xml.lzma,UNKNOWN,21.648805306991562,,,exitcode:1,,exact_RamseyPartition-equ-3-1200_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,137.70235443487763,,,,FEASIBLE,exact_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,RamseyPartition-equ-4-0062_c25.xml.lzma,UNKNOWN,2.0371893560513854,,,exitcode:1,,exact_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
