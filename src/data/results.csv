@@ -1,10 +1,13 @@
 session_slug,session_name,track,solver,instance,status,seconds,objective,checker_valid,termination_reason,exit_status,metadata_file
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.6558268680237234,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.6033942981157,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.4345904369839,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-05_c25.xml.lzma,SAT,597.1074950848706,77.0,true,,FEASIBLE,ortools_AlteredStates-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-06_c25.xml.lzma,SAT,596.4571183731314,124.0,true,,FEASIBLE,ortools_AlteredStates-06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-08_c25.xml.lzma,SAT,592.5750317489728,178.0,true,,FEASIBLE,ortools_AlteredStates-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-10_c25.xml.lzma,SAT,593.145089982776,248.0,true,,FEASIBLE,ortools_AlteredStates-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-12_c25.xml.lzma,SAT,597.9656720960047,301.0,true,,FEASIBLE,ortools_AlteredStates-12_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-15_c25.xml.lzma,SAT,598.144084950909,376.0,true,,FEASIBLE,ortools_AlteredStates-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,SAT,20.3721024049446,29145505.0,true,,OPTIMAL,ortools_AlteredStates-bis-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-03_c25.xml.lzma,SAT,598.6981216699351,97140648.0,true,,FEASIBLE,ortools_AlteredStates-bis-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-04_c25.xml.lzma,SAT,596.5950836008415,142656977.0,true,,FEASIBLE,ortools_AlteredStates-bis-04_c25.xml.txt.metadata.json
@@ -12,6 +15,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-05_c25.xml.lzma,SAT
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-06_c25.xml.lzma,SAT,594.9237023219466,253814924.0,true,,FEASIBLE,ortools_AlteredStates-bis-06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-08_c25.xml.lzma,SAT,598.612725781044,283119093.0,true,,FEASIBLE,ortools_AlteredStates-bis-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-10_c25.xml.lzma,SAT,590.9127631629817,310271465.0,true,,FEASIBLE,ortools_AlteredStates-bis-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-12_c25.xml.lzma,SAT,598.6117020482197,317757036.0,true,,FEASIBLE,ortools_AlteredStates-bis-12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-15_c25.xml.lzma,SAT,547.0872701918706,330759736.0,true,,OPTIMAL,ortools_AlteredStates-bis-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-kansas-02_c25.xml.lzma,SAT,57.92399837402627,96.0,true,,OPTIMAL,ortools_BlockModeling-kansas-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-kansas-03_c25.xml.lzma,SAT,598.605690284865,83.0,true,,FEASIBLE,ortools_BlockModeling-kansas-03_c25.xml.txt.metadata.json
@@ -46,8 +50,10 @@ baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-01_c25.xml.lzma,SAT,6
 baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-02_c25.xml.lzma,SAT,55.00808495702222,9.0,true,,OPTIMAL,ortools_ButtonsScissors-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-2024-09_c25.xml.lzma,SAT,4.0018834040965885,24.0,true,,OPTIMAL,ortools_ChampionsLeague-2024-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-strict-2024-09_c25.xml.lzma,SAT,6.1639548018574715,22.0,true,,OPTIMAL,ortools_ChampionsLeague-strict-2024-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-strict-2024-15_c25.xml.lzma,SAT,18.34344230708666,20.0,true,,OPTIMAL,ortools_ChampionsLeague-strict-2024-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-strict-2024-35_c25.xml.lzma,SAT,4.591874927980825,11.0,true,,OPTIMAL,ortools_ChampionsLeague-strict-2024-35_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-08_c25.xml.lzma,SAT,3.381480722920969,31.0,true,,OPTIMAL,ortools_Coprime-08_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-10_c25.xml.lzma,SAT,6.716065014945343,47.0,true,,OPTIMAL,ortools_Coprime-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
