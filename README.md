@@ -4,13 +4,13 @@
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 10:34:03 | 362/1600 |
+| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 10:34:17 | 362/1600 |
 
 ---
 
 ## baseline _(running)_
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-22 10:34:03_
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-22 10:34:17_
 
 ### Live Progress
 
@@ -36,7 +36,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 73 | 24 | 2 | 101 | 200 |
 | `exact` | 35 | 12 | 96 | 57 | 200 |
-| `gurobi` | 33 | 14 | 53 | 100 | 200 |
+| `gurobi` | 33 | 14 | 54 | 99 | 200 |
 | `pumpkin` | 38 | 7 | 25 | 130 | 200 |
 | `z3` | 26 | 12 | 32 | 130 | 200 |
 | `pindakaas` | 23 | 12 | 38 | 127 | 200 |
@@ -49,7 +49,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 |--------|-------|---------|---------|-------|
 | `ortools` | 0 | 0 | 200 | 200 |
 | `exact` | 0 | 0 | 200 | 200 |
-| `gurobi` | 151 | 0 | 49 | 200 |
+| `gurobi` | 152 | 0 | 48 | 200 |
 | `pumpkin` | 0 | 0 | 200 | 200 |
 | `z3` | 0 | 0 | 200 | 200 |
 | `pindakaas` | 0 | 0 | 200 | 200 |
