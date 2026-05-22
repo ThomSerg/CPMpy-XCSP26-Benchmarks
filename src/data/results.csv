@@ -1895,10 +1895,10 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,ChainReaction-70-100_c25.
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,ChainReaction-80-105_c25.xml.lzma,UNKNOWN,3.7541394259314984,,,exitcode:1,,exact_ChainReaction-80-105_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,ChainReaction-80-110_c25.xml.lzma,UNKNOWN,4.400882913032547,,,exitcode:1,,exact_ChainReaction-80-110_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,CrazyFrog-06_c25.xml.lzma,UNKNOWN,181.53552035591565,,,exitcode:1,,exact_CrazyFrog-06_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,CrazyFrog-07_c25.xml.lzma,UNKNOWN,2.4402400699909776,,,exitcode:1,,exact_CrazyFrog-07_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,CrazyFrog-08_c25.xml.lzma,UNKNOWN,3.010656072990969,,,exitcode:1,,exact_CrazyFrog-08_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,CrazyFrog-09_c25.xml.lzma,UNKNOWN,4.06710718292743,,,exitcode:1,,exact_CrazyFrog-09_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,CrazyFrog-10_c25.xml.lzma,UNKNOWN,4.025810703868046,,,exitcode:1,,exact_CrazyFrog-10_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,CrazyFrog-07_c25.xml.lzma,UNKNOWN,381.29730130708776,,,memory,,exact_CrazyFrog-07_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,CrazyFrog-08_c25.xml.lzma,UNKNOWN,374.6467457951512,,,memory,,exact_CrazyFrog-08_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,CrazyFrog-09_c25.xml.lzma,UNKNOWN,460.85773715004325,,,memory,,exact_CrazyFrog-09_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,CrazyFrog-10_c25.xml.lzma,UNKNOWN,459.56147609394975,,,memory,,exact_CrazyFrog-10_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,CrazyFrog-table-06_c25.xml.lzma,UNKNOWN,6.300817836076021,,,exitcode:1,,exact_CrazyFrog-table-06_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,101.84363114601001,,,exitcode:1,,exact_CrazyFrog-table-07_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,91.21795050683431,,,exitcode:1,,exact_CrazyFrog-table-08_c25.xml.txt.metadata.json
@@ -1944,7 +1944,7 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-easy-35_c25.
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-easy-40_c25.xml.lzma,UNKNOWN,2.0313678439706564,,,exitcode:1,,exact_Heterosquare-easy-40_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-easy-50_c25.xml.lzma,UNKNOWN,2.141782277962193,,,exitcode:1,,exact_Heterosquare-easy-50_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,2.37614663480781,,,exitcode:1,,exact_Heterosquare-easy-60_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-fair-05_c25.xml.lzma,UNKNOWN,2.283236456103623,,,exitcode:1,,exact_Heterosquare-fair-05_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-fair-05_c25.xml.lzma,SAT,11.448997734114528,,,,FEASIBLE,exact_Heterosquare-fair-05_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-fair-10_c25.xml.lzma,UNKNOWN,2.122643470996991,,,exitcode:1,,exact_Heterosquare-fair-10_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-fair-15_c25.xml.lzma,UNKNOWN,2.0644639749079943,,,exitcode:1,,exact_Heterosquare-fair-15_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-fair-20_c25.xml.lzma,UNKNOWN,2.238805079134181,,,exitcode:1,,exact_Heterosquare-fair-20_c25.xml.txt.metadata.json
