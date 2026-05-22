@@ -1942,10 +1942,10 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-easy-25_c25.
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-easy-30_c25.xml.lzma,UNKNOWN,601.0849775050301,,,walltime,,exact_Heterosquare-easy-30_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-easy-35_c25.xml.lzma,UNKNOWN,601.0827001431026,,,walltime,,exact_Heterosquare-easy-35_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-easy-40_c25.xml.lzma,UNKNOWN,601.120777310105,,,walltime,,exact_Heterosquare-easy-40_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-easy-50_c25.xml.lzma,UNKNOWN,2.141782277962193,,,exitcode:1,,exact_Heterosquare-easy-50_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,2.37614663480781,,,exitcode:1,,exact_Heterosquare-easy-60_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-easy-50_c25.xml.lzma,UNKNOWN,601.2402799499687,,,walltime,,exact_Heterosquare-easy-50_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,601.4697112489957,,,walltime,,exact_Heterosquare-easy-60_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-fair-05_c25.xml.lzma,SAT,11.448997734114528,,,,FEASIBLE,exact_Heterosquare-fair-05_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-fair-10_c25.xml.lzma,UNKNOWN,2.122643470996991,,,exitcode:1,,exact_Heterosquare-fair-10_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-fair-10_c25.xml.lzma,UNKNOWN,601.0416065959726,,,walltime,,exact_Heterosquare-fair-10_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-fair-15_c25.xml.lzma,UNKNOWN,2.0644639749079943,,,exitcode:1,,exact_Heterosquare-fair-15_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-fair-20_c25.xml.lzma,UNKNOWN,2.238805079134181,,,exitcode:1,,exact_Heterosquare-fair-20_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,Heterosquare-hard-05_c25.xml.lzma,UNKNOWN,2.1185826300643384,,,exitcode:1,,exact_Heterosquare-hard-05_c25.xml.txt.metadata.json
@@ -1969,7 +1969,7 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-00
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,12.954943089047447,,,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0067_c25.xml.lzma,SAT,25.612962724175304,,,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0067_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,48.97213379689492,,,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,UNKNOWN,5.483310773968697,,,exitcode:1,,exact_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,287.6174182880204,,,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0207_c25.xml.lzma,UNKNOWN,7.931172939017415,,,exitcode:1,,exact_LotteryDesign-32-6-6-2-0207_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,12.013791881967336,,,exitcode:1,,exact_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,14.175542275886983,,,exitcode:1,,exact_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
