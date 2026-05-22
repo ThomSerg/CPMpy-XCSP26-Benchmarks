@@ -869,7 +869,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-4-5-4-11_c25.xml.lzma,UNKNOWN,59
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-5-4-4-08_c25.xml.lzma,SAT,62.50992753705941,,true,,FEASIBLE,ortools_EFPA-5-4-4-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-5-4-4-09_c25.xml.lzma,UNKNOWN,596.5841049330775,,true,,UNKNOWN,ortools_EFPA-5-4-4-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-6-4-4-13_c25.xml.lzma,UNKNOWN,597.9957374928053,,true,,UNKNOWN,ortools_EFPA-6-4-4-13_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-6-4-4-14_c25.xml.lzma,UNKNOWN,596.0061931211967,,,,UNKNOWN,ortools_EFPA-6-4-4-14_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,EFPA-6-4-4-14_c25.xml.lzma,UNKNOWN,597.1398831240367,,true,,UNKNOWN,ortools_EFPA-6-4-4-14_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-03-08_c25.xml.lzma,SAT,17.960588881047443,,true,,FEASIBLE,ortools_GracefulGraph-03-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-03-10_c25.xml.lzma,SAT,27.913562268950045,,true,,FEASIBLE,ortools_GracefulGraph-03-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-04-05_c25.xml.lzma,SAT,105.16874009510502,,true,,FEASIBLE,ortools_GracefulGraph-04-05_c25.xml.txt.metadata.json
@@ -934,7 +934,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-3-3-0_c25.x
 baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-3-0300_c25.xml.lzma,UNSAT,45.57206441205926,,true,,UNSATISFIABLE,ortools_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-3-0600_c25.xml.lzma,UNKNOWN,601.4078272669576,,,walltime,UNKNOWN,ortools_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-3-1200_c25.xml.lzma,UNKNOWN,578.3125145779923,,,memory,,ortools_RamseyPartition-equ-3-1200_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,48.745252890046686,,,,FEASIBLE,ortools_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,30.3140792560298,,true,,FEASIBLE,ortools_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,3.4147766248788685,,true,,UNSATISFIABLE,ortools_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0064_c25.xml.lzma,SAT,530.0831819369923,,,,FEASIBLE,ortools_RamseyPartition-equ-4-0064_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0080_c25.xml.lzma,UNKNOWN,598.9872964059468,,,,UNKNOWN,ortools_RamseyPartition-equ-4-0080_c25.xml.txt.metadata.json
