@@ -2113,7 +2113,16 @@ Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Cryptanalysis-5-10-128_c
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Cryptanalysis-5-14-128_c25.xml.lzma,UNKNOWN,599.5038928738795,,true,,UNKNOWN,gurobi_Cryptanalysis-5-14-128_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Cryptanalysis-5-15-128_c25.xml.lzma,UNKNOWN,599.4755537670571,,true,,UNKNOWN,gurobi_Cryptanalysis-5-15-128_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Cryptanalysis-6-12-128_c25.xml.lzma,UNKNOWN,599.9407418989576,,true,,UNKNOWN,gurobi_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Cryptanalysis-6-16-128_c25.xml.lzma,UNKNOWN,599.9816913630348,,true,,UNKNOWN,gurobi_Cryptanalysis-6-16-128_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Cryptanalysis-6-17-128_c25.xml.lzma,UNKNOWN,599.8994757330511,,true,,UNKNOWN,gurobi_Cryptanalysis-6-17-128_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,EFPA-3-7-7-06_c25.xml.lzma,SAT,421.37319242209196,,,,FEASIBLE,gurobi_EFPA-3-7-7-06_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,EFPA-3-7-7-07_c25.xml.lzma,UNKNOWN,598.9385314050596,,true,,UNKNOWN,gurobi_EFPA-3-7-7-07_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,EFPA-3-8-8-07_c25.xml.lzma,UNKNOWN,599.0640746930148,,true,,UNKNOWN,gurobi_EFPA-3-8-8-07_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-05_c25.xml.lzma,SAT,3.4302615728229284,,,,FEASIBLE,gurobi_Heterosquare-fair-05_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-10_c25.xml.lzma,SAT,62.68313939101063,,,,FEASIBLE,gurobi_Heterosquare-fair-10_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-hard-05_c25.xml.lzma,UNSAT,2.0283068758435547,,true,,UNSATISFIABLE,gurobi_Heterosquare-hard-05_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-hard-10_c25.xml.lzma,UNSAT,4.894398003816605,,true,,UNSATISFIABLE,gurobi_Heterosquare-hard-10_c25.xml.txt.metadata.json
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,Heterosquare-hard-15_c25.xml.lzma,UNSAT,40.291806446854025,,true,,UNSATISFIABLE,gurobi_Heterosquare-hard-15_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,2.9063671310432255,,,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,124.42521934793331,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,2.7946439520455897,,,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
