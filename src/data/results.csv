@@ -164,8 +164,14 @@ baseline,baseline,XCSP3-2025-COP25,gurobi,IHTC-i11_c25.xml.lzma,UNSAT,183.198047
 baseline,baseline,XCSP3-2025-COP25,gurobi,IHTC-i12_c25.xml.lzma,UNSAT,149.33993425499648,,true,,UNSATISFIABLE,gurobi_IHTC-i12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,IHTC-i16_c25.xml.lzma,UNSAT,279.1576001129579,,true,,UNSATISFIABLE,gurobi_IHTC-i16_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,IHTC-i18_c25.xml.lzma,UNSAT,515.7037375960499,,true,,UNSATISFIABLE,gurobi_IHTC-i18_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,IHTC-i29_c25.xml.lzma,UNKNOWN,601.8036974000279,,,walltime,,gurobi_IHTC-i29_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,IHTC-i30_c25.xml.lzma,UNKNOWN,499.2619530740194,,,memory,,gurobi_IHTC-i30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,LowAutocorrelation-010_c25.xml.lzma,SAT,2.356207697885111,13.0,true,,OPTIMAL,gurobi_LowAutocorrelation-010_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,LowAutocorrelation-020_c25.xml.lzma,SAT,144.62385929003358,26.0,true,,OPTIMAL,gurobi_LowAutocorrelation-020_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,LowAutocorrelation-040_c25.xml.lzma,SAT,598.9333993492182,196.0,true,,FEASIBLE,gurobi_LowAutocorrelation-040_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,LowAutocorrelation-060_c25.xml.lzma,SAT,599.0593054308556,406.0,true,,FEASIBLE,gurobi_LowAutocorrelation-060_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,LowAutocorrelation-080_c25.xml.lzma,SAT,599.2550257269759,932.0,true,,FEASIBLE,gurobi_LowAutocorrelation-080_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,gurobi,LowAutocorrelation-800_c25.xml.lzma,UNKNOWN,429.8355075290892,,,memory,,gurobi_LowAutocorrelation-800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,MetabolicNetwork-09_c25.xml.lzma,SAT,1.8921593211125582,2.0,true,,OPTIMAL,gurobi_MetabolicNetwork-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,MetabolicNetwork-10_c25.xml.lzma,SAT,1.6807299500796944,2.0,true,,OPTIMAL,gurobi_MetabolicNetwork-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,MetabolicNetwork-14_c25.xml.lzma,SAT,17.115875120973215,2.0,true,,OPTIMAL,gurobi_MetabolicNetwork-14_c25.xml.txt.metadata.json
