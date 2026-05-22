@@ -7,7 +7,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
 | 1 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 15:30:41 | 450/1857 |
-| 2 | **Submission 2025** 🔄 | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:13:27 | 201/1276 |
+| 2 | **Submission 2025** 🔄 | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:13:27 | 207/1316 |
 
 ---
 
@@ -86,8 +86,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
+| `z3` | XCSP3-2025-CSP25 | 🔄 running | 116/200 | 2026-05-22 22:13:33 | 21m 18s |
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
-| `z3` | XCSP3-2025-CSP25 | 🔄 running | 76/200 | 2026-05-22 22:13:33 | 18m 56s |
 | `cpo` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-22 21:52:42 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-22 21:50:38 | — |
@@ -108,8 +108,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 72 | 21 | 1 | 106 | 200 |
+| `z3` | 23 | 11 | 2 | 81 | 117 |
 | `gurobi` | 20 | 12 | 15 | 153 | 200 |
-| `z3` | 16 | 11 | 2 | 47 | 76 |
 | `cpo` | 21 | 5 | 1 | 173 | 200 |
 | `exact` | 20 | 3 | 38 | 139 | 200 |
 | `pumpkin` | 0 | 0 | 0 | 200 | 200 |
@@ -120,8 +120,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `ortools` | 79 | 0 | 121 | 200 |
+| `z3` | 59 | 0 | 58 | 117 |
 | `gurobi` | 81 | 0 | 119 | 200 |
-| `z3` | 37 | 0 | 39 | 76 |
 | `cpo` | 47 | 0 | 153 | 200 |
 | `exact` | 30 | 0 | 170 | 200 |
 | `pumpkin` | 0 | 0 | 200 | 200 |
