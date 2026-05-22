@@ -811,7 +811,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-15-04_c25.xml.lzma,SAT,5.47
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-16-01_c25.xml.lzma,SAT,4.404389484087005,,true,,FEASIBLE,ortools_Accordion-16-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-16-04_c25.xml.lzma,SAT,4.08566796220839,,true,,FEASIBLE,ortools_Accordion-16-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Accordion-16-05_c25.xml.lzma,SAT,3.584597662091255,,true,,FEASIBLE,ortools_Accordion-16-05_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,AlmostMagic-03-030_c25.xml.lzma,UNSAT,113.88724386994727,,,,UNSATISFIABLE,ortools_AlmostMagic-03-030_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,AlmostMagic-03-030_c25.xml.lzma,UNSAT,98.41828217217699,,true,,UNSATISFIABLE,ortools_AlmostMagic-03-030_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,AlmostMagic-03-035_c25.xml.lzma,UNSAT,419.0366344079375,,,,UNSATISFIABLE,ortools_AlmostMagic-03-035_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,AlmostMagic-03-040_c25.xml.lzma,SAT,2.5135603598318994,,true,,FEASIBLE,ortools_AlmostMagic-03-040_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,AlmostMagic-03-070_c25.xml.lzma,SAT,2.618274177890271,,true,,FEASIBLE,ortools_AlmostMagic-03-070_c25.xml.txt.metadata.json
