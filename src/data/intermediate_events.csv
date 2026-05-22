@@ -1199,6 +1199,7 @@ baseline,XCSP3-2025-COP25,gurobi,TankAllocation1-chemical_c25.xml.lzma,2,0.47007
 baseline,XCSP3-2025-COP25,gurobi,TankAllocation1-chemical_c25.xml.lzma,3,1.248366355895996,2296.0
 baseline,XCSP3-2025-COP25,gurobi,TankAllocation1-chemical_c25.xml.lzma,4,1.2677428722381592,2296.0
 baseline,XCSP3-2025-COP25,gurobi,TankAllocation1-chemical_c25.xml.lzma,5,1.3863439559936523,2296.0
+baseline,XCSP3-2025-COP25,gurobi,TankAllocation2-1200_c25.xml.lzma,0,263.0380630493164,270.0
 baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,0,1.601994514465332,0.0
 baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,1,1.6104848384857178,7.0
 baseline,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,0,13.791685819625854,0.0
