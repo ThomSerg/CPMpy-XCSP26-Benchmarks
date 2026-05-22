@@ -86,7 +86,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
-| `exact` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 0/200 | 2026-05-22 15:34:48 | 0m 02s |
 
 ### Track: XCSP3-2025-CSP25
 
