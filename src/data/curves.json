@@ -212,6 +212,28 @@
     },
     "baseline": {
       "tracks": {
+        "XCSP3-2025-COP25": {
+          "completion": {
+            "series": [
+              {
+                "solved": 1,
+                "solver": "ortools",
+                "x": [
+                  0.0,
+                  3.46367903589271,
+                  600.0
+                ],
+                "y": [
+                  0.0,
+                  1.0,
+                  1.0
+                ]
+              }
+            ],
+            "total": 1
+          },
+          "time_limit": 600.0
+        },
         "XCSP3-2025-CSP25": {
           "completion": {
             "series": [
