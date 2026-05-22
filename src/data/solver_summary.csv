@@ -10,5 +10,5 @@ baseline,baseline,XCSP3-2025-CSP25,pumpkin,38,7,0,155,200,0,0,200
 baseline,baseline,XCSP3-2025-CSP25,scip,15,8,0,177,200,0,0,200
 baseline,baseline,XCSP3-2025-CSP25,z3,26,12,0,162,200,0,0,200
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,20,3,0,177,200,30,0,170
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,8,6,0,18,32,6,0,26
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,9,6,0,20,35,6,0,29
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,72,21,0,107,200,79,0,121
