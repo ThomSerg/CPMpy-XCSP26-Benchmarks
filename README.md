@@ -4,13 +4,13 @@
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 10:59:11 | 393/1787 |
+| 1 | **baseline** 🔄 | XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-22 10:59:37 | 393/1790 |
 
 ---
 
 ## baseline _(running)_
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-22 10:59:11_
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-22 10:59:37_
 
 ### Live Progress
 
@@ -22,7 +22,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 17:37:28 | — |
 | `z3` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 18:07:56 | — |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:54:47 | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 187/200 | 2026-05-22 10:34:20 | 24m 52s |
+| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 190/200 | 2026-05-22 10:34:20 | 25m 18s |
 | `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 18:43:07 | — |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:19:25 | — |
 
@@ -40,7 +40,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `pumpkin` | 38 | 7 | 25 | 130 | 200 |
 | `z3` | 26 | 12 | 32 | 130 | 200 |
 | `pindakaas` | 23 | 12 | 38 | 127 | 200 |
-| `cpo` | 26 | 5 | 0 | 156 | 187 |
+| `cpo` | 26 | 5 | 0 | 159 | 190 |
 | `highs` | 20 | 10 | 71 | 99 | 200 |
 | `scip` | 15 | 8 | 71 | 106 | 200 |
 
@@ -54,6 +54,6 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `pumpkin` | 0 | 0 | 200 | 200 |
 | `z3` | 0 | 0 | 200 | 200 |
 | `pindakaas` | 0 | 0 | 200 | 200 |
-| `cpo` | 62 | 0 | 125 | 187 |
+| `cpo` | 65 | 0 | 125 | 190 |
 | `highs` | 0 | 0 | 200 | 200 |
 | `scip` | 0 | 0 | 200 | 200 |
