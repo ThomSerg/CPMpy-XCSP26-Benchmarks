@@ -230,8 +230,17 @@ baseline,baseline,XCSP3-2025-COP25,exact,SchedulingOS-gp-08-05_c25.xml.lzma,SAT,
 baseline,baseline,XCSP3-2025-COP25,exact,SchedulingOS-gp-09-01_c25.xml.lzma,SAT,600.6200472770724,0.0,true,,FEASIBLE,exact_SchedulingOS-gp-09-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,SchedulingOS-gp-09-05_c25.xml.lzma,SAT,601.0588835638482,0.0,true,walltime,FEASIBLE,exact_SchedulingOS-gp-09-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,SchedulingOS-gp-10-01_c25.xml.lzma,SAT,599.6543067370076,0.0,true,,FEASIBLE,exact_SchedulingOS-gp-10-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,SchedulingOS-gp-10-05_c25.xml.lzma,UNKNOWN,601.0828995690681,,,walltime,,exact_SchedulingOS-gp-10-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,TankAllocation1-0000_c25.xml.lzma,SAT,600.6204832210205,0.0,true,,FEASIBLE,exact_TankAllocation1-0000_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,TankAllocation1-0400_c25.xml.lzma,SAT,600.938550268067,0.0,true,,FEASIBLE,exact_TankAllocation1-0400_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,TankAllocation1-0800_c25.xml.lzma,UNKNOWN,601.048693557037,,,walltime,,exact_TankAllocation1-0800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,TankAllocation1-1200_c25.xml.lzma,SAT,225.3879245352,300.0,true,,OPTIMAL,exact_TankAllocation1-1200_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,TankAllocation1-1600_c25.xml.lzma,UNKNOWN,601.0610575131141,,,walltime,,exact_TankAllocation1-1600_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,TankAllocation1-2000_c25.xml.lzma,SAT,599.3204179338645,0.0,true,,FEASIBLE,exact_TankAllocation1-2000_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,TankAllocation1-2400_c25.xml.lzma,SAT,151.0919663910754,4304.0,true,,OPTIMAL,exact_TankAllocation1-2400_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,TankAllocation1-2591_c25.xml.lzma,UNKNOWN,601.0919969151728,,,walltime,,exact_TankAllocation1-2591_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,TankAllocation1-chemical_c25.xml.lzma,SAT,599.171322875889,0.0,true,,FEASIBLE,exact_TankAllocation1-chemical_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,exact,TankAllocation2-0000_c25.xml.lzma,UNKNOWN,601.1762867032085,,,walltime,,exact_TankAllocation2-0000_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,TankAllocation2-0400_c25.xml.lzma,UNKNOWN,331.17851637187414,,,memory,,exact_TankAllocation2-0400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,TankAllocation2-0800_c25.xml.lzma,UNKNOWN,307.74298512609676,,,memory,,exact_TankAllocation2-0800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,SAT,10.161222914932296,7.0,true,,OPTIMAL,gurobi_AlteredStates-02_c25.xml.txt.metadata.json
