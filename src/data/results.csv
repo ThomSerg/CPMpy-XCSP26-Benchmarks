@@ -830,7 +830,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-30-040_c25.xml.lzma,SAT
 baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-40-050_c25.xml.lzma,UNKNOWN,598.6175289978273,,,,UNKNOWN,ortools_ChainReaction-40-050_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-40-055_c25.xml.lzma,SAT,8.311367087066174,,true,,FEASIBLE,ortools_ChainReaction-40-055_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-50-065_c25.xml.lzma,UNKNOWN,598.1254004149232,,,,UNKNOWN,ortools_ChainReaction-50-065_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-50-070_c25.xml.lzma,SAT,236.5162621990312,,,,FEASIBLE,ortools_ChainReaction-50-070_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-50-070_c25.xml.lzma,SAT,158.14895952912048,,true,,FEASIBLE,ortools_ChainReaction-50-070_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-60-085_c25.xml.lzma,SAT,147.56145071494393,,true,,FEASIBLE,ortools_ChainReaction-60-085_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-60-090_c25.xml.lzma,SAT,514.048438653117,,,,FEASIBLE,ortools_ChainReaction-60-090_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-70-095_c25.xml.lzma,UNKNOWN,597.6426696861163,,,,UNKNOWN,ortools_ChainReaction-70-095_c25.xml.txt.metadata.json
