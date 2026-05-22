@@ -881,7 +881,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-06-02_c25.xml.lzma,UNKN
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-06-03_c25.xml.lzma,UNKNOWN,597.7152044340037,,,,UNKNOWN,ortools_GracefulGraph-06-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,GracefulGraph-06-04_c25.xml.lzma,UNKNOWN,596.9656577568967,,,,UNKNOWN,ortools_GracefulGraph-06-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Heterosquare-easy-20_c25.xml.lzma,SAT,2.2487800728995353,,true,,FEASIBLE,ortools_Heterosquare-easy-20_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,Heterosquare-easy-25_c25.xml.lzma,SAT,2.7053614191245288,,,,FEASIBLE,ortools_Heterosquare-easy-25_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,Heterosquare-easy-25_c25.xml.lzma,SAT,2.6796125031542033,,true,,FEASIBLE,ortools_Heterosquare-easy-25_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Heterosquare-easy-30_c25.xml.lzma,SAT,2.950740975094959,,,,FEASIBLE,ortools_Heterosquare-easy-30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Heterosquare-easy-35_c25.xml.lzma,SAT,3.535228358814493,,,,FEASIBLE,ortools_Heterosquare-easy-35_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,Heterosquare-easy-40_c25.xml.lzma,SAT,3.6997682619839907,,,,FEASIBLE,ortools_Heterosquare-easy-40_c25.xml.txt.metadata.json
