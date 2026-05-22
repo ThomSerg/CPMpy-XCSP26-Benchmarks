@@ -50,7 +50,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Creat
 | `ortools` | 0 | 0 | 200 | 200 |
 | `exact` | 0 | 0 | 200 | 200 |
 | `pumpkin` | 0 | 0 | 200 | 200 |
-| `gurobi` | 72 | 0 | 124 | 196 |
+| `gurobi` | 73 | 0 | 123 | 196 |
 | `z3` | 0 | 0 | 200 | 200 |
 | `pindakaas` | 0 | 0 | 200 | 200 |
 | `highs` | 0 | 0 | 200 | 200 |
