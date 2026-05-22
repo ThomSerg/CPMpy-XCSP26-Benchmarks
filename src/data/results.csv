@@ -4,6 +4,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,SAT
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-kansas-02_c25.xml.lzma,SAT,57.92399837402627,96.0,true,,OPTIMAL,ortools_BlockModeling-kansas-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-02_c25.xml.lzma,SAT,3.761420273920521,44.0,true,,OPTIMAL,ortools_BlockModeling-politicalactor-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,3.041356894886121,33.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1_c25.xml.lzma,SAT,8.547314294148237,26.0,true,,OPTIMAL,ortools_BusScheduling-c1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
