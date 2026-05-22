@@ -902,7 +902,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,LangfordBin-016_c25.xml.lzma,SAT,1.59
 baseline,baseline,XCSP3-2025-CSP25,ortools,LangfordBin-039_c25.xml.lzma,SAT,2.2606298020109534,,true,,FEASIBLE,ortools_LangfordBin-039_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LangfordBin-040_c25.xml.lzma,SAT,2.4327867950778455,,true,,FEASIBLE,ortools_LangfordBin-040_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LangfordBin-059_c25.xml.lzma,SAT,3.220975202973932,,true,,FEASIBLE,ortools_LangfordBin-059_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,LangfordBin-060_c25.xml.lzma,SAT,3.806083847070113,,,,FEASIBLE,ortools_LangfordBin-060_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,LangfordBin-060_c25.xml.lzma,SAT,4.575083970092237,,true,,FEASIBLE,ortools_LangfordBin-060_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LangfordBin-079_c25.xml.lzma,SAT,7.201787847094238,,,,FEASIBLE,ortools_LangfordBin-079_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LangfordBin-080_c25.xml.lzma,SAT,7.50521153700538,,,,FEASIBLE,ortools_LangfordBin-080_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,LangfordBin-120_c25.xml.lzma,SAT,14.837701575132087,,,,FEASIBLE,ortools_LangfordBin-120_c25.xml.txt.metadata.json
