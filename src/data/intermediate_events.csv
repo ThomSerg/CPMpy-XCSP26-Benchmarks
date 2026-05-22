@@ -184,6 +184,7 @@ baseline,XCSP3-2025-COP25,gurobi,Cutstock-01-0_c25.xml.lzma,1,0.5158510208129883
 baseline,XCSP3-2025-COP25,gurobi,Cutstock-03-0_c25.xml.lzma,0,2.806668758392334,23.0
 baseline,XCSP3-2025-COP25,gurobi,Cutstock-08-0_c25.xml.lzma,0,12.225703239440918,690.0
 baseline,XCSP3-2025-COP25,gurobi,Cutstock-08-0_c25.xml.lzma,1,12.438934803009033,673.0
+baseline,XCSP3-2025-COP25,gurobi,Cutstock-10-0_c25.xml.lzma,0,109.25987362861633,983.0
 baseline,XCSP3-2025-COP25,gurobi,Cutstock-13-0_c25.xml.lzma,0,1.776641845703125,73.0
 baseline,XCSP3-2025-COP25,gurobi,Cutstock-13-0_c25.xml.lzma,1,1.780228614807129,65.0
 baseline,XCSP3-2025-COP25,gurobi,Cutstock-14-0_c25.xml.lzma,0,13.516802310943604,797.0
@@ -192,6 +193,7 @@ baseline,XCSP3-2025-COP25,gurobi,Cutstock-14-0_c25.xml.lzma,2,13.829524278640747
 baseline,XCSP3-2025-COP25,gurobi,Cutstock-14-0_c25.xml.lzma,3,13.934568166732788,741.0
 baseline,XCSP3-2025-COP25,gurobi,Cutstock-14-0_c25.xml.lzma,4,14.059320211410522,653.0
 baseline,XCSP3-2025-COP25,gurobi,Cutstock-15-0_c25.xml.lzma,0,6.057885646820068,158.0
+baseline,XCSP3-2025-COP25,gurobi,Cutstock-16-2_c25.xml.lzma,0,85.7196192741394,1224.0
 baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,0,1.601994514465332,0.0
 baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,1,1.6104848384857178,7.0
 baseline,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,0,13.791685819625854,0.0
