@@ -8,27 +8,13 @@
 
 ---
 
-## baseline _(running)_
+## baseline
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-22 10:34:17_
+_Tracks: unknown · cpmpy: `—` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-22 10:34:17_
 
-### Live Progress
+### Track: unknown
 
-| Solver | Track | Status | Progress | Started | Elapsed |
-|--------|-------|--------|----------|---------|---------|
-| `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 20:25:09 | — |
-| `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 16:59:21 | — |
-| `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-22 09:28:32 | — |
-| `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 17:37:28 | — |
-| `z3` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 18:07:56 | — |
-| `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:54:47 | — |
-| `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 18:43:07 | — |
-| `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-21 19:19:25 | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 45/200 | 2026-05-22 10:34:20 | 4m 44s |
-
-### Track: XCSP3-2025-CSP25
-
-![XCSP3-2025-CSP25](./profile_baseline_XCSP3-2025-CSP25.svg)
+![unknown](./profile_baseline_unknown.svg)
 
 #### Solve Status
 
