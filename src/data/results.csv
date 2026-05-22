@@ -822,7 +822,7 @@ baseline,baseline,XCSP3-2025-CSP25,ortools,AlmostMagic-06-100_c25.xml.lzma,SAT,6
 baseline,baseline,XCSP3-2025-CSP25,ortools,AlmostMagic-07-130_c25.xml.lzma,UNKNOWN,598.7228178200312,,,,UNKNOWN,ortools_AlmostMagic-07-130_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,AlmostMagic-08-160_c25.xml.lzma,UNKNOWN,598.924104198115,,,,UNKNOWN,ortools_AlmostMagic-08-160_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,AlmostMagic-09-200_c25.xml.lzma,UNKNOWN,596.3305739699863,,,,UNKNOWN,ortools_AlmostMagic-09-200_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-CSP25,ortools,AlmostMagic-10-250_c25.xml.lzma,UNKNOWN,597.3018987928517,,,,UNKNOWN,ortools_AlmostMagic-10-250_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-CSP25,ortools,AlmostMagic-10-250_c25.xml.lzma,UNKNOWN,596.547118532937,,true,,UNKNOWN,ortools_AlmostMagic-10-250_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-20-020_c25.xml.lzma,UNSAT,2.2785666410345584,,true,,UNSATISFIABLE,ortools_ChainReaction-20-020_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-20-025_c25.xml.lzma,SAT,3.8778970479033887,,true,,FEASIBLE,ortools_ChainReaction-20-025_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,ortools,ChainReaction-30-035_c25.xml.lzma,UNKNOWN,597.500358092133,,,,UNKNOWN,ortools_ChainReaction-30-035_c25.xml.txt.metadata.json
