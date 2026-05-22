@@ -557,9 +557,11 @@ baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-10_c25.xml.lzma,SAT,6.7160650
 baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-12_c25.xml.lzma,SAT,19.3848444360774,59.0,true,,OPTIMAL,ortools_Coprime-12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-14_c25.xml.lzma,SAT,35.709874488878995,73.0,true,,OPTIMAL,ortools_Coprime-14_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-02_c25.xml.lzma,SAT,4.795710248174146,7.0,true,,OPTIMAL,pumpkin_AlteredStates-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-10_c25.xml.lzma,UNKNOWN,266.10038153408095,,,memory,,pumpkin_AlteredStates-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-12_c25.xml.lzma,UNKNOWN,25.603227284969762,,,memory,,pumpkin_AlteredStates-12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-15_c25.xml.lzma,UNKNOWN,29.525402852799743,,,memory,,pumpkin_AlteredStates-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-bis-02_c25.xml.lzma,SAT,9.547195718856528,29145505.0,true,,OPTIMAL,pumpkin_AlteredStates-bis-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-bis-10_c25.xml.lzma,UNKNOWN,233.03281346103176,,,memory,,pumpkin_AlteredStates-bis-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-bis-12_c25.xml.lzma,UNKNOWN,27.08299249713309,,,memory,,pumpkin_AlteredStates-bis-12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-bis-15_c25.xml.lzma,UNKNOWN,27.85305884317495,,,memory,,pumpkin_AlteredStates-bis-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,BlockModeling-kansas-02_c25.xml.lzma,UNKNOWN,2.2698412199970335,,,exitcode:1,,pumpkin_BlockModeling-kansas-02_c25.xml.txt.metadata.json
@@ -582,6 +584,13 @@ baseline,baseline,XCSP3-2025-COP25,pumpkin,BusScheduling-t1_c25.xml.lzma,SAT,1.5
 baseline,baseline,XCSP3-2025-COP25,pumpkin,ButtonsScissors-00_c25.xml.lzma,SAT,10.204248087946326,9.0,true,,OPTIMAL,pumpkin_ButtonsScissors-00_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,ButtonsScissors-01_c25.xml.lzma,SAT,14.294086190173402,10.0,true,,OPTIMAL,pumpkin_ButtonsScissors-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,ButtonsScissors-02_c25.xml.lzma,SAT,8.960012126946822,9.0,true,,OPTIMAL,pumpkin_ButtonsScissors-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,ButtonsScissors-03_c25.xml.lzma,SAT,126.88425613101572,14.0,true,,OPTIMAL,pumpkin_ButtonsScissors-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,ChampionsLeague-2024-09_c25.xml.lzma,UNKNOWN,2.3730550999753177,,,exitcode:1,,pumpkin_ChampionsLeague-2024-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,ChampionsLeague-2024-15_c25.xml.lzma,UNKNOWN,1.5886064730584621,,,exitcode:1,,pumpkin_ChampionsLeague-2024-15_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,ChampionsLeague-2024-18_c25.xml.lzma,UNKNOWN,1.600092840148136,,,exitcode:1,,pumpkin_ChampionsLeague-2024-18_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,ChampionsLeague-2024-20_c25.xml.lzma,UNKNOWN,1.8481248270254582,,,exitcode:1,,pumpkin_ChampionsLeague-2024-20_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,ChampionsLeague-2024-25_c25.xml.lzma,UNKNOWN,1.647126846946776,,,exitcode:1,,pumpkin_ChampionsLeague-2024-25_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,ChampionsLeague-2024-30_c25.xml.lzma,UNKNOWN,1.7233190119732171,,,exitcode:1,,pumpkin_ChampionsLeague-2024-30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
