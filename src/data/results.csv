@@ -1178,6 +1178,8 @@ baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-test01-0150_c25.xml.lzma,UNKNOW
 baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-test03-0400_c25.xml.lzma,UNKNOWN,415.72828135988675,,,memory,,scip_FAPP-aux-test03-0400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,FlexibleJobshopScen-dh-5-16-005_c25.xml.lzma,UNKNOWN,599.0910251729656,,true,,UNKNOWN,scip_FlexibleJobshopScen-dh-5-16-005_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,FlexibleJobshopScen-dh-5-16-020_c25.xml.lzma,UNKNOWN,600.8328854038846,,true,,UNKNOWN,scip_FlexibleJobshopScen-dh-5-16-020_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,FlexibleJobshopScen-dh-5-16-080_c25.xml.lzma,UNKNOWN,601.2891401930247,,,walltime,,scip_FlexibleJobshopScen-dh-5-16-080_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,FlexibleJobshopScen-dh-5-16-200_c25.xml.lzma,UNKNOWN,601.6093858669046,,,walltime,,scip_FlexibleJobshopScen-dh-5-16-200_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,FlexibleJobshopScen-dh-5-16-400_c25.xml.lzma,UNKNOWN,188.20112885604613,,,memory,,scip_FlexibleJobshopScen-dh-5-16-400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,FlexibleJobshopScen-dh-5-20-200_c25.xml.lzma,UNKNOWN,171.592058788985,,,memory,,scip_FlexibleJobshopScen-dh-5-20-200_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,FlexibleJobshopScen-dh-5-20-400_c25.xml.lzma,UNKNOWN,285.05705857183784,,,memory,,scip_FlexibleJobshopScen-dh-5-20-400_c25.xml.txt.metadata.json
@@ -1190,6 +1192,7 @@ baseline,baseline,XCSP3-2025-COP25,scip,Fortress1-07_c25.xml.lzma,SAT,103.725749
 baseline,baseline,XCSP3-2025-COP25,scip,Fortress1-08_c25.xml.lzma,SAT,132.0017375140451,1239006.0,true,,OPTIMAL,scip_Fortress1-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,Fortress1-09_c25.xml.lzma,SAT,117.0018460568972,1458951.0,true,,OPTIMAL,scip_Fortress1-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,Fortress1-10_c25.xml.lzma,SAT,281.330080737127,1798536.0,true,,OPTIMAL,scip_Fortress1-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Fortress2-03_c25.xml.lzma,UNKNOWN,308.1659181190189,,,memory,,scip_Fortress2-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i01_c25.xml.lzma,UNSAT,11.158629462821409,,true,,UNSATISFIABLE,scip_IHTC-i01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i02_c25.xml.lzma,UNSAT,15.806792520917952,,true,,UNSATISFIABLE,scip_IHTC-i02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i03_c25.xml.lzma,UNSAT,17.46796871582046,,true,,UNSATISFIABLE,scip_IHTC-i03_c25.xml.txt.metadata.json
@@ -1197,10 +1200,14 @@ baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i04_c25.xml.lzma,UNSAT,38.684854876
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i05_c25.xml.lzma,UNSAT,87.57158263213933,,true,,UNSATISFIABLE,scip_IHTC-i05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i06_c25.xml.lzma,UNSAT,74.93456389894709,,true,,UNSATISFIABLE,scip_IHTC-i06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i07_c25.xml.lzma,UNSAT,99.69163896492682,,true,,UNSATISFIABLE,scip_IHTC-i07_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i08_c25.xml.lzma,UNKNOWN,243.7100759940222,,,memory,,scip_IHTC-i08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i09_c25.xml.lzma,UNSAT,99.61783211422153,,true,,UNSATISFIABLE,scip_IHTC-i09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i10_c25.xml.lzma,UNSAT,152.08273930009454,,true,,UNSATISFIABLE,scip_IHTC-i10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i11_c25.xml.lzma,UNKNOWN,167.78899636399,,,memory,,scip_IHTC-i11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i12_c25.xml.lzma,UNSAT,145.2922591760289,,true,,UNSATISFIABLE,scip_IHTC-i12_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i16_c25.xml.lzma,UNKNOWN,242.3916722361464,,,memory,,scip_IHTC-i16_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,LowAutocorrelation-010_c25.xml.lzma,SAT,2.449707714142278,13.0,true,,OPTIMAL,scip_LowAutocorrelation-010_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,MetabolicNetwork-09_c25.xml.lzma,SAT,2.1395554540213197,1.999999999999997,true,,OPTIMAL,scip_MetabolicNetwork-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
