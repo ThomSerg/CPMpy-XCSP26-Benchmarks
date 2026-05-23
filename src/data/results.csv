@@ -1088,6 +1088,8 @@ baseline,baseline,XCSP3-2025-COP25,scip,BlockModeling-politicalactor-05_c25.xml.
 baseline,baseline,XCSP3-2025-COP25,scip,BlockModeling-politicalactor-10_c25.xml.lzma,SAT,600.5444810870104,22.0,true,,FEASIBLE,scip_BlockModeling-politicalactor-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,5.8407632280141115,33.0,true,,OPTIMAL,scip_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,BlockModeling-transatlantic-03_c25.xml.lzma,SAT,150.90916378283873,29.0,true,,OPTIMAL,scip_BlockModeling-transatlantic-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,BlockModeling-transatlantic-05_c25.xml.lzma,SAT,599.2581536869984,26.0,true,,FEASIBLE,scip_BlockModeling-transatlantic-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,BlockModeling-transatlantic-10_c25.xml.lzma,SAT,600.2236628499813,6.0,true,,FEASIBLE,scip_BlockModeling-transatlantic-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,BusScheduling-c1_c25.xml.lzma,SAT,3.9675509359221905,26.0,true,,OPTIMAL,scip_BusScheduling-c1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,BusScheduling-c1a_c25.xml.lzma,SAT,8.545430408092216,26.0,true,,OPTIMAL,scip_BusScheduling-c1a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,BusScheduling-c2_c25.xml.lzma,SAT,23.186986268032342,29.0,true,,OPTIMAL,scip_BusScheduling-c2_c25.xml.txt.metadata.json
@@ -1101,6 +1103,8 @@ baseline,baseline,XCSP3-2025-COP25,scip,BusScheduling-r5a_c25.xml.lzma,SAT,24.10
 baseline,baseline,XCSP3-2025-COP25,scip,BusScheduling-t1_c25.xml.lzma,SAT,1.700838048942387,7.0,true,,OPTIMAL,scip_BusScheduling-t1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,BusScheduling-t2_c25.xml.lzma,SAT,5.10776072810404,19.0,true,,OPTIMAL,scip_BusScheduling-t2_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,ChampionsLeague-2024-09_c25.xml.lzma,SAT,185.8203828940168,24.0,true,,OPTIMAL,scip_ChampionsLeague-2024-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,ChampionsLeague-strict-2024-35_c25.xml.lzma,SAT,98.40603918302804,11.0,true,,OPTIMAL,scip_ChampionsLeague-strict-2024-35_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Coprime-08_c25.xml.lzma,SAT,102.11988060106523,31.0,true,,OPTIMAL,scip_Coprime-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
