@@ -247,6 +247,8 @@ baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-1200_c25.xml.lzma,SAT,598
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-1600_c25.xml.lzma,SAT,599.5947006139904,835.0,true,,FEASIBLE,cpo_TankAllocation2-1600_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-2000_c25.xml.lzma,UNKNOWN,601.0914279939607,,,walltime,,cpo_TankAllocation2-2000_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-2400_c25.xml.lzma,UNKNOWN,14.886328335851431,,,exitcode:1,,cpo_TankAllocation2-2400_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-2591_c25.xml.lzma,SAT,599.7711285739206,1921.0,false,,FEASIBLE,cpo_TankAllocation2-2591_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-chemical_c25.xml.lzma,SAT,599.7399924159981,2460.0,false,,FEASIBLE,cpo_TankAllocation2-chemical_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,AlteredStates-02_c25.xml.lzma,SAT,50.636913201073185,7.0,true,,OPTIMAL,exact_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,AlteredStates-03_c25.xml.lzma,UNKNOWN,601.0525824700017,,,walltime,,exact_AlteredStates-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,exact,AlteredStates-04_c25.xml.lzma,UNKNOWN,601.0984651998151,,,walltime,,exact_AlteredStates-04_c25.xml.txt.metadata.json
@@ -1054,6 +1056,10 @@ baseline,baseline,XCSP3-2025-COP25,pumpkin,TankAllocation2-2000_c25.xml.lzma,UNK
 baseline,baseline,XCSP3-2025-COP25,pumpkin,TankAllocation2-2400_c25.xml.lzma,SAT,599.9919051961042,3879.0,false,,FEASIBLE,pumpkin_TankAllocation2-2400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,TankAllocation2-2591_c25.xml.lzma,SAT,599.1882800559979,1654.0,false,,FEASIBLE,pumpkin_TankAllocation2-2591_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,TankAllocation2-chemical_c25.xml.lzma,UNKNOWN,598.9707806659862,,true,,UNKNOWN,pumpkin_TankAllocation2-chemical_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,BlockModeling-kansas-02_c25.xml.lzma,SAT,43.73690180410631,96.0,true,,OPTIMAL,scip_BlockModeling-kansas-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,BlockModeling-karate-02_c25.xml.lzma,SAT,75.03725327178836,77.0,true,,OPTIMAL,scip_BlockModeling-karate-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,BlockModeling-politicalactor-02_c25.xml.lzma,SAT,10.930696819908917,44.0,true,,OPTIMAL,scip_BlockModeling-politicalactor-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,5.8407632280141115,33.0,true,,OPTIMAL,scip_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
