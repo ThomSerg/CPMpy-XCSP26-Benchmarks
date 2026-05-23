@@ -1308,7 +1308,9 @@ baseline,baseline,XCSP3-2025-COP25,scip,TankAllocation2-2591_c25.xml.lzma,UNKNOW
 baseline,baseline,XCSP3-2025-COP25,scip,TankAllocation2-chemical_c25.xml.lzma,UNKNOWN,580.6660023350269,,,memory,,scip_TankAllocation2-chemical_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,AlteredStates-02_c25.xml.lzma,SAT,31.7152650130447,7.0,true,,OPTIMAL,z3_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,AlteredStates-12_c25.xml.lzma,UNKNOWN,331.114863144001,,,memory,,z3_AlteredStates-12_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,AlteredStates-15_c25.xml.lzma,UNKNOWN,336.8272801639978,,,memory,,z3_AlteredStates-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,AlteredStates-bis-12_c25.xml.lzma,UNKNOWN,331.3532257550396,,,memory,,z3_AlteredStates-bis-12_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,AlteredStates-bis-15_c25.xml.lzma,UNKNOWN,332.86851622210816,,,memory,,z3_AlteredStates-bis-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,BlockModeling-politicalactor-02_c25.xml.lzma,SAT,20.7912805469241,44.0,true,,OPTIMAL,z3_BlockModeling-politicalactor-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,4.534391832072288,33.0,true,,OPTIMAL,z3_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,BlockModeling-transatlantic-03_c25.xml.lzma,SAT,171.8394101569429,29.0,true,,OPTIMAL,z3_BlockModeling-transatlantic-03_c25.xml.txt.metadata.json
