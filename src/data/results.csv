@@ -1514,6 +1514,15 @@ baseline,baseline,XCSP3-2025-COP25,z3,RoadefPlaning2-2024-10_c25.xml.lzma,SAT,59
 baseline,baseline,XCSP3-2025-COP25,z3,RoadefPlaning2-2024-11_c25.xml.lzma,SAT,106.69178463704884,4.0,true,,OPTIMAL,z3_RoadefPlaning2-2024-11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-04-20_c25.xml.lzma,SAT,29.449277547886595,10.0,true,,OPTIMAL,z3_RollerSplat-04-20_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-05a-30_c25.xml.lzma,SAT,36.84676719107665,10.0,true,,OPTIMAL,z3_RollerSplat-05a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-05b-50_c25.xml.lzma,UNKNOWN,599.2893023628276,,true,,UNKNOWN,z3_RollerSplat-05b-50_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-05c-70_c25.xml.lzma,UNKNOWN,599.9890108508989,,true,,UNKNOWN,z3_RollerSplat-05c-70_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-05d-90_c25.xml.lzma,UNKNOWN,601.1273745039944,,true,walltime,UNKNOWN,z3_RollerSplat-05d-90_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-06a-30_c25.xml.lzma,UNKNOWN,599.1690158138517,,true,,UNKNOWN,z3_RollerSplat-06a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-06b-50_c25.xml.lzma,UNKNOWN,599.9037854741327,,true,,UNKNOWN,z3_RollerSplat-06b-50_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-06c-70_c25.xml.lzma,UNKNOWN,601.090838639997,,true,walltime,UNKNOWN,z3_RollerSplat-06c-70_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-06d-90_c25.xml.lzma,UNKNOWN,601.2428849970456,,true,walltime,UNKNOWN,z3_RollerSplat-06d-90_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-07a-30_c25.xml.lzma,UNKNOWN,599.1819111900404,,true,,UNKNOWN,z3_RollerSplat-07a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-07b-50_c25.xml.lzma,UNKNOWN,600.240031859139,,true,,UNKNOWN,z3_RollerSplat-07b-50_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-04-01_c25.xml.lzma,SAT,13.997727266978472,1281.0,true,,OPTIMAL,z3_SchedulingOS-gp-04-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-04-05_c25.xml.lzma,SAT,10.63980961497873,1289.0,true,,OPTIMAL,z3_SchedulingOS-gp-04-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-05-01_c25.xml.lzma,SAT,23.787404991919175,1245.0,true,,OPTIMAL,z3_SchedulingOS-gp-05-01_c25.xml.txt.metadata.json
