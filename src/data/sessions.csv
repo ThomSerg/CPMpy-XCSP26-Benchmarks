@@ -1,3 +1,3 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,baseline,baseline,2026-05-21T16:23:19,2026-05-23T03:57:58,45fc0181 — Deprecate old runner,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,1019,3098,600.0
+1,baseline,baseline,2026-05-21T16:23:19,2026-05-23T04:00:02,45fc0181 — Deprecate old runner,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,1019,3102,600.0
 2,Submission_2025,Submission 2025,2026-05-22T12:57:37,2026-05-22T22:44:59,1e446eaf — Add count to second decompose_numerical location,false,XCSP3-2025-CSP25,210,1400,600.0
