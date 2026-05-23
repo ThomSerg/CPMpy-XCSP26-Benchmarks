@@ -6,14 +6,14 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-23 03:13:43 | 930/2887 |
+| 1 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-23 03:16:08 | 938/2902 |
 | 2 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
 
 ---
 
 ## baseline
 
-_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-23 03:13:43_
+_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-23 03:16:08_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -72,7 +72,7 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate ol
 | `pumpkin` | 103 | 0 | 21 | 126 | 250 |
 | `cpo` | 85 | 0 | 4 | 161 | 250 |
 | `ortools` | 57 | 0 | 0 | 0 | 57 |
-| `scip` | 19 | 0 | 0 | 11 | 30 |
+| `scip` | 27 | 0 | 5 | 13 | 45 |
 
 #### Solution Checker
 
@@ -83,7 +83,7 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate ol
 | `pumpkin` | 151 | **2** | 97 | 250 |
 | `cpo` | 82 | **4** | 164 | 250 |
 | `ortools` | 57 | 0 | 0 | 57 |
-| `scip` | 19 | 0 | 11 | 30 |
+| `scip` | 28 | 0 | 17 | 45 |
 
 ---
 
