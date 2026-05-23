@@ -1553,6 +1553,9 @@ baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-0800_c25.xml.lzma,UNKNOWN,
 baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-1200_c25.xml.lzma,SAT,599.7599205018487,0.0,false,,FEASIBLE,z3_TankAllocation2-1200_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-1600_c25.xml.lzma,UNKNOWN,601.1134696761146,,,walltime,,z3_TankAllocation2-1600_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-2000_c25.xml.lzma,UNKNOWN,601.5045203689951,,,walltime,,z3_TankAllocation2-2000_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-2400_c25.xml.lzma,UNKNOWN,601.2995046759024,,true,walltime,UNKNOWN,z3_TankAllocation2-2400_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-2591_c25.xml.lzma,UNKNOWN,601.1486925650388,,,walltime,,z3_TankAllocation2-2591_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-chemical_c25.xml.lzma,UNKNOWN,600.3650611368939,,true,,UNKNOWN,z3_TankAllocation2-chemical_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
