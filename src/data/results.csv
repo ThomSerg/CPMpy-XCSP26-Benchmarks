@@ -1285,6 +1285,7 @@ baseline,baseline,XCSP3-2025-COP25,scip,SchedulingOS-gp-07-05_c25.xml.lzma,UNKNO
 baseline,baseline,XCSP3-2025-COP25,scip,SchedulingOS-gp-08-01_c25.xml.lzma,UNKNOWN,218.67976741399616,,,,,scip_SchedulingOS-gp-08-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,SchedulingOS-gp-08-05_c25.xml.lzma,UNKNOWN,231.89831632515416,,,,,scip_SchedulingOS-gp-08-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,SchedulingOS-gp-09-01_c25.xml.lzma,UNKNOWN,439.49776468006894,,,,,scip_SchedulingOS-gp-09-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,SchedulingOS-gp-09-05_c25.xml.lzma,UNKNOWN,601.1769935570192,,,walltime,,scip_SchedulingOS-gp-09-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,SchedulingOS-gp-10-01_c25.xml.lzma,UNKNOWN,370.41441669198684,,,,,scip_SchedulingOS-gp-10-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,SchedulingOS-gp-10-05_c25.xml.lzma,UNKNOWN,435.6857426480856,,,,,scip_SchedulingOS-gp-10-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,TankAllocation1-0000_c25.xml.lzma,SAT,77.5739989769645,1619.0,true,,OPTIMAL,scip_TankAllocation1-0000_c25.xml.txt.metadata.json
