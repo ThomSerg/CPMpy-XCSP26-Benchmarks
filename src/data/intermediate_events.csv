@@ -48,8 +48,16 @@ baseline,XCSP3-2025-COP25,cpo,Coprime-17_c25.xml.lzma,0,21.469183683395386,107.0
 baseline,XCSP3-2025-COP25,cpo,Coprime-18_c25.xml.lzma,0,28.11876082420349,113.0
 baseline,XCSP3-2025-COP25,cpo,Coprime-19_c25.xml.lzma,0,55.07011914253235,131.0
 baseline,XCSP3-2025-COP25,cpo,Coprime-20_c25.xml.lzma,0,84.34158253669739,139.0
+baseline,XCSP3-2025-COP25,cpo,Coprime-21_c25.xml.lzma,0,275.43426394462585,157.0
+baseline,XCSP3-2025-COP25,cpo,Coprime-22_c25.xml.lzma,0,308.186496257782,167.0
 baseline,XCSP3-2025-COP25,cpo,Cutstock-00-0_c25.xml.lzma,0,0.15114402770996094,4.0
 baseline,XCSP3-2025-COP25,cpo,FAPP-aux-ex1_c25.xml.lzma,0,0.5077371597290039,523.0
+baseline,XCSP3-2025-COP25,cpo,LowAutocorrelation-010_c25.xml.lzma,0,0.2158827781677246,13.0
+baseline,XCSP3-2025-COP25,cpo,LowAutocorrelation-020_c25.xml.lzma,0,26.76498055458069,26.0
+baseline,XCSP3-2025-COP25,cpo,MetabolicNetwork-09_c25.xml.lzma,0,0.14922642707824707,2.0
+baseline,XCSP3-2025-COP25,cpo,MetabolicNetwork-10_c25.xml.lzma,0,0.15556621551513672,2.0
+baseline,XCSP3-2025-COP25,cpo,MetabolicNetwork-16_c25.xml.lzma,0,0.14317822456359863,2.0
+baseline,XCSP3-2025-COP25,cpo,MetabolicNetwork-17_c25.xml.lzma,0,0.18445062637329102,2.0
 baseline,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,0,6.005340814590454,6.0
 baseline,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,0,29.223825693130493,0.0
 baseline,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,1,50.666645526885986,4.0
