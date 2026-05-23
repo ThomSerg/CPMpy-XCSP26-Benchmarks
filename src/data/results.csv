@@ -1439,6 +1439,8 @@ baseline,baseline,XCSP3-2025-COP25,z3,FlexibleJobshopScen-dh-5-20-400_c25.xml.lz
 baseline,baseline,XCSP3-2025-COP25,z3,FlexibleJobshopScen-dh-6-18-005_c25.xml.lzma,SAT,598.9366791590583,3259.0,true,,FEASIBLE,z3_FlexibleJobshopScen-dh-6-18-005_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,FlexibleJobshopScen-dh-6-18-020_c25.xml.lzma,SAT,599.6514074418228,16097.0,true,,FEASIBLE,z3_FlexibleJobshopScen-dh-6-18-020_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,FlexibleJobshopScen-dh-6-18-080_c25.xml.lzma,UNKNOWN,599.8059141070116,,true,,UNKNOWN,z3_FlexibleJobshopScen-dh-6-18-080_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,FlexibleJobshopScen-dh-6-18-200_c25.xml.lzma,UNKNOWN,601.2636306940112,,,walltime,,z3_FlexibleJobshopScen-dh-6-18-200_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,FlexibleJobshopScen-dh-6-18-400_c25.xml.lzma,UNKNOWN,601.3750613851007,,,walltime,,z3_FlexibleJobshopScen-dh-6-18-400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-03_c25.xml.lzma,SAT,3.607331964885816,459518.0,true,,OPTIMAL,z3_Fortress1-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-04_c25.xml.lzma,SAT,5.205391871044412,649400.0,true,,OPTIMAL,z3_Fortress1-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-05_c25.xml.lzma,SAT,7.914903348078951,1079078.0,true,,OPTIMAL,z3_Fortress1-05_c25.xml.txt.metadata.json
@@ -1447,11 +1449,13 @@ baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-07_c25.xml.lzma,SAT,9.3971152890
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-08_c25.xml.lzma,SAT,9.980574438115582,1239006.0,true,,OPTIMAL,z3_Fortress1-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-09_c25.xml.lzma,SAT,11.343263810034841,1458951.0,true,,OPTIMAL,z3_Fortress1-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-10_c25.xml.lzma,SAT,20.98542065382935,1798536.0,true,,OPTIMAL,z3_Fortress1-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,Fortress2-03_c25.xml.lzma,SAT,601.4590390778612,550180.0,true,walltime,FEASIBLE,z3_Fortress2-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress2-04_c25.xml.lzma,UNKNOWN,214.72178818192333,,,memory,,z3_Fortress2-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress2-05_c25.xml.lzma,UNKNOWN,306.45850132382475,,,memory,,z3_Fortress2-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress2-06_c25.xml.lzma,UNKNOWN,347.9103535579052,,,memory,,z3_Fortress2-06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress2-07_c25.xml.lzma,UNKNOWN,353.11383654992096,,,memory,,z3_Fortress2-07_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress2-08_c25.xml.lzma,UNKNOWN,388.2737289571669,,,memory,,z3_Fortress2-08_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,Fortress2-09_c25.xml.lzma,UNKNOWN,407.1557340710424,,,memory,,z3_Fortress2-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i01_c25.xml.lzma,UNSAT,6.79660604102537,,true,,UNSATISFIABLE,z3_IHTC-i01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i02_c25.xml.lzma,UNSAT,9.56427263491787,,true,,UNSATISFIABLE,z3_IHTC-i02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i03_c25.xml.lzma,UNSAT,10.68324705120176,,true,,UNSATISFIABLE,z3_IHTC-i03_c25.xml.txt.metadata.json
@@ -1464,11 +1468,13 @@ baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i10_c25.xml.lzma,UNSAT,80.65507399500
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i11_c25.xml.lzma,UNSAT,128.45782492193393,,true,,UNSATISFIABLE,z3_IHTC-i11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i12_c25.xml.lzma,UNSAT,84.97853919793852,,true,,UNSATISFIABLE,z3_IHTC-i12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i16_c25.xml.lzma,UNSAT,208.41344060492702,,true,,UNSATISFIABLE,z3_IHTC-i16_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-010_c25.xml.lzma,SAT,285.9510105061345,13.0,true,,OPTIMAL,z3_LowAutocorrelation-010_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-020_c25.xml.lzma,SAT,10.728905611904338,250.0,true,,OPTIMAL,z3_LowAutocorrelation-020_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-040_c25.xml.lzma,UNKNOWN,31.76721504004672,,,exitcode:1,,z3_LowAutocorrelation-040_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-060_c25.xml.lzma,UNKNOWN,24.67655059695244,,,exitcode:1,,z3_LowAutocorrelation-060_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-080_c25.xml.lzma,UNKNOWN,63.91710850293748,,,exitcode:1,,z3_LowAutocorrelation-080_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-100_c25.xml.lzma,UNKNOWN,23.971753678983077,,,exitcode:1,,z3_LowAutocorrelation-100_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-120_c25.xml.lzma,UNKNOWN,224.06374659016728,,,exitcode:1,,z3_LowAutocorrelation-120_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-200_c25.xml.lzma,UNKNOWN,51.389656962128356,,,exitcode:1,,z3_LowAutocorrelation-200_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-300_c25.xml.lzma,UNKNOWN,118.97964239795692,,,exitcode:1,,z3_LowAutocorrelation-300_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-500_c25.xml.lzma,UNKNOWN,126.71015322883613,,,memory,,z3_LowAutocorrelation-500_c25.xml.txt.metadata.json
@@ -1482,6 +1488,9 @@ baseline,baseline,XCSP3-2025-COP25,z3,RoadefPlaning2-2021-06_c25.xml.lzma,SAT,2.
 baseline,baseline,XCSP3-2025-COP25,z3,RoadefPlaning2-2022-10_c25.xml.lzma,UNKNOWN,2.6290868599899113,,,exitcode:1,,z3_RoadefPlaning2-2022-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,RoadefPlaning2-2023-11_c25.xml.lzma,UNKNOWN,2.6201144051738083,,,exitcode:1,,z3_RoadefPlaning2-2023-11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,RoadefPlaning2-2024-09_c25.xml.lzma,UNKNOWN,2.579135258914903,,,exitcode:1,,z3_RoadefPlaning2-2024-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RoadefPlaning2-2024-11_c25.xml.lzma,SAT,106.69178463704884,4.0,true,,OPTIMAL,z3_RoadefPlaning2-2024-11_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-04-20_c25.xml.lzma,SAT,29.449277547886595,10.0,true,,OPTIMAL,z3_RollerSplat-04-20_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-05a-30_c25.xml.lzma,SAT,36.84676719107665,10.0,true,,OPTIMAL,z3_RollerSplat-05a-30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
