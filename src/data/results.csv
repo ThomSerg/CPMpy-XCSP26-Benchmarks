@@ -784,6 +784,13 @@ baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-07-01_c25.xml.lzma,SA
 baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-07-05_c25.xml.lzma,SAT,59.52871780493297,1157.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-07-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-08-01_c25.xml.lzma,SAT,389.8472475949675,1130.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-08-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-08-05_c25.xml.lzma,SAT,226.8455388948787,1218.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-08-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-09-01_c25.xml.lzma,SAT,599.7656397358514,1203.0,true,,FEASIBLE,pumpkin_SchedulingOS-gp-09-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-09-05_c25.xml.lzma,SAT,599.7932696840726,1196.0,true,,FEASIBLE,pumpkin_SchedulingOS-gp-09-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-10-01_c25.xml.lzma,SAT,599.9467410598882,1254.0,true,,FEASIBLE,pumpkin_SchedulingOS-gp-10-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-10-05_c25.xml.lzma,SAT,599.6729106009007,1254.0,true,,FEASIBLE,pumpkin_SchedulingOS-gp-10-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,TankAllocation1-0000_c25.xml.lzma,SAT,600.2991144019179,1576.0,true,,FEASIBLE,pumpkin_TankAllocation1-0000_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,TankAllocation1-0400_c25.xml.lzma,SAT,600.7463574069552,1130.0,true,,FEASIBLE,pumpkin_TankAllocation1-0400_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,TankAllocation1-0800_c25.xml.lzma,SAT,600.9398667209316,5741.0,true,,FEASIBLE,pumpkin_TankAllocation1-0800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,TankAllocation1-1200_c25.xml.lzma,SAT,131.79532241099514,300.0,true,,OPTIMAL,pumpkin_TankAllocation1-1200_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,TankAllocation1-2400_c25.xml.lzma,SAT,20.40165029396303,4304.0,true,,OPTIMAL,pumpkin_TankAllocation1-2400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,TankAllocation2-0400_c25.xml.lzma,UNKNOWN,62.399574731010944,,,memory,,pumpkin_TankAllocation2-0400_c25.xml.txt.metadata.json
