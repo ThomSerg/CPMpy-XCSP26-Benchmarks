@@ -1153,6 +1153,11 @@ baseline,baseline,XCSP3-2025-COP25,scip,Cutstock-08-0_c25.xml.lzma,UNKNOWN,601.1
 baseline,baseline,XCSP3-2025-COP25,scip,Cutstock-09-0_c25.xml.lzma,UNKNOWN,601.064793955069,,,walltime,,scip_Cutstock-09-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,Cutstock-10-0_c25.xml.lzma,UNKNOWN,601.1620271189604,,,walltime,,scip_Cutstock-10-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,Cutstock-13-0_c25.xml.lzma,SAT,9.41629375400953,65.0,true,,OPTIMAL,scip_Cutstock-13-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Cutstock-14-0_c25.xml.lzma,UNKNOWN,601.0905890457798,,,walltime,,scip_Cutstock-14-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Cutstock-15-0_c25.xml.lzma,UNKNOWN,599.695448532002,,true,,UNKNOWN,scip_Cutstock-15-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Cutstock-16-0_c25.xml.lzma,UNKNOWN,601.2741309402045,,,walltime,,scip_Cutstock-16-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Cutstock-16-1_c25.xml.lzma,UNKNOWN,601.1659399028867,,,walltime,,scip_Cutstock-16-1_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Cutstock-16-2_c25.xml.lzma,UNKNOWN,601.1753362950403,,,walltime,,scip_Cutstock-16-2_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-01-0200_c25.xml.lzma,UNKNOWN,408.5376964760944,,,memory,,scip_FAPP-aux-01-0200_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-02-0250_c25.xml.lzma,UNKNOWN,384.64215950202197,,,memory,,scip_FAPP-aux-02-0250_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-03-0300_c25.xml.lzma,UNKNOWN,400.4042989599984,,,memory,,scip_FAPP-aux-03-0300_c25.xml.txt.metadata.json
@@ -1161,7 +1166,15 @@ baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-05-0350_c25.xml.lzma,UNKNOWN,40
 baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-06-0500_c25.xml.lzma,UNKNOWN,455.50730824586935,,,memory,,scip_FAPP-aux-06-0500_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-07-0600_c25.xml.lzma,UNKNOWN,455.9169695538003,,,memory,,scip_FAPP-aux-07-0600_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-08-0700_c25.xml.lzma,UNKNOWN,416.7582831471227,,,memory,,scip_FAPP-aux-08-0700_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-09-0800_c25.xml.lzma,UNKNOWN,457.59550115605816,,,memory,,scip_FAPP-aux-09-0800_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-10-0900_c25.xml.lzma,UNKNOWN,499.35584401199594,,,memory,,scip_FAPP-aux-10-0900_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-17-0300_c25.xml.lzma,UNKNOWN,367.48435079003684,,,memory,,scip_FAPP-aux-17-0300_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-18-0350_c25.xml.lzma,UNKNOWN,381.3006220459938,,,memory,,scip_FAPP-aux-18-0350_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,FAPP-aux-21-0500_c25.xml.lzma,UNKNOWN,365.4651415529661,,,memory,,scip_FAPP-aux-21-0500_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,FlexibleJobshopScen-dh-5-16-400_c25.xml.lzma,UNKNOWN,188.20112885604613,,,memory,,scip_FlexibleJobshopScen-dh-5-16-400_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,FlexibleJobshopScen-dh-5-20-200_c25.xml.lzma,UNKNOWN,171.592058788985,,,memory,,scip_FlexibleJobshopScen-dh-5-20-200_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Fortress1-03_c25.xml.lzma,SAT,11.936412094859406,459518.0,true,,OPTIMAL,scip_Fortress1-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Fortress1-04_c25.xml.lzma,SAT,34.922320696059614,649400.0,true,,OPTIMAL,scip_Fortress1-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
