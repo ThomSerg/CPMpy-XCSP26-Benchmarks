@@ -1131,6 +1131,10 @@ baseline,baseline,XCSP3-2025-COP25,scip,Coprime-08_c25.xml.lzma,SAT,102.11988060
 baseline,baseline,XCSP3-2025-COP25,scip,Coprime-10_c25.xml.lzma,UNKNOWN,599.8049710141495,,true,,UNKNOWN,scip_Coprime-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,Coprime-12_c25.xml.lzma,UNKNOWN,601.226240406977,,,walltime,,scip_Coprime-12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,Coprime-14_c25.xml.lzma,UNKNOWN,600.7779522899073,,true,,UNKNOWN,scip_Coprime-14_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Coprime-16_c25.xml.lzma,UNKNOWN,601.152167593129,,true,walltime,UNKNOWN,scip_Coprime-16_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Coprime-17_c25.xml.lzma,UNKNOWN,601.1375156638678,,true,walltime,UNKNOWN,scip_Coprime-17_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Coprime-18_c25.xml.lzma,UNKNOWN,601.1282166088931,,true,walltime,UNKNOWN,scip_Coprime-18_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,Coprime-19_c25.xml.lzma,UNKNOWN,601.0709298069123,,true,walltime,UNKNOWN,scip_Coprime-19_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,Cutstock-00-0_c25.xml.lzma,SAT,2.051439708797261,4.0,true,,OPTIMAL,scip_Cutstock-00-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,Cutstock-01-0_c25.xml.lzma,SAT,5.087979297153652,13.0,true,,OPTIMAL,scip_Cutstock-01-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,Cutstock-03-0_c25.xml.lzma,SAT,24.79401029716246,23.0,true,,OPTIMAL,scip_Cutstock-03-0_c25.xml.txt.metadata.json
