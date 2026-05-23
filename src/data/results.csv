@@ -634,6 +634,7 @@ baseline,baseline,XCSP3-2025-COP25,pumpkin,Coprime-14_c25.xml.lzma,SAT,30.966326
 baseline,baseline,XCSP3-2025-COP25,pumpkin,Coprime-16_c25.xml.lzma,SAT,141.79970051487908,103.0,true,,OPTIMAL,pumpkin_Coprime-16_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,Coprime-17_c25.xml.lzma,SAT,224.88427988393232,107.0,true,,OPTIMAL,pumpkin_Coprime-17_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,Coprime-18_c25.xml.lzma,SAT,296.4256106398534,113.0,true,,OPTIMAL,pumpkin_Coprime-18_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,Coprime-40_c25.xml.lzma,UNKNOWN,439.4203366008587,,,memory,,pumpkin_Coprime-40_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,Cutstock-00-0_c25.xml.lzma,SAT,1.77061524707824,4.0,true,,OPTIMAL,pumpkin_Cutstock-00-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,Cutstock-07-0_c25.xml.lzma,SAT,2.415111667010933,58.0,true,,OPTIMAL,pumpkin_Cutstock-07-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,Cutstock-08-0_c25.xml.lzma,SAT,16.661701770033687,579.0,true,,OPTIMAL,pumpkin_Cutstock-08-0_c25.xml.txt.metadata.json
@@ -653,6 +654,7 @@ baseline,baseline,XCSP3-2025-COP25,pumpkin,FAPP-aux-09-0800_c25.xml.lzma,UNKNOWN
 baseline,baseline,XCSP3-2025-COP25,pumpkin,FAPP-aux-10-0900_c25.xml.lzma,UNKNOWN,263.39844647212885,,,memory,,pumpkin_FAPP-aux-10-0900_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,FAPP-aux-17-0300_c25.xml.lzma,UNKNOWN,62.35380174708553,,,memory,,pumpkin_FAPP-aux-17-0300_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,FAPP-aux-18-0350_c25.xml.lzma,UNKNOWN,50.7252223698888,,,memory,,pumpkin_FAPP-aux-18-0350_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,FAPP-aux-19-0350_c25.xml.lzma,UNKNOWN,277.31065989099443,,,memory,,pumpkin_FAPP-aux-19-0350_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,FAPP-aux-20-0420_c25.xml.lzma,UNKNOWN,103.48715029796585,,,memory,,pumpkin_FAPP-aux-20-0420_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,FAPP-aux-21-0500_c25.xml.lzma,UNKNOWN,41.7338459470775,,,memory,,pumpkin_FAPP-aux-21-0500_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,FAPP-aux-ex1_c25.xml.lzma,SAT,4.829151560086757,523.0,true,,OPTIMAL,pumpkin_FAPP-aux-ex1_c25.xml.txt.metadata.json
