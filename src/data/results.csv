@@ -1523,12 +1523,16 @@ baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-06c-70_c25.xml.lzma,UNKNOWN,60
 baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-06d-90_c25.xml.lzma,UNKNOWN,601.2428849970456,,true,walltime,UNKNOWN,z3_RollerSplat-06d-90_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-07a-30_c25.xml.lzma,UNKNOWN,599.1819111900404,,true,,UNKNOWN,z3_RollerSplat-07a-30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-07b-50_c25.xml.lzma,UNKNOWN,600.240031859139,,true,,UNKNOWN,z3_RollerSplat-07b-50_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-07c-70_c25.xml.lzma,UNKNOWN,600.6640818691812,,true,,UNKNOWN,z3_RollerSplat-07c-70_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-04-01_c25.xml.lzma,SAT,13.997727266978472,1281.0,true,,OPTIMAL,z3_SchedulingOS-gp-04-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-04-05_c25.xml.lzma,SAT,10.63980961497873,1289.0,true,,OPTIMAL,z3_SchedulingOS-gp-04-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-05-01_c25.xml.lzma,SAT,23.787404991919175,1245.0,true,,OPTIMAL,z3_SchedulingOS-gp-05-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-05-05_c25.xml.lzma,SAT,34.384286648826674,1280.0,true,,OPTIMAL,z3_SchedulingOS-gp-05-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-06-01_c25.xml.lzma,SAT,108.93380327709019,1264.0,true,,OPTIMAL,z3_SchedulingOS-gp-06-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-06-05_c25.xml.lzma,SAT,100.66915286518633,1299.0,true,,OPTIMAL,z3_SchedulingOS-gp-06-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-07-05_c25.xml.lzma,SAT,458.78973328787833,1157.0,true,,OPTIMAL,z3_SchedulingOS-gp-07-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-0400_c25.xml.lzma,UNKNOWN,253.62879733601585,,,memory,,z3_TankAllocation2-0400_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-0800_c25.xml.lzma,UNKNOWN,288.366067284951,,,memory,,z3_TankAllocation2-0800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
