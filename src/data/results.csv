@@ -1470,6 +1470,9 @@ baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i10_c25.xml.lzma,UNSAT,80.65507399500
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i11_c25.xml.lzma,UNSAT,128.45782492193393,,true,,UNSATISFIABLE,z3_IHTC-i11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i12_c25.xml.lzma,UNSAT,84.97853919793852,,true,,UNSATISFIABLE,z3_IHTC-i12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i16_c25.xml.lzma,UNSAT,208.41344060492702,,true,,UNSATISFIABLE,z3_IHTC-i16_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i18_c25.xml.lzma,UNKNOWN,601.2568800400477,,true,walltime,UNKNOWN,z3_IHTC-i18_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i29_c25.xml.lzma,UNKNOWN,601.4232724320609,,,walltime,,z3_IHTC-i29_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i30_c25.xml.lzma,UNKNOWN,601.4962993410882,,,walltime,,z3_IHTC-i30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-010_c25.xml.lzma,SAT,285.9510105061345,13.0,true,,OPTIMAL,z3_LowAutocorrelation-010_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-020_c25.xml.lzma,SAT,10.728905611904338,250.0,true,,OPTIMAL,z3_LowAutocorrelation-020_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-040_c25.xml.lzma,UNKNOWN,31.76721504004672,,,exitcode:1,,z3_LowAutocorrelation-040_c25.xml.txt.metadata.json
@@ -1477,6 +1480,7 @@ baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-060_c25.xml.lzma,UNKNOW
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-080_c25.xml.lzma,UNKNOWN,63.91710850293748,,,exitcode:1,,z3_LowAutocorrelation-080_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-100_c25.xml.lzma,UNKNOWN,23.971753678983077,,,exitcode:1,,z3_LowAutocorrelation-100_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-120_c25.xml.lzma,UNKNOWN,224.06374659016728,,,exitcode:1,,z3_LowAutocorrelation-120_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-150_c25.xml.lzma,UNKNOWN,601.3601039829664,,,walltime,,z3_LowAutocorrelation-150_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-200_c25.xml.lzma,UNKNOWN,51.389656962128356,,,exitcode:1,,z3_LowAutocorrelation-200_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-300_c25.xml.lzma,UNKNOWN,118.97964239795692,,,exitcode:1,,z3_LowAutocorrelation-300_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-500_c25.xml.lzma,UNKNOWN,126.71015322883613,,,memory,,z3_LowAutocorrelation-500_c25.xml.txt.metadata.json
@@ -1494,6 +1498,10 @@ baseline,baseline,XCSP3-2025-COP25,z3,RoadefPlaning2-2024-09_c25.xml.lzma,UNKNOW
 baseline,baseline,XCSP3-2025-COP25,z3,RoadefPlaning2-2024-11_c25.xml.lzma,SAT,106.69178463704884,4.0,true,,OPTIMAL,z3_RoadefPlaning2-2024-11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-04-20_c25.xml.lzma,SAT,29.449277547886595,10.0,true,,OPTIMAL,z3_RollerSplat-04-20_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,RollerSplat-05a-30_c25.xml.lzma,SAT,36.84676719107665,10.0,true,,OPTIMAL,z3_RollerSplat-05a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-04-01_c25.xml.lzma,SAT,13.997727266978472,1281.0,true,,OPTIMAL,z3_SchedulingOS-gp-04-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-04-05_c25.xml.lzma,SAT,10.63980961497873,1289.0,true,,OPTIMAL,z3_SchedulingOS-gp-04-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-05-01_c25.xml.lzma,SAT,23.787404991919175,1245.0,true,,OPTIMAL,z3_SchedulingOS-gp-05-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,SchedulingOS-gp-05-05_c25.xml.lzma,SAT,34.384286648826674,1280.0,true,,OPTIMAL,z3_SchedulingOS-gp-05-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
