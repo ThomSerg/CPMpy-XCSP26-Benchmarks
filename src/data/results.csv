@@ -737,8 +737,12 @@ baseline,baseline,XCSP3-2025-COP25,pumpkin,LowAutocorrelation-500_c25.xml.lzma,U
 baseline,baseline,XCSP3-2025-COP25,pumpkin,LowAutocorrelation-800_c25.xml.lzma,UNKNOWN,601.5275614580605,,,walltime,UNKNOWN,pumpkin_LowAutocorrelation-800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,MetabolicNetwork-09_c25.xml.lzma,SAT,17.32848374499008,2.0,true,,OPTIMAL,pumpkin_MetabolicNetwork-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,MetabolicNetwork-10_c25.xml.lzma,SAT,1.8027063130866736,2.0,true,,OPTIMAL,pumpkin_MetabolicNetwork-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,MetabolicNetwork-14_c25.xml.lzma,SAT,599.3995792670175,1447.0,true,,FEASIBLE,pumpkin_MetabolicNetwork-14_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,MetabolicNetwork-16_c25.xml.lzma,SAT,1.5937446020543575,2.0,true,,OPTIMAL,pumpkin_MetabolicNetwork-16_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,MetabolicNetwork-17_c25.xml.lzma,SAT,1.6078717480413616,2.0,true,,OPTIMAL,pumpkin_MetabolicNetwork-17_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,MetabolicNetwork-36_c25.xml.lzma,UNKNOWN,601.1968534700572,,true,walltime,UNKNOWN,pumpkin_MetabolicNetwork-36_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,MetabolicNetwork-37_c25.xml.lzma,UNKNOWN,601.0720425408799,,true,walltime,UNKNOWN,pumpkin_MetabolicNetwork-37_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,MetabolicNetwork-38_c25.xml.lzma,UNKNOWN,601.1403467890341,,true,walltime,UNKNOWN,pumpkin_MetabolicNetwork-38_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,MetabolicNetwork-41_c25.xml.lzma,SAT,369.59125619288534,2.0,true,,OPTIMAL,pumpkin_MetabolicNetwork-41_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,RoadefPlaning2-2021-04_c25.xml.lzma,UNKNOWN,1.7001253489870578,,,exitcode:1,,pumpkin_RoadefPlaning2-2021-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,RoadefPlaning2-2021-05_c25.xml.lzma,SAT,3.861855420982465,0.0,true,,OPTIMAL,pumpkin_RoadefPlaning2-2021-05_c25.xml.txt.metadata.json
@@ -753,6 +757,10 @@ baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-04-01_c25.xml.lzma,SA
 baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-04-05_c25.xml.lzma,SAT,2.294802417047322,1289.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-04-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-05-01_c25.xml.lzma,SAT,11.540301792090759,1245.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-05-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-05-05_c25.xml.lzma,SAT,5.496127835009247,1280.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-05-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-06-01_c25.xml.lzma,SAT,18.497501427074894,1264.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-06-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-06-05_c25.xml.lzma,SAT,11.351282016839832,1299.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-06-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-07-01_c25.xml.lzma,SAT,46.42432746198028,1159.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-07-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-07-05_c25.xml.lzma,SAT,59.52871780493297,1157.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-07-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
