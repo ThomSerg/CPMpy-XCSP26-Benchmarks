@@ -1102,6 +1102,13 @@ baseline,baseline,XCSP3-2025-COP25,scip,BusScheduling-r5_c25.xml.lzma,SAT,20.193
 baseline,baseline,XCSP3-2025-COP25,scip,BusScheduling-r5a_c25.xml.lzma,SAT,24.105939022963867,28.0,true,,OPTIMAL,scip_BusScheduling-r5a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,BusScheduling-t1_c25.xml.lzma,SAT,1.700838048942387,7.0,true,,OPTIMAL,scip_BusScheduling-t1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,BusScheduling-t2_c25.xml.lzma,SAT,5.10776072810404,19.0,true,,OPTIMAL,scip_BusScheduling-t2_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,ButtonsScissors-00_c25.xml.lzma,UNKNOWN,599.1453651399352,,true,,UNKNOWN,scip_ButtonsScissors-00_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,ButtonsScissors-01_c25.xml.lzma,UNKNOWN,599.0941998970229,,true,,UNKNOWN,scip_ButtonsScissors-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,ButtonsScissors-02_c25.xml.lzma,UNKNOWN,599.0144517710432,,true,,UNKNOWN,scip_ButtonsScissors-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,ButtonsScissors-03_c25.xml.lzma,UNKNOWN,599.1024084961973,,true,,UNKNOWN,scip_ButtonsScissors-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,ButtonsScissors-04_c25.xml.lzma,UNKNOWN,598.9748263589572,,true,,UNKNOWN,scip_ButtonsScissors-04_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,ButtonsScissors-05_c25.xml.lzma,UNKNOWN,599.0569448329043,,true,,UNKNOWN,scip_ButtonsScissors-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,ButtonsScissors-06_c25.xml.lzma,UNKNOWN,599.0148261629511,,true,,UNKNOWN,scip_ButtonsScissors-06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,ChampionsLeague-2024-09_c25.xml.lzma,SAT,185.8203828940168,24.0,true,,OPTIMAL,scip_ChampionsLeague-2024-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,ChampionsLeague-strict-2024-35_c25.xml.lzma,SAT,98.40603918302804,11.0,true,,OPTIMAL,scip_ChampionsLeague-strict-2024-35_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,Coprime-08_c25.xml.lzma,SAT,102.11988060106523,31.0,true,,OPTIMAL,scip_Coprime-08_c25.xml.txt.metadata.json
