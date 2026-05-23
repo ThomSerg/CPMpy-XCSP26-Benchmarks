@@ -1,4 +1,4 @@
 session_slug,session_name,track,solvers
-baseline,baseline,XCSP3-2025-COP25,cpo;exact;gurobi;ortools;pumpkin;scip
+baseline,baseline,XCSP3-2025-COP25,cpo;exact;gurobi;ortools;pumpkin;scip;z3
 baseline,baseline,XCSP3-2025-CSP25,cpo;exact;gurobi;highs;ortools;pindakaas;pumpkin;scip;z3
 Submission_2025,Submission 2025,XCSP3-2025-CSP25,cpo;exact;gurobi;ortools;pumpkin;scip;z3
