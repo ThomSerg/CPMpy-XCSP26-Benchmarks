@@ -1382,6 +1382,13 @@ baseline,baseline,XCSP3-2025-COP25,z3,Coprime-10_c25.xml.lzma,UNKNOWN,599.044655
 baseline,baseline,XCSP3-2025-COP25,z3,Coprime-12_c25.xml.lzma,UNKNOWN,599.3714420059696,,true,,UNKNOWN,z3_Coprime-12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Coprime-14_c25.xml.lzma,UNKNOWN,599.8767095168587,,true,,UNKNOWN,z3_Coprime-14_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Coprime-16_c25.xml.lzma,UNKNOWN,600.6373544211965,,true,,UNKNOWN,z3_Coprime-16_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,Coprime-17_c25.xml.lzma,UNKNOWN,601.1308748780284,,true,walltime,UNKNOWN,z3_Coprime-17_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,Coprime-18_c25.xml.lzma,UNKNOWN,601.1015814619604,,true,walltime,UNKNOWN,z3_Coprime-18_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,Coprime-19_c25.xml.lzma,UNKNOWN,601.0820563209709,,true,walltime,UNKNOWN,z3_Coprime-19_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,Coprime-20_c25.xml.lzma,UNKNOWN,601.1147614801303,,true,walltime,UNKNOWN,z3_Coprime-20_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,Coprime-21_c25.xml.lzma,UNKNOWN,601.1093712199945,,true,walltime,UNKNOWN,z3_Coprime-21_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,Coprime-22_c25.xml.lzma,UNKNOWN,601.1286618891172,,,walltime,,z3_Coprime-22_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,Coprime-23_c25.xml.lzma,UNKNOWN,601.3039797008969,,true,walltime,UNKNOWN,z3_Coprime-23_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Coprime-40_c25.xml.lzma,UNKNOWN,446.4463654290885,,,memory,,z3_Coprime-40_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Cutstock-00-0_c25.xml.lzma,SAT,1.7266716761514544,4.0,true,,OPTIMAL,z3_Cutstock-00-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
