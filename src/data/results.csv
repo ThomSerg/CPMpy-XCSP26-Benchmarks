@@ -1221,11 +1221,13 @@ baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i11_c25.xml.lzma,UNKNOWN,167.788996
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i12_c25.xml.lzma,UNSAT,145.2922591760289,,true,,UNSATISFIABLE,scip_IHTC-i12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i16_c25.xml.lzma,UNKNOWN,242.3916722361464,,,memory,,scip_IHTC-i16_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i18_c25.xml.lzma,UNKNOWN,359.111889539985,,,memory,,scip_IHTC-i18_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i29_c25.xml.lzma,UNKNOWN,601.7389503228478,,,walltime,,scip_IHTC-i29_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,IHTC-i30_c25.xml.lzma,UNKNOWN,438.26151974499226,,,memory,,scip_IHTC-i30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,LowAutocorrelation-010_c25.xml.lzma,SAT,2.449707714142278,13.0,true,,OPTIMAL,scip_LowAutocorrelation-010_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,LowAutocorrelation-020_c25.xml.lzma,SAT,204.95501230680384,26.0,true,,OPTIMAL,scip_LowAutocorrelation-020_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,LowAutocorrelation-080_c25.xml.lzma,UNKNOWN,225.07374845910817,,,,,scip_LowAutocorrelation-080_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,LowAutocorrelation-500_c25.xml.lzma,UNKNOWN,203.44571913406253,,,memory,,scip_LowAutocorrelation-500_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,LowAutocorrelation-800_c25.xml.lzma,UNKNOWN,295.686152640963,,,memory,,scip_LowAutocorrelation-800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,MetabolicNetwork-09_c25.xml.lzma,SAT,2.1395554540213197,1.999999999999997,true,,OPTIMAL,scip_MetabolicNetwork-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,MetabolicNetwork-10_c25.xml.lzma,SAT,1.7160151291172951,2.0,true,,OPTIMAL,scip_MetabolicNetwork-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,MetabolicNetwork-14_c25.xml.lzma,SAT,237.42820425890386,1.9999999999999998,true,,OPTIMAL,scip_MetabolicNetwork-14_c25.xml.txt.metadata.json
@@ -1247,6 +1249,9 @@ baseline,baseline,XCSP3-2025-COP25,scip,RoadefPlaning2-2021-06_c25.xml.lzma,SAT,
 baseline,baseline,XCSP3-2025-COP25,scip,RoadefPlaning2-2022-10_c25.xml.lzma,UNKNOWN,2.221370186889544,,,exitcode:1,,scip_RoadefPlaning2-2022-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,RoadefPlaning2-2023-11_c25.xml.lzma,UNKNOWN,2.266072894213721,,,exitcode:1,,scip_RoadefPlaning2-2023-11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,scip,RoadefPlaning2-2024-09_c25.xml.lzma,UNKNOWN,2.086797423195094,,,exitcode:1,,scip_RoadefPlaning2-2024-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,RollerSplat-05a-30_c25.xml.lzma,UNKNOWN,191.7661303789355,,,,,scip_RollerSplat-05a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,SchedulingOS-gp-05-01_c25.xml.lzma,UNKNOWN,53.480789449997246,,,,,scip_SchedulingOS-gp-05-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,scip,SchedulingOS-gp-05-05_c25.xml.lzma,UNKNOWN,50.890287186950445,,,,,scip_SchedulingOS-gp-05-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
