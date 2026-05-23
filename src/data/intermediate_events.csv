@@ -58,6 +58,12 @@ baseline,XCSP3-2025-COP25,cpo,MetabolicNetwork-09_c25.xml.lzma,0,0.1492264270782
 baseline,XCSP3-2025-COP25,cpo,MetabolicNetwork-10_c25.xml.lzma,0,0.15556621551513672,2.0
 baseline,XCSP3-2025-COP25,cpo,MetabolicNetwork-16_c25.xml.lzma,0,0.14317822456359863,2.0
 baseline,XCSP3-2025-COP25,cpo,MetabolicNetwork-17_c25.xml.lzma,0,0.18445062637329102,2.0
+baseline,XCSP3-2025-COP25,cpo,RoadefPlaning2-2021-05_c25.xml.lzma,0,0.23078298568725586,0.0
+baseline,XCSP3-2025-COP25,cpo,RoadefPlaning2-2021-06_c25.xml.lzma,0,0.23712968826293945,0.0
+baseline,XCSP3-2025-COP25,cpo,RoadefPlaning2-2024-10_c25.xml.lzma,0,8.392597675323486,4.0
+baseline,XCSP3-2025-COP25,cpo,RoadefPlaning2-2024-11_c25.xml.lzma,0,6.640774488449097,4.0
+baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-04-01_c25.xml.lzma,0,36.27499055862427,1281.0
+baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-04-05_c25.xml.lzma,0,17.795422077178955,1289.0
 baseline,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,0,6.005340814590454,6.0
 baseline,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,0,29.223825693130493,0.0
 baseline,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,1,50.666645526885986,4.0
