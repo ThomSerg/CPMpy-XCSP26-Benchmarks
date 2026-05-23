@@ -1545,8 +1545,14 @@ baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation1-1200_c25.xml.lzma,SAT,510.
 baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation1-1600_c25.xml.lzma,SAT,599.1437332979403,0.0,true,,FEASIBLE,z3_TankAllocation1-1600_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation1-2000_c25.xml.lzma,SAT,598.950650989078,0.0,true,,FEASIBLE,z3_TankAllocation1-2000_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation1-2400_c25.xml.lzma,SAT,599.7949400618672,4304.0,true,,FEASIBLE,z3_TankAllocation1-2400_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation1-2591_c25.xml.lzma,SAT,599.7511704689823,1167.0,false,,FEASIBLE,z3_TankAllocation1-2591_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation1-chemical_c25.xml.lzma,SAT,598.7217451909091,0.0,true,,FEASIBLE,z3_TankAllocation1-chemical_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-0000_c25.xml.lzma,UNKNOWN,601.1427507810295,,true,walltime,UNKNOWN,z3_TankAllocation2-0000_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-0400_c25.xml.lzma,UNKNOWN,253.62879733601585,,,memory,,z3_TankAllocation2-0400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-0800_c25.xml.lzma,UNKNOWN,288.366067284951,,,memory,,z3_TankAllocation2-0800_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-1200_c25.xml.lzma,SAT,599.7599205018487,0.0,false,,FEASIBLE,z3_TankAllocation2-1200_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-1600_c25.xml.lzma,UNKNOWN,601.1134696761146,,,walltime,,z3_TankAllocation2-1600_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,TankAllocation2-2000_c25.xml.lzma,UNKNOWN,601.5045203689951,,,walltime,,z3_TankAllocation2-2000_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
