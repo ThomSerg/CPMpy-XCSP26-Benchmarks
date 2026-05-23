@@ -1,4 +1,14 @@
 session_slug,track,solver,instance,event_index,elapsed,objective
+baseline,XCSP3-2025-COP25,cpo,BlockModeling-kansas-02_c25.xml.lzma,0,28.84624147415161,96.0
+baseline,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-02_c25.xml.lzma,0,0.8710856437683105,44.0
+baseline,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-02_c25.xml.lzma,0,1.0144133567810059,33.0
+baseline,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-03_c25.xml.lzma,0,84.54122614860535,29.0
+baseline,XCSP3-2025-COP25,cpo,BusScheduling-t1_c25.xml.lzma,0,0.1276552677154541,7.0
+baseline,XCSP3-2025-COP25,cpo,ButtonsScissors-00_c25.xml.lzma,0,2.229310989379883,9.0
+baseline,XCSP3-2025-COP25,cpo,ButtonsScissors-01_c25.xml.lzma,0,9.285403966903687,10.0
+baseline,XCSP3-2025-COP25,cpo,ButtonsScissors-02_c25.xml.lzma,0,1.2226648330688477,9.0
+baseline,XCSP3-2025-COP25,cpo,ChampionsLeague-2024-09_c25.xml.lzma,0,0.32854199409484863,24.0
+baseline,XCSP3-2025-COP25,cpo,ChampionsLeague-strict-2024-09_c25.xml.lzma,0,1.254927158355713,22.0
 baseline,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,0,6.005340814590454,6.0
 baseline,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,0,29.223825693130493,0.0
 baseline,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,1,50.666645526885986,4.0
