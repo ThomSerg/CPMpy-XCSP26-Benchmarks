@@ -1374,6 +1374,10 @@ baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-strict-2024-09_c25.xml.lzm
 baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-strict-2024-15_c25.xml.lzma,SAT,165.5874655439984,20.0,true,,OPTIMAL,z3_ChampionsLeague-strict-2024-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-strict-2024-18_c25.xml.lzma,SAT,598.8015078508761,17.0,true,,FEASIBLE,z3_ChampionsLeague-strict-2024-18_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-strict-2024-20_c25.xml.lzma,SAT,598.7863919159863,14.0,true,,FEASIBLE,z3_ChampionsLeague-strict-2024-20_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-strict-2024-25_c25.xml.lzma,SAT,598.8586364099756,9.0,true,,FEASIBLE,z3_ChampionsLeague-strict-2024-25_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-strict-2024-30_c25.xml.lzma,SAT,598.7993606461678,7.0,true,,FEASIBLE,z3_ChampionsLeague-strict-2024-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-strict-2024-35_c25.xml.lzma,SAT,598.7950124989729,8.0,true,,FEASIBLE,z3_ChampionsLeague-strict-2024-35_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,Coprime-08_c25.xml.lzma,SAT,598.8821533429436,53.0,true,,FEASIBLE,z3_Coprime-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Cutstock-00-0_c25.xml.lzma,SAT,1.7266716761514544,4.0,true,,OPTIMAL,z3_Cutstock-00-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
