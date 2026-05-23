@@ -1456,6 +1456,7 @@ baseline,baseline,XCSP3-2025-COP25,z3,Fortress2-06_c25.xml.lzma,UNKNOWN,347.9103
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress2-07_c25.xml.lzma,UNKNOWN,353.11383654992096,,,memory,,z3_Fortress2-07_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress2-08_c25.xml.lzma,UNKNOWN,388.2737289571669,,,memory,,z3_Fortress2-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress2-09_c25.xml.lzma,UNKNOWN,407.1557340710424,,,memory,,z3_Fortress2-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,Fortress2-10_c25.xml.lzma,UNKNOWN,601.528121531941,,,walltime,,z3_Fortress2-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i01_c25.xml.lzma,UNSAT,6.79660604102537,,true,,UNSATISFIABLE,z3_IHTC-i01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i02_c25.xml.lzma,UNSAT,9.56427263491787,,true,,UNSATISFIABLE,z3_IHTC-i02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i03_c25.xml.lzma,UNSAT,10.68324705120176,,true,,UNSATISFIABLE,z3_IHTC-i03_c25.xml.txt.metadata.json
@@ -1463,6 +1464,7 @@ baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i04_c25.xml.lzma,UNSAT,20.57050146698
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i05_c25.xml.lzma,UNSAT,74.04649014677852,,true,,UNSATISFIABLE,z3_IHTC-i05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i06_c25.xml.lzma,UNSAT,44.77904473012313,,true,,UNSATISFIABLE,z3_IHTC-i06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i07_c25.xml.lzma,UNSAT,49.37969277217053,,true,,UNSATISFIABLE,z3_IHTC-i07_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i08_c25.xml.lzma,UNSAT,458.651115141809,,true,,UNSATISFIABLE,z3_IHTC-i08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i09_c25.xml.lzma,UNSAT,75.77524344390258,,true,,UNSATISFIABLE,z3_IHTC-i09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i10_c25.xml.lzma,UNSAT,80.65507399500348,,true,,UNSATISFIABLE,z3_IHTC-i10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i11_c25.xml.lzma,UNSAT,128.45782492193393,,true,,UNSATISFIABLE,z3_IHTC-i11_c25.xml.txt.metadata.json
@@ -1478,6 +1480,7 @@ baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-120_c25.xml.lzma,UNKNOW
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-200_c25.xml.lzma,UNKNOWN,51.389656962128356,,,exitcode:1,,z3_LowAutocorrelation-200_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-300_c25.xml.lzma,UNKNOWN,118.97964239795692,,,exitcode:1,,z3_LowAutocorrelation-300_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-500_c25.xml.lzma,UNKNOWN,126.71015322883613,,,memory,,z3_LowAutocorrelation-500_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,LowAutocorrelation-800_c25.xml.lzma,UNKNOWN,304.64213811489753,,,memory,,z3_LowAutocorrelation-800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,MetabolicNetwork-09_c25.xml.lzma,SAT,1.7618509430903941,2.0,true,,OPTIMAL,z3_MetabolicNetwork-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,MetabolicNetwork-10_c25.xml.lzma,SAT,1.4661132639739662,2.0,true,,OPTIMAL,z3_MetabolicNetwork-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,MetabolicNetwork-16_c25.xml.lzma,SAT,1.7173323561437428,2.0,true,,OPTIMAL,z3_MetabolicNetwork-16_c25.xml.txt.metadata.json

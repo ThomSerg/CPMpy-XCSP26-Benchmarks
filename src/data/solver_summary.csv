@@ -5,7 +5,7 @@ baseline,baseline,XCSP3-2025-COP25,gurobi,149,14,0,87,250,189,2,59
 baseline,baseline,XCSP3-2025-COP25,ortools,57,0,0,0,57,57,0,0
 baseline,baseline,XCSP3-2025-COP25,pumpkin,103,0,0,147,250,151,2,97
 baseline,baseline,XCSP3-2025-COP25,scip,98,10,0,142,250,143,0,107
-baseline,baseline,XCSP3-2025-COP25,z3,68,12,0,105,185,121,0,64
+baseline,baseline,XCSP3-2025-COP25,z3,68,13,0,107,188,122,0,66
 baseline,baseline,XCSP3-2025-CSP25,cpo,26,5,0,169,200,75,0,125
 baseline,baseline,XCSP3-2025-CSP25,exact,35,12,0,153,200,0,0,200
 baseline,baseline,XCSP3-2025-CSP25,gurobi,33,14,0,153,200,153,0,47
