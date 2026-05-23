@@ -1345,8 +1345,15 @@ baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-c1a_c25.xml.lzma,SAT,599.268
 baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-c2_c25.xml.lzma,SAT,599.7390484909993,35.0,true,,FEASIBLE,z3_BusScheduling-c2_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-r1_c25.xml.lzma,SAT,598.8824881101027,15.0,true,,FEASIBLE,z3_BusScheduling-r1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-r1a_c25.xml.lzma,SAT,598.9948493130505,16.0,true,,FEASIBLE,z3_BusScheduling-r1a_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-r2_c25.xml.lzma,SAT,598.9783685011789,16.0,true,,FEASIBLE,z3_BusScheduling-r2_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-r3_c25.xml.lzma,SAT,600.0434527690522,17.0,true,,FEASIBLE,z3_BusScheduling-r3_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-r4_c25.xml.lzma,SAT,598.8726305349264,29.0,true,,FEASIBLE,z3_BusScheduling-r4_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-r5_c25.xml.lzma,SAT,598.8806033069268,30.0,true,,FEASIBLE,z3_BusScheduling-r5_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-r5a_c25.xml.lzma,SAT,599.6692897141911,32.0,true,,FEASIBLE,z3_BusScheduling-r5a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-t1_c25.xml.lzma,SAT,1.9708730441052467,7.0,true,,OPTIMAL,z3_BusScheduling-t1_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-t2_c25.xml.lzma,SAT,598.9750730921514,22.0,true,,FEASIBLE,z3_BusScheduling-t2_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,ButtonsScissors-00_c25.xml.lzma,SAT,211.1719172350131,9.0,true,,OPTIMAL,z3_ButtonsScissors-00_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,ButtonsScissors-01_c25.xml.lzma,UNKNOWN,598.7739516131114,,true,,UNKNOWN,z3_ButtonsScissors-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,ButtonsScissors-02_c25.xml.lzma,SAT,323.9862974169664,9.0,true,,OPTIMAL,z3_ButtonsScissors-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-2024-09_c25.xml.lzma,SAT,8.178941489895806,24.0,true,,OPTIMAL,z3_ChampionsLeague-2024-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-2024-15_c25.xml.lzma,SAT,97.06684014084749,21.0,true,,OPTIMAL,z3_ChampionsLeague-2024-15_c25.xml.txt.metadata.json
