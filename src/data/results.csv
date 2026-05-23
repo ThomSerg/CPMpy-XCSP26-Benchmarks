@@ -1416,7 +1416,13 @@ baseline,baseline,XCSP3-2025-COP25,z3,FAPP-aux-05-0350_c25.xml.lzma,UNKNOWN,376.
 baseline,baseline,XCSP3-2025-COP25,z3,FAPP-aux-06-0500_c25.xml.lzma,UNKNOWN,418.440005073091,,,memory,,z3_FAPP-aux-06-0500_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,FAPP-aux-07-0600_c25.xml.lzma,UNKNOWN,439.5266210469417,,,memory,,z3_FAPP-aux-07-0600_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,FAPP-aux-08-0700_c25.xml.lzma,UNKNOWN,411.9889072589576,,,memory,,z3_FAPP-aux-08-0700_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,FAPP-aux-09-0800_c25.xml.lzma,UNKNOWN,435.81884680804797,,,memory,,z3_FAPP-aux-09-0800_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,FAPP-aux-10-0900_c25.xml.lzma,UNKNOWN,479.43032619007863,,,memory,,z3_FAPP-aux-10-0900_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,FAPP-aux-17-0300_c25.xml.lzma,UNKNOWN,361.1496207038872,,,memory,,z3_FAPP-aux-17-0300_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,FAPP-aux-18-0350_c25.xml.lzma,UNKNOWN,365.5233952230774,,,memory,,z3_FAPP-aux-18-0350_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,FAPP-aux-20-0420_c25.xml.lzma,UNKNOWN,388.251284875907,,,memory,,z3_FAPP-aux-20-0420_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,FAPP-aux-ex1_c25.xml.lzma,SAT,14.176956146024168,523.0,true,,OPTIMAL,z3_FAPP-aux-ex1_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,FAPP-aux-test03-0400_c25.xml.lzma,UNKNOWN,386.1888539651409,,,memory,,z3_FAPP-aux-test03-0400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-03_c25.xml.lzma,SAT,3.607331964885816,459518.0,true,,OPTIMAL,z3_Fortress1-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-04_c25.xml.lzma,SAT,5.205391871044412,649400.0,true,,OPTIMAL,z3_Fortress1-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-05_c25.xml.lzma,SAT,7.914903348078951,1079078.0,true,,OPTIMAL,z3_Fortress1-05_c25.xml.txt.metadata.json
@@ -1425,6 +1431,13 @@ baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-07_c25.xml.lzma,SAT,9.3971152890
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-08_c25.xml.lzma,SAT,9.980574438115582,1239006.0,true,,OPTIMAL,z3_Fortress1-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-09_c25.xml.lzma,SAT,11.343263810034841,1458951.0,true,,OPTIMAL,z3_Fortress1-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,Fortress1-10_c25.xml.lzma,SAT,20.98542065382935,1798536.0,true,,OPTIMAL,z3_Fortress1-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i01_c25.xml.lzma,UNSAT,6.79660604102537,,true,,UNSATISFIABLE,z3_IHTC-i01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i02_c25.xml.lzma,UNSAT,9.56427263491787,,true,,UNSATISFIABLE,z3_IHTC-i02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i03_c25.xml.lzma,UNSAT,10.68324705120176,,true,,UNSATISFIABLE,z3_IHTC-i03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i04_c25.xml.lzma,UNSAT,20.570501466980204,,true,,UNSATISFIABLE,z3_IHTC-i04_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i05_c25.xml.lzma,UNSAT,74.04649014677852,,true,,UNSATISFIABLE,z3_IHTC-i05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i06_c25.xml.lzma,UNSAT,44.77904473012313,,true,,UNSATISFIABLE,z3_IHTC-i06_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,IHTC-i07_c25.xml.lzma,UNSAT,49.37969277217053,,true,,UNSATISFIABLE,z3_IHTC-i07_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
