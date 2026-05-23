@@ -764,6 +764,16 @@ baseline,baseline,XCSP3-2025-COP25,pumpkin,RoadefPlaning2-2024-10_c25.xml.lzma,U
 baseline,baseline,XCSP3-2025-COP25,pumpkin,RoadefPlaning2-2024-11_c25.xml.lzma,SAT,94.3596131009981,4.0,true,,OPTIMAL,pumpkin_RoadefPlaning2-2024-11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-04-20_c25.xml.lzma,SAT,41.27314448496327,10.0,true,,OPTIMAL,pumpkin_RollerSplat-04-20_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-05a-30_c25.xml.lzma,SAT,36.9502690078225,10.0,true,,OPTIMAL,pumpkin_RollerSplat-05a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-05b-50_c25.xml.lzma,UNKNOWN,599.6748973741196,,true,,UNKNOWN,pumpkin_RollerSplat-05b-50_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-05c-70_c25.xml.lzma,UNKNOWN,600.5057437508367,,true,,UNKNOWN,pumpkin_RollerSplat-05c-70_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-05d-90_c25.xml.lzma,UNKNOWN,601.1395289599895,,true,walltime,UNKNOWN,pumpkin_RollerSplat-05d-90_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-06a-30_c25.xml.lzma,UNKNOWN,599.4059940120205,,true,,UNKNOWN,pumpkin_RollerSplat-06a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-06b-50_c25.xml.lzma,UNKNOWN,600.3609128140379,,true,,UNKNOWN,pumpkin_RollerSplat-06b-50_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-06c-70_c25.xml.lzma,UNKNOWN,601.1387019499671,,true,walltime,UNKNOWN,pumpkin_RollerSplat-06c-70_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-06d-90_c25.xml.lzma,UNKNOWN,601.2490646669175,,true,walltime,UNKNOWN,pumpkin_RollerSplat-06d-90_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-07a-30_c25.xml.lzma,UNKNOWN,599.5053284519818,,true,,UNKNOWN,pumpkin_RollerSplat-07a-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-07b-50_c25.xml.lzma,UNKNOWN,600.6977153192274,,true,,UNKNOWN,pumpkin_RollerSplat-07b-50_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-07c-70_c25.xml.lzma,UNKNOWN,601.1173042920418,,true,walltime,UNKNOWN,pumpkin_RollerSplat-07c-70_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-04-01_c25.xml.lzma,SAT,2.9624218710232526,1281.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-04-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-04-05_c25.xml.lzma,SAT,2.294802417047322,1289.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-04-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,SchedulingOS-gp-05-01_c25.xml.lzma,SAT,11.540301792090759,1245.0,true,,OPTIMAL,pumpkin_SchedulingOS-gp-05-01_c25.xml.txt.metadata.json
