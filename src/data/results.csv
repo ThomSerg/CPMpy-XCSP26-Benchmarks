@@ -703,6 +703,8 @@ baseline,baseline,XCSP3-2025-COP25,pumpkin,Fortress2-03_c25.xml.lzma,SAT,599.742
 baseline,baseline,XCSP3-2025-COP25,pumpkin,Fortress2-04_c25.xml.lzma,SAT,599.2138423090801,650298.0,true,,FEASIBLE,pumpkin_Fortress2-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,Fortress2-05_c25.xml.lzma,SAT,599.2433702000417,1220704.0,true,,FEASIBLE,pumpkin_Fortress2-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,Fortress2-06_c25.xml.lzma,SAT,599.2355329389684,1170690.0,true,,FEASIBLE,pumpkin_Fortress2-06_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,Fortress2-07_c25.xml.lzma,SAT,599.3750721050892,1331088.0,true,,FEASIBLE,pumpkin_Fortress2-07_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,Fortress2-08_c25.xml.lzma,SAT,599.3402424750384,1261019.0,true,,FEASIBLE,pumpkin_Fortress2-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,IHTC-i01_c25.xml.lzma,UNKNOWN,2.7341775328386575,,,exitcode:1,,pumpkin_IHTC-i01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,IHTC-i02_c25.xml.lzma,UNKNOWN,3.368526176782325,,,exitcode:1,,pumpkin_IHTC-i02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,IHTC-i03_c25.xml.lzma,UNKNOWN,3.3192042720038444,,,exitcode:1,,pumpkin_IHTC-i03_c25.xml.txt.metadata.json
@@ -731,6 +733,8 @@ baseline,baseline,XCSP3-2025-COP25,pumpkin,RoadefPlaning2-2021-06_c25.xml.lzma,S
 baseline,baseline,XCSP3-2025-COP25,pumpkin,RoadefPlaning2-2022-10_c25.xml.lzma,UNKNOWN,1.6199333011172712,,,exitcode:1,,pumpkin_RoadefPlaning2-2022-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,RoadefPlaning2-2023-11_c25.xml.lzma,UNKNOWN,1.6326591151300818,,,exitcode:1,,pumpkin_RoadefPlaning2-2023-11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,RoadefPlaning2-2024-09_c25.xml.lzma,UNKNOWN,1.8762450979556888,,,exitcode:1,,pumpkin_RoadefPlaning2-2024-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,RoadefPlaning2-2024-11_c25.xml.lzma,SAT,94.3596131009981,4.0,true,,OPTIMAL,pumpkin_RoadefPlaning2-2024-11_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,pumpkin,RollerSplat-04-20_c25.xml.lzma,SAT,41.27314448496327,10.0,true,,OPTIMAL,pumpkin_RollerSplat-04-20_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
