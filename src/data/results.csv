@@ -1340,10 +1340,14 @@ baseline,baseline,XCSP3-2025-COP25,z3,BlockModeling-transatlantic-02_c25.xml.lzm
 baseline,baseline,XCSP3-2025-COP25,z3,BlockModeling-transatlantic-03_c25.xml.lzma,SAT,171.8394101569429,29.0,true,,OPTIMAL,z3_BlockModeling-transatlantic-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,BlockModeling-transatlantic-05_c25.xml.lzma,UNKNOWN,599.0932965399697,,,exitcode:1,,z3_BlockModeling-transatlantic-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,BlockModeling-transatlantic-10_c25.xml.lzma,SAT,24.417017656145617,6.0,true,,OPTIMAL,z3_BlockModeling-transatlantic-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-c1_c25.xml.lzma,SAT,598.9637300630566,33.0,true,,FEASIBLE,z3_BusScheduling-c1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,BusScheduling-t1_c25.xml.lzma,SAT,1.9708730441052467,7.0,true,,OPTIMAL,z3_BusScheduling-t1_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,ButtonsScissors-00_c25.xml.lzma,SAT,211.1719172350131,9.0,true,,OPTIMAL,z3_ButtonsScissors-00_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,ButtonsScissors-02_c25.xml.lzma,SAT,323.9862974169664,9.0,true,,OPTIMAL,z3_ButtonsScissors-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-2024-09_c25.xml.lzma,SAT,8.178941489895806,24.0,true,,OPTIMAL,z3_ChampionsLeague-2024-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-2024-15_c25.xml.lzma,SAT,97.06684014084749,21.0,true,,OPTIMAL,z3_ChampionsLeague-2024-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-strict-2024-09_c25.xml.lzma,SAT,12.783131794072688,22.0,true,,OPTIMAL,z3_ChampionsLeague-strict-2024-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,z3,ChampionsLeague-strict-2024-15_c25.xml.lzma,SAT,165.5874655439984,20.0,true,,OPTIMAL,z3_ChampionsLeague-strict-2024-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.1845223929267377,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8157052281313,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,2.9861303879879415,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
