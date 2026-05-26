@@ -806,6 +806,15 @@ baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-08_c25.xml.lzma,SAT,3.6427772
 baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-10_c25.xml.lzma,SAT,6.907718878006563,47.0,true,,OPTIMAL,ortools_Coprime-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-12_c25.xml.lzma,SAT,15.232087033102289,59.0,true,,OPTIMAL,ortools_Coprime-12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-14_c25.xml.lzma,SAT,31.947959505021572,73.0,true,,OPTIMAL,ortools_Coprime-14_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-16_c25.xml.lzma,SAT,129.17067115800455,103.0,true,,OPTIMAL,ortools_Coprime-16_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-17_c25.xml.lzma,SAT,147.00655071507208,107.0,true,,OPTIMAL,ortools_Coprime-17_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-18_c25.xml.lzma,SAT,193.67236258718185,113.0,true,,OPTIMAL,ortools_Coprime-18_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-00-0_c25.xml.lzma,SAT,1.831724340794608,4.0,true,,OPTIMAL,ortools_Cutstock-00-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-01-0_c25.xml.lzma,SAT,2.1537298620678484,13.0,true,,OPTIMAL,ortools_Cutstock-01-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-03-0_c25.xml.lzma,SAT,5.799975743051618,23.0,true,,OPTIMAL,ortools_Cutstock-03-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-07-0_c25.xml.lzma,SAT,2.2821021110285074,58.0,true,,OPTIMAL,ortools_Cutstock-07-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-08-0_c25.xml.lzma,SAT,12.751357208937407,579.0,true,,OPTIMAL,ortools_Cutstock-08-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-09-0_c25.xml.lzma,SAT,6.230212728027254,98.0,true,,OPTIMAL,ortools_Cutstock-09-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-02_c25.xml.lzma,SAT,4.795710248174146,7.0,true,,OPTIMAL,pumpkin_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-03_c25.xml.lzma,SAT,599.0333099449053,35.0,true,,FEASIBLE,pumpkin_AlteredStates-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-04_c25.xml.lzma,UNKNOWN,599.4266029698774,,true,,UNKNOWN,pumpkin_AlteredStates-04_c25.xml.txt.metadata.json
