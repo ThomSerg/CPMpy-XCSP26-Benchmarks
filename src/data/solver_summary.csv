@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,113,14,0,20,147,130,0,17
+linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,145,19,0,20,184,165,0,19
 baseline,baseline,XCSP3-2025-COP25,cpo,170,16,0,64,250,193,4,53
 baseline,baseline,XCSP3-2025-COP25,exact,97,13,0,140,250,107,1,142
 baseline,baseline,XCSP3-2025-COP25,gurobi,149,14,0,87,250,189,2,59
