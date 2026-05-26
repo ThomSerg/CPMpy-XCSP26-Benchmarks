@@ -206,6 +206,7 @@ MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Accordion-14-03_c25.xml.lzma,SAT,3
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Accordion-14-04_c25.xml.lzma,SAT,8.115270053036511,,true,,FEASIBLE,gurobi_Accordion-14-04_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Accordion-15-03_c25.xml.lzma,SAT,26.40095988009125,,true,,FEASIBLE,gurobi_Accordion-15-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Accordion-15-04_c25.xml.lzma,SAT,28.34231665194966,,true,,FEASIBLE,gurobi_Accordion-15-04_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Accordion-16-01_c25.xml.lzma,SAT,275.64464508602396,,true,,FEASIBLE,gurobi_Accordion-16-01_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Accordion-16-04_c25.xml.lzma,SAT,63.85468154097907,,true,,FEASIBLE,gurobi_Accordion-16-04_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Accordion-16-05_c25.xml.lzma,SAT,21.327054263092577,,true,,FEASIBLE,gurobi_Accordion-16-05_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,AlmostMagic-03-040_c25.xml.lzma,SAT,44.18595915217884,,true,,FEASIBLE,gurobi_AlmostMagic-03-040_c25.xml.txt.metadata.json
@@ -218,8 +219,13 @@ MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,AlmostMagic-08-160_c25.xml.lzma,UN
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,AlmostMagic-09-200_c25.xml.lzma,UNSAT,8.148833616869524,,true,,UNSATISFIABLE,gurobi_AlmostMagic-09-200_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,AlmostMagic-10-250_c25.xml.lzma,UNSAT,12.923589963000268,,true,,UNSATISFIABLE,gurobi_AlmostMagic-10-250_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,ChainReaction-20-025_c25.xml.lzma,SAT,13.685410437872633,,true,,FEASIBLE,gurobi_ChainReaction-20-025_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,CrazyFrog-10_c25.xml.lzma,UNKNOWN,313.8282852668781,,,memory,,gurobi_CrazyFrog-10_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,197.10771253402345,,,memory,,gurobi_CrazyFrog-table-09_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,222.01109745982103,,,memory,,gurobi_CrazyFrog-table-10_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,26.574828843120486,,true,,UNSATISFIABLE,gurobi_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Cryptanalysis-3-05-128_c25.xml.lzma,SAT,14.851139846025035,,true,,FEASIBLE,gurobi_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Cryptanalysis-4-09-128_c25.xml.lzma,UNSAT,235.74879292421974,,true,,UNSATISFIABLE,gurobi_Cryptanalysis-4-09-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,EFPA-3-7-7-06_c25.xml.lzma,SAT,275.29469452402554,,true,,FEASIBLE,gurobi_EFPA-3-7-7-06_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,4.030178054003045,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,95.65048834984191,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,3.60630024690181,,true,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
