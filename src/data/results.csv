@@ -83,11 +83,11 @@ baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-21_c25.xml.lzma,SAT,282.497332286
 baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-22_c25.xml.lzma,SAT,321.2472011859063,167.0,true,,OPTIMAL,cpo_Coprime-22_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-23_c25.xml.lzma,SAT,535.3973952841479,173.0,true,,OPTIMAL,cpo_Coprime-23_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-24_c25.xml.lzma,SAT,484.10650825081393,179.0,true,,OPTIMAL,cpo_Coprime-24_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-25_c25.xml.lzma,UNKNOWN,601.1205831938423,,,walltime,,cpo_Coprime-25_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-30_c25.xml.lzma,UNKNOWN,601.2408502660692,,,walltime,,cpo_Coprime-30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-25_c25.xml.lzma,UNKNOWN,601.1523203139659,,,walltime,,cpo_Coprime-25_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-30_c25.xml.lzma,UNKNOWN,601.2012698289473,,,walltime,,cpo_Coprime-30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-40_c25.xml.lzma,UNKNOWN,442.2483352611307,,,memory,,cpo_Coprime-40_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Cutstock-00-0_c25.xml.lzma,SAT,1.5883970658760518,4.0,true,,OPTIMAL,cpo_Cutstock-00-0_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,Cutstock-01-0_c25.xml.lzma,SAT,598.8064075389411,13.0,true,,FEASIBLE,cpo_Cutstock-01-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,Cutstock-01-0_c25.xml.lzma,SAT,598.7801544871181,13.0,true,,FEASIBLE,cpo_Cutstock-01-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Cutstock-02-0_c25.xml.lzma,UNKNOWN,2.370831619016826,,,exitcode:1,,cpo_Cutstock-02-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Cutstock-03-0_c25.xml.lzma,UNKNOWN,2.0284110689535737,,,exitcode:1,,cpo_Cutstock-03-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Cutstock-04-0_c25.xml.lzma,UNKNOWN,4.696147465147078,,,exitcode:1,,cpo_Cutstock-04-0_c25.xml.txt.metadata.json
@@ -242,7 +242,7 @@ baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation1-2591_c25.xml.lzma,SAT,598
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation1-chemical_c25.xml.lzma,UNKNOWN,598.769224951975,,true,,UNKNOWN,cpo_TankAllocation1-chemical_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-0000_c25.xml.lzma,SAT,600.385674339952,1621.0,false,,FEASIBLE,cpo_TankAllocation2-0000_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-0400_c25.xml.lzma,UNKNOWN,131.28506816294976,,,exitcode:1,,cpo_TankAllocation2-0400_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-0800_c25.xml.lzma,UNKNOWN,233.1405934849754,,,memory,,cpo_TankAllocation2-0800_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-0800_c25.xml.lzma,UNKNOWN,231.7388049669098,,,memory,,cpo_TankAllocation2-0800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-1200_c25.xml.lzma,SAT,598.9473315000068,300.0,false,,FEASIBLE,cpo_TankAllocation2-1200_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-1600_c25.xml.lzma,SAT,599.5947006139904,835.0,true,,FEASIBLE,cpo_TankAllocation2-1600_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-2000_c25.xml.lzma,UNKNOWN,601.0914279939607,,,walltime,,cpo_TankAllocation2-2000_c25.xml.txt.metadata.json
