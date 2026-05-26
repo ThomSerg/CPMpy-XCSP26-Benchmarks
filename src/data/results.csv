@@ -803,7 +803,10 @@ baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-04_c25.xml.lzma,SAT,5
 baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-05_c25.xml.lzma,SAT,598.5603167070076,21.0,true,,FEASIBLE,ortools_ButtonsScissors-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-06_c25.xml.lzma,SAT,598.645747639006,21.0,true,,FEASIBLE,ortools_ButtonsScissors-06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-07_c25.xml.lzma,UNKNOWN,598.7212585110683,,true,,UNKNOWN,ortools_ButtonsScissors-07_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-08_c25.xml.lzma,UNKNOWN,597.0113410749473,,true,,UNKNOWN,ortools_ButtonsScissors-08_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-09_c25.xml.lzma,UNKNOWN,597.2087009889074,,true,,UNKNOWN,ortools_ButtonsScissors-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-2024-09_c25.xml.lzma,SAT,4.062378105008975,24.0,true,,OPTIMAL,ortools_ChampionsLeague-2024-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-2024-15_c25.xml.lzma,SAT,514.1420509719756,21.0,true,,OPTIMAL,ortools_ChampionsLeague-2024-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-strict-2024-09_c25.xml.lzma,SAT,7.0627165150363,22.0,true,,OPTIMAL,ortools_ChampionsLeague-strict-2024-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-strict-2024-15_c25.xml.lzma,SAT,15.114437179174274,20.0,true,,OPTIMAL,ortools_ChampionsLeague-strict-2024-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-strict-2024-35_c25.xml.lzma,SAT,3.9337115299422294,11.0,true,,OPTIMAL,ortools_ChampionsLeague-strict-2024-35_c25.xml.txt.metadata.json
@@ -814,6 +817,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-14_c25.xml.lzma,SAT,31.947959
 baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-16_c25.xml.lzma,SAT,129.17067115800455,103.0,true,,OPTIMAL,ortools_Coprime-16_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-17_c25.xml.lzma,SAT,147.00655071507208,107.0,true,,OPTIMAL,ortools_Coprime-17_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-18_c25.xml.lzma,SAT,193.67236258718185,113.0,true,,OPTIMAL,ortools_Coprime-18_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-40_c25.xml.lzma,UNKNOWN,432.7354016730096,,,memory,,ortools_Coprime-40_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-00-0_c25.xml.lzma,SAT,1.831724340794608,4.0,true,,OPTIMAL,ortools_Cutstock-00-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-01-0_c25.xml.lzma,SAT,2.1537298620678484,13.0,true,,OPTIMAL,ortools_Cutstock-01-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-03-0_c25.xml.lzma,SAT,5.799975743051618,23.0,true,,OPTIMAL,ortools_Cutstock-03-0_c25.xml.txt.metadata.json
