@@ -775,6 +775,9 @@ linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,Cutstock-09-0_
 linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,Cutstock-13-0_c25.xml.lzma,0,0.7833080291748047,65.0
 linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,Cutstock-14-0_c25.xml.lzma,0,8.768876314163208,653.0
 linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,Cutstock-15-0_c25.xml.lzma,0,3.469796895980835,130.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,Cutstock-16-0_c25.xml.lzma,0,69.70969414710999,1309.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,Cutstock-16-0_c25.xml.lzma,1,70.10473680496216,1308.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,Cutstock-16-0_c25.xml.lzma,2,70.22167682647705,1305.0
 baseline,XCSP3-2025-COP25,cpo,AlteredStates-02_c25.xml.lzma,0,4.369931221008301,7.0
 baseline,XCSP3-2025-COP25,cpo,AlteredStates-03_c25.xml.lzma,0,596.8848423957825,35.0
 baseline,XCSP3-2025-COP25,cpo,AlteredStates-04_c25.xml.lzma,0,596.86132645607,60.0
