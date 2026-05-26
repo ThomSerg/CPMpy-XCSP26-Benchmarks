@@ -876,6 +876,13 @@ MDD_global,MDD global,XCSP3-2025-CSP25,z3,GracefulGraph-04-05_c25.xml.lzma,UNKNO
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,GracefulGraph-04-06_c25.xml.lzma,UNKNOWN,598.878671759041,,true,,UNKNOWN,z3_GracefulGraph-04-06_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,GracefulGraph-05-04_c25.xml.lzma,UNKNOWN,598.7800860269926,,true,,UNKNOWN,z3_GracefulGraph-05-04_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,GracefulGraph-05-05_c25.xml.lzma,UNKNOWN,598.8712949589826,,true,,UNKNOWN,z3_GracefulGraph-05-05_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,GracefulGraph-05-06_c25.xml.lzma,UNKNOWN,598.9838071539998,,true,,UNKNOWN,z3_GracefulGraph-05-06_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,GracefulGraph-06-02_c25.xml.lzma,UNKNOWN,598.8550189100206,,true,,UNKNOWN,z3_GracefulGraph-06-02_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,GracefulGraph-06-03_c25.xml.lzma,UNKNOWN,598.8035354099702,,true,,UNKNOWN,z3_GracefulGraph-06-03_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,GracefulGraph-06-04_c25.xml.lzma,UNKNOWN,598.921609451063,,true,,UNKNOWN,z3_GracefulGraph-06-04_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,Heterosquare-easy-20_c25.xml.lzma,UNKNOWN,598.9861510170158,,true,,UNKNOWN,z3_Heterosquare-easy-20_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,Heterosquare-easy-25_c25.xml.lzma,UNKNOWN,599.4430508629885,,true,,UNKNOWN,z3_Heterosquare-easy-25_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,Heterosquare-easy-35_c25.xml.lzma,UNKNOWN,598.8922109841369,,true,,UNKNOWN,z3_Heterosquare-easy-35_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,Heterosquare-fair-05_c25.xml.lzma,SAT,371.1123992311768,,true,,FEASIBLE,z3_Heterosquare-fair-05_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,LangfordBin-010_c25.xml.lzma,UNSAT,68.96122156106867,,true,,UNSATISFIABLE,z3_LangfordBin-010_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,LangfordBin-016_c25.xml.lzma,SAT,2.7119880910031497,,true,,FEASIBLE,z3_LangfordBin-016_c25.xml.txt.metadata.json
@@ -888,6 +895,7 @@ MDD_global,MDD global,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0087_c25.xml.lz
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,50.98042152682319,,true,,FEASIBLE,z3_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,291.2802077559754,,,memory,,z3_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0300_c25.xml.lzma,UNSAT,99.28549675806426,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,100.28835788508877,,true,,FEASIBLE,z3_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.5451988300774246,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.4924186170101,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.6101518641226,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
