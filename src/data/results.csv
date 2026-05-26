@@ -19,6 +19,8 @@ MDD_global,MDD global,XCSP3-2025-CSP25,cpo,ChainReaction-20-025_c25.xml.lzma,SAT
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,ChainReaction-30-040_c25.xml.lzma,SAT,24.197321890853345,,true,,FEASIBLE,cpo_ChainReaction-30-040_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,ChainReaction-40-055_c25.xml.lzma,SAT,46.44258954189718,,true,,FEASIBLE,cpo_ChainReaction-40-055_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,CrazyFrog-06_c25.xml.lzma,SAT,40.53729750402272,,true,,FEASIBLE,cpo_CrazyFrog-06_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,CrazyFrog-09_c25.xml.lzma,UNKNOWN,483.7269584259484,,,memory,,cpo_CrazyFrog-09_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,CrazyFrog-10_c25.xml.lzma,UNKNOWN,406.9506072879303,,,memory,,cpo_CrazyFrog-10_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,CrazyFrog-table-06_c25.xml.lzma,SAT,26.8842951299157,,true,,FEASIBLE,cpo_CrazyFrog-table-06_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,220.78716423618607,,,memory,,cpo_CrazyFrog-table-09_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,161.0288339459803,,,memory,,cpo_CrazyFrog-table-10_c25.xml.txt.metadata.json
@@ -30,6 +32,15 @@ MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Cryptanalysis-5-10-128_c25.xml.lzma,U
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,EFPA-3-7-7-06_c25.xml.lzma,SAT,65.21913770516403,,true,,FEASIBLE,cpo_EFPA-3-7-7-06_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,EFPA-3-8-8-07_c25.xml.lzma,SAT,249.27809410099871,,true,,FEASIBLE,cpo_EFPA-3-8-8-07_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,GracefulGraph-03-08_c25.xml.lzma,SAT,28.026505840942264,,true,,FEASIBLE,cpo_GracefulGraph-03-08_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Heterosquare-easy-20_c25.xml.lzma,SAT,2.416455406928435,,true,,FEASIBLE,cpo_Heterosquare-easy-20_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Heterosquare-easy-25_c25.xml.lzma,SAT,2.4932448870968074,,true,,FEASIBLE,cpo_Heterosquare-easy-25_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Heterosquare-easy-30_c25.xml.lzma,SAT,2.5059156499337405,,true,,FEASIBLE,cpo_Heterosquare-easy-30_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Heterosquare-easy-35_c25.xml.lzma,SAT,2.694056059932336,,true,,FEASIBLE,cpo_Heterosquare-easy-35_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Heterosquare-easy-40_c25.xml.lzma,SAT,2.917713286122307,,true,,FEASIBLE,cpo_Heterosquare-easy-40_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Heterosquare-easy-50_c25.xml.lzma,SAT,3.615347802871838,,true,,FEASIBLE,cpo_Heterosquare-easy-50_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Heterosquare-easy-60_c25.xml.lzma,SAT,4.754449558909982,,true,,FEASIBLE,cpo_Heterosquare-easy-60_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Heterosquare-fair-05_c25.xml.lzma,SAT,2.277334886835888,,true,,FEASIBLE,cpo_Heterosquare-fair-05_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Heterosquare-fair-10_c25.xml.lzma,SAT,29.93536625104025,,true,,FEASIBLE,cpo_Heterosquare-fair-10_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.1504650071728975,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,356.1758104949258,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,7.3998677199706435,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
