@@ -6,9 +6,48 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
-| 2 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
-| 3 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
+| 1 | **MDD global** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | — | — |
+| 2 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
+| 3 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
+| 4 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
+
+---
+
+## MDD global _(running)_
+
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-26 16:50:39 · Last run: —_
+
+### Live Progress
+
+| Solver | Track | Status | Progress | Started | Elapsed |
+|--------|-------|--------|----------|---------|---------|
+| `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `exact` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `ortools` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `pumpkin` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `z3` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+
+### Track: XCSP3-2025-CSP25
+
+#### Performance Profile
+
+![XCSP3-2025-CSP25 profile](./profile_MDD_global_XCSP3-2025-CSP25.svg)
+
+#### Solver Ranking
+
+![XCSP3-2025-CSP25 ranking](./ranking_MDD_global_XCSP3-2025-CSP25.svg)
+
+#### Solve Status
+
+_No results yet._
+
+#### Solution Checker
+
+_Solution checker not enabled._
 
 ---
 
