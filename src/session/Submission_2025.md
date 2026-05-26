@@ -48,12 +48,14 @@ const visibleSolvers = activeSolvers.length ? activeSolvers : solvers;
 ```js
 const trackCurves = curves.sessions?.[sessionSlug]?.tracks?.[activeTrack]?.completion?.series ?? [];
 const solverNamesInTrack = Array.from(new Set(trackResults.map(d => d.solver)));
+const sessionSolverNames = Array.from(new Set(sessionResults.map(d => d.solver)))
+  .sort((a, b) => a.localeCompare(b));
 const avgSolvedBySolver = new Map(trackCurves.map(s => {
   const ys = s.y ?? [];
   const avg = ys.length ? ys.reduce((a, b) => a + b, 0) / ys.length : 0;
   return [s.solver, avg];
 }));
-const allSolverNames = solverNamesInTrack.sort((a, b) =>
+const legendSolverNames = [...solverNamesInTrack].sort((a, b) =>
   (avgSolvedBySolver.get(b) ?? 0) - (avgSolvedBySolver.get(a) ?? 0) || a.localeCompare(b)
 );
 const solverPalette = [
@@ -61,7 +63,7 @@ const solverPalette = [
   "#0891b2", "#be123c", "#4d7c0f", "#7c3aed", "#ca8a04",
   "#0f766e", "#c2410c", "#1d4ed8", "#a21caf", "#15803d"
 ];
-const solverColor = new Map(allSolverNames.map((solver, i) => [
+const solverColor = new Map(sessionSolverNames.map((solver, i) => [
   solver,
   solverPalette[i % solverPalette.length]
 ]));
@@ -78,8 +80,8 @@ display(Plot.plot({
   x: {label: "Time (s)", grid: true},
   y: {label: "Instances solved", grid: true},
   color: {
-    domain: allSolverNames,
-    range: allSolverNames.map(s => solverColor.get(s)),
+    domain: legendSolverNames,
+    range: legendSolverNames.map(s => solverColor.get(s)),
     legend: true
   },
   marks: [
