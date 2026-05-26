@@ -44,6 +44,12 @@ linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BlockModeling-
 linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-03_c25.xml.lzma,3,1.5845835208892822,33.0
 linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-03_c25.xml.lzma,4,4.55404257774353,31.0
 linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-03_c25.xml.lzma,5,19.121155500411987,29.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-10_c25.xml.lzma,0,14.179269075393677,37.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-10_c25.xml.lzma,1,14.196578025817871,36.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-10_c25.xml.lzma,2,14.296515464782715,18.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-10_c25.xml.lzma,3,14.408495426177979,10.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-10_c25.xml.lzma,4,22.894476413726807,8.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-10_c25.xml.lzma,5,34.140552282333374,6.0
 linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BusScheduling-c1_c25.xml.lzma,0,2.4603497982025146,32.0
 linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BusScheduling-c1_c25.xml.lzma,1,2.485281467437744,31.0
 linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,BusScheduling-c1_c25.xml.lzma,2,2.617849349975586,30.0
@@ -91,6 +97,10 @@ linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,ButtonsScissor
 linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,ButtonsScissors-00_c25.xml.lzma,3,22.87850046157837,9.0
 linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,ButtonsScissors-01_c25.xml.lzma,0,8.03808856010437,16.0
 linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,ButtonsScissors-01_c25.xml.lzma,1,8.046940565109253,10.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,ButtonsScissors-02_c25.xml.lzma,0,70.4902491569519,13.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,ButtonsScissors-02_c25.xml.lzma,1,70.5710711479187,11.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,ButtonsScissors-02_c25.xml.lzma,2,70.6268618106842,10.0
+linearize_reified_variables_for_OR-Tools,XCSP3-2025-COP25,ortools,ButtonsScissors-02_c25.xml.lzma,3,70.65632390975952,9.0
 baseline,XCSP3-2025-COP25,cpo,AlteredStates-02_c25.xml.lzma,0,4.369931221008301,7.0
 baseline,XCSP3-2025-COP25,cpo,AlteredStates-03_c25.xml.lzma,0,596.8848423957825,35.0
 baseline,XCSP3-2025-COP25,cpo,AlteredStates-04_c25.xml.lzma,0,596.86132645607,60.0
