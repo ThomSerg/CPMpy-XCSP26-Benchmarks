@@ -782,7 +782,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-10_c25.x
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,2.5741305518895388,33.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-03_c25.xml.lzma,SAT,110.69178470596671,29.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-05_c25.xml.lzma,SAT,598.5512217609212,22.0,true,,FEASIBLE,ortools_BlockModeling-transatlantic-05_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-10_c25.xml.lzma,SAT,290.4018956439104,6.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-10_c25.xml.lzma,SAT,293.17398220300674,6.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1_c25.xml.lzma,SAT,9.083091393113136,26.0,true,,OPTIMAL,ortools_BusScheduling-c1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1a_c25.xml.lzma,SAT,10.348129577934742,26.0,true,,OPTIMAL,ortools_BusScheduling-c1a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c2_c25.xml.lzma,SAT,13.16800331696868,29.0,true,,OPTIMAL,ortools_BusScheduling-c2_c25.xml.txt.metadata.json
@@ -791,13 +791,13 @@ baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r1a_c25.xml.lzma,SAT,17
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r2_c25.xml.lzma,SAT,4.568795145954937,14.0,true,,OPTIMAL,ortools_BusScheduling-r2_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r3_c25.xml.lzma,SAT,82.47752217599191,16.0,true,,OPTIMAL,ortools_BusScheduling-r3_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r4_c25.xml.lzma,SAT,6.771285465918481,25.0,true,,OPTIMAL,ortools_BusScheduling-r4_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r5_c25.xml.lzma,SAT,107.47595561202615,29.0,true,,OPTIMAL,ortools_BusScheduling-r5_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r5_c25.xml.lzma,SAT,107.92243533907458,29.0,true,,OPTIMAL,ortools_BusScheduling-r5_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r5a_c25.xml.lzma,SAT,15.335951396962628,28.0,true,,OPTIMAL,ortools_BusScheduling-r5a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-t1_c25.xml.lzma,SAT,1.5817291787825525,7.0,true,,OPTIMAL,ortools_BusScheduling-t1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-t2_c25.xml.lzma,SAT,6.769995815819129,19.0,true,,OPTIMAL,ortools_BusScheduling-t2_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-00_c25.xml.lzma,SAT,55.005514725111425,9.0,true,,OPTIMAL,ortools_ButtonsScissors-00_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-01_c25.xml.lzma,SAT,64.31902209413238,10.0,true,,OPTIMAL,ortools_ButtonsScissors-01_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-02_c25.xml.lzma,SAT,55.00808495702222,9.0,true,,OPTIMAL,ortools_ButtonsScissors-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-00_c25.xml.lzma,SAT,54.40400497498922,9.0,true,,OPTIMAL,ortools_ButtonsScissors-00_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-01_c25.xml.lzma,SAT,65.86821888503619,10.0,true,,OPTIMAL,ortools_ButtonsScissors-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-02_c25.xml.lzma,SAT,54.80354146589525,9.0,true,,OPTIMAL,ortools_ButtonsScissors-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-2024-09_c25.xml.lzma,SAT,4.0018834040965885,24.0,true,,OPTIMAL,ortools_ChampionsLeague-2024-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-strict-2024-09_c25.xml.lzma,SAT,6.1639548018574715,22.0,true,,OPTIMAL,ortools_ChampionsLeague-strict-2024-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ChampionsLeague-strict-2024-15_c25.xml.lzma,SAT,18.34344230708666,20.0,true,,OPTIMAL,ortools_ChampionsLeague-strict-2024-15_c25.xml.txt.metadata.json
