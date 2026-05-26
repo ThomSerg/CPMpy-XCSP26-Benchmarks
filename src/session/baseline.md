@@ -47,7 +47,15 @@ const visibleSolvers = activeSolvers.length ? activeSolvers : solvers;
 
 ```js
 const trackCurves = curves.sessions?.[sessionSlug]?.tracks?.[activeTrack]?.completion?.series ?? [];
-const allSolverNames = Array.from(new Set(sessionResults.map(d => d.solver))).sort();
+const solverNamesInTrack = Array.from(new Set(trackResults.map(d => d.solver)));
+const avgSolvedBySolver = new Map(trackCurves.map(s => {
+  const ys = s.y ?? [];
+  const avg = ys.length ? ys.reduce((a, b) => a + b, 0) / ys.length : 0;
+  return [s.solver, avg];
+}));
+const allSolverNames = solverNamesInTrack.sort((a, b) =>
+  (avgSolvedBySolver.get(b) ?? 0) - (avgSolvedBySolver.get(a) ?? 0) || a.localeCompare(b)
+);
 const solverPalette = [
   "#2563eb", "#dc2626", "#16a34a", "#9333ea", "#ea580c",
   "#0891b2", "#be123c", "#4d7c0f", "#7c3aed", "#ca8a04",
