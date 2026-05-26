@@ -6,8 +6,39 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 12:50:35 | 1515/3800 |
-| 2 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
+| 1 | **linearize_reified_variables for OR-Tools** 🔄 | XCSP3-2025-COP25 | `—` | 2026-05-26 13:50:16 | — | — |
+| 2 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 12:50:35 | 1515/3800 |
+| 3 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
+
+---
+
+## linearize_reified_variables for OR-Tools _(running)_
+
+_Tracks: XCSP3-2025-COP25 · cpmpy: `—` · Created: 2026-05-26 13:50:16 · Last run: —_
+
+### Live Progress
+
+| Solver | Track | Status | Progress | Started | Elapsed |
+|--------|-------|--------|----------|---------|---------|
+| `ortools` | XCSP3-2025-COP25 | ⏳ pending | 0/250 | — | — |
+
+### Track: XCSP3-2025-COP25
+
+#### Performance Profile
+
+![XCSP3-2025-COP25 profile](./profile_linearize_reified_variables_for_OR-Tools_XCSP3-2025-COP25.svg)
+
+#### Solver Ranking
+
+![XCSP3-2025-COP25 ranking](./ranking_linearize_reified_variables_for_OR-Tools_XCSP3-2025-COP25.svg)
+
+#### Solve Status
+
+_No results yet._
+
+#### Solution Checker
+
+_Solution checker not enabled._
 
 ---
 
