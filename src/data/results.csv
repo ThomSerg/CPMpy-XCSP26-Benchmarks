@@ -923,7 +923,14 @@ MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-0-2-0_c25.xm
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-0-3-0_c25.xml.lzma,UNKNOWN,601.0882503271569,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-0-4-0_c25.xml.lzma,UNKNOWN,601.0703873271123,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-0-4-0_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-1-2-0_c25.xml.lzma,UNKNOWN,600.6278998139314,,true,,UNKNOWN,z3_PegSolitaireTable-english-1-2-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-1-3-0_c25.xml.lzma,UNKNOWN,600.7881323709153,,true,,UNKNOWN,z3_PegSolitaireTable-english-1-3-0_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-1-4-0_c25.xml.lzma,UNKNOWN,601.0779440610204,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-2-0-0_c25.xml.lzma,UNKNOWN,601.081162109971,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-2-0-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-2-2-0_c25.xml.lzma,UNKNOWN,601.0805577810388,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-2-3-0_c25.xml.lzma,UNKNOWN,601.0777149458881,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-2-3-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-2-4-0_c25.xml.lzma,UNKNOWN,601.0745663079433,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-2-4-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-2-6-0_c25.xml.lzma,UNKNOWN,601.0733651798218,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-2-6-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-3-3-0_c25.xml.lzma,UNKNOWN,601.0988751209807,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0300_c25.xml.lzma,UNSAT,99.28549675806426,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0600_c25.xml.lzma,UNSAT,453.1704864951316,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,100.28835788508877,,true,,FEASIBLE,z3_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
