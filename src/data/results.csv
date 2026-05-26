@@ -724,7 +724,13 @@ MDD_global,MDD global,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-0-3-0_c25
 MDD_global,MDD global,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-0-4-0_c25.xml.lzma,UNKNOWN,601.2953866149765,,,walltime,,highs_PegSolitaireTable-english-0-4-0_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-1-2-0_c25.xml.lzma,UNKNOWN,601.3481999640353,,,walltime,,highs_PegSolitaireTable-english-1-2-0_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-1-3-0_c25.xml.lzma,UNKNOWN,601.3819315771107,,,walltime,,highs_PegSolitaireTable-english-1-3-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-1-4-0_c25.xml.lzma,UNKNOWN,601.3684305069037,,true,walltime,UNKNOWN,highs_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-2-0-0_c25.xml.lzma,UNKNOWN,601.3027071990073,,,walltime,,highs_PegSolitaireTable-english-2-0-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-2-2-0_c25.xml.lzma,UNKNOWN,601.4181331570726,,,walltime,,highs_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-2-3-0_c25.xml.lzma,UNKNOWN,601.4382262548897,,,walltime,,highs_PegSolitaireTable-english-2-3-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-2-4-0_c25.xml.lzma,UNKNOWN,601.4531223420054,,,walltime,,highs_PegSolitaireTable-english-2-4-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-3-3-0_c25.xml.lzma,UNKNOWN,601.4116984750144,,,walltime,,highs_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,highs,RamseyPartition-equ-3-0300_c25.xml.lzma,UNKNOWN,601.0542370758485,,true,walltime,UNKNOWN,highs_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,highs,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,9.27305011707358,,true,,UNSATISFIABLE,highs_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,highs,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.338281077099964,,,exitcode:1,,highs_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,highs,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.607974363025278,,,exitcode:1,,highs_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
