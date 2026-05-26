@@ -988,6 +988,15 @@ MDD_global,MDD global,XCSP3-2025-CSP25,z3,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNO
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-16_c25.xml.lzma,UNKNOWN,599.2787554459646,,true,,UNKNOWN,z3_TilingRythmicCanons1-16_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-17_c25.xml.lzma,UNKNOWN,599.0823611000087,,true,,UNKNOWN,z3_TilingRythmicCanons1-17_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-18_c25.xml.lzma,UNKNOWN,599.0911938059144,,true,,UNKNOWN,z3_TilingRythmicCanons1-18_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-19_c25.xml.lzma,UNKNOWN,598.9498839350417,,true,,UNKNOWN,z3_TilingRythmicCanons1-19_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-20_c25.xml.lzma,UNKNOWN,599.7294156919234,,true,,UNKNOWN,z3_TilingRythmicCanons1-20_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-21_c25.xml.lzma,UNKNOWN,599.1043741058093,,true,,UNKNOWN,z3_TilingRythmicCanons1-21_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-22_c25.xml.lzma,UNKNOWN,598.9994719310198,,true,,UNKNOWN,z3_TilingRythmicCanons1-22_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-23_c25.xml.lzma,UNKNOWN,598.8362892821897,,true,,UNKNOWN,z3_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-24_c25.xml.lzma,UNKNOWN,599.6353709569667,,true,,UNKNOWN,z3_TilingRythmicCanons1-24_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-30_c25.xml.lzma,UNKNOWN,599.032690759981,,true,,UNKNOWN,z3_TilingRythmicCanons1-30_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,599.7086371649057,,true,,UNKNOWN,z3_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,599.219422291033,,true,,UNKNOWN,z3_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.5451988300774246,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.4924186170101,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.6101518641226,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
