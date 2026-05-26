@@ -270,7 +270,12 @@ MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,EFPA-5-4-4-08_c25.xml.lzma,UNKNOWN
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,EFPA-5-4-4-09_c25.xml.lzma,UNKNOWN,598.8532833219506,,true,,UNKNOWN,gurobi_EFPA-5-4-4-09_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,EFPA-6-4-4-13_c25.xml.lzma,UNKNOWN,599.0161481609102,,true,,UNKNOWN,gurobi_EFPA-6-4-4-13_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,EFPA-6-4-4-14_c25.xml.lzma,UNKNOWN,598.9718662800733,,true,,UNKNOWN,gurobi_EFPA-6-4-4-14_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-03-08_c25.xml.lzma,UNKNOWN,598.9972852629144,,true,,UNKNOWN,gurobi_GracefulGraph-03-08_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-03-10_c25.xml.lzma,UNKNOWN,598.8010171682108,,true,,UNKNOWN,gurobi_GracefulGraph-03-10_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-04-05_c25.xml.lzma,UNKNOWN,599.1084099691361,,true,,UNKNOWN,gurobi_GracefulGraph-04-05_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-04-06_c25.xml.lzma,UNKNOWN,599.0640180520713,,true,,UNKNOWN,gurobi_GracefulGraph-04-06_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-05-04_c25.xml.lzma,UNKNOWN,599.12884918903,,true,,UNKNOWN,gurobi_GracefulGraph-05-04_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-05-05_c25.xml.lzma,UNKNOWN,599.2898469921201,,true,,UNKNOWN,gurobi_GracefulGraph-05-05_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Heterosquare-easy-20_c25.xml.lzma,SAT,82.20321656088345,,true,,FEASIBLE,gurobi_Heterosquare-easy-20_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-05_c25.xml.lzma,SAT,4.800378676038235,,true,,FEASIBLE,gurobi_Heterosquare-fair-05_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-10_c25.xml.lzma,SAT,61.447900337865576,,true,,FEASIBLE,gurobi_Heterosquare-fair-10_c25.xml.txt.metadata.json
