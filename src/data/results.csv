@@ -794,8 +794,11 @@ MDD_global,MDD global,XCSP3-2025-CSP25,highs,TilingRythmicCanons1-21_c25.xml.lzm
 MDD_global,MDD global,XCSP3-2025-CSP25,highs,TilingRythmicCanons1-22_c25.xml.lzma,UNKNOWN,601.3051906179171,,,walltime,,highs_TilingRythmicCanons1-22_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,highs,TilingRythmicCanons1-23_c25.xml.lzma,UNKNOWN,601.269999010954,,,walltime,,highs_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,highs,TilingRythmicCanons1-24_c25.xml.lzma,UNKNOWN,403.66859438619576,,,memory,,highs_TilingRythmicCanons1-24_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,highs,TilingRythmicCanons1-30_c25.xml.lzma,UNKNOWN,601.5187552480493,,,walltime,,highs_TilingRythmicCanons1-30_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,highs,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,284.4373698302079,,,memory,,highs_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,highs,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,601.5145753910765,,,walltime,,highs_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,highs,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,204.735824160045,,,memory,,highs_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,highs,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,601.5762238840107,,,walltime,,highs_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,4.030178054003045,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,95.65048834984191,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,3.60630024690181,,true,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
@@ -1396,6 +1399,13 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,TilingRythmicCanons1-31_c25.xml.l
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,600.164583720034,,true,,UNKNOWN,pumpkin_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,601.3567098330241,,true,walltime,UNKNOWN,pumpkin_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,600.4549542251043,,true,,UNKNOWN,pumpkin_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,Accordion-12-01_c25.xml.lzma,SAT,51.47335681715049,,true,,FEASIBLE,scip_Accordion-12-01_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,AlmostMagic-03-070_c25.xml.lzma,SAT,47.13239876902662,,true,,FEASIBLE,scip_AlmostMagic-03-070_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,AlmostMagic-04-080_c25.xml.lzma,SAT,29.590366557007656,,true,,FEASIBLE,scip_AlmostMagic-04-080_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,AlmostMagic-07-130_c25.xml.lzma,UNSAT,14.040434492053464,,true,,UNSATISFIABLE,scip_AlmostMagic-07-130_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,AlmostMagic-08-160_c25.xml.lzma,UNSAT,17.946743255015463,,true,,UNSATISFIABLE,scip_AlmostMagic-08-160_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,AlmostMagic-09-200_c25.xml.lzma,UNSAT,25.609034291934222,,true,,UNSATISFIABLE,scip_AlmostMagic-09-200_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,AlmostMagic-10-250_c25.xml.lzma,UNSAT,47.81296716094948,,true,,UNSATISFIABLE,scip_AlmostMagic-10-250_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,Accordion-11-01_c25.xml.lzma,UNKNOWN,598.8726174160838,,true,,UNKNOWN,z3_Accordion-11-01_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.893178575905,,true,,UNKNOWN,z3_Accordion-11-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,Accordion-12-01_c25.xml.lzma,SAT,241.66571566299535,,true,,FEASIBLE,z3_Accordion-12-01_c25.xml.txt.metadata.json
