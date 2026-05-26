@@ -803,13 +803,16 @@ MDD_global,MDD global,XCSP3-2025-CSP25,z3,Accordion-12-01_c25.xml.lzma,SAT,241.6
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,Accordion-13-02_c25.xml.lzma,SAT,416.1057904190384,,true,,FEASIBLE,z3_Accordion-13-02_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,Accordion-14-03_c25.xml.lzma,SAT,140.94484051596373,,true,,FEASIBLE,z3_Accordion-14-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,Accordion-14-04_c25.xml.lzma,SAT,328.56443894817494,,true,,FEASIBLE,z3_Accordion-14-04_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,Accordion-15-03_c25.xml.lzma,SAT,546.9704094419722,,true,,FEASIBLE,z3_Accordion-15-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,AlmostMagic-03-030_c25.xml.lzma,UNSAT,227.97123161097988,,true,,UNSATISFIABLE,z3_AlmostMagic-03-030_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,AlmostMagic-03-035_c25.xml.lzma,UNSAT,449.2274381641764,,true,,UNSATISFIABLE,z3_AlmostMagic-03-035_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,AlmostMagic-03-040_c25.xml.lzma,SAT,59.82950324611738,,true,,FEASIBLE,z3_AlmostMagic-03-040_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,AlmostMagic-03-070_c25.xml.lzma,SAT,3.2200627659913152,,true,,FEASIBLE,z3_AlmostMagic-03-070_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,ChainReaction-60-085_c25.xml.lzma,UNKNOWN,20.436593268997967,,true,,UNKNOWN,z3_ChainReaction-60-085_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,ChainReaction-60-090_c25.xml.lzma,UNKNOWN,15.797076740069315,,true,,UNKNOWN,z3_ChainReaction-60-090_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,ChainReaction-70-095_c25.xml.lzma,UNKNOWN,19.1889057289809,,true,,UNKNOWN,z3_ChainReaction-70-095_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,ChainReaction-70-100_c25.xml.lzma,UNKNOWN,24.998676744988188,,true,,UNKNOWN,z3_ChainReaction-70-100_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,CrazyFrog-08_c25.xml.lzma,UNKNOWN,543.8035175371915,,,memory,,z3_CrazyFrog-08_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,CrazyFrog-09_c25.xml.lzma,UNKNOWN,210.08307185699232,,,memory,,z3_CrazyFrog-09_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,CrazyFrog-10_c25.xml.lzma,UNKNOWN,203.19829044281505,,,memory,,z3_CrazyFrog-10_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,CrazyFrog-table-06_c25.xml.lzma,UNKNOWN,453.1638412750326,,,memory,,z3_CrazyFrog-table-06_c25.xml.txt.metadata.json
