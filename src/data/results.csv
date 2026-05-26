@@ -142,8 +142,8 @@ baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-07_c25.xml.lzma,SAT,600.8293875
 baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-08_c25.xml.lzma,SAT,600.7961169159971,1239006.0,true,,FEASIBLE,cpo_Fortress1-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-09_c25.xml.lzma,SAT,601.0352750041056,1458951.0,true,walltime,FEASIBLE,cpo_Fortress1-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-10_c25.xml.lzma,SAT,601.0384043508675,1798536.0,,walltime,FEASIBLE,cpo_Fortress1-10_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,Fortress2-03_c25.xml.lzma,UNKNOWN,86.97258933912963,,,exitcode:1,,cpo_Fortress2-03_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,Fortress2-04_c25.xml.lzma,UNKNOWN,152.97338087903336,,,exitcode:1,,cpo_Fortress2-04_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,Fortress2-03_c25.xml.lzma,UNKNOWN,601.2018939838745,,,walltime,,cpo_Fortress2-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,Fortress2-04_c25.xml.lzma,UNKNOWN,601.314504239941,,,walltime,,cpo_Fortress2-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Fortress2-05_c25.xml.lzma,UNKNOWN,188.1189339631237,,,memory,,cpo_Fortress2-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Fortress2-06_c25.xml.lzma,UNKNOWN,217.24149203090928,,,memory,,cpo_Fortress2-06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Fortress2-07_c25.xml.lzma,UNKNOWN,231.57769073499367,,,memory,,cpo_Fortress2-07_c25.xml.txt.metadata.json
@@ -168,7 +168,7 @@ baseline,baseline,XCSP3-2025-COP25,cpo,IHTC-i29_c25.xml.lzma,UNSAT,30.7917013908
 baseline,baseline,XCSP3-2025-COP25,cpo,IHTC-i30_c25.xml.lzma,UNSAT,45.331409574020654,,true,,UNSATISFIABLE,cpo_IHTC-i30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,LowAutocorrelation-010_c25.xml.lzma,SAT,1.8393492468167096,13.0,true,,OPTIMAL,cpo_LowAutocorrelation-010_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,LowAutocorrelation-020_c25.xml.lzma,SAT,25.72929492802359,26.0,true,,OPTIMAL,cpo_LowAutocorrelation-020_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,LowAutocorrelation-040_c25.xml.lzma,UNKNOWN,2.387640031054616,,,exitcode:1,,cpo_LowAutocorrelation-040_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,LowAutocorrelation-040_c25.xml.lzma,SAT,599.0138140199706,140.0,true,,FEASIBLE,cpo_LowAutocorrelation-040_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,LowAutocorrelation-060_c25.xml.lzma,UNKNOWN,3.3954485137946904,,,exitcode:1,,cpo_LowAutocorrelation-060_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,LowAutocorrelation-080_c25.xml.lzma,UNKNOWN,5.089770214864984,,,exitcode:1,,cpo_LowAutocorrelation-080_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,LowAutocorrelation-100_c25.xml.lzma,UNKNOWN,5.3750807729084045,,,exitcode:1,,cpo_LowAutocorrelation-100_c25.xml.txt.metadata.json
