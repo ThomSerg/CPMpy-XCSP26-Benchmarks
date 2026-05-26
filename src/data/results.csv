@@ -1585,6 +1585,15 @@ MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-28-2-C28-4-3-1_c25.xml.lzma,UNK
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,601.3989299139939,,,walltime,,scip_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-28-4-C14xC2-4-3-1_c25.xml.lzma,UNKNOWN,601.241453919094,,,walltime,,scip_SEDF-28-4-C14xC2-4-3-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,260.43976197601296,,,memory,,scip_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-16_c25.xml.lzma,UNKNOWN,601.1706204910297,,true,walltime,UNKNOWN,scip_TilingRythmicCanons1-16_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-17_c25.xml.lzma,UNKNOWN,601.2107058020774,,true,walltime,UNKNOWN,scip_TilingRythmicCanons1-17_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-18_c25.xml.lzma,UNKNOWN,601.1695802430622,,true,walltime,UNKNOWN,scip_TilingRythmicCanons1-18_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-19_c25.xml.lzma,UNKNOWN,601.1870491390582,,true,walltime,UNKNOWN,scip_TilingRythmicCanons1-19_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-20_c25.xml.lzma,UNKNOWN,601.2738100390416,,,walltime,,scip_TilingRythmicCanons1-20_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-21_c25.xml.lzma,UNKNOWN,600.8527208489832,,true,,UNKNOWN,scip_TilingRythmicCanons1-21_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-22_c25.xml.lzma,UNKNOWN,601.1223582529929,,true,walltime,UNKNOWN,scip_TilingRythmicCanons1-22_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-23_c25.xml.lzma,UNKNOWN,600.240669835126,,true,,UNKNOWN,scip_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-24_c25.xml.lzma,UNKNOWN,601.2351029238198,,true,walltime,UNKNOWN,scip_TilingRythmicCanons1-24_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-30_c25.xml.lzma,UNKNOWN,223.71546861995012,,,memory,,scip_TilingRythmicCanons1-30_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,219.7352239668835,,,memory,,scip_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,185.39021087996662,,,memory,,scip_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
