@@ -8,7 +8,7 @@ baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-08_c25.xml.lzma,UNKNOWN,12.
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-10_c25.xml.lzma,UNKNOWN,33.74114729883149,,,exitcode:1,,cpo_AlteredStates-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-12_c25.xml.lzma,UNKNOWN,62.533239078940824,,,exitcode:1,,cpo_AlteredStates-12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-15_c25.xml.lzma,UNKNOWN,132.41583540686406,,,exitcode:1,,cpo_AlteredStates-15_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-02_c25.xml.lzma,UNKNOWN,2.8428282279055566,,,exitcode:1,,cpo_AlteredStates-bis-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-02_c25.xml.lzma,SAT,205.91937332204543,29145505.0,true,,OPTIMAL,cpo_AlteredStates-bis-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-03_c25.xml.lzma,UNKNOWN,3.242955286987126,,,exitcode:1,,cpo_AlteredStates-bis-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-04_c25.xml.lzma,UNKNOWN,3.6192843839526176,,,exitcode:1,,cpo_AlteredStates-bis-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-05_c25.xml.lzma,UNKNOWN,4.840640729991719,,,exitcode:1,,cpo_AlteredStates-bis-05_c25.xml.txt.metadata.json
@@ -26,7 +26,7 @@ baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-karate-03_c25.xml.lzma,SAT,
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-karate-05_c25.xml.lzma,SAT,601.0221200860105,51.0,true,walltime,FEASIBLE,cpo_BlockModeling-karate-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-karate-10_c25.xml.lzma,UNKNOWN,601.0553533439524,,,walltime,,cpo_BlockModeling-karate-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-02_c25.xml.lzma,SAT,2.957744281971827,44.0,true,,OPTIMAL,cpo_BlockModeling-politicalactor-02_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-03_c25.xml.lzma,SAT,195.3108689659275,36.0,true,,OPTIMAL,cpo_BlockModeling-politicalactor-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-03_c25.xml.lzma,SAT,197.5447327569127,36.0,true,,OPTIMAL,cpo_BlockModeling-politicalactor-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-05_c25.xml.lzma,SAT,599.2794157480821,26.0,true,,FEASIBLE,cpo_BlockModeling-politicalactor-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-10_c25.xml.lzma,SAT,600.6531195039861,10.0,true,,FEASIBLE,cpo_BlockModeling-politicalactor-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,2.0529541119467467,33.0,true,,OPTIMAL,cpo_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
