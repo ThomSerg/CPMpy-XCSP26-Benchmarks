@@ -1,4 +1,4 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,2026-05-26T13:50:16,,,true,XCSP3-2025-COP25,211,233,
+1,linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,2026-05-26T13:50:16,,,true,XCSP3-2025-COP25,216,241,
 2,baseline,baseline,2026-05-21T16:23:19,2026-05-26T12:50:35,45fc0181 — Deprecate old runner,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,1515,3800,600.0
 3,Submission_2025,Submission 2025,2026-05-22T12:57:37,2026-05-22T22:44:59,1e446eaf — Add count to second decompose_numerical location,false,XCSP3-2025-CSP25,210,1400,600.0
