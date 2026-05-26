@@ -933,7 +933,17 @@ MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-2-6-0_c25.xm
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-3-3-0_c25.xml.lzma,UNKNOWN,601.0988751209807,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0300_c25.xml.lzma,UNSAT,99.28549675806426,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0600_c25.xml.lzma,UNSAT,453.1704864951316,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-1200_c25.xml.lzma,UNKNOWN,601.3845708649606,,,walltime,,z3_RamseyPartition-equ-3-1200_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,100.28835788508877,,true,,FEASIBLE,z3_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-4-0062_c25.xml.lzma,UNKNOWN,598.971115637105,,true,,UNKNOWN,z3_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-4-0064_c25.xml.lzma,UNKNOWN,598.9641775840428,,true,,UNKNOWN,z3_RamseyPartition-equ-4-0064_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-4-0080_c25.xml.lzma,UNKNOWN,598.8189478961285,,true,,UNKNOWN,z3_RamseyPartition-equ-4-0080_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-4-0100_c25.xml.lzma,UNKNOWN,598.9872551299632,,true,,UNKNOWN,z3_RamseyPartition-equ-4-0100_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-4-0400_c25.xml.lzma,UNKNOWN,600.9070390998386,,true,,UNKNOWN,z3_RamseyPartition-equ-4-0400_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-5-0130_c25.xml.lzma,UNKNOWN,599.128553327173,,true,,UNKNOWN,z3_RamseyPartition-equ-5-0130_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-5-0140_c25.xml.lzma,UNKNOWN,599.6812963420525,,true,,UNKNOWN,z3_RamseyPartition-equ-5-0140_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-5-0160_c25.xml.lzma,UNKNOWN,599.1956487239804,,true,,UNKNOWN,z3_RamseyPartition-equ-5-0160_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-5-0200_c25.xml.lzma,UNKNOWN,599.4219755290542,,true,,UNKNOWN,z3_RamseyPartition-equ-5-0200_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.001740851905197,,,exitcode:1,,z3_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,1.956739183049649,,,exitcode:1,,z3_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,2.4488536338321865,,,exitcode:1,,z3_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
@@ -948,6 +958,7 @@ MDD_global,MDD global,XCSP3-2025-CSP25,z3,RotatingRostering-064-2-4-c25.xml.lzma
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RotatingRostering-088-2-4-c25.xml.lzma,UNKNOWN,2.966891756048426,,,exitcode:1,,z3_RotatingRostering-088-2-4-c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.3186548168305308,,,exitcode:1,,z3_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.039437298895791,,,exitcode:1,,z3_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,SEDF-19-1-C19-3-3-1_c25.xml.lzma,SAT,329.7479083540384,,true,,FEASIBLE,z3_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.5451988300774246,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.4924186170101,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.6101518641226,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
