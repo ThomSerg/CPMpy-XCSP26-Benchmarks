@@ -221,9 +221,9 @@ baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-04-01_c25.xml.lzma,SAT,47
 baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-04-05_c25.xml.lzma,SAT,23.164748372044414,1289.0,true,,OPTIMAL,cpo_SchedulingOS-gp-04-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-05-01_c25.xml.lzma,SAT,599.0229175221175,3589.0,true,,FEASIBLE,cpo_SchedulingOS-gp-05-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-05-05_c25.xml.lzma,SAT,599.1344575430267,4992.0,true,,FEASIBLE,cpo_SchedulingOS-gp-05-05_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-06-01_c25.xml.lzma,UNKNOWN,2.8271132139489055,,,exitcode:1,,cpo_SchedulingOS-gp-06-01_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-06-05_c25.xml.lzma,UNKNOWN,2.744164939969778,,,exitcode:1,,cpo_SchedulingOS-gp-06-05_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-07-01_c25.xml.lzma,UNKNOWN,3.5320340720936656,,,exitcode:1,,cpo_SchedulingOS-gp-07-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-06-01_c25.xml.lzma,UNKNOWN,599.116285467986,,true,,UNKNOWN,cpo_SchedulingOS-gp-06-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-06-05_c25.xml.lzma,UNKNOWN,599.0395245209802,,true,,UNKNOWN,cpo_SchedulingOS-gp-06-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-07-01_c25.xml.lzma,UNKNOWN,599.259786836803,,true,,UNKNOWN,cpo_SchedulingOS-gp-07-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-07-05_c25.xml.lzma,UNKNOWN,3.3326234680134803,,,exitcode:1,,cpo_SchedulingOS-gp-07-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-08-01_c25.xml.lzma,UNKNOWN,3.427349063800648,,,exitcode:1,,cpo_SchedulingOS-gp-08-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-08-05_c25.xml.lzma,UNKNOWN,3.7118987450376153,,,exitcode:1,,cpo_SchedulingOS-gp-08-05_c25.xml.txt.metadata.json
@@ -242,7 +242,7 @@ baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation1-2591_c25.xml.lzma,SAT,598
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation1-chemical_c25.xml.lzma,UNKNOWN,598.7318875459023,,true,,UNKNOWN,cpo_TankAllocation1-chemical_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-0000_c25.xml.lzma,SAT,600.639888598118,1621.0,false,,FEASIBLE,cpo_TankAllocation2-0000_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-0400_c25.xml.lzma,UNKNOWN,131.9220267541241,,,exitcode:1,,cpo_TankAllocation2-0400_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-0800_c25.xml.lzma,UNKNOWN,230.23408852610737,,,memory,,cpo_TankAllocation2-0800_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-0800_c25.xml.lzma,UNKNOWN,231.04051037388854,,,memory,,cpo_TankAllocation2-0800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-1200_c25.xml.lzma,SAT,598.910927997902,300.0,false,,FEASIBLE,cpo_TankAllocation2-1200_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-1600_c25.xml.lzma,SAT,599.5716469781473,835.0,true,,FEASIBLE,cpo_TankAllocation2-1600_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,TankAllocation2-2000_c25.xml.lzma,UNKNOWN,601.0943960568402,,,walltime,,cpo_TankAllocation2-2000_c25.xml.txt.metadata.json
