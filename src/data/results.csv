@@ -907,7 +907,11 @@ baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i04_c25.xml.lzma,UNSAT,126.9517916
 baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i05_c25.xml.lzma,UNSAT,303.7944020489231,,true,,UNSATISFIABLE,highs_IHTC-i05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i06_c25.xml.lzma,UNSAT,278.9238138939254,,true,,UNSATISFIABLE,highs_IHTC-i06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i07_c25.xml.lzma,UNSAT,293.28177456604317,,true,,UNSATISFIABLE,highs_IHTC-i07_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i08_c25.xml.lzma,UNKNOWN,601.3249084120616,,,walltime,,highs_IHTC-i08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i09_c25.xml.lzma,UNSAT,404.4298244409729,,true,,UNSATISFIABLE,highs_IHTC-i09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i10_c25.xml.lzma,UNSAT,581.9385916809551,,true,,UNSATISFIABLE,highs_IHTC-i10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i11_c25.xml.lzma,UNKNOWN,601.3216668341774,,,walltime,,highs_IHTC-i11_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i30_c25.xml.lzma,UNKNOWN,399.17336491588503,,,memory,,highs_IHTC-i30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-010_c25.xml.lzma,SAT,8.791059357812628,13.0,true,,OPTIMAL,highs_LowAutocorrelation-010_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,MetabolicNetwork-09_c25.xml.lzma,SAT,1.3843410091940314,2.0,true,,OPTIMAL,highs_MetabolicNetwork-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,MetabolicNetwork-10_c25.xml.lzma,SAT,1.4604620020836592,2.0,true,,OPTIMAL,highs_MetabolicNetwork-10_c25.xml.txt.metadata.json
@@ -930,6 +934,8 @@ baseline,baseline,XCSP3-2025-COP25,highs,RoadefPlaning2-2021-06_c25.xml.lzma,SAT
 baseline,baseline,XCSP3-2025-COP25,highs,RoadefPlaning2-2022-10_c25.xml.lzma,UNKNOWN,2.2152349399402738,,,exitcode:1,,highs_RoadefPlaning2-2022-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,RoadefPlaning2-2023-11_c25.xml.lzma,UNKNOWN,1.7925405569840223,,,exitcode:1,,highs_RoadefPlaning2-2023-11_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,RoadefPlaning2-2024-09_c25.xml.lzma,UNKNOWN,1.8252359880134463,,,exitcode:1,,highs_RoadefPlaning2-2024-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,RollerSplat-04-20_c25.xml.lzma,SAT,95.28300165990368,10.0,true,,OPTIMAL,highs_RollerSplat-04-20_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,RollerSplat-05a-30_c25.xml.lzma,SAT,68.55806694598868,10.0,true,,OPTIMAL,highs_RollerSplat-05a-30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.782046806998551,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.5278427700978,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.9103737289552,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
