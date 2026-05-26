@@ -2,7 +2,7 @@ session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_v
 baseline,baseline,XCSP3-2025-COP25,cpo,85,0,0,165,250,82,4,164
 baseline,baseline,XCSP3-2025-COP25,exact,97,13,0,140,250,107,1,142
 baseline,baseline,XCSP3-2025-COP25,gurobi,149,14,0,87,250,189,2,59
-baseline,baseline,XCSP3-2025-COP25,ortools,74,0,0,5,79,78,0,1
+baseline,baseline,XCSP3-2025-COP25,ortools,99,0,0,8,107,97,0,10
 baseline,baseline,XCSP3-2025-COP25,pumpkin,103,0,0,147,250,151,2,97
 baseline,baseline,XCSP3-2025-COP25,scip,98,10,0,142,250,143,0,107
 baseline,baseline,XCSP3-2025-COP25,z3,96,13,0,141,250,174,2,74
