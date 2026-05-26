@@ -139,9 +139,9 @@ baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-04_c25.xml.lzma,SAT,599.5555950
 baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-05_c25.xml.lzma,SAT,600.4815398259088,1079078.0,true,,FEASIBLE,cpo_Fortress1-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-06_c25.xml.lzma,SAT,600.5119737097993,1059124.0,true,,FEASIBLE,cpo_Fortress1-06_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-07_c25.xml.lzma,SAT,600.8293875940144,1219032.0,true,,FEASIBLE,cpo_Fortress1-07_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-08_c25.xml.lzma,UNKNOWN,5.959735214943066,,,exitcode:1,,cpo_Fortress1-08_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-09_c25.xml.lzma,UNKNOWN,7.389540627133101,,,exitcode:1,,cpo_Fortress1-09_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-10_c25.xml.lzma,UNKNOWN,9.958550697891042,,,exitcode:1,,cpo_Fortress1-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-08_c25.xml.lzma,SAT,600.7961169159971,1239006.0,true,,FEASIBLE,cpo_Fortress1-08_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-09_c25.xml.lzma,SAT,601.0352750041056,1458951.0,true,walltime,FEASIBLE,cpo_Fortress1-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,Fortress1-10_c25.xml.lzma,SAT,601.0384043508675,1798536.0,,walltime,FEASIBLE,cpo_Fortress1-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Fortress2-03_c25.xml.lzma,UNKNOWN,86.97258933912963,,,exitcode:1,,cpo_Fortress2-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Fortress2-04_c25.xml.lzma,UNKNOWN,152.97338087903336,,,exitcode:1,,cpo_Fortress2-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Fortress2-05_c25.xml.lzma,UNKNOWN,188.1189339631237,,,memory,,cpo_Fortress2-05_c25.xml.txt.metadata.json
@@ -217,8 +217,8 @@ baseline,baseline,XCSP3-2025-COP25,cpo,RollerSplat-06d-90_c25.xml.lzma,UNKNOWN,7
 baseline,baseline,XCSP3-2025-COP25,cpo,RollerSplat-07a-30_c25.xml.lzma,UNKNOWN,7.172178359003738,,,exitcode:1,,cpo_RollerSplat-07a-30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,RollerSplat-07b-50_c25.xml.lzma,UNKNOWN,20.14821252413094,,,exitcode:1,,cpo_RollerSplat-07b-50_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,RollerSplat-07c-70_c25.xml.lzma,UNKNOWN,27.047811883036047,,,exitcode:1,,cpo_RollerSplat-07c-70_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-04-01_c25.xml.lzma,SAT,39.60332746594213,1281.0,true,,OPTIMAL,cpo_SchedulingOS-gp-04-01_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-04-05_c25.xml.lzma,SAT,19.747592615894973,1289.0,true,,OPTIMAL,cpo_SchedulingOS-gp-04-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-04-01_c25.xml.lzma,SAT,47.0443273819983,1281.0,true,,OPTIMAL,cpo_SchedulingOS-gp-04-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-04-05_c25.xml.lzma,SAT,23.164748372044414,1289.0,true,,OPTIMAL,cpo_SchedulingOS-gp-04-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-05-01_c25.xml.lzma,UNKNOWN,2.5265006949193776,,,exitcode:1,,cpo_SchedulingOS-gp-05-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-05-05_c25.xml.lzma,UNKNOWN,2.690433620940894,,,exitcode:1,,cpo_SchedulingOS-gp-05-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,SchedulingOS-gp-06-01_c25.xml.lzma,UNKNOWN,2.8271132139489055,,,exitcode:1,,cpo_SchedulingOS-gp-06-01_c25.xml.txt.metadata.json
