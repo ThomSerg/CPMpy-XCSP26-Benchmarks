@@ -2,6 +2,7 @@ session_slug,session_name,track,solver,instance,status,seconds,objective,checker
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,4.030178054003045,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,95.65048834984191,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,3.60630024690181,,true,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-12-03_c25.xml.lzma,UNSAT,333.15698593482375,,true,,UNSATISFIABLE,ortools_Accordion-12-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-13-02_c25.xml.lzma,SAT,3.9785379378590733,,true,,FEASIBLE,ortools_Accordion-13-02_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-14-03_c25.xml.lzma,SAT,3.666857948061079,,true,,FEASIBLE,ortools_Accordion-14-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-14-04_c25.xml.lzma,SAT,3.511042125057429,,true,,FEASIBLE,ortools_Accordion-14-04_c25.xml.txt.metadata.json
@@ -11,6 +12,7 @@ MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-16-01_c25.xml.lzma,SAT,
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-16-04_c25.xml.lzma,SAT,5.6202463251538575,,true,,FEASIBLE,ortools_Accordion-16-04_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-16-05_c25.xml.lzma,SAT,5.998088569846004,,true,,FEASIBLE,ortools_Accordion-16-05_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,AlmostMagic-03-030_c25.xml.lzma,UNSAT,134.44731166795827,,true,,UNSATISFIABLE,ortools_AlmostMagic-03-030_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,AlmostMagic-03-035_c25.xml.lzma,UNSAT,422.4193674100097,,true,,UNSATISFIABLE,ortools_AlmostMagic-03-035_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,AlmostMagic-03-040_c25.xml.lzma,SAT,4.062229120871052,,true,,FEASIBLE,ortools_AlmostMagic-03-040_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,AlmostMagic-03-070_c25.xml.lzma,SAT,3.0489510239567608,,true,,FEASIBLE,ortools_AlmostMagic-03-070_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,AlmostMagic-04-050_c25.xml.lzma,SAT,5.2595635240431875,,true,,FEASIBLE,ortools_AlmostMagic-04-050_c25.xml.txt.metadata.json
@@ -24,8 +26,13 @@ MDD_global,MDD global,XCSP3-2025-CSP25,ortools,ChainReaction-40-055_c25.xml.lzma
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,ChainReaction-50-070_c25.xml.lzma,SAT,224.39720442378893,,true,,FEASIBLE,ortools_ChainReaction-50-070_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,ChainReaction-60-085_c25.xml.lzma,SAT,238.22792803798802,,true,,FEASIBLE,ortools_ChainReaction-60-085_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,CrazyFrog-06_c25.xml.lzma,SAT,22.735436463030055,,true,,FEASIBLE,ortools_CrazyFrog-06_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,CrazyFrog-07_c25.xml.lzma,SAT,334.4230148969218,,true,,FEASIBLE,ortools_CrazyFrog-07_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,CrazyFrog-08_c25.xml.lzma,SAT,348.9789750580676,,true,,FEASIBLE,ortools_CrazyFrog-08_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,CrazyFrog-09_c25.xml.lzma,UNKNOWN,233.63746079499833,,,memory,,ortools_CrazyFrog-09_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,CrazyFrog-10_c25.xml.lzma,UNKNOWN,326.530901893042,,,memory,,ortools_CrazyFrog-10_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,CrazyFrog-table-06_c25.xml.lzma,SAT,109.56643160688691,,true,,FEASIBLE,ortools_CrazyFrog-table-06_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,315.52267766790465,,,memory,,ortools_CrazyFrog-table-07_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,342.52750348788686,,,memory,,ortools_CrazyFrog-table-08_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,189.0174178269226,,,memory,,ortools_CrazyFrog-table-09_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,208.79742000205442,,,memory,,ortools_CrazyFrog-table-10_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,7.194043678930029,,true,,UNSATISFIABLE,ortools_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
@@ -34,18 +41,21 @@ MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Cryptanalysis-4-09-128_c25.xml.lz
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Cryptanalysis-4-11-128_c25.xml.lzma,UNSAT,57.82600333914161,,true,,UNSATISFIABLE,ortools_Cryptanalysis-4-11-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Cryptanalysis-4-12-128_c25.xml.lzma,SAT,111.4633102659136,,true,,FEASIBLE,ortools_Cryptanalysis-4-12-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-10-128_c25.xml.lzma,UNSAT,39.94599130284041,,true,,UNSATISFIABLE,ortools_Cryptanalysis-5-10-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-14-128_c25.xml.lzma,UNSAT,370.21640010597184,,true,,UNSATISFIABLE,ortools_Cryptanalysis-5-14-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-15-128_c25.xml.lzma,SAT,210.50053464598022,,true,,FEASIBLE,ortools_Cryptanalysis-5-15-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-12-128_c25.xml.lzma,UNSAT,55.7639670970384,,true,,UNSATISFIABLE,ortools_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-17-128_c25.xml.lzma,SAT,84.70786385494284,,true,,FEASIBLE,ortools_Cryptanalysis-6-17-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,EFPA-3-7-7-06_c25.xml.lzma,SAT,4.819877434987575,,true,,FEASIBLE,ortools_EFPA-3-7-7-06_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,EFPA-3-7-7-07_c25.xml.lzma,UNSAT,108.0439747700002,,true,,UNSATISFIABLE,ortools_EFPA-3-7-7-07_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,EFPA-3-8-8-07_c25.xml.lzma,SAT,36.59475299087353,,true,,FEASIBLE,ortools_EFPA-3-8-8-07_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,EFPA-3-8-8-08_c25.xml.lzma,UNSAT,444.24876190605573,,true,,UNSATISFIABLE,ortools_EFPA-3-8-8-08_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,EFPA-4-4-5-10_c25.xml.lzma,SAT,146.40779934590682,,true,,FEASIBLE,ortools_EFPA-4-4-5-10_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,EFPA-4-5-4-10_c25.xml.lzma,SAT,47.20558189903386,,true,,FEASIBLE,ortools_EFPA-4-5-4-10_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,EFPA-5-4-4-08_c25.xml.lzma,SAT,86.87615361297503,,true,,FEASIBLE,ortools_EFPA-5-4-4-08_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,GracefulGraph-03-08_c25.xml.lzma,SAT,30.407169744139537,,true,,FEASIBLE,ortools_GracefulGraph-03-08_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,GracefulGraph-03-10_c25.xml.lzma,SAT,30.902033732039854,,true,,FEASIBLE,ortools_GracefulGraph-03-10_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,GracefulGraph-04-05_c25.xml.lzma,SAT,125.45831603510305,,true,,FEASIBLE,ortools_GracefulGraph-04-05_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,GracefulGraph-04-06_c25.xml.lzma,SAT,223.62361613987014,,true,,FEASIBLE,ortools_GracefulGraph-04-06_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Heterosquare-easy-20_c25.xml.lzma,SAT,2.4747549009043723,,true,,FEASIBLE,ortools_Heterosquare-easy-20_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Heterosquare-easy-25_c25.xml.lzma,SAT,2.1331090729217976,,true,,FEASIBLE,ortools_Heterosquare-easy-25_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Heterosquare-easy-30_c25.xml.lzma,SAT,2.860882823821157,,true,,FEASIBLE,ortools_Heterosquare-easy-30_c25.xml.txt.metadata.json
@@ -72,6 +82,14 @@ MDD_global,MDD global,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0007_c25.x
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,4.27592146396637,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,45.365596590097994,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0067_c25.xml.lzma,SAT,106.89997529494576,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0067_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,168.01527511002496,,,memory,,ortools_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,204.6356230219826,,,memory,,ortools_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-4-0_c25.xml.lzma,SAT,48.454939796123654,,true,,FEASIBLE,ortools_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-2-0_c25.xml.lzma,SAT,33.16774619487114,,true,,FEASIBLE,ortools_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-3-3-0_c25.xml.lzma,SAT,43.214261980960146,,true,,FEASIBLE,ortools_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-3-0300_c25.xml.lzma,UNSAT,63.367359054042026,,true,,UNSATISFIABLE,ortools_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,46.05812898604199,,true,,FEASIBLE,ortools_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,3.5414135528262705,,true,,UNSATISFIABLE,ortools_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.5451988300774246,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.4924186170101,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.6101518641226,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
