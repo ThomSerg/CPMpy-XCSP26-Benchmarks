@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **linearize_reified_variables for OR-Tools** 🔄 | XCSP3-2025-COP25 | `—` | 2026-05-26 13:50:16 | — | 74/80 |
+| 1 | **linearize_reified_variables for OR-Tools** 🔄 | XCSP3-2025-COP25 | `—` | 2026-05-26 13:50:16 | — | 101/110 |
 | 2 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 12:50:35 | 1515/3800 |
 | 3 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
 
@@ -20,7 +20,7 @@ _Tracks: XCSP3-2025-COP25 · cpmpy: `—` · Created: 2026-05-26 13:50:16 · Las
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `ortools` | XCSP3-2025-COP25 | 🔄 running | 80/250 | 2026-05-26 13:50:30 | 19m 52s |
+| `ortools` | XCSP3-2025-COP25 | 🔄 running | 110/250 | 2026-05-26 13:50:30 | 21m 57s |
 
 ### Track: XCSP3-2025-COP25
 
@@ -36,13 +36,13 @@ _Tracks: XCSP3-2025-COP25 · cpmpy: `—` · Created: 2026-05-26 13:50:16 · Las
 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
-| `ortools` | 74 | 0 | 0 | 6 | 80 |
+| `ortools` | 101 | 0 | 0 | 9 | 110 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `ortools` | 77 | 0 | 3 | 80 |
+| `ortools` | 101 | 0 | 9 | 110 |
 
 ---
 
