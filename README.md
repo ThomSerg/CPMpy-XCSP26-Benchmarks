@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **MDD global** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-26 18:18:27 | 233/773 |
+| 1 | **MDD global** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-26 18:49:04 | 236/807 |
 | 2 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
 | 3 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
 | 4 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
@@ -15,7 +15,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ## MDD global _(running)_
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-26 16:50:39 · Last run: 2026-05-26 18:18:27_
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-26 16:50:39 · Last run: 2026-05-26 18:49:04_
 
 ### Live Progress
 
@@ -24,12 +24,12 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-26 16:50:39 · Las
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-26 16:50:52 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-26 17:15:15 | — |
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-26 17:47:22 | — |
-| `pumpkin` | XCSP3-2025-CSP25 | 🔄 running | 174/200 | 2026-05-26 18:18:37 | 29m 27s |
+| `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-26 18:18:37 | — |
+| `z3` | XCSP3-2025-CSP25 | 🔄 running | 7/200 | 2026-05-26 18:49:13 | 0m 55s |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
-| `z3` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -48,7 +48,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-26 16:50:39 · Las
 | `ortools` | 73 | 24 | 4 | 99 | 200 |
 | `exact` | 35 | 12 | 101 | 52 | 200 |
 | `gurobi` | 32 | 13 | 68 | 87 | 200 |
-| `pumpkin` | 38 | 6 | 23 | 107 | 174 |
+| `pumpkin` | 38 | 6 | 30 | 126 | 200 |
+| `z3` | 2 | 1 | 0 | 4 | 7 |
 
 #### Solution Checker
 
@@ -57,7 +58,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-26 16:50:39 · Las
 | `ortools` | 174 | 0 | 26 | 200 |
 | `exact` | 86 | 0 | 114 | 200 |
 | `gurobi` | 146 | 0 | 54 | 200 |
-| `pumpkin` | 142 | 0 | 32 | 174 |
+| `pumpkin` | 168 | 0 | 32 | 200 |
+| `z3` | 7 | 0 | 0 | 7 |
 
 ---
 
