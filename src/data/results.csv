@@ -1282,7 +1282,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-10_c25.x
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,2.803267990006134,33.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-03_c25.xml.lzma,SAT,111.35859388811514,29.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-05_c25.xml.lzma,SAT,598.5443366039544,22.0,true,,FEASIBLE,ortools_BlockModeling-transatlantic-05_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-10_c25.xml.lzma,SAT,293.17398220300674,6.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-10_c25.xml.lzma,SAT,290.26071273884736,6.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1_c25.xml.lzma,SAT,8.319769648835063,26.0,true,,OPTIMAL,ortools_BusScheduling-c1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1a_c25.xml.lzma,SAT,10.070594459073618,26.0,true,,OPTIMAL,ortools_BusScheduling-c1a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c2_c25.xml.lzma,SAT,13.834818085189909,29.0,true,,OPTIMAL,ortools_BusScheduling-c2_c25.xml.txt.metadata.json
@@ -1291,13 +1291,13 @@ baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r1a_c25.xml.lzma,SAT,15
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r2_c25.xml.lzma,SAT,3.980379799148068,14.0,true,,OPTIMAL,ortools_BusScheduling-r2_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r3_c25.xml.lzma,SAT,81.82471042615362,16.0,true,,OPTIMAL,ortools_BusScheduling-r3_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r4_c25.xml.lzma,SAT,6.8887281839270145,25.0,true,,OPTIMAL,ortools_BusScheduling-r4_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r5_c25.xml.lzma,SAT,107.92243533907458,29.0,true,,OPTIMAL,ortools_BusScheduling-r5_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r5_c25.xml.lzma,SAT,106.33155460795388,29.0,true,,OPTIMAL,ortools_BusScheduling-r5_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r5a_c25.xml.lzma,SAT,15.32010607002303,28.0,true,,OPTIMAL,ortools_BusScheduling-r5a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-t1_c25.xml.lzma,SAT,1.6379225179553032,7.0,true,,OPTIMAL,ortools_BusScheduling-t1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-t2_c25.xml.lzma,SAT,6.840708976145834,19.0,true,,OPTIMAL,ortools_BusScheduling-t2_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-00_c25.xml.lzma,SAT,54.40400497498922,9.0,true,,OPTIMAL,ortools_ButtonsScissors-00_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-01_c25.xml.lzma,SAT,65.86821888503619,10.0,true,,OPTIMAL,ortools_ButtonsScissors-01_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-02_c25.xml.lzma,SAT,54.80354146589525,9.0,true,,OPTIMAL,ortools_ButtonsScissors-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-00_c25.xml.lzma,SAT,54.54964664601721,9.0,true,,OPTIMAL,ortools_ButtonsScissors-00_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-01_c25.xml.lzma,SAT,65.17082961578853,10.0,true,,OPTIMAL,ortools_ButtonsScissors-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-02_c25.xml.lzma,SAT,55.55229379888624,9.0,true,,OPTIMAL,ortools_ButtonsScissors-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-03_c25.xml.lzma,UNKNOWN,596.8841731329449,,true,,UNKNOWN,ortools_ButtonsScissors-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-04_c25.xml.lzma,SAT,598.6513079698198,16.0,true,,FEASIBLE,ortools_ButtonsScissors-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,ButtonsScissors-05_c25.xml.lzma,SAT,598.5603167070076,21.0,true,,FEASIBLE,ortools_ButtonsScissors-05_c25.xml.txt.metadata.json
