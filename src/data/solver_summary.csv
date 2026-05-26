@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-baseline,baseline,XCSP3-2025-COP25,cpo,133,16,0,101,250,149,4,97
+baseline,baseline,XCSP3-2025-COP25,cpo,144,16,0,90,250,159,4,87
 baseline,baseline,XCSP3-2025-COP25,exact,97,13,0,140,250,107,1,142
 baseline,baseline,XCSP3-2025-COP25,gurobi,149,14,0,87,250,189,2,59
 baseline,baseline,XCSP3-2025-COP25,ortools,205,15,0,30,250,215,8,27
