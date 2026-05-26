@@ -16,7 +16,7 @@ baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-06_c25.xml.lzma,UNKNOWN
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-08_c25.xml.lzma,UNKNOWN,15.284449049970135,,,exitcode:1,,cpo_AlteredStates-bis-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-10_c25.xml.lzma,UNKNOWN,28.428221615962684,,,exitcode:1,,cpo_AlteredStates-bis-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-12_c25.xml.lzma,UNKNOWN,63.21423228690401,,,exitcode:1,,cpo_AlteredStates-bis-12_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-15_c25.xml.lzma,UNKNOWN,132.65846970188431,,,exitcode:1,,cpo_AlteredStates-bis-15_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-15_c25.xml.lzma,SAT,342.1286965010222,330759736.0,true,,OPTIMAL,cpo_AlteredStates-bis-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-kansas-02_c25.xml.lzma,SAT,27.230782037135214,96.0,true,,OPTIMAL,cpo_BlockModeling-kansas-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-kansas-03_c25.xml.lzma,SAT,599.2559199349489,83.0,true,,FEASIBLE,cpo_BlockModeling-kansas-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-kansas-05_c25.xml.lzma,SAT,599.760131574003,63.0,true,,FEASIBLE,cpo_BlockModeling-kansas-05_c25.xml.txt.metadata.json

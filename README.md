@@ -6,14 +6,14 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 10:47:01 | 1293/3550 |
+| 1 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 10:51:18 | 1294/3550 |
 | 2 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
 
 ---
 
 ## baseline
 
-_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-26 10:47:01_
+_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate old runner` · Created: 2026-05-21 16:23:19 · Last run: 2026-05-26 10:51:18_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -73,7 +73,7 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate ol
 | `z3` | 96 | 13 | 48 | 93 | 250 |
 | `scip` | 98 | 10 | 51 | 91 | 250 |
 | `pumpkin` | 103 | 0 | 21 | 126 | 250 |
-| `cpo` | 87 | 0 | 4 | 159 | 250 |
+| `cpo` | 88 | 0 | 4 | 158 | 250 |
 
 #### Solution Checker
 
@@ -85,7 +85,7 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate ol
 | `z3` | 174 | **2** | 74 | 250 |
 | `scip` | 143 | 0 | 107 | 250 |
 | `pumpkin` | 151 | **2** | 97 | 250 |
-| `cpo` | 85 | **4** | 161 | 250 |
+| `cpo` | 86 | **4** | 160 | 250 |
 
 ---
 

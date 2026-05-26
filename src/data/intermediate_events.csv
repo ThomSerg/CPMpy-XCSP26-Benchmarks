@@ -1,6 +1,7 @@
 session_slug,track,solver,instance,event_index,elapsed,objective
 baseline,XCSP3-2025-COP25,cpo,AlteredStates-02_c25.xml.lzma,0,4.369931221008301,7.0
 baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-02_c25.xml.lzma,0,203.56861352920532,29145505.0
+baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-15_c25.xml.lzma,0,339.7646667957306,330759736.0
 baseline,XCSP3-2025-COP25,cpo,BlockModeling-kansas-02_c25.xml.lzma,0,24.973392724990845,96.0
 baseline,XCSP3-2025-COP25,cpo,BlockModeling-kansas-03_c25.xml.lzma,0,596.7066335678101,83.0
 baseline,XCSP3-2025-COP25,cpo,BlockModeling-kansas-05_c25.xml.lzma,0,596.9673848152161,63.0
