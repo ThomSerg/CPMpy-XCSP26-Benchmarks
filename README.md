@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 14:36:22 | 225/250 |
+| 1 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:01:30 | 255/280 |
 | 2 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
 | 3 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
 
@@ -14,7 +14,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ## linearize_reified_variables for OR-Tools
 
-_Tracks: XCSP3-2025-COP25 · cpmpy: `—` · Created: 2026-05-26 13:50:16 · Last run: 2026-05-26 14:36:22_
+_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-26 13:50:16 · Last run: 2026-05-26 16:01:30_
 
 ### Track: XCSP3-2025-COP25
 
@@ -37,6 +37,28 @@ _Tracks: XCSP3-2025-COP25 · cpmpy: `—` · Created: 2026-05-26 13:50:16 · Las
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `ortools` | 229 | 0 | 21 | 250 |
+
+### Track: XCSP3-2025-CSP25
+
+#### Performance Profile
+
+![XCSP3-2025-CSP25 profile](./profile_linearize_reified_variables_for_OR-Tools_XCSP3-2025-CSP25.svg)
+
+#### Solver Ranking
+
+![XCSP3-2025-CSP25 ranking](./ranking_linearize_reified_variables_for_OR-Tools_XCSP3-2025-CSP25.svg)
+
+#### Solve Status
+
+| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|---------|-------|
+| `ortools` | 23 | 7 | 0 | 0 | 30 |
+
+#### Solution Checker
+
+| Solver | Valid | Invalid | Skipped | Total |
+|--------|-------|---------|---------|-------|
+| `ortools` | 29 | **1** | 0 | 30 |
 
 ---
 
