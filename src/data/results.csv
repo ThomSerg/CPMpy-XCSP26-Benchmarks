@@ -1,5 +1,6 @@
 session_slug,session_name,track,solver,instance,status,seconds,objective,checker_valid,termination_reason,exit_status,metadata_file
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.1504650071728975,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,356.1758104949258,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,7.3998677199706435,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Accordion-13-02_c25.xml.lzma,SAT,11.308719963999465,,true,,FEASIBLE,exact_Accordion-13-02_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Accordion-14-03_c25.xml.lzma,SAT,12.840259046060964,,true,,FEASIBLE,exact_Accordion-14-03_c25.xml.txt.metadata.json
@@ -24,6 +25,7 @@ MDD_global,MDD global,XCSP3-2025-CSP25,exact,Cryptanalysis-4-09-128_c25.xml.lzma
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Cryptanalysis-4-11-128_c25.xml.lzma,UNSAT,32.21323160198517,,true,,UNSATISFIABLE,exact_Cryptanalysis-4-11-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Cryptanalysis-4-12-128_c25.xml.lzma,SAT,61.33163584698923,,true,,FEASIBLE,exact_Cryptanalysis-4-12-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Cryptanalysis-5-10-128_c25.xml.lzma,UNSAT,32.13682163413614,,true,,UNSATISFIABLE,exact_Cryptanalysis-5-10-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,exact,Cryptanalysis-5-14-128_c25.xml.lzma,UNSAT,230.0347594548948,,true,,UNSATISFIABLE,exact_Cryptanalysis-5-14-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Cryptanalysis-5-15-128_c25.xml.lzma,SAT,174.96645643003285,,true,,FEASIBLE,exact_Cryptanalysis-5-15-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Cryptanalysis-6-12-128_c25.xml.lzma,UNSAT,96.1977425350342,,true,,UNSATISFIABLE,exact_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,EFPA-3-7-7-06_c25.xml.lzma,SAT,6.520553102018312,,true,,FEASIBLE,exact_EFPA-3-7-7-06_c25.xml.txt.metadata.json
