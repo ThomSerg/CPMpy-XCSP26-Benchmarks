@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **MDD global** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-26 19:55:34 | 345/1242 |
+| 1 | **MDD global** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-26 19:55:34 | 370/1308 |
 | 2 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
 | 3 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
 | 4 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
@@ -22,11 +22,11 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-26 16:50:39 · Las
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-26 16:50:52 | — |
+| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 108/200 | 2026-05-26 19:55:47 | 12m 02s |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-26 17:15:15 | — |
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-26 17:47:22 | — |
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-26 18:18:37 | — |
 | `z3` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-26 18:49:13 | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 42/200 | 2026-05-26 19:55:47 | 9m 40s |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-26 19:25:13 | — |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -46,11 +46,11 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-26 16:50:39 · Las
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 73 | 24 | 4 | 99 | 200 |
+| `cpo` | 56 | 7 | 7 | 38 | 108 |
 | `exact` | 35 | 12 | 101 | 52 | 200 |
 | `gurobi` | 32 | 13 | 68 | 87 | 200 |
 | `pumpkin` | 38 | 6 | 30 | 126 | 200 |
 | `z3` | 27 | 12 | 34 | 127 | 200 |
-| `cpo` | 34 | 4 | 0 | 4 | 42 |
 | `pindakaas` | 23 | 12 | 36 | 129 | 200 |
 
 #### Solution Checker
@@ -58,11 +58,11 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-26 16:50:39 · Las
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `ortools` | 174 | 0 | 26 | 200 |
+| `cpo` | 100 | 0 | 8 | 108 |
 | `exact` | 86 | 0 | 114 | 200 |
 | `gurobi` | 146 | 0 | 54 | 200 |
 | `pumpkin` | 168 | 0 | 32 | 200 |
 | `z3` | 160 | 0 | 40 | 200 |
-| `cpo` | 38 | 0 | 4 | 42 |
 | `pindakaas` | 96 | 0 | 104 | 200 |
 
 ---
