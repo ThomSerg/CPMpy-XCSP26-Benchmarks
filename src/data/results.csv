@@ -688,9 +688,17 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Heterosquare-easy-40_c25.xml.lz
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Heterosquare-easy-50_c25.xml.lzma,UNKNOWN,328.61228134995326,,,memory,,pindakaas_Heterosquare-easy-50_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,334.15966103202663,,,memory,,pindakaas_Heterosquare-easy-60_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Heterosquare-fair-05_c25.xml.lzma,SAT,182.36374571709894,,true,,FEASIBLE,pindakaas_Heterosquare-fair-05_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Heterosquare-fair-10_c25.xml.lzma,UNKNOWN,599.0088447199669,,true,,UNKNOWN,pindakaas_Heterosquare-fair-10_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Heterosquare-fair-15_c25.xml.lzma,UNKNOWN,601.3614586968906,,,walltime,,pindakaas_Heterosquare-fair-15_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Heterosquare-fair-20_c25.xml.lzma,UNKNOWN,97.83936516405083,,,memory,,pindakaas_Heterosquare-fair-20_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Heterosquare-hard-05_c25.xml.lzma,UNKNOWN,598.8971358879935,,true,,UNKNOWN,pindakaas_Heterosquare-hard-05_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Heterosquare-hard-10_c25.xml.lzma,UNKNOWN,599.4549698259216,,true,,UNKNOWN,pindakaas_Heterosquare-hard-10_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Heterosquare-hard-15_c25.xml.lzma,UNKNOWN,600.7590449780691,,true,,UNKNOWN,pindakaas_Heterosquare-hard-15_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Heterosquare-hard-20_c25.xml.lzma,UNKNOWN,108.91755961300805,,,memory,,pindakaas_Heterosquare-hard-20_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LangfordBin-010_c25.xml.lzma,UNSAT,487.9169547499623,,true,,UNSATISFIABLE,pindakaas_LangfordBin-010_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LangfordBin-013_c25.xml.lzma,UNKNOWN,600.0894185008947,,true,,UNKNOWN,pindakaas_LangfordBin-013_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LangfordBin-014_c25.xml.lzma,UNKNOWN,599.307014668826,,true,,UNKNOWN,pindakaas_LangfordBin-014_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LangfordBin-016_c25.xml.lzma,UNKNOWN,599.5473844909575,,true,,UNKNOWN,pindakaas_LangfordBin-016_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LangfordBin-039_c25.xml.lzma,UNKNOWN,71.25679115601815,,,memory,,pindakaas_LangfordBin-039_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LangfordBin-040_c25.xml.lzma,UNKNOWN,72.03029778599739,,,memory,,pindakaas_LangfordBin-040_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LangfordBin-059_c25.xml.lzma,UNKNOWN,131.30311420187354,,,memory,,pindakaas_LangfordBin-059_c25.xml.txt.metadata.json
@@ -698,6 +706,7 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LangfordBin-060_c25.xml.lzma,UN
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LangfordBin-079_c25.xml.lzma,UNKNOWN,188.12809740100056,,,memory,,pindakaas_LangfordBin-079_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LangfordBin-080_c25.xml.lzma,UNKNOWN,262.20177810499445,,,memory,,pindakaas_LangfordBin-080_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LangfordBin-120_c25.xml.lzma,UNKNOWN,260.1094633368775,,,memory,,pindakaas_LangfordBin-120_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LangfordBin-240_c25.xml.lzma,UNKNOWN,601.4687062280718,,,walltime,,pindakaas_LangfordBin-240_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,9.276074124034494,,true,,FEASIBLE,pindakaas_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,39.25943126203492,,true,,FEASIBLE,pindakaas_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,262.43502844613977,,true,,FEASIBLE,pindakaas_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
@@ -706,6 +715,8 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0087_c25
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,UNKNOWN,96.365103475051,,,memory,,pindakaas_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0207_c25.xml.lzma,UNKNOWN,212.4692761991173,,,memory,,pindakaas_LotteryDesign-32-6-6-2-0207_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,372.19964375696145,,,memory,,pindakaas_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,582.4646357519086,,,memory,,pindakaas_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,601.5605959831737,,,walltime,,pindakaas_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,429.6463367100805,,,memory,,pindakaas_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,360.5386458840221,,,memory,,pindakaas_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,PegSolitaireTable-english-1-4-0_c25.xml.lzma,SAT,312.4146681120619,,true,,FEASIBLE,pindakaas_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
@@ -717,6 +728,7 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,RamseyPartition-equ-4-0064_c25.
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,RamseyPartition-equ-5-0130_c25.xml.lzma,SAT,18.61983401188627,,true,,FEASIBLE,pindakaas_RamseyPartition-equ-5-0130_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,RamseyPartition-equ-5-0140_c25.xml.lzma,SAT,105.12343602604233,,true,,FEASIBLE,pindakaas_RamseyPartition-equ-5-0140_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Rostering-00-14-20_c25.xml.lzma,SAT,179.8611738390755,,true,,FEASIBLE,pindakaas_Rostering-00-14-20_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Rostering-25-22-20_c25.xml.lzma,SAT,358.17434628796764,,true,,FEASIBLE,pindakaas_Rostering-25-22-20_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.4280495699495077,,,exitcode:1,,pindakaas_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.38064026995562,,,exitcode:1,,pindakaas_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,2.6249890490435064,,,exitcode:1,,pindakaas_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
@@ -732,6 +744,12 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,RotatingRostering-088-2-4-c25.x
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.6755132251419127,,,exitcode:1,,pindakaas_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,2.9905507350340486,,,exitcode:1,,pindakaas_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,SEDF-19-1-C19-3-3-1_c25.xml.lzma,UNKNOWN,42.63553180685267,,,memory,,pindakaas_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNKNOWN,90.76934884488583,,,memory,,pindakaas_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNKNOWN,107.96340196114033,,,memory,,pindakaas_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,156.84591182298027,,,memory,,pindakaas_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,SEDF-25-2-C5xC5-7-2-1_c25.xml.lzma,UNKNOWN,160.2130257380195,,,memory,,pindakaas_SEDF-25-2-C5xC5-7-2-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,SEDF-28-1-C7C4-4-3-1_c25.xml.lzma,UNKNOWN,131.72599265817553,,,memory,,pindakaas_SEDF-28-1-C7C4-4-3-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,101.90752188698389,,,memory,,pindakaas_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-11-01_c25.xml.lzma,SAT,3.2231494712177664,,true,,FEASIBLE,pumpkin_Accordion-11-01_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-11-03_c25.xml.lzma,UNSAT,16.033389701973647,,true,,UNSATISFIABLE,pumpkin_Accordion-11-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-12-01_c25.xml.lzma,SAT,4.031644728034735,,true,,FEASIBLE,pumpkin_Accordion-12-01_c25.xml.txt.metadata.json
