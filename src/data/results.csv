@@ -926,6 +926,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-120_c25.xml.lzma,S
 baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-150_c25.xml.lzma,SAT,599.3744625241961,2999.0,true,,FEASIBLE,ortools_LowAutocorrelation-150_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-200_c25.xml.lzma,SAT,599.0119847510941,5668.0,true,,FEASIBLE,ortools_LowAutocorrelation-200_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-300_c25.xml.lzma,SAT,596.9940513260663,18874.0,true,,FEASIBLE,ortools_LowAutocorrelation-300_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-500_c25.xml.lzma,UNKNOWN,601.3224244229496,119606.0,,walltime,,ortools_LowAutocorrelation-500_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-800_c25.xml.lzma,UNKNOWN,336.68338723899797,165293736.0,,memory,,ortools_LowAutocorrelation-800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,MetabolicNetwork-09_c25.xml.lzma,SAT,1.9531570540275425,2.0,true,,OPTIMAL,ortools_MetabolicNetwork-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,MetabolicNetwork-10_c25.xml.lzma,SAT,1.8712637461721897,2.0,true,,OPTIMAL,ortools_MetabolicNetwork-10_c25.xml.txt.metadata.json
