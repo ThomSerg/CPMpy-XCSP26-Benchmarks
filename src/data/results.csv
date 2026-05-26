@@ -398,6 +398,7 @@ MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-30_c25.xml.lz
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,601.2047137441114,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,601.1737775679212,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,601.2267805910669,,,walltime,,gurobi_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,601.199536972912,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,4.030178054003045,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,95.65048834984191,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,3.60630024690181,,true,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
@@ -598,6 +599,43 @@ MDD_global,MDD global,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-31_c25.xml.l
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,598.8520112030674,,true,,UNKNOWN,ortools_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,601.3419034550898,,true,walltime,UNKNOWN,ortools_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,597.4357020810712,,true,,UNKNOWN,ortools_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-11-01_c25.xml.lzma,SAT,3.2231494712177664,,true,,FEASIBLE,pumpkin_Accordion-11-01_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-11-03_c25.xml.lzma,UNSAT,16.033389701973647,,true,,UNSATISFIABLE,pumpkin_Accordion-11-03_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-12-01_c25.xml.lzma,SAT,4.031644728034735,,true,,FEASIBLE,pumpkin_Accordion-12-01_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-12-03_c25.xml.lzma,UNSAT,39.86310666007921,,true,,UNSATISFIABLE,pumpkin_Accordion-12-03_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-13-02_c25.xml.lzma,SAT,3.9437384221237153,,true,,FEASIBLE,pumpkin_Accordion-13-02_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-14-03_c25.xml.lzma,SAT,5.429138479987159,,true,,FEASIBLE,pumpkin_Accordion-14-03_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-14-04_c25.xml.lzma,SAT,3.4146824290510267,,true,,FEASIBLE,pumpkin_Accordion-14-04_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-15-03_c25.xml.lzma,SAT,4.829392741899937,,true,,FEASIBLE,pumpkin_Accordion-15-03_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-15-04_c25.xml.lzma,SAT,6.8168926211073995,,true,,FEASIBLE,pumpkin_Accordion-15-04_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-16-01_c25.xml.lzma,SAT,6.215753957862034,,true,,FEASIBLE,pumpkin_Accordion-16-01_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-16-04_c25.xml.lzma,SAT,5.035662571899593,,true,,FEASIBLE,pumpkin_Accordion-16-04_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-16-05_c25.xml.lzma,SAT,4.232806813903153,,true,,FEASIBLE,pumpkin_Accordion-16-05_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,AlmostMagic-03-040_c25.xml.lzma,SAT,145.56921557406895,,true,,FEASIBLE,pumpkin_AlmostMagic-03-040_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,AlmostMagic-03-070_c25.xml.lzma,SAT,2.844960324000567,,true,,FEASIBLE,pumpkin_AlmostMagic-03-070_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,AlmostMagic-04-050_c25.xml.lzma,SAT,19.103044213028625,,true,,FEASIBLE,pumpkin_AlmostMagic-04-050_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,AlmostMagic-04-080_c25.xml.lzma,SAT,3.7779508768580854,,true,,FEASIBLE,pumpkin_AlmostMagic-04-080_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,AlmostMagic-05-070_c25.xml.lzma,SAT,27.167088745860383,,true,,FEASIBLE,pumpkin_AlmostMagic-05-070_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,ChainReaction-20-020_c25.xml.lzma,UNSAT,96.99783012992702,,true,,UNSATISFIABLE,pumpkin_ChainReaction-20-020_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,ChainReaction-20-025_c25.xml.lzma,SAT,13.274631039006636,,true,,FEASIBLE,pumpkin_ChainReaction-20-025_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,ChainReaction-30-040_c25.xml.lzma,SAT,169.60826379596256,,true,,FEASIBLE,pumpkin_ChainReaction-30-040_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,43.880928579950705,,,memory,,pumpkin_CrazyFrog-table-07_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,55.60410350607708,,,memory,,pumpkin_CrazyFrog-table-08_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,179.51332887192257,,,memory,,pumpkin_CrazyFrog-table-09_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,196.4035198360216,,,memory,,pumpkin_CrazyFrog-table-10_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-3-04-128_c25.xml.lzma,UNKNOWN,5.335154870990664,,,exitcode:1,,pumpkin_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-3-05-128_c25.xml.lzma,UNKNOWN,6.115997190820053,,,exitcode:1,,pumpkin_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-4-09-128_c25.xml.lzma,UNKNOWN,7.9214415268506855,,,exitcode:1,,pumpkin_Cryptanalysis-4-09-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-4-11-128_c25.xml.lzma,UNKNOWN,9.076917316997424,,,exitcode:1,,pumpkin_Cryptanalysis-4-11-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-4-12-128_c25.xml.lzma,UNKNOWN,6.368555704830214,,,exitcode:1,,pumpkin_Cryptanalysis-4-12-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-5-10-128_c25.xml.lzma,UNKNOWN,11.548250139923766,,,exitcode:1,,pumpkin_Cryptanalysis-5-10-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-5-14-128_c25.xml.lzma,UNKNOWN,11.902159489924088,,,exitcode:1,,pumpkin_Cryptanalysis-5-14-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-5-15-128_c25.xml.lzma,UNKNOWN,10.529363190056756,,,exitcode:1,,pumpkin_Cryptanalysis-5-15-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-6-12-128_c25.xml.lzma,UNKNOWN,18.077209554146975,,,exitcode:1,,pumpkin_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-6-16-128_c25.xml.lzma,UNKNOWN,17.346555914962664,,,exitcode:1,,pumpkin_Cryptanalysis-6-16-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-6-17-128_c25.xml.lzma,UNKNOWN,15.972088926937431,,,exitcode:1,,pumpkin_Cryptanalysis-6-17-128_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,EFPA-3-7-7-06_c25.xml.lzma,SAT,5.773607676848769,,true,,FEASIBLE,pumpkin_EFPA-3-7-7-06_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,EFPA-5-4-4-08_c25.xml.lzma,SAT,10.168065366102383,,true,,FEASIBLE,pumpkin_EFPA-5-4-4-08_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.5451988300774246,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.4924186170101,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.6101518641226,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
