@@ -917,6 +917,17 @@ baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i18_c25.xml.lzma,UNKNOWN,601.72982
 baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i29_c25.xml.lzma,UNKNOWN,601.5769607271068,,,walltime,,highs_IHTC-i29_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i30_c25.xml.lzma,UNKNOWN,399.17336491588503,,,memory,,highs_IHTC-i30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-010_c25.xml.lzma,SAT,8.791059357812628,13.0,true,,OPTIMAL,highs_LowAutocorrelation-010_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-020_c25.xml.lzma,SAT,598.9508313240949,42.000000000000014,true,,FEASIBLE,highs_LowAutocorrelation-020_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-040_c25.xml.lzma,SAT,599.4689692310058,460.0000000000621,true,,FEASIBLE,highs_LowAutocorrelation-040_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-060_c25.xml.lzma,UNKNOWN,601.0969674789812,,,walltime,,highs_LowAutocorrelation-060_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-080_c25.xml.lzma,UNKNOWN,600.9218869821634,,true,,UNKNOWN,highs_LowAutocorrelation-080_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-100_c25.xml.lzma,UNKNOWN,601.1269264670555,,true,walltime,UNKNOWN,highs_LowAutocorrelation-100_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-120_c25.xml.lzma,UNKNOWN,601.1141020869836,,true,walltime,UNKNOWN,highs_LowAutocorrelation-120_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-150_c25.xml.lzma,UNKNOWN,601.1795283430256,,true,walltime,UNKNOWN,highs_LowAutocorrelation-150_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-200_c25.xml.lzma,UNKNOWN,601.2597291320562,,true,walltime,UNKNOWN,highs_LowAutocorrelation-200_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-300_c25.xml.lzma,UNKNOWN,601.2466536720749,,,walltime,,highs_LowAutocorrelation-300_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-500_c25.xml.lzma,UNKNOWN,601.4780918699689,,,walltime,,highs_LowAutocorrelation-500_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-800_c25.xml.lzma,UNKNOWN,601.4646888689604,,,walltime,,highs_LowAutocorrelation-800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,MetabolicNetwork-09_c25.xml.lzma,SAT,1.3843410091940314,2.0,true,,OPTIMAL,highs_MetabolicNetwork-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,MetabolicNetwork-10_c25.xml.lzma,SAT,1.4604620020836592,2.0,true,,OPTIMAL,highs_MetabolicNetwork-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,MetabolicNetwork-14_c25.xml.lzma,SAT,75.6456279209815,2.0,true,,OPTIMAL,highs_MetabolicNetwork-14_c25.xml.txt.metadata.json
