@@ -176,6 +176,13 @@ MDD_global,MDD global,XCSP3-2025-CSP25,cpo,RotatingRostering-088-2-4-c25.xml.lzm
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.740105382865295,,,exitcode:1,,cpo_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.868597635999322,,,exitcode:1,,cpo_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,SEDF-19-1-C19-3-3-1_c25.xml.lzma,SAT,8.646269260905683,,true,,FEASIBLE,cpo_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNKNOWN,599.8426829059608,,true,,UNKNOWN,cpo_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNKNOWN,599.9905334641226,,true,,UNKNOWN,cpo_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,600.7180636071134,,true,,UNKNOWN,cpo_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,SEDF-25-2-C5xC5-7-2-1_c25.xml.lzma,UNKNOWN,600.7393061551265,,true,,UNKNOWN,cpo_SEDF-25-2-C5xC5-7-2-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,SEDF-28-1-C7C4-4-3-1_c25.xml.lzma,UNKNOWN,600.1796728910413,,true,,UNKNOWN,cpo_SEDF-28-1-C7C4-4-3-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,599.8535251889843,,true,,UNKNOWN,cpo_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,SEDF-28-4-C14xC2-4-3-1_c25.xml.lzma,UNKNOWN,600.413239012938,,true,,UNKNOWN,cpo_SEDF-28-4-C14xC2-4-3-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,TilingRythmicCanons1-23_c25.xml.lzma,SAT,18.941164516145363,,true,,FEASIBLE,cpo_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.1504650071728975,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,356.1758104949258,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
