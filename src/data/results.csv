@@ -347,7 +347,10 @@ MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-5-0180_c25.xml
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-5-0200_c25.xml.lzma,UNKNOWN,601.1542439009063,,true,walltime,UNKNOWN,gurobi_RamseyPartition-equ-5-0200_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-5-0400_c25.xml.lzma,UNKNOWN,601.1902983479667,,,walltime,,gurobi_RamseyPartition-equ-5-0400_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Rostering-00-14-20_c25.xml.lzma,UNKNOWN,601.4592241861392,,true,walltime,UNKNOWN,gurobi_Rostering-00-14-20_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Rostering-00-14-25_c25.xml.lzma,UNKNOWN,601.4413646580651,,,walltime,,gurobi_Rostering-00-14-25_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Rostering-00-14-30_c25.xml.lzma,UNKNOWN,601.8040617529768,,,walltime,,gurobi_Rostering-00-14-30_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Rostering-00-14-35_c25.xml.lzma,UNKNOWN,601.3434619409963,,,walltime,,gurobi_Rostering-00-14-35_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Rostering-00-14-40_c25.xml.lzma,UNKNOWN,602.2209564750083,,,walltime,,gurobi_Rostering-00-14-40_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.759421171154827,,,exitcode:1,,gurobi_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,3.329966073157266,,,exitcode:1,,gurobi_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,2.3799473978579044,,,exitcode:1,,gurobi_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
