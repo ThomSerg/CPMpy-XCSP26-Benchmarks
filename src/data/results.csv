@@ -276,7 +276,11 @@ MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-04-05_c25.xml.lzma,U
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-04-06_c25.xml.lzma,UNKNOWN,599.0640180520713,,true,,UNKNOWN,gurobi_GracefulGraph-04-06_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-05-04_c25.xml.lzma,UNKNOWN,599.12884918903,,true,,UNKNOWN,gurobi_GracefulGraph-05-04_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-05-05_c25.xml.lzma,UNKNOWN,599.2898469921201,,true,,UNKNOWN,gurobi_GracefulGraph-05-05_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-05-06_c25.xml.lzma,UNKNOWN,599.0637915290426,,true,,UNKNOWN,gurobi_GracefulGraph-05-06_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-06-02_c25.xml.lzma,UNKNOWN,599.5434149778448,,true,,UNKNOWN,gurobi_GracefulGraph-06-02_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,GracefulGraph-06-03_c25.xml.lzma,UNKNOWN,599.3429620731622,,true,,UNKNOWN,gurobi_GracefulGraph-06-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Heterosquare-easy-20_c25.xml.lzma,SAT,82.20321656088345,,true,,FEASIBLE,gurobi_Heterosquare-easy-20_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,371.74069498083554,,,memory,,gurobi_Heterosquare-easy-60_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-05_c25.xml.lzma,SAT,4.800378676038235,,true,,FEASIBLE,gurobi_Heterosquare-fair-05_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-10_c25.xml.lzma,SAT,61.447900337865576,,true,,FEASIBLE,gurobi_Heterosquare-fair-10_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,Heterosquare-hard-05_c25.xml.lzma,UNSAT,2.950638795038685,,true,,UNSATISFIABLE,gurobi_Heterosquare-hard-05_c25.xml.txt.metadata.json
