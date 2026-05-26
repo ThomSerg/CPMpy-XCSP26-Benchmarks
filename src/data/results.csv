@@ -749,7 +749,13 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,RamseyPartition-equ-5-0400_c25.xm
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Rostering-00-14-20_c25.xml.lzma,UNKNOWN,599.4503558140714,,true,,UNKNOWN,pumpkin_Rostering-00-14-20_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Rostering-00-14-25_c25.xml.lzma,UNKNOWN,599.7136817621067,,true,,UNKNOWN,pumpkin_Rostering-00-14-25_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Rostering-00-14-30_c25.xml.lzma,UNKNOWN,600.3612858180422,,true,,UNKNOWN,pumpkin_Rostering-00-14-30_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Rostering-00-14-35_c25.xml.lzma,UNKNOWN,601.2074649590068,,true,walltime,UNKNOWN,pumpkin_Rostering-00-14-35_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Rostering-00-14-40_c25.xml.lzma,UNKNOWN,601.2642735848203,,true,walltime,UNKNOWN,pumpkin_Rostering-00-14-40_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Rostering-25-22-20_c25.xml.lzma,UNKNOWN,599.4354868421797,,true,,UNKNOWN,pumpkin_Rostering-25-22-20_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Rostering-25-22-25_c25.xml.lzma,UNKNOWN,599.8122389209457,,true,,UNKNOWN,pumpkin_Rostering-25-22-25_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Rostering-25-22-30_c25.xml.lzma,UNKNOWN,600.5951218300033,,true,,UNKNOWN,pumpkin_Rostering-25-22-30_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Rostering-25-22-35_c25.xml.lzma,UNKNOWN,601.1426961941179,,true,walltime,UNKNOWN,pumpkin_Rostering-25-22-35_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,599.3526527290232,,true,,UNKNOWN,pumpkin_Rostering-25-28-20_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.1947858221828938,,,exitcode:1,,pumpkin_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.6620085190515965,,,exitcode:1,,pumpkin_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,2.703443943988532,,,exitcode:1,,pumpkin_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
@@ -765,6 +771,7 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,RotatingRostering-088-2-4-c25.xml
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.465577868046239,,,exitcode:1,,pumpkin_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.3748311090748757,,,exitcode:1,,pumpkin_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,SEDF-19-1-C19-3-3-1_c25.xml.lzma,SAT,139.72547552990727,,true,,FEASIBLE,pumpkin_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNSAT,454.67295963992365,,true,,UNSATISFIABLE,pumpkin_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,TilingRythmicCanons1-23_c25.xml.lzma,SAT,45.83296879613772,,true,,FEASIBLE,pumpkin_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.5451988300774246,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.4924186170101,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
