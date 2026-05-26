@@ -619,6 +619,7 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,AlmostMagic-05-070_c25.xml.lzma,S
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,ChainReaction-20-020_c25.xml.lzma,UNSAT,96.99783012992702,,true,,UNSATISFIABLE,pumpkin_ChainReaction-20-020_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,ChainReaction-20-025_c25.xml.lzma,SAT,13.274631039006636,,true,,FEASIBLE,pumpkin_ChainReaction-20-025_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,ChainReaction-30-040_c25.xml.lzma,SAT,169.60826379596256,,true,,FEASIBLE,pumpkin_ChainReaction-30-040_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,ChainReaction-40-055_c25.xml.lzma,SAT,498.20864056097344,,true,,FEASIBLE,pumpkin_ChainReaction-40-055_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,43.880928579950705,,,memory,,pumpkin_CrazyFrog-table-07_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,55.60410350607708,,,memory,,pumpkin_CrazyFrog-table-08_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,179.51332887192257,,,memory,,pumpkin_CrazyFrog-table-09_c25.xml.txt.metadata.json
@@ -635,8 +636,11 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-6-12-128_c25.xml.lz
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-6-16-128_c25.xml.lzma,UNKNOWN,17.346555914962664,,,exitcode:1,,pumpkin_Cryptanalysis-6-16-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-6-17-128_c25.xml.lzma,UNKNOWN,15.972088926937431,,,exitcode:1,,pumpkin_Cryptanalysis-6-17-128_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,EFPA-3-7-7-06_c25.xml.lzma,SAT,5.773607676848769,,true,,FEASIBLE,pumpkin_EFPA-3-7-7-06_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,EFPA-3-7-7-07_c25.xml.lzma,UNSAT,492.94147857208736,,true,,UNSATISFIABLE,pumpkin_EFPA-3-7-7-07_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,EFPA-3-8-8-07_c25.xml.lzma,SAT,248.3440132481046,,true,,FEASIBLE,pumpkin_EFPA-3-8-8-07_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,EFPA-5-4-4-08_c25.xml.lzma,SAT,10.168065366102383,,true,,FEASIBLE,pumpkin_EFPA-5-4-4-08_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Heterosquare-easy-20_c25.xml.lzma,SAT,349.1475597100798,,true,,FEASIBLE,pumpkin_Heterosquare-easy-20_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Heterosquare-fair-05_c25.xml.lzma,SAT,3.597929850919172,,true,,FEASIBLE,pumpkin_Heterosquare-fair-05_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.5451988300774246,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.4924186170101,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.6101518641226,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
