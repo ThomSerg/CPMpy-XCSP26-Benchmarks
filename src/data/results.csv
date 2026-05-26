@@ -911,6 +911,10 @@ baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i08_c25.xml.lzma,UNKNOWN,601.32490
 baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i09_c25.xml.lzma,UNSAT,404.4298244409729,,true,,UNSATISFIABLE,highs_IHTC-i09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i10_c25.xml.lzma,UNSAT,581.9385916809551,,true,,UNSATISFIABLE,highs_IHTC-i10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i11_c25.xml.lzma,UNKNOWN,601.3216668341774,,,walltime,,highs_IHTC-i11_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i12_c25.xml.lzma,UNKNOWN,601.2523614019156,,,walltime,,highs_IHTC-i12_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i16_c25.xml.lzma,UNKNOWN,601.2533652789425,,,walltime,,highs_IHTC-i16_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i18_c25.xml.lzma,UNKNOWN,601.7298285700381,,,walltime,,highs_IHTC-i18_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i29_c25.xml.lzma,UNKNOWN,601.5769607271068,,,walltime,,highs_IHTC-i29_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,IHTC-i30_c25.xml.lzma,UNKNOWN,399.17336491588503,,,memory,,highs_IHTC-i30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,LowAutocorrelation-010_c25.xml.lzma,SAT,8.791059357812628,13.0,true,,OPTIMAL,highs_LowAutocorrelation-010_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,MetabolicNetwork-09_c25.xml.lzma,SAT,1.3843410091940314,2.0,true,,OPTIMAL,highs_MetabolicNetwork-09_c25.xml.txt.metadata.json
