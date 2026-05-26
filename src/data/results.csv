@@ -681,7 +681,14 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,GracefulGraph-06-02_c25.xml.lzma,
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,GracefulGraph-06-03_c25.xml.lzma,UNKNOWN,599.8662646131124,,true,,UNKNOWN,pumpkin_GracefulGraph-06-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,GracefulGraph-06-04_c25.xml.lzma,UNKNOWN,599.4213292279746,,true,,UNKNOWN,pumpkin_GracefulGraph-06-04_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Heterosquare-easy-20_c25.xml.lzma,SAT,349.1475597100798,,true,,FEASIBLE,pumpkin_Heterosquare-easy-20_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Heterosquare-easy-25_c25.xml.lzma,UNKNOWN,599.4347581171896,,true,,UNKNOWN,pumpkin_Heterosquare-easy-25_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Heterosquare-easy-30_c25.xml.lzma,UNKNOWN,599.1733493830543,,true,,UNKNOWN,pumpkin_Heterosquare-easy-30_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Heterosquare-easy-35_c25.xml.lzma,UNKNOWN,599.0907053158153,,true,,UNKNOWN,pumpkin_Heterosquare-easy-35_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Heterosquare-easy-40_c25.xml.lzma,UNKNOWN,599.1380034959875,,true,,UNKNOWN,pumpkin_Heterosquare-easy-40_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Heterosquare-easy-50_c25.xml.lzma,UNKNOWN,599.0873823452275,,true,,UNKNOWN,pumpkin_Heterosquare-easy-50_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,599.3228613070678,,true,,UNKNOWN,pumpkin_Heterosquare-easy-60_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Heterosquare-fair-05_c25.xml.lzma,SAT,3.597929850919172,,true,,FEASIBLE,pumpkin_Heterosquare-fair-05_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,LangfordBin-010_c25.xml.lzma,UNSAT,233.3882631789893,,true,,UNSATISFIABLE,pumpkin_LangfordBin-010_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,LangfordBin-016_c25.xml.lzma,SAT,3.185376643901691,,true,,FEASIBLE,pumpkin_LangfordBin-016_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,LangfordBin-039_c25.xml.lzma,SAT,13.102508476004004,,true,,FEASIBLE,pumpkin_LangfordBin-039_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,LangfordBin-060_c25.xml.lzma,SAT,26.498122232034802,,true,,FEASIBLE,pumpkin_LangfordBin-060_c25.xml.txt.metadata.json
@@ -691,6 +698,7 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,LotteryDesign-32-6-6-2-0047_c25.x
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,LotteryDesign-32-6-6-2-0067_c25.xml.lzma,SAT,10.203362449072301,,true,,FEASIBLE,pumpkin_LotteryDesign-32-6-6-2-0067_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,19.40677667898126,,true,,FEASIBLE,pumpkin_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,41.0748022259213,,true,,FEASIBLE,pumpkin_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,LotteryDesign-32-6-6-2-0207_c25.xml.lzma,SAT,271.3334493211005,,true,,FEASIBLE,pumpkin_LotteryDesign-32-6-6-2-0207_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.5451988300774246,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.4924186170101,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.6101518641226,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
