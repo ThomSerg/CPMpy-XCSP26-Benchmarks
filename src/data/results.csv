@@ -1575,10 +1575,15 @@ MDD_global,MDD global,XCSP3-2025-CSP25,scip,RotatingRostering-064-2-4-c25.xml.lz
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,RotatingRostering-088-2-4-c25.xml.lzma,UNKNOWN,3.995094285113737,,,exitcode:1,,scip_RotatingRostering-088-2-4-c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,4.409632620867342,,,exitcode:1,,scip_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.7775060338899493,,,exitcode:1,,scip_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-19-1-C19-3-3-1_c25.xml.lzma,UNKNOWN,601.1654484998435,,true,walltime,UNKNOWN,scip_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNKNOWN,601.2306523530278,,,walltime,,scip_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNKNOWN,601.1913719100412,,,walltime,,scip_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,601.1752371639013,,,walltime,,scip_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-25-2-C5xC5-7-2-1_c25.xml.lzma,UNKNOWN,601.2850577798672,,,walltime,,scip_SEDF-25-2-C5xC5-7-2-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-28-1-C7C4-4-3-1_c25.xml.lzma,UNKNOWN,601.2949947679881,,,walltime,,scip_SEDF-28-1-C7C4-4-3-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-28-2-C28-4-3-1_c25.xml.lzma,UNKNOWN,601.2758092079312,,,walltime,,scip_SEDF-28-2-C28-4-3-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,601.3989299139939,,,walltime,,scip_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-28-4-C14xC2-4-3-1_c25.xml.lzma,UNKNOWN,601.241453919094,,,walltime,,scip_SEDF-28-4-C14xC2-4-3-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,260.43976197601296,,,memory,,scip_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-30_c25.xml.lzma,UNKNOWN,223.71546861995012,,,memory,,scip_TilingRythmicCanons1-30_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,219.7352239668835,,,memory,,scip_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
