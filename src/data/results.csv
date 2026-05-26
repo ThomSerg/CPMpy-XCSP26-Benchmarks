@@ -36,7 +36,7 @@ baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-10_c25.xml.lz
 baseline,baseline,XCSP3-2025-COP25,cpo,BusScheduling-c1_c25.xml.lzma,SAT,599.0983029569034,27.0,true,,FEASIBLE,cpo_BusScheduling-c1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BusScheduling-c1a_c25.xml.lzma,SAT,599.4381714300252,29.0,true,,FEASIBLE,cpo_BusScheduling-c1a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BusScheduling-c2_c25.xml.lzma,SAT,600.0757915668655,33.0,true,,FEASIBLE,cpo_BusScheduling-c2_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,BusScheduling-r1_c25.xml.lzma,UNKNOWN,2.572911388007924,,,exitcode:1,,cpo_BusScheduling-r1_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,BusScheduling-r1_c25.xml.lzma,SAT,598.9614997338504,11.0,true,,FEASIBLE,cpo_BusScheduling-r1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BusScheduling-r1a_c25.xml.lzma,UNKNOWN,3.0938293361105025,,,exitcode:1,,cpo_BusScheduling-r1a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BusScheduling-r2_c25.xml.lzma,UNKNOWN,2.169633050914854,,,exitcode:1,,cpo_BusScheduling-r2_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BusScheduling-r3_c25.xml.lzma,UNKNOWN,7.8604778160806745,,,exitcode:1,,cpo_BusScheduling-r3_c25.xml.txt.metadata.json
@@ -77,8 +77,8 @@ baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-14_c25.xml.lzma,SAT,12.4152756489
 baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-16_c25.xml.lzma,SAT,20.87954375287518,103.0,true,,OPTIMAL,cpo_Coprime-16_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-17_c25.xml.lzma,SAT,26.484737863065675,107.0,true,,OPTIMAL,cpo_Coprime-17_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-18_c25.xml.lzma,SAT,33.003198029939085,113.0,true,,OPTIMAL,cpo_Coprime-18_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-19_c25.xml.lzma,SAT,63.29832125804387,131.0,true,,OPTIMAL,cpo_Coprime-19_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-20_c25.xml.lzma,SAT,91.42054057191126,139.0,true,,OPTIMAL,cpo_Coprime-20_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-19_c25.xml.lzma,SAT,59.87640737602487,131.0,true,,OPTIMAL,cpo_Coprime-19_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-20_c25.xml.lzma,SAT,87.94484518491663,139.0,true,,OPTIMAL,cpo_Coprime-20_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-21_c25.xml.lzma,SAT,280.6101733890828,157.0,true,,OPTIMAL,cpo_Coprime-21_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-22_c25.xml.lzma,SAT,317.54497784911655,167.0,true,,OPTIMAL,cpo_Coprime-22_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,Coprime-23_c25.xml.lzma,SAT,537.5488832930569,173.0,true,,OPTIMAL,cpo_Coprime-23_c25.xml.txt.metadata.json
