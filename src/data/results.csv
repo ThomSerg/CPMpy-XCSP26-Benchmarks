@@ -921,7 +921,11 @@ MDD_global,MDD global,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-2000_c25.xml.lz
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,601.4203121520113,,,walltime,,z3_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-0-2-0_c25.xml.lzma,UNKNOWN,601.0684960228391,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-0-2-0_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-0-3-0_c25.xml.lzma,UNKNOWN,601.0882503271569,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-0-4-0_c25.xml.lzma,UNKNOWN,601.0703873271123,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-0-4-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-1-2-0_c25.xml.lzma,UNKNOWN,600.6278998139314,,true,,UNKNOWN,z3_PegSolitaireTable-english-1-2-0_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,PegSolitaireTable-english-1-4-0_c25.xml.lzma,UNKNOWN,601.0779440610204,,true,walltime,UNKNOWN,z3_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0300_c25.xml.lzma,UNSAT,99.28549675806426,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0600_c25.xml.lzma,UNSAT,453.1704864951316,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,100.28835788508877,,true,,FEASIBLE,z3_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.001740851905197,,,exitcode:1,,z3_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,z3,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,1.956739183049649,,,exitcode:1,,z3_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
