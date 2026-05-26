@@ -1425,8 +1425,8 @@ baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-100_c25.xml.lzma,S
 baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-120_c25.xml.lzma,SAT,599.1205755979754,1936.0,true,,FEASIBLE,ortools_LowAutocorrelation-120_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-150_c25.xml.lzma,SAT,599.3919398349244,2999.0,true,,FEASIBLE,ortools_LowAutocorrelation-150_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-200_c25.xml.lzma,SAT,599.8762767058797,5668.0,true,,FEASIBLE,ortools_LowAutocorrelation-200_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-300_c25.xml.lzma,SAT,596.9940513260663,18874.0,true,,FEASIBLE,ortools_LowAutocorrelation-300_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-500_c25.xml.lzma,UNKNOWN,601.3224244229496,119606.0,,walltime,,ortools_LowAutocorrelation-500_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-300_c25.xml.lzma,SAT,598.7325255628675,18874.0,true,,FEASIBLE,ortools_LowAutocorrelation-300_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-500_c25.xml.lzma,UNKNOWN,601.405766448006,119606.0,,walltime,,ortools_LowAutocorrelation-500_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-800_c25.xml.lzma,UNKNOWN,337.7798266450409,165293736.0,,memory,,ortools_LowAutocorrelation-800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,MetabolicNetwork-09_c25.xml.lzma,SAT,1.8567391620017588,2.0,true,,OPTIMAL,ortools_MetabolicNetwork-09_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,MetabolicNetwork-10_c25.xml.lzma,SAT,2.0387156780343503,2.0,true,,OPTIMAL,ortools_MetabolicNetwork-10_c25.xml.txt.metadata.json
@@ -1475,7 +1475,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,SchedulingOS-gp-06-01_c25.xml.lzma,SA
 baseline,baseline,XCSP3-2025-COP25,ortools,SchedulingOS-gp-06-05_c25.xml.lzma,SAT,3.187014617957175,1299.0,true,,OPTIMAL,ortools_SchedulingOS-gp-06-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,SchedulingOS-gp-07-01_c25.xml.lzma,SAT,29.057902799919248,1159.0,true,,OPTIMAL,ortools_SchedulingOS-gp-07-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,SchedulingOS-gp-07-05_c25.xml.lzma,SAT,5.741488927043974,1157.0,true,,OPTIMAL,ortools_SchedulingOS-gp-07-05_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,SchedulingOS-gp-08-01_c25.xml.lzma,SAT,198.19297176995315,1130.0,true,,OPTIMAL,ortools_SchedulingOS-gp-08-01_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,SchedulingOS-gp-08-01_c25.xml.lzma,SAT,199.42873982409947,1130.0,true,,OPTIMAL,ortools_SchedulingOS-gp-08-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,SchedulingOS-gp-08-05_c25.xml.lzma,SAT,28.86541024991311,1218.0,true,,OPTIMAL,ortools_SchedulingOS-gp-08-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,SchedulingOS-gp-09-01_c25.xml.lzma,SAT,596.8430895851925,1129.0,true,,FEASIBLE,ortools_SchedulingOS-gp-09-01_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,SchedulingOS-gp-09-05_c25.xml.lzma,SAT,366.7173713291995,1180.0,true,,OPTIMAL,ortools_SchedulingOS-gp-09-05_c25.xml.txt.metadata.json
@@ -1491,7 +1491,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,TankAllocation1-2400_c25.xml.lzma,UNS
 baseline,baseline,XCSP3-2025-COP25,ortools,TankAllocation1-2591_c25.xml.lzma,UNSAT,4.087011051829904,,true,,UNSATISFIABLE,ortools_TankAllocation1-2591_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,TankAllocation1-chemical_c25.xml.lzma,SAT,25.851884898962453,2296.0,true,,OPTIMAL,ortools_TankAllocation1-chemical_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,TankAllocation2-0000_c25.xml.lzma,SAT,598.5741435789969,1621.0,false,,FEASIBLE,ortools_TankAllocation2-0000_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,TankAllocation2-0400_c25.xml.lzma,SAT,599.2925996740814,1429.0,false,,FEASIBLE,ortools_TankAllocation2-0400_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,TankAllocation2-0400_c25.xml.lzma,SAT,118.7935414579697,1226.0,true,,OPTIMAL,ortools_TankAllocation2-0400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,TankAllocation2-0800_c25.xml.lzma,SAT,599.1666114940308,5889.0,false,,FEASIBLE,ortools_TankAllocation2-0800_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,TankAllocation2-1200_c25.xml.lzma,SAT,4.4723027588333935,0.0,true,,OPTIMAL,ortools_TankAllocation2-1200_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,TankAllocation2-1600_c25.xml.lzma,SAT,597.6672346689738,835.0,true,,FEASIBLE,ortools_TankAllocation2-1600_c25.xml.txt.metadata.json
