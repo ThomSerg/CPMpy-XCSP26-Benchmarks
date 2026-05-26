@@ -1360,10 +1360,10 @@ baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-06-0500_c25.xml.lzma,UNKNOWN
 baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-07-0600_c25.xml.lzma,UNKNOWN,385.1028923911508,,,memory,,ortools_FAPP-aux-07-0600_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-08-0700_c25.xml.lzma,UNKNOWN,304.6648651380092,,,memory,,ortools_FAPP-aux-08-0700_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-09-0800_c25.xml.lzma,UNKNOWN,357.35064403293654,,,memory,,ortools_FAPP-aux-09-0800_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-10-0900_c25.xml.lzma,UNKNOWN,406.3008948378265,,,memory,,ortools_FAPP-aux-10-0900_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-10-0900_c25.xml.lzma,UNKNOWN,408.3299282779917,,,memory,,ortools_FAPP-aux-10-0900_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-17-0300_c25.xml.lzma,SAT,599.2802007191349,366579499.0,true,,FEASIBLE,ortools_FAPP-aux-17-0300_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-18-0350_c25.xml.lzma,SAT,137.20665133115835,162507055.0,true,,OPTIMAL,ortools_FAPP-aux-18-0350_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-19-0350_c25.xml.lzma,UNKNOWN,446.75034046405926,,,memory,,ortools_FAPP-aux-19-0350_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-19-0350_c25.xml.lzma,UNKNOWN,443.44651578809135,,,memory,,ortools_FAPP-aux-19-0350_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-20-0420_c25.xml.lzma,UNKNOWN,601.3757403958589,570943864.0,,walltime,,ortools_FAPP-aux-20-0420_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-21-0500_c25.xml.lzma,SAT,597.7058573418763,177958702.0,true,,FEASIBLE,ortools_FAPP-aux-21-0500_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-ex1_c25.xml.lzma,SAT,6.11562717682682,523.0,true,,OPTIMAL,ortools_FAPP-aux-ex1_c25.xml.txt.metadata.json
@@ -1415,7 +1415,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,IHTC-i12_c25.xml.lzma,UNSAT,8.0023063
 baseline,baseline,XCSP3-2025-COP25,ortools,IHTC-i16_c25.xml.lzma,UNSAT,11.993295827880502,,true,,UNSATISFIABLE,ortools_IHTC-i16_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,IHTC-i18_c25.xml.lzma,UNSAT,20.505101470975205,,true,,UNSATISFIABLE,ortools_IHTC-i18_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,IHTC-i29_c25.xml.lzma,UNKNOWN,585.2559705718886,,true,,UNKNOWN,ortools_IHTC-i29_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,IHTC-i30_c25.xml.lzma,UNSAT,40.712810325901955,,true,,UNSATISFIABLE,ortools_IHTC-i30_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,IHTC-i30_c25.xml.lzma,UNSAT,41.05413995217532,,true,,UNSATISFIABLE,ortools_IHTC-i30_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-010_c25.xml.lzma,SAT,1.5108556628692895,13.0,true,,OPTIMAL,ortools_LowAutocorrelation-010_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-020_c25.xml.lzma,SAT,21.642340601887554,26.0,true,,OPTIMAL,ortools_LowAutocorrelation-020_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,LowAutocorrelation-040_c25.xml.lzma,SAT,597.3839435109403,160.0,true,,FEASIBLE,ortools_LowAutocorrelation-040_c25.xml.txt.metadata.json
