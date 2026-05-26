@@ -84,9 +84,15 @@ MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-easy-20_c25.xml.lzma,S
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-easy-25_c25.xml.lzma,UNKNOWN,601.1747372809332,,,walltime,,exact_Heterosquare-easy-25_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-easy-30_c25.xml.lzma,UNKNOWN,601.3042459171265,,,walltime,,exact_Heterosquare-easy-30_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-easy-35_c25.xml.lzma,UNKNOWN,402.7616029330529,,,memory,,exact_Heterosquare-easy-35_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-easy-40_c25.xml.lzma,UNKNOWN,601.5153904820327,,,walltime,,exact_Heterosquare-easy-40_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-easy-50_c25.xml.lzma,UNKNOWN,495.6002559498884,,,memory,,exact_Heterosquare-easy-50_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,385.2683983370662,,,memory,,exact_Heterosquare-easy-60_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-fair-05_c25.xml.lzma,SAT,4.931976660853252,,true,,FEASIBLE,exact_Heterosquare-fair-05_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-fair-10_c25.xml.lzma,UNKNOWN,601.0475829700008,,,walltime,,exact_Heterosquare-fair-10_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-fair-15_c25.xml.lzma,UNKNOWN,601.0737080539111,,,walltime,,exact_Heterosquare-fair-15_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-fair-20_c25.xml.lzma,UNKNOWN,601.1100206261035,,,walltime,,exact_Heterosquare-fair-20_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-hard-05_c25.xml.lzma,UNKNOWN,601.031285994919,,,walltime,,exact_Heterosquare-hard-05_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,exact,Heterosquare-hard-10_c25.xml.lzma,UNKNOWN,601.0514315699693,,,walltime,,exact_Heterosquare-hard-10_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,LangfordBin-010_c25.xml.lzma,UNSAT,150.52075426792726,,true,,UNSATISFIABLE,exact_LangfordBin-010_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,LangfordBin-016_c25.xml.lzma,SAT,6.388316901866347,,true,,FEASIBLE,exact_LangfordBin-016_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,3.004298470914364,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
@@ -94,6 +100,8 @@ MDD_global,MDD global,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0017_c25.xml
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,18.697291834978387,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0067_c25.xml.lzma,SAT,31.090297936927527,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0067_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,213.75193441705778,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,381.64344080886804,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,420.3437678150367,,,memory,,exact_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,212.57340842089616,,true,,FEASIBLE,exact_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,4.030178054003045,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,95.65048834984191,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
