@@ -838,7 +838,9 @@ baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-30_c25.xml.lzma,SAT,601.25756
 baseline,baseline,XCSP3-2025-COP25,ortools,Coprime-40_c25.xml.lzma,UNKNOWN,432.7354016730096,,,memory,,ortools_Coprime-40_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-00-0_c25.xml.lzma,SAT,1.831724340794608,4.0,true,,OPTIMAL,ortools_Cutstock-00-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-01-0_c25.xml.lzma,SAT,2.1537298620678484,13.0,true,,OPTIMAL,ortools_Cutstock-01-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-02-0_c25.xml.lzma,SAT,597.855244911043,128.0,true,,FEASIBLE,ortools_Cutstock-02-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-03-0_c25.xml.lzma,SAT,5.799975743051618,23.0,true,,OPTIMAL,ortools_Cutstock-03-0_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-04-0_c25.xml.lzma,UNKNOWN,595.7885857359506,,true,,UNKNOWN,ortools_Cutstock-04-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-07-0_c25.xml.lzma,SAT,2.2821021110285074,58.0,true,,OPTIMAL,ortools_Cutstock-07-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-08-0_c25.xml.lzma,SAT,12.751357208937407,579.0,true,,OPTIMAL,ortools_Cutstock-08-0_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-09-0_c25.xml.lzma,SAT,6.230212728027254,98.0,true,,OPTIMAL,ortools_Cutstock-09-0_c25.xml.txt.metadata.json
@@ -849,6 +851,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,Cutstock-16-0_c25.xml.lzma,SAT,75.430
 baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-02-0250_c25.xml.lzma,UNKNOWN,304.9778365921229,,,memory,,ortools_FAPP-aux-02-0250_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-03-0300_c25.xml.lzma,UNKNOWN,278.7622548020445,,,memory,,ortools_FAPP-aux-03-0300_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-04-0300_c25.xml.lzma,UNKNOWN,233.5276602099184,,,memory,,ortools_FAPP-aux-04-0300_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-18-0350_c25.xml.lzma,SAT,134.87341563683003,162507055.0,true,,OPTIMAL,ortools_FAPP-aux-18-0350_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FAPP-aux-ex1_c25.xml.lzma,SAT,5.747804956976324,523.0,true,,OPTIMAL,ortools_FAPP-aux-ex1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FlexibleJobshopScen-dh-5-16-005_c25.xml.lzma,SAT,2.6416812329553068,1369.0,true,,OPTIMAL,ortools_FlexibleJobshopScen-dh-5-16-005_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FlexibleJobshopScen-dh-5-16-020_c25.xml.lzma,SAT,87.03077555308118,5335.0,true,,OPTIMAL,ortools_FlexibleJobshopScen-dh-5-16-020_c25.xml.txt.metadata.json
@@ -856,6 +859,15 @@ baseline,baseline,XCSP3-2025-COP25,ortools,FlexibleJobshopScen-dh-5-20-005_c25.x
 baseline,baseline,XCSP3-2025-COP25,ortools,FlexibleJobshopScen-dh-5-20-020_c25.xml.lzma,SAT,45.85486284387298,5401.0,true,,OPTIMAL,ortools_FlexibleJobshopScen-dh-5-20-020_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FlexibleJobshopScen-dh-6-18-005_c25.xml.lzma,SAT,1.89406051998958,1416.0,true,,OPTIMAL,ortools_FlexibleJobshopScen-dh-6-18-005_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,FlexibleJobshopScen-dh-6-18-020_c25.xml.lzma,SAT,10.161309756105766,5746.0,true,,OPTIMAL,ortools_FlexibleJobshopScen-dh-6-18-020_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Fortress1-03_c25.xml.lzma,SAT,4.176327862078324,459518.0,true,,OPTIMAL,ortools_Fortress1-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Fortress1-04_c25.xml.lzma,SAT,6.659142485819757,649400.0,true,,OPTIMAL,ortools_Fortress1-04_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Fortress1-05_c25.xml.lzma,SAT,7.151240884093568,1079078.0,true,,OPTIMAL,ortools_Fortress1-05_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Fortress1-06_c25.xml.lzma,SAT,7.109033515909687,1059124.0,true,,OPTIMAL,ortools_Fortress1-06_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Fortress1-07_c25.xml.lzma,SAT,7.957204101141542,1219032.0,true,,OPTIMAL,ortools_Fortress1-07_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Fortress1-08_c25.xml.lzma,SAT,7.003410743083805,1239006.0,true,,OPTIMAL,ortools_Fortress1-08_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Fortress1-09_c25.xml.lzma,SAT,8.221280517056584,1458951.0,true,,OPTIMAL,ortools_Fortress1-09_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Fortress1-10_c25.xml.lzma,SAT,12.385051087941974,1798536.0,true,,OPTIMAL,ortools_Fortress1-10_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,Fortress2-03_c25.xml.lzma,SAT,39.67544072098099,460148.0,true,,OPTIMAL,ortools_Fortress2-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-02_c25.xml.lzma,SAT,4.795710248174146,7.0,true,,OPTIMAL,pumpkin_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-03_c25.xml.lzma,SAT,599.0333099449053,35.0,true,,FEASIBLE,pumpkin_AlteredStates-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,pumpkin,AlteredStates-04_c25.xml.lzma,UNKNOWN,599.4266029698774,,true,,UNKNOWN,pumpkin_AlteredStates-04_c25.xml.txt.metadata.json
