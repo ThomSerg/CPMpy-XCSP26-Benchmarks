@@ -12,7 +12,7 @@ const summary = await FileAttachment("data/solver_summary.csv").csv({typed: true
     <h2>CPMpy benchmark sessions</h2>
     <p>Interactive static explorer generated from bench_gist metadata.</p>
   </div>
-  <a class="button" href="https://ThomSerg.github.io/CPMpy-XCSP26-Benchmarks/compare.html">Compare sessions</a>
+  <a class="button" href="https://ThomSerg.github.io/bench-gist-results/compare.html">Compare sessions</a>
 </div>
 
 ```js
