@@ -1249,7 +1249,7 @@ baseline,baseline,XCSP3-2025-COP25,highs,TankAllocation2-2000_c25.xml.lzma,UNKNO
 baseline,baseline,XCSP3-2025-COP25,highs,TankAllocation2-2400_c25.xml.lzma,UNKNOWN,601.3701829230413,,,walltime,,highs_TankAllocation2-2400_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,TankAllocation2-2591_c25.xml.lzma,UNKNOWN,601.1026062550955,,,walltime,,highs_TankAllocation2-2591_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,highs,TankAllocation2-chemical_c25.xml.lzma,UNKNOWN,601.202361108968,,true,walltime,UNKNOWN,highs_TankAllocation2-chemical_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.782046806998551,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.5242604329250753,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,598.5278427700978,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.9103737289552,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-05_c25.xml.lzma,SAT,597.6279887389392,77.0,true,,FEASIBLE,ortools_AlteredStates-05_c25.xml.txt.metadata.json
@@ -1258,7 +1258,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-08_c25.xml.lzma,SAT,599
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-10_c25.xml.lzma,SAT,598.1408591240179,248.0,true,,FEASIBLE,ortools_AlteredStates-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-12_c25.xml.lzma,SAT,598.3082843781449,301.0,true,,FEASIBLE,ortools_AlteredStates-12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-15_c25.xml.lzma,SAT,598.2282756951172,376.0,true,,FEASIBLE,ortools_AlteredStates-15_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,SAT,21.212768736993894,29145505.0,true,,OPTIMAL,ortools_AlteredStates-bis-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,SAT,19.840024306904525,29145505.0,true,,OPTIMAL,ortools_AlteredStates-bis-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-03_c25.xml.lzma,SAT,598.6813372150064,97140648.0,true,,FEASIBLE,ortools_AlteredStates-bis-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-04_c25.xml.lzma,SAT,598.7857987079769,142656977.0,true,,FEASIBLE,ortools_AlteredStates-bis-04_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-05_c25.xml.lzma,SAT,598.9708366740961,212620914.0,true,,FEASIBLE,ortools_AlteredStates-bis-05_c25.xml.txt.metadata.json
@@ -1267,7 +1267,7 @@ baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-08_c25.xml.lzma,SAT
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-10_c25.xml.lzma,SAT,598.4208714200649,310271465.0,true,,FEASIBLE,ortools_AlteredStates-bis-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-12_c25.xml.lzma,SAT,598.7892788350582,317757036.0,true,,FEASIBLE,ortools_AlteredStates-bis-12_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,AlteredStates-bis-15_c25.xml.lzma,SAT,530.0375592440832,330759736.0,true,,OPTIMAL,ortools_AlteredStates-bis-15_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-kansas-02_c25.xml.lzma,SAT,59.09544693795033,96.0,true,,OPTIMAL,ortools_BlockModeling-kansas-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-kansas-02_c25.xml.lzma,SAT,57.57143285498023,96.0,true,,OPTIMAL,ortools_BlockModeling-kansas-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-kansas-03_c25.xml.lzma,SAT,598.6500331109855,83.0,true,,FEASIBLE,ortools_BlockModeling-kansas-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-kansas-05_c25.xml.lzma,SAT,599.3238410870545,66.0,true,,FEASIBLE,ortools_BlockModeling-kansas-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-kansas-10_c25.xml.lzma,SAT,600.9312469901051,45.0,true,,FEASIBLE,ortools_BlockModeling-kansas-10_c25.xml.txt.metadata.json
@@ -1275,16 +1275,16 @@ baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-karate-02_c25.xml.lzma,
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-karate-03_c25.xml.lzma,SAT,598.8653894050512,58.0,true,,FEASIBLE,ortools_BlockModeling-karate-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-karate-05_c25.xml.lzma,SAT,600.1130578571465,44.0,true,,FEASIBLE,ortools_BlockModeling-karate-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-karate-10_c25.xml.lzma,SAT,601.1449530380778,31.0,true,walltime,FEASIBLE,ortools_BlockModeling-karate-10_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-02_c25.xml.lzma,SAT,4.010413978016004,44.0,true,,OPTIMAL,ortools_BlockModeling-politicalactor-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-02_c25.xml.lzma,SAT,3.438701172126457,44.0,true,,OPTIMAL,ortools_BlockModeling-politicalactor-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-03_c25.xml.lzma,SAT,224.8014272339642,36.0,true,,OPTIMAL,ortools_BlockModeling-politicalactor-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-05_c25.xml.lzma,SAT,596.3839039381128,26.0,true,,FEASIBLE,ortools_BlockModeling-politicalactor-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-10_c25.xml.lzma,SAT,599.3594245838467,9.0,true,,FEASIBLE,ortools_BlockModeling-politicalactor-10_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,2.5741305518895388,33.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,2.803267990006134,33.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-03_c25.xml.lzma,SAT,110.69178470596671,29.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-05_c25.xml.lzma,SAT,598.5443366039544,22.0,true,,FEASIBLE,ortools_BlockModeling-transatlantic-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-10_c25.xml.lzma,SAT,293.17398220300674,6.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-10_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1_c25.xml.lzma,SAT,9.083091393113136,26.0,true,,OPTIMAL,ortools_BusScheduling-c1_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1a_c25.xml.lzma,SAT,10.348129577934742,26.0,true,,OPTIMAL,ortools_BusScheduling-c1a_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1_c25.xml.lzma,SAT,8.319769648835063,26.0,true,,OPTIMAL,ortools_BusScheduling-c1_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c1a_c25.xml.lzma,SAT,10.070594459073618,26.0,true,,OPTIMAL,ortools_BusScheduling-c1a_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-c2_c25.xml.lzma,SAT,13.16800331696868,29.0,true,,OPTIMAL,ortools_BusScheduling-c2_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r1_c25.xml.lzma,SAT,8.23123910697177,11.0,true,,OPTIMAL,ortools_BusScheduling-r1_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,ortools,BusScheduling-r1a_c25.xml.lzma,SAT,17.00849022390321,11.0,true,,OPTIMAL,ortools_BusScheduling-r1a_c25.xml.txt.metadata.json
