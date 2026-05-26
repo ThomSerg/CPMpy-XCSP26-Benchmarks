@@ -7,7 +7,7 @@ baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-06_c25.xml.lzma,UNKNOWN,7.0
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-08_c25.xml.lzma,UNKNOWN,12.120211960980669,,,exitcode:1,,cpo_AlteredStates-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-10_c25.xml.lzma,UNKNOWN,33.74114729883149,,,exitcode:1,,cpo_AlteredStates-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-12_c25.xml.lzma,UNKNOWN,62.533239078940824,,,exitcode:1,,cpo_AlteredStates-12_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-15_c25.xml.lzma,UNKNOWN,131.1078495560214,,,exitcode:1,,cpo_AlteredStates-15_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-15_c25.xml.lzma,UNKNOWN,132.41583540686406,,,exitcode:1,,cpo_AlteredStates-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-02_c25.xml.lzma,UNKNOWN,2.8428282279055566,,,exitcode:1,,cpo_AlteredStates-bis-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-03_c25.xml.lzma,UNKNOWN,3.242955286987126,,,exitcode:1,,cpo_AlteredStates-bis-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-04_c25.xml.lzma,UNKNOWN,3.6192843839526176,,,exitcode:1,,cpo_AlteredStates-bis-04_c25.xml.txt.metadata.json
@@ -16,7 +16,7 @@ baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-06_c25.xml.lzma,UNKNOWN
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-08_c25.xml.lzma,UNKNOWN,15.284449049970135,,,exitcode:1,,cpo_AlteredStates-bis-08_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-10_c25.xml.lzma,UNKNOWN,28.428221615962684,,,exitcode:1,,cpo_AlteredStates-bis-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-12_c25.xml.lzma,UNKNOWN,63.21423228690401,,,exitcode:1,,cpo_AlteredStates-bis-12_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-15_c25.xml.lzma,UNKNOWN,130.77744120405987,,,exitcode:1,,cpo_AlteredStates-bis-15_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,AlteredStates-bis-15_c25.xml.lzma,UNKNOWN,132.65846970188431,,,exitcode:1,,cpo_AlteredStates-bis-15_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-kansas-02_c25.xml.lzma,SAT,28.104362844023854,96.0,true,,OPTIMAL,cpo_BlockModeling-kansas-02_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-kansas-03_c25.xml.lzma,SAT,599.1511016150471,83.0,true,,FEASIBLE,cpo_BlockModeling-kansas-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-kansas-05_c25.xml.lzma,SAT,599.5784973250702,63.0,true,,FEASIBLE,cpo_BlockModeling-kansas-05_c25.xml.txt.metadata.json
@@ -26,7 +26,7 @@ baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-karate-03_c25.xml.lzma,SAT,
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-karate-05_c25.xml.lzma,SAT,601.0352380780969,51.0,true,walltime,FEASIBLE,cpo_BlockModeling-karate-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-karate-10_c25.xml.lzma,UNKNOWN,601.1120231889654,,,walltime,,cpo_BlockModeling-karate-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-02_c25.xml.lzma,SAT,2.887239685980603,44.0,true,,OPTIMAL,cpo_BlockModeling-politicalactor-02_c25.xml.txt.metadata.json
-baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-03_c25.xml.lzma,SAT,196.82146470504813,36.0,true,,OPTIMAL,cpo_BlockModeling-politicalactor-03_c25.xml.txt.metadata.json
+baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-03_c25.xml.lzma,SAT,195.3108689659275,36.0,true,,OPTIMAL,cpo_BlockModeling-politicalactor-03_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-05_c25.xml.lzma,SAT,599.2089339119848,26.0,true,,FEASIBLE,cpo_BlockModeling-politicalactor-05_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-10_c25.xml.lzma,SAT,600.3556299270131,10.0,true,,FEASIBLE,cpo_BlockModeling-politicalactor-10_c25.xml.txt.metadata.json
 baseline,baseline,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,2.479480131994933,33.0,true,,OPTIMAL,cpo_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
