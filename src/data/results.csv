@@ -756,7 +756,10 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Rostering-25-22-25_c25.xml.lzma
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Rostering-25-22-30_c25.xml.lzma,UNKNOWN,601.241057286039,,true,walltime,UNKNOWN,pindakaas_Rostering-25-22-30_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Rostering-25-22-35_c25.xml.lzma,UNKNOWN,601.2660958999768,,,walltime,,pindakaas_Rostering-25-22-35_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Rostering-25-22-40_c25.xml.lzma,UNKNOWN,502.79711160901934,,,memory,,pindakaas_Rostering-25-22-40_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,599.9100226759911,,true,,UNKNOWN,pindakaas_Rostering-25-28-20_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Rostering-25-28-25_c25.xml.lzma,SAT,322.47811113717034,,true,,FEASIBLE,pindakaas_Rostering-25-28-25_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Rostering-25-28-30_c25.xml.lzma,UNKNOWN,601.1691392320208,,true,walltime,UNKNOWN,pindakaas_Rostering-25-28-30_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Rostering-25-28-35_c25.xml.lzma,UNKNOWN,601.4002742609009,,,walltime,,pindakaas_Rostering-25-28-35_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,Rostering-25-28-40_c25.xml.lzma,UNKNOWN,459.881262389943,,,memory,,pindakaas_Rostering-25-28-40_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.4280495699495077,,,exitcode:1,,pindakaas_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.38064026995562,,,exitcode:1,,pindakaas_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
@@ -782,6 +785,7 @@ MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,SEDF-28-2-C28-4-3-1_c25.xml.lzm
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,101.90752188698389,,,memory,,pindakaas_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,SEDF-28-4-C14xC2-4-3-1_c25.xml.lzma,UNKNOWN,134.79127977299504,,,memory,,pindakaas_SEDF-28-4-C14xC2-4-3-1_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,215.52412130800076,,,memory,,pindakaas_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,TilingRythmicCanons1-20_c25.xml.lzma,UNKNOWN,394.59217630000785,,,memory,,pindakaas_TilingRythmicCanons1-20_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,249.10809421911836,,,memory,,pindakaas_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,159.71552842413075,,,memory,,pindakaas_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,Accordion-11-01_c25.xml.lzma,SAT,3.2231494712177664,,true,,FEASIBLE,pumpkin_Accordion-11-01_c25.xml.txt.metadata.json
