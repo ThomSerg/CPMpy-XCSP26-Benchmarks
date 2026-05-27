@@ -621,6 +621,7 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,ChainReaction-30-040_c25.xml.lzma,SAT,211.02831348590553,,true,,FEASIBLE,pumpkin_ChainReaction-30-040_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,60.39072815910913,,,memory,,pumpkin_CrazyFrog-table-07_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,54.98515625507571,,,memory,,pumpkin_CrazyFrog-table-08_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,206.63465848914348,,,memory,,pumpkin_CrazyFrog-table-09_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,159.03146605286747,,,memory,,pumpkin_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-3-04-128_c25.xml.lzma,UNKNOWN,6.292963773012161,,,exitcode:1,,pumpkin_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-3-05-128_c25.xml.lzma,UNKNOWN,6.036350456997752,,,exitcode:1,,pumpkin_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
@@ -634,6 +635,7 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-6-16-128_c25.xml.lzma,UNKNOWN,15.367916814982891,,,exitcode:1,,pumpkin_Cryptanalysis-6-16-128_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-6-17-128_c25.xml.lzma,UNKNOWN,18.350436120061204,,,exitcode:1,,pumpkin_Cryptanalysis-6-17-128_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,EFPA-3-7-7-06_c25.xml.lzma,SAT,6.33916244097054,,true,,FEASIBLE,pumpkin_EFPA-3-7-7-06_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,EFPA-3-8-8-07_c25.xml.lzma,SAT,251.1948173281271,,true,,FEASIBLE,pumpkin_EFPA-3-8-8-07_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,EFPA-5-4-4-08_c25.xml.lzma,SAT,8.781908398959786,,true,,FEASIBLE,pumpkin_EFPA-5-4-4-08_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.669159298064187,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-COP25,ortools,AlteredStates-bis-02_c25.xml.lzma,SAT,20.5882401780691,29145505.0,true,,OPTIMAL,ortools_AlteredStates-bis-02_c25.xml.txt.metadata.json
