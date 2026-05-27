@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Use new MDD global in xcsp3 parser** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 11:43:40 | 272/999 |
+| 1 | **Use new MDD global in xcsp3 parser** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 11:43:40 | 279/1012 |
 | 2 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
 | 3 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
 | 4 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
@@ -26,10 +26,10 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Las
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 09:34:01 | — |
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 10:06:09 | — |
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 10:37:26 | — |
-| `z3` | XCSP3-2025-CSP25 | 🔄 running | 199/200 | 2026-05-27 11:08:07 | 35m 37s |
+| `z3` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 11:08:07 | — |
+| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 12/200 | 2026-05-27 11:43:54 | 2m 00s |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
-| `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
@@ -50,7 +50,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Las
 | `exact` | 35 | 12 | 99 | 54 | 200 |
 | `gurobi` | 32 | 13 | 69 | 86 | 200 |
 | `pumpkin` | 38 | 6 | 32 | 124 | 200 |
-| `z3` | 26 | 12 | 29 | 132 | 199 |
+| `z3` | 26 | 12 | 29 | 133 | 200 |
+| `pindakaas` | 3 | 4 | 0 | 5 | 12 |
 
 #### Solution Checker
 
@@ -60,7 +61,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Las
 | `exact` | 85 | 0 | 115 | 200 |
 | `gurobi` | 149 | 0 | 51 | 200 |
 | `pumpkin` | 167 | 0 | 33 | 200 |
-| `z3` | 158 | 0 | 41 | 199 |
+| `z3` | 159 | 0 | 41 | 200 |
+| `pindakaas` | 7 | 0 | 5 | 12 |
 
 ---
 
