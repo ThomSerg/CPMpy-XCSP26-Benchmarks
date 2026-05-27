@@ -3,7 +3,7 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,gurobi,32,13,0,155,200,149,0,51
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,ortools,74,24,0,102,200,174,0,26
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,38,6,0,156,200,167,0,33
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,26,12,0,120,158,127,0,31
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,26,12,0,138,176,135,0,41
 MDD_global,MDD global,XCSP3-2025-COP25,ortools,7,0,0,0,7,7,0,0
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,61,8,0,131,200,173,0,27
 MDD_global,MDD global,XCSP3-2025-CSP25,exact,35,12,0,153,200,86,0,114
