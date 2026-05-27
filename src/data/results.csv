@@ -1,4 +1,12 @@
 session_slug,session_name,track,solver,instance,status,seconds,objective,checker_valid,termination_reason,exit_status,metadata_file
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,AlteredStates-02_c25.xml.lzma,SAT,6.824592434102669,7.0,true,,OPTIMAL,cpo_AlteredStates-02_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,BlockModeling-kansas-02_c25.xml.lzma,SAT,38.582054283004254,96.0,true,,OPTIMAL,cpo_BlockModeling-kansas-02_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-02_c25.xml.lzma,SAT,4.029240689938888,44.0,true,,OPTIMAL,cpo_BlockModeling-politicalactor-02_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,3.3674074539449066,33.0,true,,OPTIMAL,cpo_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,BusScheduling-t1_c25.xml.lzma,SAT,3.205579596105963,7.0,true,,OPTIMAL,cpo_BusScheduling-t1_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,ButtonsScissors-00_c25.xml.lzma,SAT,4.934333007084206,9.0,true,,OPTIMAL,cpo_ButtonsScissors-00_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,ButtonsScissors-01_c25.xml.lzma,SAT,15.849133297102526,10.0,true,,OPTIMAL,cpo_ButtonsScissors-01_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,ButtonsScissors-02_c25.xml.lzma,SAT,4.8476887790020555,9.0,true,,OPTIMAL,cpo_ButtonsScissors-02_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,AlteredStates-02_c25.xml.lzma,SAT,75.01257522800006,7.0,true,,OPTIMAL,exact_AlteredStates-02_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,AlteredStates-03_c25.xml.lzma,UNKNOWN,601.0337605138775,,,walltime,,exact_AlteredStates-03_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,AlteredStates-04_c25.xml.lzma,UNKNOWN,601.0825806681532,,,walltime,,exact_AlteredStates-04_c25.xml.txt.metadata.json
@@ -1244,6 +1252,11 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,TankAllocation2-0400_c25.xml.lzma,UNKNOWN,299.3956621028483,,,memory,,z3_TankAllocation2-0400_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,TankAllocation2-0800_c25.xml.lzma,UNKNOWN,345.6105116158724,,,memory,,z3_TankAllocation2-0800_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,TankAllocation2-1200_c25.xml.lzma,SAT,599.7168895050418,0.0,true,,FEASIBLE,z3_TankAllocation2-1200_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,TankAllocation2-1600_c25.xml.lzma,UNKNOWN,601.0998836930376,,,walltime,,z3_TankAllocation2-1600_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,TankAllocation2-2000_c25.xml.lzma,UNKNOWN,601.4485407259781,,,walltime,,z3_TankAllocation2-2000_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,TankAllocation2-2400_c25.xml.lzma,UNKNOWN,601.2619259359781,,true,walltime,UNKNOWN,z3_TankAllocation2-2400_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,TankAllocation2-2591_c25.xml.lzma,UNKNOWN,601.1300659899134,,,walltime,,z3_TankAllocation2-2591_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,TankAllocation2-chemical_c25.xml.lzma,UNKNOWN,600.2367677718867,,true,,UNKNOWN,z3_TankAllocation2-chemical_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.388404027093202,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8229893380776,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,4.0119706289842725,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json

@@ -1,4 +1,12 @@
 session_slug,track,solver,instance,event_index,elapsed,objective
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,AlteredStates-02_c25.xml.lzma,0,4.037726879119873,7.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,BlockModeling-kansas-02_c25.xml.lzma,0,35.64598727226257,96.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-02_c25.xml.lzma,0,1.0462195873260498,44.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-02_c25.xml.lzma,0,0.761237382888794,33.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,BusScheduling-t1_c25.xml.lzma,0,0.44581055641174316,7.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,ButtonsScissors-00_c25.xml.lzma,0,2.877589464187622,9.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,ButtonsScissors-01_c25.xml.lzma,0,12.827253580093384,10.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,ButtonsScissors-02_c25.xml.lzma,0,2.1115028858184814,9.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,0,9.74446153640747,6.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,0,31.73270297050476,0.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,1,135.40227961540222,5.0
