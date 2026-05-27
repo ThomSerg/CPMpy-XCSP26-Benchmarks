@@ -74,6 +74,7 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Coprime-10_c25.xml.lzma,SAT,29.577866547973827,47.0,true,,OPTIMAL,exact_Coprime-10_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Coprime-12_c25.xml.lzma,SAT,107.55552784795873,59.0,true,,OPTIMAL,exact_Coprime-12_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Coprime-14_c25.xml.lzma,SAT,446.5572143641766,73.0,true,,OPTIMAL,exact_Coprime-14_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Coprime-16_c25.xml.lzma,UNKNOWN,601.1032182788476,,,walltime,,exact_Coprime-16_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Cutstock-00-0_c25.xml.lzma,SAT,1.661706801969558,4.0,true,,OPTIMAL,exact_Cutstock-00-0_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Cutstock-01-0_c25.xml.lzma,SAT,2.1069873590022326,13.0,true,,OPTIMAL,exact_Cutstock-01-0_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Cutstock-07-0_c25.xml.lzma,SAT,2.7676265619229525,58.0,true,,OPTIMAL,exact_Cutstock-07-0_c25.xml.txt.metadata.json
@@ -84,6 +85,7 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Cutstock-14-0_c25.xml.lzma,SAT,14.802182907005772,653.0,true,,OPTIMAL,exact_Cutstock-14-0_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Cutstock-15-0_c25.xml.lzma,SAT,6.584645370021462,130.0,true,,OPTIMAL,exact_Cutstock-15-0_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Cutstock-16-0_c25.xml.lzma,SAT,56.70823852997273,1305.0,true,,OPTIMAL,exact_Cutstock-16-0_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Cutstock-16-1_c25.xml.lzma,SAT,63.84465736197308,1216.0,true,,OPTIMAL,exact_Cutstock-16-1_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.4175805700942874,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,596.288241768023,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.8175752898678,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
