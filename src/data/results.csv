@@ -863,8 +863,16 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,EFPA-3-8-8-07_c25.xml.lzma,SAT,113.78695058193989,,true,,FEASIBLE,z3_EFPA-3-8-8-07_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,EFPA-3-8-8-08_c25.xml.lzma,UNKNOWN,598.9786896051373,,true,,UNKNOWN,z3_EFPA-3-8-8-08_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,EFPA-4-4-5-10_c25.xml.lzma,SAT,146.74813651107252,,true,,FEASIBLE,z3_EFPA-4-4-5-10_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,EFPA-4-4-5-11_c25.xml.lzma,UNKNOWN,598.8341425759718,,true,,UNKNOWN,z3_EFPA-4-4-5-11_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,EFPA-4-5-4-10_c25.xml.lzma,SAT,528.6730438349769,,true,,FEASIBLE,z3_EFPA-4-5-4-10_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,EFPA-4-5-4-11_c25.xml.lzma,UNKNOWN,598.8239140508231,,true,,UNKNOWN,z3_EFPA-4-5-4-11_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,EFPA-5-4-4-08_c25.xml.lzma,SAT,46.78934442601167,,true,,FEASIBLE,z3_EFPA-5-4-4-08_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,EFPA-5-4-4-09_c25.xml.lzma,UNKNOWN,598.8725497769192,,true,,UNKNOWN,z3_EFPA-5-4-4-09_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,EFPA-6-4-4-13_c25.xml.lzma,UNKNOWN,598.9001016300172,,true,,UNKNOWN,z3_EFPA-6-4-4-13_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,EFPA-6-4-4-14_c25.xml.lzma,UNKNOWN,598.9375090789981,,true,,UNKNOWN,z3_EFPA-6-4-4-14_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,GracefulGraph-03-08_c25.xml.lzma,UNKNOWN,598.8526866871398,,true,,UNKNOWN,z3_GracefulGraph-03-08_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,GracefulGraph-03-10_c25.xml.lzma,UNKNOWN,598.8738953908905,,true,,UNKNOWN,z3_GracefulGraph-03-10_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,GracefulGraph-04-05_c25.xml.lzma,UNKNOWN,598.8327984979842,,true,,UNKNOWN,z3_GracefulGraph-04-05_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,LangfordBin-010_c25.xml.lzma,UNSAT,81.8973025069572,,true,,UNSATISFIABLE,z3_LangfordBin-010_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,LangfordBin-016_c25.xml.lzma,SAT,3.2911059339530766,,true,,FEASIBLE,z3_LangfordBin-016_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,LangfordBin-040_c25.xml.lzma,SAT,8.906520907999948,,true,,FEASIBLE,z3_LangfordBin-040_c25.xml.txt.metadata.json
