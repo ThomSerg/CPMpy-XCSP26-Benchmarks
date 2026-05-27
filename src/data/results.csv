@@ -1,7 +1,9 @@
 session_slug,session_name,track,solver,instance,status,seconds,objective,checker_valid,termination_reason,exit_status,metadata_file
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,AlteredStates-02_c25.xml.lzma,SAT,6.824592434102669,7.0,true,,OPTIMAL,cpo_AlteredStates-02_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,AlteredStates-bis-02_c25.xml.lzma,SAT,357.6003137268126,29145505.0,true,,OPTIMAL,cpo_AlteredStates-bis-02_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,BlockModeling-kansas-02_c25.xml.lzma,SAT,38.582054283004254,96.0,true,,OPTIMAL,cpo_BlockModeling-kansas-02_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-02_c25.xml.lzma,SAT,4.029240689938888,44.0,true,,OPTIMAL,cpo_BlockModeling-politicalactor-02_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-03_c25.xml.lzma,SAT,311.6869906471111,36.0,true,,OPTIMAL,cpo_BlockModeling-politicalactor-03_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,3.3674074539449066,33.0,true,,OPTIMAL,cpo_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-03_c25.xml.lzma,SAT,117.97675709519535,29.0,true,,OPTIMAL,cpo_BlockModeling-transatlantic-03_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,BusScheduling-t1_c25.xml.lzma,SAT,3.205579596105963,7.0,true,,OPTIMAL,cpo_BusScheduling-t1_c25.xml.txt.metadata.json

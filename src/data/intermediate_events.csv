@@ -1,7 +1,9 @@
 session_slug,track,solver,instance,event_index,elapsed,objective
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,AlteredStates-02_c25.xml.lzma,0,4.037726879119873,7.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,AlteredStates-bis-02_c25.xml.lzma,0,354.7193901538849,29145505.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,BlockModeling-kansas-02_c25.xml.lzma,0,35.64598727226257,96.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-02_c25.xml.lzma,0,1.0462195873260498,44.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-03_c25.xml.lzma,0,308.62421226501465,36.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-02_c25.xml.lzma,0,0.761237382888794,33.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-03_c25.xml.lzma,0,115.1979923248291,29.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,cpo,BusScheduling-t1_c25.xml.lzma,0,0.44581055641174316,7.0
