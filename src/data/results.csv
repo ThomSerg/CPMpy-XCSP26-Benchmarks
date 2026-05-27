@@ -83,6 +83,7 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Coprime-22_c25.xml.lzma,UNKNOWN,601.2888050000183,,,walltime,,exact_Coprime-22_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Coprime-23_c25.xml.lzma,UNKNOWN,601.1502052240539,,,walltime,,exact_Coprime-23_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Coprime-24_c25.xml.lzma,UNKNOWN,601.2654659640975,,,walltime,,exact_Coprime-24_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Coprime-25_c25.xml.lzma,UNKNOWN,601.2471894449554,,,walltime,,exact_Coprime-25_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Coprime-30_c25.xml.lzma,UNKNOWN,257.19948699115776,,,memory,,exact_Coprime-30_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Coprime-40_c25.xml.lzma,UNKNOWN,443.52798154903576,,,memory,,exact_Coprime-40_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Cutstock-00-0_c25.xml.lzma,SAT,1.661706801969558,4.0,true,,OPTIMAL,exact_Cutstock-00-0_c25.xml.txt.metadata.json
@@ -105,9 +106,11 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,FAPP-aux-07-0600_c25.xml.lzma,UNKNOWN,464.5156353430357,,,memory,,exact_FAPP-aux-07-0600_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,FAPP-aux-08-0700_c25.xml.lzma,UNKNOWN,442.9972330359742,,,memory,,exact_FAPP-aux-08-0700_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,FAPP-aux-09-0800_c25.xml.lzma,UNKNOWN,457.8983955930453,,,memory,,exact_FAPP-aux-09-0800_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,FAPP-aux-10-0900_c25.xml.lzma,UNKNOWN,506.1943470640108,,,memory,,exact_FAPP-aux-10-0900_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,FAPP-aux-17-0300_c25.xml.lzma,UNKNOWN,387.21277995291166,,,memory,,exact_FAPP-aux-17-0300_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,FAPP-aux-18-0350_c25.xml.lzma,UNKNOWN,393.33117714803666,,,memory,,exact_FAPP-aux-18-0350_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,FAPP-aux-20-0420_c25.xml.lzma,UNKNOWN,419.4962503348943,,,memory,,exact_FAPP-aux-20-0420_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,FAPP-aux-21-0500_c25.xml.lzma,UNKNOWN,382.52796507510357,,,memory,,exact_FAPP-aux-21-0500_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,FAPP-aux-ex1_c25.xml.lzma,SAT,12.597723701968789,523.0,true,,OPTIMAL,exact_FAPP-aux-ex1_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,Fortress1-03_c25.xml.lzma,SAT,14.05818505701609,459518.0,true,,OPTIMAL,exact_Fortress1-03_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.4175805700942874,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
