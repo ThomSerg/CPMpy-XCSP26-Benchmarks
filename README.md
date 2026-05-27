@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Use new MDD global in xcsp3 parser** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 10:05:55 | 190/492 |
+| 1 | **Use new MDD global in xcsp3 parser** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 10:05:55 | 190/496 |
 | 2 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
 | 3 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
 | 4 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
@@ -24,7 +24,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Las
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 09:09:01 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 09:34:01 | — |
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 92/200 | 2026-05-27 10:06:09 | 12m 59s |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 96/200 | 2026-05-27 10:06:09 | 15m 33s |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -48,7 +48,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Las
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 74 | 24 | 5 | 97 | 200 |
 | `exact` | 35 | 12 | 99 | 54 | 200 |
-| `gurobi` | 32 | 13 | 4 | 43 | 92 |
+| `gurobi` | 32 | 13 | 4 | 47 | 96 |
 
 #### Solution Checker
 
@@ -56,7 +56,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Las
 |--------|-------|---------|---------|-------|
 | `ortools` | 174 | 0 | 26 | 200 |
 | `exact` | 85 | 0 | 115 | 200 |
-| `gurobi` | 83 | 0 | 9 | 92 |
+| `gurobi` | 87 | 0 | 9 | 96 |
 
 ---
 
