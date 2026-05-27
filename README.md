@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 18:37:39 | 1306/3279 |
+| 1 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 18:39:51 | 1312/3289 |
 | 2 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
 | 3 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
 | 4 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
@@ -16,7 +16,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ## Use new MDD global in xcsp3 parser
 
-_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Last run: 2026-05-27 18:37:39_
+_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Last run: 2026-05-27 18:39:51_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -71,7 +71,7 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 202 | 22 | 5 | 21 | 250 |
-| `cpo` | 152 | 20 | 33 | 24 | 229 |
+| `cpo` | 159 | 20 | 33 | 28 | 240 |
 | `gurobi` | 148 | 17 | 52 | 33 | 250 |
 | `z3` | 94 | 16 | 54 | 86 | 250 |
 | `exact` | 88 | 17 | 122 | 23 | 250 |
@@ -82,7 +82,7 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `ortools` | 228 | 0 | 22 | 250 |
-| `cpo` | 175 | 0 | 54 | 229 |
+| `cpo` | 186 | 0 | 54 | 240 |
 | `gurobi` | 191 | 0 | 59 | 250 |
 | `z3` | 175 | 0 | 75 | 250 |
 | `exact` | 107 | 0 | 143 | 250 |
