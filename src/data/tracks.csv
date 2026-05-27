@@ -1,4 +1,5 @@
 session_slug,session_name,track,solvers
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,ortools
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,cpo;exact;gurobi;highs;ortools;pindakaas;pumpkin;scip;z3
 MDD_global,MDD global,XCSP3-2025-COP25,ortools
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo;exact;gurobi;highs;ortools;pindakaas;pumpkin;scip;z3

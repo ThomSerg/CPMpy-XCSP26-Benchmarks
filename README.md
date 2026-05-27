@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 13:59:24 | 427/1800 |
+| 1 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 14:05:53 | 433/1806 |
 | 2 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
 | 3 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
 | 4 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
@@ -16,7 +16,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ## Use new MDD global in xcsp3 parser
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Last run: 2026-05-27 13:59:24_
+_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Last run: 2026-05-27 14:05:53_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -55,6 +55,28 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Las
 | `pindakaas` | 98 | 0 | 102 | 200 |
 | `highs` | 106 | 0 | 94 | 200 |
 | `scip` | 97 | 0 | 103 | 200 |
+
+### Track: XCSP3-2025-COP25
+
+#### Performance Profile
+
+![XCSP3-2025-COP25 profile](./profile_Use_new_MDD_global_in_xcsp3_parser_XCSP3-2025-COP25.svg)
+
+#### Solver Ranking
+
+![XCSP3-2025-COP25 ranking](./ranking_Use_new_MDD_global_in_xcsp3_parser_XCSP3-2025-COP25.svg)
+
+#### Solve Status
+
+| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|---------|-------|
+| `ortools` | 6 | 0 | 0 | 0 | 6 |
+
+#### Solution Checker
+
+| Solver | Valid | Invalid | Skipped | Total |
+|--------|-------|---------|---------|-------|
+| `ortools` | 6 | 0 | 0 | 6 |
 
 ---
 
