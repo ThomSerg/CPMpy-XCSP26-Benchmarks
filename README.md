@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 19:05:48 | 1378/3423 |
+| 1 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 19:07:55 | 1394/3447 |
 | 2 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
 | 3 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
 | 4 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
@@ -16,7 +16,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ## Use new MDD global in xcsp3 parser
 
-_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Last run: 2026-05-27 19:05:48_
+_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Last run: 2026-05-27 19:07:55_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -76,7 +76,7 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-
 | `z3` | 94 | 16 | 54 | 86 | 250 |
 | `exact` | 88 | 17 | 122 | 23 | 250 |
 | `pumpkin` | 102 | 1 | 24 | 123 | 250 |
-| `highs` | 60 | 1 | 25 | 39 | 125 |
+| `highs` | 73 | 4 | 31 | 40 | 148 |
 
 #### Solution Checker
 
@@ -88,7 +88,7 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-
 | `z3` | 175 | 0 | 75 | 250 |
 | `exact` | 107 | 0 | 143 | 250 |
 | `pumpkin` | 153 | 0 | 97 | 250 |
-| `highs` | 79 | 0 | 46 | 125 |
+| `highs` | 97 | 0 | 51 | 148 |
 
 ---
 
