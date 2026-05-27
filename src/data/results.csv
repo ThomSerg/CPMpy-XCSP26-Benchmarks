@@ -1636,6 +1636,7 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,Fortress1-07_c25.xml.lzma,SAT,139.67632944509387,1219032.0,true,,OPTIMAL,scip_Fortress1-07_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,Fortress1-08_c25.xml.lzma,SAT,183.50324143003672,1239005.9999999998,true,,OPTIMAL,scip_Fortress1-08_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,Fortress1-09_c25.xml.lzma,SAT,162.18949226592667,1458950.9999999993,true,,OPTIMAL,scip_Fortress1-09_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,Fortress2-03_c25.xml.lzma,UNKNOWN,377.19309050007723,,,memory,,scip_Fortress2-03_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,IHTC-i01_c25.xml.lzma,UNSAT,13.655962301883847,,true,,UNSATISFIABLE,scip_IHTC-i01_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,IHTC-i02_c25.xml.lzma,UNSAT,21.28277772688307,,true,,UNSATISFIABLE,scip_IHTC-i02_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,IHTC-i03_c25.xml.lzma,UNSAT,21.09966419194825,,true,,UNSATISFIABLE,scip_IHTC-i03_c25.xml.txt.metadata.json
@@ -1643,11 +1644,15 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,IHTC-i05_c25.xml.lzma,UNSAT,138.47089784801938,,true,,UNSATISFIABLE,scip_IHTC-i05_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,IHTC-i06_c25.xml.lzma,UNSAT,101.50667937006801,,true,,UNSATISFIABLE,scip_IHTC-i06_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,IHTC-i07_c25.xml.lzma,UNSAT,109.87658906518482,,true,,UNSATISFIABLE,scip_IHTC-i07_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,IHTC-i08_c25.xml.lzma,UNKNOWN,308.52944911504164,,,memory,,scip_IHTC-i08_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,IHTC-i09_c25.xml.lzma,UNSAT,128.16710179112852,,true,,UNSATISFIABLE,scip_IHTC-i09_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,IHTC-i10_c25.xml.lzma,UNSAT,175.63605503900908,,true,,UNSATISFIABLE,scip_IHTC-i10_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,IHTC-i11_c25.xml.lzma,UNKNOWN,209.09430034994148,,,memory,,scip_IHTC-i11_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,IHTC-i12_c25.xml.lzma,UNSAT,180.97790857311338,,true,,UNSATISFIABLE,scip_IHTC-i12_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,IHTC-i16_c25.xml.lzma,UNKNOWN,371.5140324649401,,,memory,,scip_IHTC-i16_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,LowAutocorrelation-010_c25.xml.lzma,SAT,3.844907726859674,13.0,true,,OPTIMAL,scip_LowAutocorrelation-010_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,LowAutocorrelation-020_c25.xml.lzma,SAT,267.81849461910315,26.0,true,,OPTIMAL,scip_LowAutocorrelation-020_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,LowAutocorrelation-500_c25.xml.lzma,UNKNOWN,296.8042839311529,,,memory,,scip_LowAutocorrelation-500_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,MetabolicNetwork-09_c25.xml.lzma,SAT,2.846558121033013,2.0,true,,OPTIMAL,scip_MetabolicNetwork-09_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,MetabolicNetwork-10_c25.xml.lzma,SAT,2.2898296860512346,2.0,true,,OPTIMAL,scip_MetabolicNetwork-10_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,MetabolicNetwork-14_c25.xml.lzma,SAT,133.61156432819553,2.0,true,,OPTIMAL,scip_MetabolicNetwork-14_c25.xml.txt.metadata.json
