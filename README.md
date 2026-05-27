@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Use new MDD global in xcsp3 parser** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 12:14:13 | 378/1388 |
+| 1 | **Use new MDD global in xcsp3 parser** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 12:44:32 | 384/1406 |
 | 2 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
 | 3 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
 | 4 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
@@ -16,20 +16,20 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ## Use new MDD global in xcsp3 parser _(running)_
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Last run: 2026-05-27 12:14:13_
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Last run: 2026-05-27 12:44:32_
 
 ### Live Progress
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 09:09:01 | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 188/200 | 2026-05-27 12:14:26 | 29m 17s |
+| `cpo` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 12:14:26 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 09:34:01 | — |
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 10:06:09 | — |
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 10:37:26 | — |
 | `z3` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 11:08:07 | — |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 11:43:54 | — |
-| `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `highs` | XCSP3-2025-CSP25 | 🔄 running | 6/200 | 2026-05-27 12:44:46 | 1m 01s |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
@@ -47,24 +47,26 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Las
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 74 | 24 | 5 | 97 | 200 |
-| `cpo` | 62 | 9 | 11 | 106 | 188 |
+| `cpo` | 62 | 9 | 12 | 117 | 200 |
 | `exact` | 35 | 12 | 99 | 54 | 200 |
 | `gurobi` | 32 | 13 | 69 | 86 | 200 |
 | `pumpkin` | 38 | 6 | 32 | 124 | 200 |
 | `z3` | 26 | 12 | 29 | 133 | 200 |
 | `pindakaas` | 23 | 12 | 34 | 131 | 200 |
+| `highs` | 4 | 2 | 0 | 0 | 6 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `ortools` | 174 | 0 | 26 | 200 |
-| `cpo` | 162 | 0 | 26 | 188 |
+| `cpo` | 174 | 0 | 26 | 200 |
 | `exact` | 85 | 0 | 115 | 200 |
 | `gurobi` | 149 | 0 | 51 | 200 |
 | `pumpkin` | 167 | 0 | 33 | 200 |
 | `z3` | 159 | 0 | 41 | 200 |
 | `pindakaas` | 98 | 0 | 102 | 200 |
+| `highs` | 6 | 0 | 0 | 6 |
 
 ---
 
