@@ -1112,7 +1112,11 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,FAPP-aux-09-0800_c25.xml.lzma,UNKNOWN,496.0061059589498,,,memory,,z3_FAPP-aux-09-0800_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,FAPP-aux-10-0900_c25.xml.lzma,UNKNOWN,601.3043504150119,,,walltime,,z3_FAPP-aux-10-0900_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,FAPP-aux-17-0300_c25.xml.lzma,UNKNOWN,483.1563829788938,,,memory,,z3_FAPP-aux-17-0300_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,FAPP-aux-18-0350_c25.xml.lzma,UNKNOWN,504.643623925047,,,memory,,z3_FAPP-aux-18-0350_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,FAPP-aux-19-0350_c25.xml.lzma,UNKNOWN,601.5129916979931,,,walltime,,z3_FAPP-aux-19-0350_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,FAPP-aux-20-0420_c25.xml.lzma,UNKNOWN,561.6180599960499,,,memory,,z3_FAPP-aux-20-0420_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,FAPP-aux-ex1_c25.xml.lzma,SAT,21.237140552140772,523.0,true,,OPTIMAL,z3_FAPP-aux-ex1_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,FAPP-aux-test03-0400_c25.xml.lzma,UNKNOWN,482.28379122610204,,,memory,,z3_FAPP-aux-test03-0400_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,Fortress1-03_c25.xml.lzma,SAT,4.996875680051744,459518.0,true,,OPTIMAL,z3_Fortress1-03_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,Fortress1-04_c25.xml.lzma,SAT,7.0476517248898745,649400.0,true,,OPTIMAL,z3_Fortress1-04_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,Fortress1-05_c25.xml.lzma,SAT,8.603516255971044,1079078.0,true,,OPTIMAL,z3_Fortress1-05_c25.xml.txt.metadata.json
@@ -1122,6 +1126,7 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,Fortress1-09_c25.xml.lzma,SAT,13.113405497046188,1458951.0,true,,OPTIMAL,z3_Fortress1-09_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,Fortress1-10_c25.xml.lzma,SAT,30.827595266047865,1798536.0,true,,OPTIMAL,z3_Fortress1-10_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,Fortress2-04_c25.xml.lzma,UNKNOWN,239.53433274291456,,,memory,,z3_Fortress2-04_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,Fortress2-05_c25.xml.lzma,UNKNOWN,467.8777218221221,,,memory,,z3_Fortress2-05_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,IHTC-i01_c25.xml.lzma,UNSAT,11.497126718983054,,true,,UNSATISFIABLE,z3_IHTC-i01_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,IHTC-i02_c25.xml.lzma,UNSAT,16.121798116946593,,true,,UNSATISFIABLE,z3_IHTC-i02_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,IHTC-i03_c25.xml.lzma,UNSAT,16.847004357958212,,true,,UNSATISFIABLE,z3_IHTC-i03_c25.xml.txt.metadata.json
@@ -1140,6 +1145,7 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,LowAutocorrelation-060_c25.xml.lzma,UNKNOWN,37.36394804390147,,,exitcode:1,,z3_LowAutocorrelation-060_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,LowAutocorrelation-080_c25.xml.lzma,UNKNOWN,97.61018169298768,,,exitcode:1,,z3_LowAutocorrelation-080_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,LowAutocorrelation-100_c25.xml.lzma,UNKNOWN,33.32585653406568,,,exitcode:1,,z3_LowAutocorrelation-100_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,LowAutocorrelation-120_c25.xml.lzma,UNKNOWN,300.09000122197904,,,exitcode:1,,z3_LowAutocorrelation-120_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,LowAutocorrelation-200_c25.xml.lzma,UNKNOWN,54.991083388915285,,,exitcode:1,,z3_LowAutocorrelation-200_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,LowAutocorrelation-300_c25.xml.lzma,UNKNOWN,184.5077676831279,,,exitcode:1,,z3_LowAutocorrelation-300_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,LowAutocorrelation-500_c25.xml.lzma,UNKNOWN,181.3309825800825,,,memory,,z3_LowAutocorrelation-500_c25.xml.txt.metadata.json
@@ -1150,6 +1156,8 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,RoadefPlaning2-2021-04_c25.xml.lzma,UNSAT,3.1477808279450983,,true,,UNSATISFIABLE,z3_RoadefPlaning2-2021-04_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,RoadefPlaning2-2021-05_c25.xml.lzma,SAT,3.626133482903242,0.0,true,,OPTIMAL,z3_RoadefPlaning2-2021-05_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,RoadefPlaning2-2021-06_c25.xml.lzma,SAT,3.5190587469842285,0.0,true,,OPTIMAL,z3_RoadefPlaning2-2021-06_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,RoadefPlaning2-2023-11_c25.xml.lzma,UNSAT,3.9278244350571185,,true,,UNSATISFIABLE,z3_RoadefPlaning2-2023-11_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,RoadefPlaning2-2024-09_c25.xml.lzma,UNSAT,3.489231253042817,,true,,UNSATISFIABLE,z3_RoadefPlaning2-2024-09_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.388404027093202,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8229893380776,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,4.0119706289842725,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
