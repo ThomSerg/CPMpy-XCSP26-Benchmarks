@@ -2,7 +2,7 @@ session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_v
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,88,17,0,145,250,107,0,143
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,148,17,0,85,250,191,0,59
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,ortools,202,22,0,26,250,228,0,22
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,pumpkin,81,1,0,129,211,116,0,95
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,pumpkin,84,1,0,135,220,123,0,97
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,cpo,62,9,0,129,200,174,0,26
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,exact,35,12,0,153,200,85,0,115
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,gurobi,32,13,0,155,200,149,0,51
