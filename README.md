@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Use new MDD global in xcsp3 parser** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 11:43:40 | 286/1028 |
+| 1 | **Use new MDD global in xcsp3 parser** 🔄 | XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 11:43:40 | 290/1036 |
 | 2 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
 | 3 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
 | 4 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
@@ -27,7 +27,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Las
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 10:06:09 | — |
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 10:37:26 | — |
 | `z3` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-27 11:08:07 | — |
-| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 28/200 | 2026-05-27 11:43:54 | 4m 18s |
+| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 36/200 | 2026-05-27 11:43:54 | 6m 43s |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -51,7 +51,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Las
 | `gurobi` | 32 | 13 | 69 | 86 | 200 |
 | `pumpkin` | 38 | 6 | 32 | 124 | 200 |
 | `z3` | 26 | 12 | 29 | 133 | 200 |
-| `pindakaas` | 8 | 6 | 0 | 14 | 28 |
+| `pindakaas` | 9 | 9 | 0 | 18 | 36 |
 
 #### Solution Checker
 
@@ -62,7 +62,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Las
 | `gurobi` | 149 | 0 | 51 | 200 |
 | `pumpkin` | 167 | 0 | 33 | 200 |
 | `z3` | 159 | 0 | 41 | 200 |
-| `pindakaas` | 14 | 0 | 14 | 28 |
+| `pindakaas` | 18 | 0 | 18 | 36 |
 
 ---
 
