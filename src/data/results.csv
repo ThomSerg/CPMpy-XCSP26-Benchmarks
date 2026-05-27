@@ -891,6 +891,15 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,Fortress1-07_c25.xml.lzma,SAT,162.8970211520791,1219031.999999436,true,,OPTIMAL,highs_Fortress1-07_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,Fortress1-08_c25.xml.lzma,SAT,201.99979008198716,1239005.999999991,true,,OPTIMAL,highs_Fortress1-08_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,Fortress1-09_c25.xml.lzma,SAT,378.72402173792943,1458950.9999996715,true,,OPTIMAL,highs_Fortress1-09_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,Fortress1-10_c25.xml.lzma,SAT,600.0057600499131,1798535.999999994,true,,FEASIBLE,highs_Fortress1-10_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,Fortress2-03_c25.xml.lzma,UNKNOWN,601.2288955950644,,,walltime,,highs_Fortress2-03_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,Fortress2-04_c25.xml.lzma,UNKNOWN,601.4176500451285,,,walltime,,highs_Fortress2-04_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,Fortress2-05_c25.xml.lzma,UNKNOWN,601.4784526410513,,,walltime,,highs_Fortress2-05_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,Fortress2-06_c25.xml.lzma,UNKNOWN,601.4435648999643,,,walltime,,highs_Fortress2-06_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,Fortress2-07_c25.xml.lzma,UNKNOWN,601.4946507290006,,,walltime,,highs_Fortress2-07_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,Fortress2-08_c25.xml.lzma,UNKNOWN,601.4910962788854,,,walltime,,highs_Fortress2-08_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,Fortress2-09_c25.xml.lzma,UNKNOWN,601.5652382390108,,,walltime,,highs_Fortress2-09_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,Fortress2-10_c25.xml.lzma,UNKNOWN,601.5886048800312,,,walltime,,highs_Fortress2-10_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,IHTC-i01_c25.xml.lzma,UNSAT,46.80585507093929,,true,,UNSATISFIABLE,highs_IHTC-i01_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,IHTC-i02_c25.xml.lzma,UNSAT,69.81885040411726,,true,,UNSATISFIABLE,highs_IHTC-i02_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,IHTC-i03_c25.xml.lzma,UNSAT,77.30380849097855,,true,,UNSATISFIABLE,highs_IHTC-i03_c25.xml.txt.metadata.json
@@ -898,6 +907,7 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,IHTC-i05_c25.xml.lzma,UNSAT,459.5003438380081,,true,,UNSATISFIABLE,highs_IHTC-i05_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,IHTC-i06_c25.xml.lzma,UNSAT,445.4158135741018,,true,,UNSATISFIABLE,highs_IHTC-i06_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,IHTC-i07_c25.xml.lzma,UNSAT,409.3216316320468,,true,,UNSATISFIABLE,highs_IHTC-i07_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,IHTC-i09_c25.xml.lzma,UNSAT,534.9720709600952,,true,,UNSATISFIABLE,highs_IHTC-i09_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,LowAutocorrelation-010_c25.xml.lzma,SAT,10.22855966212228,13.0,true,,OPTIMAL,highs_LowAutocorrelation-010_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,MetabolicNetwork-09_c25.xml.lzma,SAT,2.3727285291533917,2.0,true,,OPTIMAL,highs_MetabolicNetwork-09_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,MetabolicNetwork-10_c25.xml.lzma,SAT,2.5532581070438027,2.0,true,,OPTIMAL,highs_MetabolicNetwork-10_c25.xml.txt.metadata.json
