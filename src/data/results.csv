@@ -330,6 +330,9 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,Coprime-19_c25.xml.lzma,SAT,601.0893291649409,321.0,,walltime,FEASIBLE,gurobi_Coprime-19_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,Coprime-20_c25.xml.lzma,SAT,601.0839114161208,395.0,,walltime,FEASIBLE,gurobi_Coprime-20_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,Coprime-21_c25.xml.lzma,SAT,601.1018415479921,251.0,,walltime,FEASIBLE,gurobi_Coprime-21_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,Coprime-22_c25.xml.lzma,SAT,601.1990664920304,313.0,,walltime,FEASIBLE,gurobi_Coprime-22_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,Coprime-23_c25.xml.lzma,SAT,601.1641889959574,437.0,,walltime,FEASIBLE,gurobi_Coprime-23_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,Coprime-24_c25.xml.lzma,SAT,601.2435285290703,379.0,,walltime,FEASIBLE,gurobi_Coprime-24_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,Cutstock-00-0_c25.xml.lzma,SAT,2.3177307448349893,4.0,true,,OPTIMAL,gurobi_Cutstock-00-0_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,Cutstock-01-0_c25.xml.lzma,SAT,3.018618847010657,13.0,true,,OPTIMAL,gurobi_Cutstock-01-0_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,Cutstock-03-0_c25.xml.lzma,SAT,6.128918200964108,23.0,true,,OPTIMAL,gurobi_Cutstock-03-0_c25.xml.txt.metadata.json
@@ -356,6 +359,8 @@ Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,IHTC-i02_c25.xml.lzma,UNSAT,15.229164005955681,,true,,UNSATISFIABLE,gurobi_IHTC-i02_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,IHTC-i03_c25.xml.lzma,UNSAT,23.851746847154573,,true,,UNSATISFIABLE,gurobi_IHTC-i03_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,IHTC-i04_c25.xml.lzma,UNSAT,36.7264146450907,,true,,UNSATISFIABLE,gurobi_IHTC-i04_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,IHTC-i05_c25.xml.lzma,UNSAT,125.5294643221423,,true,,UNSATISFIABLE,gurobi_IHTC-i05_c25.xml.txt.metadata.json
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,IHTC-i06_c25.xml.lzma,UNSAT,67.34445966803469,,true,,UNSATISFIABLE,gurobi_IHTC-i06_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,SAT,3.4175805700942874,7.0,true,,OPTIMAL,ortools_AlteredStates-02_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,SAT,596.288241768023,35.0,true,,FEASIBLE,ortools_AlteredStates-03_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,ortools,AlteredStates-04_c25.xml.lzma,SAT,598.8175752898678,57.0,true,,FEASIBLE,ortools_AlteredStates-04_c25.xml.txt.metadata.json
