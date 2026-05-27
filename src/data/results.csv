@@ -5,6 +5,7 @@ MDD_global,MDD global,XCSP3-2025-COP25,ortools,BlockModeling-kansas-02_c25.xml.l
 MDD_global,MDD global,XCSP3-2025-COP25,ortools,BlockModeling-politicalactor-02_c25.xml.lzma,SAT,3.6168440200854093,44.0,true,,OPTIMAL,ortools_BlockModeling-politicalactor-02_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-COP25,ortools,BlockModeling-transatlantic-02_c25.xml.lzma,SAT,2.5544668540824205,33.0,true,,OPTIMAL,ortools_BlockModeling-transatlantic-02_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-COP25,ortools,BusScheduling-c1_c25.xml.lzma,SAT,8.334247129969299,26.0,true,,OPTIMAL,ortools_BusScheduling-c1_c25.xml.txt.metadata.json
+MDD_global,MDD global,XCSP3-2025-COP25,ortools,BusScheduling-c1a_c25.xml.lzma,SAT,10.417272185906768,26.0,true,,OPTIMAL,ortools_BusScheduling-c1a_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,3.5183323989622295,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.9376642010175,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 MDD_global,MDD global,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,3.4170891519170254,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
