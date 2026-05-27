@@ -1809,6 +1809,12 @@ Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,FlexibleJobshopScen-dh
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,FlexibleJobshopScen-dh-5-16-020_c25.xml.lzma,1,157.479070186615,20106.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,FlexibleJobshopScen-dh-5-20-005_c25.xml.lzma,0,67.05378818511963,4383.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,FlexibleJobshopScen-dh-5-20-005_c25.xml.lzma,1,67.8460967540741,4383.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,FlexibleJobshopScen-dh-6-18-005_c25.xml.lzma,0,20.75071620941162,3152.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,FlexibleJobshopScen-dh-6-18-005_c25.xml.lzma,1,20.963670253753662,3152.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,FlexibleJobshopScen-dh-6-18-005_c25.xml.lzma,2,532.006067276001,3152.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,FlexibleJobshopScen-dh-6-18-005_c25.xml.lzma,3,532.161021232605,3152.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,FlexibleJobshopScen-dh-6-18-020_c25.xml.lzma,0,150.37496900558472,13894.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,FlexibleJobshopScen-dh-6-18-020_c25.xml.lzma,1,152.3908576965332,13894.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,Fortress1-03_c25.xml.lzma,0,2.6711339950561523,1739698.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,Fortress1-03_c25.xml.lzma,1,2.904813766479492,799599.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,Fortress1-03_c25.xml.lzma,2,3.265098810195923,459520.0
@@ -4242,6 +4248,14 @@ Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,RoadefPlaning2-2021-06
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,RoadefPlaning2-2021-06_c25.xml.lzma,2,17.581910133361816,2.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,RoadefPlaning2-2021-06_c25.xml.lzma,3,17.693323850631714,1.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,RoadefPlaning2-2021-06_c25.xml.lzma,4,25.38461399078369,0.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,RollerSplat-04-20_c25.xml.lzma,0,139.93148183822632,15.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,RollerSplat-04-20_c25.xml.lzma,1,148.4555139541626,12.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,RollerSplat-04-20_c25.xml.lzma,2,151.27817177772522,11.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,RollerSplat-04-20_c25.xml.lzma,3,151.47252130508423,10.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,RollerSplat-05a-30_c25.xml.lzma,0,80.11820983886719,12.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,RollerSplat-05a-30_c25.xml.lzma,1,84.29230761528015,12.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,RollerSplat-05a-30_c25.xml.lzma,2,101.43320345878601,11.0
+Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,highs,RollerSplat-05a-30_c25.xml.lzma,3,101.75225329399109,10.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,0,1.3445138931274414,0.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,ortools,AlteredStates-02_c25.xml.lzma,1,1.3526265621185303,7.0
 Use_new_MDD_global_in_xcsp3_parser,XCSP3-2025-COP25,ortools,AlteredStates-03_c25.xml.lzma,0,13.713422536849976,0.0
