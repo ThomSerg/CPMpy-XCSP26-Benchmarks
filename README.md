@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 19:15:15 | 1416/3483 |
+| 1 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 19:17:24 | 1424/3508 |
 | 2 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
 | 3 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
 | 4 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
@@ -16,7 +16,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ## Use new MDD global in xcsp3 parser
 
-_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Last run: 2026-05-27 19:15:15_
+_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-27 09:08:46 · Last run: 2026-05-27 19:17:24_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -74,9 +74,9 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-
 | `cpo` | 164 | 20 | 36 | 30 | 250 |
 | `gurobi` | 148 | 17 | 52 | 33 | 250 |
 | `z3` | 94 | 16 | 54 | 86 | 250 |
+| `highs` | 94 | 12 | 58 | 44 | 208 |
 | `exact` | 88 | 17 | 122 | 23 | 250 |
 | `pumpkin` | 102 | 1 | 24 | 123 | 250 |
-| `highs` | 86 | 12 | 44 | 41 | 183 |
 
 #### Solution Checker
 
@@ -86,9 +86,9 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-
 | `cpo` | 192 | 0 | 58 | 250 |
 | `gurobi` | 191 | 0 | 59 | 250 |
 | `z3` | 175 | 0 | 75 | 250 |
+| `highs` | 134 | 0 | 74 | 208 |
 | `exact` | 107 | 0 | 143 | 250 |
 | `pumpkin` | 153 | 0 | 97 | 250 |
-| `highs` | 122 | 0 | 61 | 183 |
 
 ---
 
