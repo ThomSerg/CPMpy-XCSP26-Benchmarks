@@ -471,6 +471,9 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,EFPA-5-4-4-09_c
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,EFPA-6-4-4-13_c25.xml.lzma,UNKNOWN,598.8822266568895,,true,,UNKNOWN,cpo_EFPA-6-4-4-13_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,EFPA-6-4-4-14_c25.xml.lzma,UNKNOWN,598.8687498699874,,true,,UNKNOWN,cpo_EFPA-6-4-4-14_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,GracefulGraph-03-08_c25.xml.lzma,SAT,33.901424306910485,,true,,FEASIBLE,cpo_GracefulGraph-03-08_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,GracefulGraph-03-10_c25.xml.lzma,UNKNOWN,598.8304039910436,,true,,UNKNOWN,cpo_GracefulGraph-03-10_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,GracefulGraph-04-05_c25.xml.lzma,UNKNOWN,598.8354733248707,,true,,UNKNOWN,cpo_GracefulGraph-04-05_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,GracefulGraph-04-06_c25.xml.lzma,UNKNOWN,598.7909124130383,,true,,UNKNOWN,cpo_GracefulGraph-04-06_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,Heterosquare-easy-20_c25.xml.lzma,SAT,2.447552093071863,,true,,FEASIBLE,cpo_Heterosquare-easy-20_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,Heterosquare-easy-25_c25.xml.lzma,SAT,2.0183708609547466,,true,,FEASIBLE,cpo_Heterosquare-easy-25_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,Heterosquare-easy-30_c25.xml.lzma,SAT,1.9261333090253174,,true,,FEASIBLE,cpo_Heterosquare-easy-30_c25.xml.txt.metadata.json
@@ -500,9 +503,11 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,LotteryDesign-3
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,SAT,22.215700932079926,,true,,FEASIBLE,cpo_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,SAT,36.68466918496415,,true,,FEASIBLE,cpo_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,SAT,199.28752743499354,,true,,FEASIBLE,cpo_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,357.20867717289366,,,memory,,cpo_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,PegSolitaireTable-english-0-3-0_c25.xml.lzma,SAT,294.41225804388523,,true,,FEASIBLE,cpo_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,PegSolitaireTable-english-1-4-0_c25.xml.lzma,SAT,34.874639564193785,,true,,FEASIBLE,cpo_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,PegSolitaireTable-english-2-2-0_c25.xml.lzma,SAT,16.374661651905626,,true,,FEASIBLE,cpo_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,PegSolitaireTable-english-3-3-0_c25.xml.lzma,SAT,300.79430448287167,,true,,FEASIBLE,cpo_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,14.372621378162876,,true,,FEASIBLE,cpo_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,2.3190789639484137,,true,,UNSATISFIABLE,cpo_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,RamseyPartition-equ-5-0140_c25.xml.lzma,SAT,40.71698514511809,,true,,FEASIBLE,cpo_RamseyPartition-equ-5-0140_c25.xml.txt.metadata.json
