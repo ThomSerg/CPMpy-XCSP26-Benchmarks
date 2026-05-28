@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Some transformation improvements** 🔄 | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 14:09:27 | 335/1225 |
+| 1 | **Some transformation improvements** 🔄 | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 14:09:27 | 339/1229 |
 | 2 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
 | 3 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
 | 4 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
@@ -29,7 +29,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-28 12:25:57 | — |
 | `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-28 12:57:20 | — |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-28 13:34:35 | — |
-| `z3` | XCSP3-2025-CSP25 | 🔄 running | 26/200 | 2026-05-28 14:09:44 | 5m 42s |
+| `z3` | XCSP3-2025-CSP25 | 🔄 running | 29/200 | 2026-05-28 14:09:44 | 8m 40s |
 | `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `pumpkin` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
@@ -53,7 +53,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 | `gurobi` | 34 | 14 | 70 | 82 | 200 |
 | `highs` | 20 | 10 | 70 | 100 | 200 |
 | `scip` | 14 | 9 | 76 | 101 | 200 |
-| `z3` | 9 | 7 | 0 | 10 | 26 |
+| `z3` | 11 | 8 | 0 | 10 | 29 |
 
 #### Solution Checker
 
@@ -65,7 +65,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 | `gurobi` | 151 | 0 | 49 | 200 |
 | `highs` | 105 | 0 | 95 | 200 |
 | `scip` | 89 | 0 | 111 | 200 |
-| `z3` | 20 | 0 | 6 | 26 |
+| `z3` | 23 | 0 | 6 | 29 |
 
 ---
 

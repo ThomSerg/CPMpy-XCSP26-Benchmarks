@@ -1200,7 +1200,10 @@ Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,231.0392457828857,,,memory,,scip_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,194.94108141004108,,,memory,,scip_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,Accordion-11-01_c25.xml.lzma,SAT,66.93391522089951,,true,,FEASIBLE,z3_Accordion-11-01_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,Accordion-12-01_c25.xml.lzma,SAT,394.14155328902416,,true,,FEASIBLE,z3_Accordion-12-01_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,Accordion-15-03_c25.xml.lzma,SAT,519.0536317320075,,true,,FEASIBLE,z3_Accordion-15-03_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,AlmostMagic-03-030_c25.xml.lzma,UNSAT,259.5290532798972,,true,,UNSATISFIABLE,z3_AlmostMagic-03-030_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,AlmostMagic-03-035_c25.xml.lzma,UNSAT,445.61056952690706,,true,,UNSATISFIABLE,z3_AlmostMagic-03-035_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,AlmostMagic-03-040_c25.xml.lzma,SAT,56.256430878071114,,true,,FEASIBLE,z3_AlmostMagic-03-040_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,AlmostMagic-03-070_c25.xml.lzma,SAT,3.082519350806251,,true,,FEASIBLE,z3_AlmostMagic-03-070_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,ChainReaction-60-085_c25.xml.lzma,UNKNOWN,21.027806806843728,,true,,UNKNOWN,z3_ChainReaction-60-085_c25.xml.txt.metadata.json
@@ -1224,6 +1227,7 @@ Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,Cryptanalysis-6-12-128_c25.xml.lzma,UNSAT,155.0393135799095,,true,,UNSATISFIABLE,z3_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-3-7-7-06_c25.xml.lzma,SAT,63.53603980806656,,true,,FEASIBLE,z3_EFPA-3-7-7-06_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-3-8-8-07_c25.xml.lzma,SAT,70.33321008598432,,true,,FEASIBLE,z3_EFPA-3-8-8-07_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-4-4-5-10_c25.xml.lzma,SAT,178.13968485104851,,true,,FEASIBLE,z3_EFPA-4-4-5-10_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-5-4-4-08_c25.xml.lzma,SAT,142.54974477202632,,true,,FEASIBLE,z3_EFPA-5-4-4-08_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,AlteredStates-02_c25.xml.lzma,SAT,6.824592434102669,7.0,true,,OPTIMAL,cpo_AlteredStates-02_c25.xml.txt.metadata.json
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,AlteredStates-03_c25.xml.lzma,SAT,599.1172172001097,35.0,true,,FEASIBLE,cpo_AlteredStates-03_c25.xml.txt.metadata.json
