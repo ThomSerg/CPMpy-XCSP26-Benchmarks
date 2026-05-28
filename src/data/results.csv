@@ -468,6 +468,8 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,EFPA-4-5-4-10_c
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,EFPA-4-5-4-11_c25.xml.lzma,UNKNOWN,598.9022301270161,,true,,UNKNOWN,cpo_EFPA-4-5-4-11_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,EFPA-5-4-4-08_c25.xml.lzma,UNKNOWN,598.91089268215,,true,,UNKNOWN,cpo_EFPA-5-4-4-08_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,EFPA-5-4-4-09_c25.xml.lzma,UNKNOWN,598.8066341779195,,true,,UNKNOWN,cpo_EFPA-5-4-4-09_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,EFPA-6-4-4-13_c25.xml.lzma,UNKNOWN,598.8822266568895,,true,,UNKNOWN,cpo_EFPA-6-4-4-13_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,EFPA-6-4-4-14_c25.xml.lzma,UNKNOWN,598.8687498699874,,true,,UNKNOWN,cpo_EFPA-6-4-4-14_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,GracefulGraph-03-08_c25.xml.lzma,SAT,33.901424306910485,,true,,FEASIBLE,cpo_GracefulGraph-03-08_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,Heterosquare-easy-20_c25.xml.lzma,SAT,2.447552093071863,,true,,FEASIBLE,cpo_Heterosquare-easy-20_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,Heterosquare-easy-25_c25.xml.lzma,SAT,2.0183708609547466,,true,,FEASIBLE,cpo_Heterosquare-easy-25_c25.xml.txt.metadata.json
@@ -497,10 +499,13 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,LotteryDesign-3
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,LotteryDesign-32-6-6-2-0207_c25.xml.lzma,SAT,13.964705646038055,,true,,FEASIBLE,cpo_LotteryDesign-32-6-6-2-0207_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,SAT,22.215700932079926,,true,,FEASIBLE,cpo_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,SAT,36.68466918496415,,true,,FEASIBLE,cpo_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,SAT,199.28752743499354,,true,,FEASIBLE,cpo_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,PegSolitaireTable-english-0-3-0_c25.xml.lzma,SAT,294.41225804388523,,true,,FEASIBLE,cpo_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,PegSolitaireTable-english-1-4-0_c25.xml.lzma,SAT,34.874639564193785,,true,,FEASIBLE,cpo_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,PegSolitaireTable-english-2-2-0_c25.xml.lzma,SAT,16.374661651905626,,true,,FEASIBLE,cpo_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,14.372621378162876,,true,,FEASIBLE,cpo_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,2.3190789639484137,,true,,UNSATISFIABLE,cpo_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,RamseyPartition-equ-5-0140_c25.xml.lzma,SAT,40.71698514511809,,true,,FEASIBLE,cpo_RamseyPartition-equ-5-0140_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,UNKNOWN,2.562970004044473,,,exitcode:1,,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNKNOWN,2.4515428880695254,,,exitcode:1,,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,UNKNOWN,3.179503913037479,,,exitcode:1,,exact_Accordion-12-01_c25.xml.txt.metadata.json
