@@ -200,6 +200,7 @@ Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,600.9573145629838,,true,,UNKNOWN,cpo_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,598.998691089917,,true,,UNKNOWN,cpo_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.445735376095399,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,369.91998033598065,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,5.328128233086318,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,Accordion-13-02_c25.xml.lzma,SAT,8.025319695007056,,true,,FEASIBLE,exact_Accordion-13-02_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,Accordion-14-03_c25.xml.lzma,SAT,24.00303758191876,,true,,FEASIBLE,exact_Accordion-14-03_c25.xml.txt.metadata.json
@@ -217,6 +218,9 @@ Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,AlmostMagic-06-100_c25.xml.lzma,SAT,50.28733097901568,,true,,FEASIBLE,exact_AlmostMagic-06-100_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,ChainReaction-20-020_c25.xml.lzma,UNSAT,192.8353513411712,,true,,UNSATISFIABLE,exact_ChainReaction-20-020_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,ChainReaction-20-025_c25.xml.lzma,SAT,62.857422950910404,,true,,FEASIBLE,exact_ChainReaction-20-025_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,CrazyFrog-09_c25.xml.lzma,UNKNOWN,353.82910805311985,,,memory,,exact_CrazyFrog-09_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,CrazyFrog-10_c25.xml.lzma,UNKNOWN,261.8556137639098,,,memory,,exact_CrazyFrog-10_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,244.4995408160612,,,memory,,exact_CrazyFrog-table-07_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,244.6503068190068,,,memory,,exact_CrazyFrog-table-08_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,163.05501268804073,,,memory,,exact_CrazyFrog-table-09_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,211.07758677680977,,,memory,,exact_CrazyFrog-table-10_c25.xml.txt.metadata.json
@@ -226,6 +230,8 @@ Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,Cryptanalysis-4-11-128_c25.xml.lzma,UNSAT,51.4765958848875,,true,,UNSATISFIABLE,exact_Cryptanalysis-4-11-128_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,Cryptanalysis-4-12-128_c25.xml.lzma,SAT,86.2202055491507,,true,,FEASIBLE,exact_Cryptanalysis-4-12-128_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,Cryptanalysis-5-10-128_c25.xml.lzma,UNSAT,43.96837701508775,,true,,UNSATISFIABLE,exact_Cryptanalysis-5-10-128_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,Cryptanalysis-5-14-128_c25.xml.lzma,UNSAT,350.72531046113,,true,,UNSATISFIABLE,exact_Cryptanalysis-5-14-128_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,Cryptanalysis-5-15-128_c25.xml.lzma,SAT,246.97483864007518,,true,,FEASIBLE,exact_Cryptanalysis-5-15-128_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,Cryptanalysis-6-12-128_c25.xml.lzma,UNSAT,63.035370335914195,,true,,UNSATISFIABLE,exact_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,EFPA-3-7-7-06_c25.xml.lzma,SAT,11.094948801212013,,true,,FEASIBLE,exact_EFPA-3-7-7-06_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,EFPA-3-7-7-07_c25.xml.lzma,UNSAT,103.32470148801804,,true,,UNSATISFIABLE,exact_EFPA-3-7-7-07_c25.xml.txt.metadata.json
@@ -233,6 +239,7 @@ Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,EFPA-4-4-5-10_c25.xml.lzma,SAT,65.75913082482293,,true,,FEASIBLE,exact_EFPA-4-4-5-10_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,EFPA-4-5-4-10_c25.xml.lzma,SAT,9.615099489921704,,true,,FEASIBLE,exact_EFPA-4-5-4-10_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,EFPA-5-4-4-08_c25.xml.lzma,SAT,10.660659566055983,,true,,FEASIBLE,exact_EFPA-5-4-4-08_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,Heterosquare-fair-05_c25.xml.lzma,SAT,12.943224733928218,,true,,FEASIBLE,exact_Heterosquare-fair-05_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,3.799274147953838,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,74.52755772112869,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,4.247156945057213,,true,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
