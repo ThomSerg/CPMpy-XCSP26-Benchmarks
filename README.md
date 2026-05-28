@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Some transformation improvements** 🔄 | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 13:34:18 | 311/1017 |
+| 1 | **Some transformation improvements** 🔄 | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 13:34:18 | 312/1031 |
 | 2 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
 | 3 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
 | 4 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
@@ -28,7 +28,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-28 11:54:17 | — |
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-28 12:25:57 | — |
 | `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-28 12:57:20 | — |
-| `scip` | XCSP3-2025-CSP25 | 🔄 running | 17/200 | 2026-05-28 13:34:35 | 5m 19s |
+| `scip` | XCSP3-2025-CSP25 | 🔄 running | 50/200 | 2026-05-28 13:34:35 | 10m 07s |
 | `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `pumpkin` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `z3` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -52,7 +52,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 | `exact` | 37 | 13 | 99 | 51 | 200 |
 | `gurobi` | 34 | 14 | 70 | 82 | 200 |
 | `highs` | 20 | 10 | 70 | 100 | 200 |
-| `scip` | 10 | 4 | 0 | 3 | 17 |
+| `scip` | 10 | 6 | 4 | 30 | 50 |
 
 #### Solution Checker
 
@@ -63,7 +63,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 | `exact` | 87 | 0 | 113 | 200 |
 | `gurobi` | 151 | 0 | 49 | 200 |
 | `highs` | 105 | 0 | 95 | 200 |
-| `scip` | 14 | 0 | 3 | 17 |
+| `scip` | 40 | 0 | 10 | 50 |
 
 ---
 
