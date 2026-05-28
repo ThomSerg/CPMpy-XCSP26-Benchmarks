@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Some_transformation_improvements,Some transformation improvements,2026-05-28T10:26:53,2026-05-28T12:57:03,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,true,XCSP3-2025-CSP25,297,998,600.0
+1,Some_transformation_improvements,Some transformation improvements,2026-05-28T10:26:53,2026-05-28T13:34:18,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,true,XCSP3-2025-CSP25,305,1008,600.0
 2,Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,2026-05-27T09:08:46,2026-05-27T20:08:47,,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,1554,3800,600.0
 3,MDD_global,MDD global,2026-05-26T16:50:39,2026-05-27T09:05:54,,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,436,1807,600.0
 4,linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,2026-05-26T13:50:16,2026-05-26T16:38:08,,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,321,450,600.0
