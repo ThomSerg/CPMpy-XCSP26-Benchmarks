@@ -1,4 +1,12 @@
 session_slug,session_name,track,solver,instance,status,seconds,objective,checker_valid,termination_reason,exit_status,metadata_file
+Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,Accordion-11-01_c25.xml.lzma,SAT,64.77081087511033,,true,,FEASIBLE,z3_Accordion-11-01_c25.xml.txt.metadata.json
+Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,AlmostMagic-03-040_c25.xml.lzma,SAT,48.36086850310676,,true,,FEASIBLE,z3_AlmostMagic-03-040_c25.xml.txt.metadata.json
+Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,AlmostMagic-03-070_c25.xml.lzma,SAT,2.7244971261825413,,true,,FEASIBLE,z3_AlmostMagic-03-070_c25.xml.txt.metadata.json
+Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,ChainReaction-60-085_c25.xml.lzma,UNKNOWN,16.22107918909751,,true,,UNKNOWN,z3_ChainReaction-60-085_c25.xml.txt.metadata.json
+Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,ChainReaction-60-090_c25.xml.lzma,UNKNOWN,18.935710781021044,,true,,UNKNOWN,z3_ChainReaction-60-090_c25.xml.txt.metadata.json
+Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,ChainReaction-70-095_c25.xml.lzma,UNKNOWN,16.985487035941333,,true,,UNKNOWN,z3_ChainReaction-70-095_c25.xml.txt.metadata.json
+Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,ChainReaction-70-100_c25.xml.lzma,UNKNOWN,19.283270724117756,,true,,UNKNOWN,z3_ChainReaction-70-100_c25.xml.txt.metadata.json
+Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,CrazyFrog-09_c25.xml.lzma,UNKNOWN,194.48660968104377,,,memory,,z3_CrazyFrog-09_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,3.9312110170722008,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,94.07660151808523,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,2.852484325878322,,true,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json

@@ -2164,6 +2164,36 @@
         }
       }
     },
+    "Some_transformation_improvements_-_rerun": {
+      "tracks": {
+        "XCSP3-2025-CSP25": {
+          "completion": {
+            "series": [
+              {
+                "solved": 3,
+                "solver": "z3",
+                "x": [
+                  0.0,
+                  2.7244971261825413,
+                  48.36086850310676,
+                  64.77081087511033,
+                  600.0
+                ],
+                "y": [
+                  0.0,
+                  1.0,
+                  2.0,
+                  3.0,
+                  3.0
+                ]
+              }
+            ],
+            "total": 8
+          },
+          "time_limit": 600.0
+        }
+      }
+    },
     "Submission_2025": {
       "tracks": {
         "XCSP3-2025-CSP25": {
