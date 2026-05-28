@@ -52,7 +52,9 @@ const overlayRows = [
     .filter(s => s.solver === solver)
     .flatMap(s => s.x.map((x, i) => ({session: candidate.name, seconds: x, solved: s.y[i]})))
 ];
+const profileTitle = `${track} · ${solver} · ${baseline.name} vs ${candidate.name}`;
 display(Plot.plot({
+  title: profileTitle,
   height: 420,
   x: {label: "Time (s)", grid: true},
   y: {label: "Instances solved", grid: true},

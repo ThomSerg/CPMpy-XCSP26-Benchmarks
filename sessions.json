@@ -43,6 +43,13 @@
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-05-28T10:26:53",
       "last_run_at": "2026-05-28T15:47:34"
+    },
+    {
+      "name": "Table with MDD decomp",
+      "slug": "Table_with_MDD_decomp",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-05-28T16:47:14",
+      "last_run_at": null
     }
   ]
 }

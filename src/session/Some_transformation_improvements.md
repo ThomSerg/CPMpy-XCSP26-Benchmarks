@@ -75,7 +75,9 @@ const curveRows = trackCurves
     solved: s.y[i],
     label: `${s.solver}\n${x.toFixed(1)}s: ${s.y[i]} solved`
   })));
+const profileTitle = `${activeTrack} · ${visibleSolvers.join(", ")}`;
 display(Plot.plot({
+  title: profileTitle,
   height: 420,
   x: {label: "Time (s)", grid: true},
   y: {label: "Instances solved", grid: true},

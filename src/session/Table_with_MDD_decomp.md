@@ -1,11 +1,11 @@
-# Submission 2025
+# Table with MDD decomp
 
 ```js
 import * as Plot from "npm:@observablehq/plot";
 const results = await FileAttachment("../data/results.csv").csv({typed: true});
 const summary = await FileAttachment("../data/solver_summary.csv").csv({typed: true});
 const curves = await FileAttachment("../data/curves.json").json();
-const sessionSlug = "Submission_2025";
+const sessionSlug = "Table_with_MDD_decomp";
 const sessionResults = results.filter(d => d.session_slug === sessionSlug);
 const sessionSummary = summary.filter(d => d.session_slug === sessionSlug);
 const tracks = Array.from(new Set(sessionResults.map(d => d.track))).sort();
