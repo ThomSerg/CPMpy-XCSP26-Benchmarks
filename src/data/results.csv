@@ -478,7 +478,11 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,GracefulGraph
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,GracefulGraph-05-05_c25.xml.lzma,UNKNOWN,601.0063093469944,,true,walltime,UNKNOWN,exact_GracefulGraph-05-05_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,GracefulGraph-05-06_c25.xml.lzma,UNKNOWN,599.9177842128556,,true,,UNKNOWN,exact_GracefulGraph-05-06_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,GracefulGraph-06-02_c25.xml.lzma,UNKNOWN,600.4542951178737,,true,,UNKNOWN,exact_GracefulGraph-06-02_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,GracefulGraph-06-03_c25.xml.lzma,UNKNOWN,601.0311891180463,,true,walltime,UNKNOWN,exact_GracefulGraph-06-03_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,GracefulGraph-06-04_c25.xml.lzma,UNKNOWN,601.0245514970738,,true,walltime,UNKNOWN,exact_GracefulGraph-06-04_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Heterosquare-easy-20_c25.xml.lzma,SAT,205.4843358490616,,true,,FEASIBLE,exact_Heterosquare-easy-20_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Heterosquare-easy-35_c25.xml.lzma,UNKNOWN,391.7940441479441,,,memory,,exact_Heterosquare-easy-35_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,340.299505895935,,,memory,,exact_Heterosquare-easy-60_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Heterosquare-fair-05_c25.xml.lzma,SAT,12.221429151017219,,true,,FEASIBLE,exact_Heterosquare-fair-05_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LangfordBin-010_c25.xml.lzma,UNSAT,147.7050560459029,,true,,UNSATISFIABLE,exact_LangfordBin-010_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LangfordBin-016_c25.xml.lzma,SAT,6.755709714954719,,true,,FEASIBLE,exact_LangfordBin-016_c25.xml.txt.metadata.json
@@ -486,6 +490,7 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,4.343928310088813,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,16.338828468928114,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0067_c25.xml.lzma,SAT,26.674164589028805,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0067_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,197.52008926402777,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-0-2-0_c25.xml.lzma,UNKNOWN,2.4577634090092033,,,exitcode:1,,exact_PegSolitaireTable-english-0-2-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-0-3-0_c25.xml.lzma,UNKNOWN,2.306065013166517,,,exitcode:1,,exact_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-0-4-0_c25.xml.lzma,UNKNOWN,2.6696040041279048,,,exitcode:1,,exact_PegSolitaireTable-english-0-4-0_c25.xml.txt.metadata.json
