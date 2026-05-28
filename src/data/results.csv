@@ -399,6 +399,30 @@ Some_transformation_improvements_-_rerun,Some transformation improvements - reru
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,599.2162329219282,,true,,UNKNOWN,z3_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,600.3678033910692,,true,,UNKNOWN,z3_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,599.1961059800815,,true,,UNKNOWN,z3_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,UNKNOWN,2.562970004044473,,,exitcode:1,,exact_Accordion-11-01_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNKNOWN,2.4515428880695254,,,exitcode:1,,exact_Accordion-11-03_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,UNKNOWN,3.179503913037479,,,exitcode:1,,exact_Accordion-12-01_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-12-03_c25.xml.lzma,UNKNOWN,3.360342673957348,,,exitcode:1,,exact_Accordion-12-03_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-13-02_c25.xml.lzma,UNKNOWN,2.516727170906961,,,exitcode:1,,exact_Accordion-13-02_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-14-03_c25.xml.lzma,UNKNOWN,3.6029985880013555,,,exitcode:1,,exact_Accordion-14-03_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-14-04_c25.xml.lzma,UNKNOWN,3.7366948020644486,,,exitcode:1,,exact_Accordion-14-04_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-15-03_c25.xml.lzma,UNKNOWN,2.8981906620319933,,,exitcode:1,,exact_Accordion-15-03_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-15-04_c25.xml.lzma,UNKNOWN,3.7300430219620466,,,exitcode:1,,exact_Accordion-15-04_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-16-01_c25.xml.lzma,UNKNOWN,3.380529073998332,,,exitcode:1,,exact_Accordion-16-01_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-16-04_c25.xml.lzma,UNKNOWN,3.6090312469750643,,,exitcode:1,,exact_Accordion-16-04_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Accordion-16-05_c25.xml.lzma,UNKNOWN,3.7439079920295626,,,exitcode:1,,exact_Accordion-16-05_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,AlmostMagic-03-040_c25.xml.lzma,SAT,27.10864767502062,,true,,FEASIBLE,exact_AlmostMagic-03-040_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,AlmostMagic-03-070_c25.xml.lzma,SAT,10.528197979088873,,true,,FEASIBLE,exact_AlmostMagic-03-070_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,AlmostMagic-04-080_c25.xml.lzma,SAT,5.874407245079055,,true,,FEASIBLE,exact_AlmostMagic-04-080_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,AlmostMagic-05-070_c25.xml.lzma,SAT,40.168953102082014,,true,,FEASIBLE,exact_AlmostMagic-05-070_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,AlmostMagic-06-100_c25.xml.lzma,SAT,40.61396939586848,,true,,FEASIBLE,exact_AlmostMagic-06-100_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,ChainReaction-20-025_c25.xml.lzma,SAT,55.967940071132034,,true,,FEASIBLE,exact_ChainReaction-20-025_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,7.697456734022126,,true,,UNSATISFIABLE,exact_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Cryptanalysis-3-05-128_c25.xml.lzma,SAT,9.768030642997473,,true,,FEASIBLE,exact_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Cryptanalysis-4-09-128_c25.xml.lzma,UNSAT,19.955566067947075,,true,,UNSATISFIABLE,exact_Cryptanalysis-4-09-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Cryptanalysis-4-11-128_c25.xml.lzma,UNSAT,49.10940573993139,,true,,UNSATISFIABLE,exact_Cryptanalysis-4-11-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Cryptanalysis-4-12-128_c25.xml.lzma,SAT,54.464680642820895,,true,,FEASIBLE,exact_Cryptanalysis-4-12-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Cryptanalysis-5-10-128_c25.xml.lzma,UNSAT,49.48680930910632,,true,,UNSATISFIABLE,exact_Cryptanalysis-5-10-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,3.383007748052478,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,76.80696477205493,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,4.0896790500264615,,true,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
@@ -597,6 +621,8 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,TilingRythm
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-30_c25.xml.lzma,UNKNOWN,597.4521758968476,,true,,UNKNOWN,ortools_TilingRythmicCanons1-30_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,598.7107942278963,,true,,UNKNOWN,ortools_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,598.1613496281207,,true,,UNKNOWN,ortools_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,600.8067877891008,,true,,UNKNOWN,ortools_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,596.7950066952035,,true,,UNKNOWN,ortools_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,4.125553109915927,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,599.1639265969861,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,3.7984252620954067,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
