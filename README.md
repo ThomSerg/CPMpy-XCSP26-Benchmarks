@@ -6,13 +6,44 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Table with MDD decomp** 🔄 | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | — | 70/72 |
-| 2 | **Some transformation improvements** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 15:47:34 | 435/1800 |
-| 3 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
-| 4 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
-| 5 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
-| 6 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
-| 7 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
+| 1 | **Some transformation improvements - rerun** 🔄 | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | — | — |
+| 2 | **Table with MDD decomp** 🔄 | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | — | 77/82 |
+| 3 | **Some transformation improvements** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 15:47:34 | 435/1800 |
+| 4 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
+| 5 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
+| 6 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
+| 7 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
+| 8 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
+
+---
+
+## Some transformation improvements - rerun _(running)_
+
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` · Created: 2026-05-28 16:55:01 · Last run: —_
+
+### Live Progress
+
+| Solver | Track | Status | Progress | Started | Elapsed |
+|--------|-------|--------|----------|---------|---------|
+| `z3` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+
+### Track: XCSP3-2025-CSP25
+
+#### Performance Profile
+
+![XCSP3-2025-CSP25 profile](./profile_Some_transformation_improvements_-_rerun_XCSP3-2025-CSP25.svg)
+
+#### Solver Ranking
+
+![XCSP3-2025-CSP25 ranking](./ranking_Some_transformation_improvements_-_rerun_XCSP3-2025-CSP25.svg)
+
+#### Solve Status
+
+_No results yet._
+
+#### Solution Checker
+
+_Solution checker not enabled._
 
 ---
 
@@ -24,7 +55,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3ed0f343 — Table global from master used 
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 72/200 | 2026-05-28 16:47:36 | 4m 36s |
+| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 82/200 | 2026-05-28 16:47:36 | 7m 53s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -40,13 +71,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3ed0f343 — Table global from master used 
 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
-| `ortools` | 54 | 16 | 0 | 2 | 72 |
+| `ortools` | 60 | 17 | 0 | 5 | 82 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `ortools` | 70 | 0 | 2 | 72 |
+| `ortools` | 77 | 0 | 5 | 82 |
 
 ---
 
