@@ -513,7 +513,10 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0067_c25.xml.lzma,SAT,26.674164589028805,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0067_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,197.52008926402777,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,363.68211010703817,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0207_c25.xml.lzma,UNKNOWN,601.1225861799903,,,walltime,,exact_LotteryDesign-32-6-6-2-0207_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,601.2356390641071,,,walltime,,exact_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,601.3061200371012,,,walltime,,exact_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,601.2954462410416,,,walltime,,exact_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,483.6069521808531,,,memory,,exact_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,333.8509190569166,,,memory,,exact_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-0-2-0_c25.xml.lzma,UNKNOWN,2.4577634090092033,,,exitcode:1,,exact_PegSolitaireTable-english-0-2-0_c25.xml.txt.metadata.json
@@ -528,6 +531,9 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,PegSolitaireT
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-2-4-0_c25.xml.lzma,UNKNOWN,2.5545633148867637,,,exitcode:1,,exact_PegSolitaireTable-english-2-4-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-2-6-0_c25.xml.lzma,UNKNOWN,2.2971354459878057,,,exitcode:1,,exact_PegSolitaireTable-english-2-6-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-3-3-0_c25.xml.lzma,UNKNOWN,2.4573459620587528,,,exitcode:1,,exact_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,RamseyPartition-equ-3-0300_c25.xml.lzma,UNKNOWN,601.061717195902,,,walltime,,exact_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,RamseyPartition-equ-3-0600_c25.xml.lzma,UNKNOWN,601.1370727929752,,true,walltime,UNKNOWN,exact_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,RamseyPartition-equ-3-1200_c25.xml.lzma,UNKNOWN,594.4348575109616,,,memory,,exact_RamseyPartition-equ-3-1200_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,74.91850713500753,,true,,FEASIBLE,exact_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Rostering-00-14-20_c25.xml.lzma,UNKNOWN,2.569062541006133,,,exitcode:1,,exact_Rostering-00-14-20_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,Rostering-00-14-25_c25.xml.lzma,UNKNOWN,2.296076178783551,,,exitcode:1,,exact_Rostering-00-14-25_c25.xml.txt.metadata.json
