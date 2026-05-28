@@ -7,7 +7,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
 | 1 | **Some transformation improvements - rerun** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-29 00:03:40 | 68/400 |
-| 2 | **Table with MDD decomp** 🔄 | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | 2026-05-29 01:19:32 | 165/428 |
+| 2 | **Table with MDD decomp** 🔄 | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | 2026-05-29 01:19:32 | 166/431 |
 | 3 | **Some transformation improvements** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 15:47:34 | 435/1800 |
 | 4 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
 | 5 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
@@ -57,7 +57,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3ed0f343 — Table global from master used 
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-28 16:47:36 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 00:49:28 | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 28/200 | 2026-05-29 01:19:55 | 3m 29s |
+| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 31/200 | 2026-05-29 01:19:55 | 5m 37s |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -81,7 +81,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3ed0f343 — Table global from master used 
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 76 | 25 | 2 | 97 | 200 |
 | `exact` | 27 | 11 | 52 | 110 | 200 |
-| `cpo` | 23 | 3 | 0 | 2 | 28 |
+| `cpo` | 23 | 4 | 0 | 4 | 31 |
 
 #### Solution Checker
 
@@ -89,7 +89,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3ed0f343 — Table global from master used 
 |--------|-------|---------|---------|-------|
 | `ortools` | 174 | 0 | 26 | 200 |
 | `exact` | 76 | 0 | 124 | 200 |
-| `cpo` | 26 | 0 | 2 | 28 |
+| `cpo` | 27 | 0 | 4 | 31 |
 
 ---
 
