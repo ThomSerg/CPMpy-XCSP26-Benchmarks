@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Table with MDD decomp** 🔄 | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | — | — |
+| 1 | **Table with MDD decomp** 🔄 | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | — | 54/54 |
 | 2 | **Some transformation improvements** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 15:47:34 | 435/1800 |
 | 3 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
 | 4 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
@@ -24,7 +24,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3ed0f343 — Table global from master used 
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `ortools` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 56/200 | 2026-05-28 16:47:36 | 2m 14s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -38,11 +38,15 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3ed0f343 — Table global from master used 
 
 #### Solve Status
 
-_No results yet._
+| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|---------|-------|
+| `ortools` | 42 | 14 | 0 | 0 | 56 |
 
 #### Solution Checker
 
-_Solution checker not enabled._
+| Solver | Valid | Invalid | Skipped | Total |
+|--------|-------|---------|---------|-------|
+| `ortools` | 56 | 0 | 0 | 56 |
 
 ---
 
