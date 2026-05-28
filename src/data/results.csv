@@ -1263,8 +1263,16 @@ Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-3-8-8-07_c25.xml.lzma,SAT,70.33321008598432,,true,,FEASIBLE,z3_EFPA-3-8-8-07_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-3-8-8-08_c25.xml.lzma,UNKNOWN,598.9841478569433,,true,,UNKNOWN,z3_EFPA-3-8-8-08_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-4-4-5-10_c25.xml.lzma,SAT,178.13968485104851,,true,,FEASIBLE,z3_EFPA-4-4-5-10_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-4-4-5-11_c25.xml.lzma,UNKNOWN,598.9439362341072,,true,,UNKNOWN,z3_EFPA-4-4-5-11_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-4-5-4-10_c25.xml.lzma,SAT,390.1577337139752,,true,,FEASIBLE,z3_EFPA-4-5-4-10_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-4-5-4-11_c25.xml.lzma,UNKNOWN,598.941606404027,,true,,UNKNOWN,z3_EFPA-4-5-4-11_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-5-4-4-08_c25.xml.lzma,SAT,142.54974477202632,,true,,FEASIBLE,z3_EFPA-5-4-4-08_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-5-4-4-09_c25.xml.lzma,UNKNOWN,598.7862502799835,,true,,UNKNOWN,z3_EFPA-5-4-4-09_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-6-4-4-13_c25.xml.lzma,UNKNOWN,598.9137161539402,,true,,UNKNOWN,z3_EFPA-6-4-4-13_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,EFPA-6-4-4-14_c25.xml.lzma,UNKNOWN,598.9309802099597,,true,,UNKNOWN,z3_EFPA-6-4-4-14_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,GracefulGraph-03-08_c25.xml.lzma,UNKNOWN,598.7711572558619,,true,,UNKNOWN,z3_GracefulGraph-03-08_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,GracefulGraph-04-05_c25.xml.lzma,UNKNOWN,598.8933507069014,,true,,UNKNOWN,z3_GracefulGraph-04-05_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,GracefulGraph-04-06_c25.xml.lzma,UNKNOWN,598.8327036302071,,true,,UNKNOWN,z3_GracefulGraph-04-06_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,LangfordBin-010_c25.xml.lzma,UNSAT,77.98815371096134,,true,,UNSATISFIABLE,z3_LangfordBin-010_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,LangfordBin-016_c25.xml.lzma,SAT,2.8801027659792453,,true,,FEASIBLE,z3_LangfordBin-016_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,LangfordBin-040_c25.xml.lzma,SAT,9.307037380989641,,true,,FEASIBLE,z3_LangfordBin-040_c25.xml.txt.metadata.json
