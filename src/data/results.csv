@@ -578,6 +578,16 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRos
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,SEDF-19-1-C19-3-3-1_c25.xml.lzma,SAT,28.595095730153844,,true,,FEASIBLE,ortools_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNSAT,397.7744919380639,,true,,UNSATISFIABLE,ortools_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNSAT,315.1654838810209,,true,,UNSATISFIABLE,ortools_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,597.5502769879531,,true,,UNKNOWN,ortools_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,SEDF-25-2-C5xC5-7-2-1_c25.xml.lzma,UNKNOWN,597.7725159521215,,true,,UNKNOWN,ortools_SEDF-25-2-C5xC5-7-2-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,SEDF-28-1-C7C4-4-3-1_c25.xml.lzma,UNKNOWN,598.1249128670897,,true,,UNKNOWN,ortools_SEDF-28-1-C7C4-4-3-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,SEDF-28-2-C28-4-3-1_c25.xml.lzma,UNKNOWN,598.1034044360276,,true,,UNKNOWN,ortools_SEDF-28-2-C28-4-3-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,597.557935382938,,true,,UNKNOWN,ortools_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,SEDF-28-4-C14xC2-4-3-1_c25.xml.lzma,UNKNOWN,597.9200421080459,,true,,UNKNOWN,ortools_SEDF-28-4-C14xC2-4-3-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,598.9186825908255,,true,,UNKNOWN,ortools_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-16_c25.xml.lzma,UNKNOWN,599.7566665320192,,true,,UNKNOWN,ortools_TilingRythmicCanons1-16_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-17_c25.xml.lzma,UNKNOWN,598.7574997690972,,true,,UNKNOWN,ortools_TilingRythmicCanons1-17_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-18_c25.xml.lzma,UNKNOWN,596.3854970650282,,true,,UNKNOWN,ortools_TilingRythmicCanons1-18_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-23_c25.xml.lzma,SAT,104.53233375702985,,true,,FEASIBLE,ortools_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,4.125553109915927,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,599.1639265969861,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
