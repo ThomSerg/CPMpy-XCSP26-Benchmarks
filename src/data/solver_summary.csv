@@ -5,7 +5,7 @@ Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,20,10,0,170,200,105,0,95
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,ortools,75,24,0,101,200,174,0,26
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,scip,14,9,0,177,200,89,0,111
-Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,24,13,0,112,149,120,0,29
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,24,13,0,122,159,129,0,30
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,164,20,0,66,250,192,0,58
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,88,17,0,145,250,107,0,143
 Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,148,17,0,85,250,191,0,59
