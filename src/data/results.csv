@@ -493,6 +493,7 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Heterosquar
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Heterosquare-fair-20_c25.xml.lzma,UNKNOWN,595.6942255960312,,true,,UNKNOWN,ortools_Heterosquare-fair-20_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Heterosquare-hard-05_c25.xml.lzma,UNSAT,1.8351218169555068,,true,,UNSATISFIABLE,ortools_Heterosquare-hard-05_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Heterosquare-hard-10_c25.xml.lzma,UNSAT,7.26163282408379,,true,,UNSATISFIABLE,ortools_Heterosquare-hard-10_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Heterosquare-hard-15_c25.xml.lzma,UNKNOWN,599.0809268879239,,true,,UNKNOWN,ortools_Heterosquare-hard-15_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Heterosquare-hard-20_c25.xml.lzma,UNSAT,2.52793190209195,,true,,UNSATISFIABLE,ortools_Heterosquare-hard-20_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,LangfordBin-010_c25.xml.lzma,UNSAT,2.399483049986884,,true,,UNSATISFIABLE,ortools_LangfordBin-010_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,LangfordBin-013_c25.xml.lzma,UNSAT,2.3347541079856455,,true,,UNSATISFIABLE,ortools_LangfordBin-013_c25.xml.txt.metadata.json
@@ -505,6 +506,7 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,LangfordBin
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,LangfordBin-079_c25.xml.lzma,SAT,5.910125551046804,,true,,FEASIBLE,ortools_LangfordBin-079_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,LangfordBin-080_c25.xml.lzma,SAT,7.953163804020733,,true,,FEASIBLE,ortools_LangfordBin-080_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,LangfordBin-120_c25.xml.lzma,SAT,15.319608004996553,,true,,FEASIBLE,ortools_LangfordBin-120_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,LangfordBin-240_c25.xml.lzma,UNKNOWN,599.1212250778917,,true,,UNKNOWN,ortools_LangfordBin-240_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,2.949418035103008,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,4.827894754940644,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,20.593122427817434,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
@@ -523,11 +525,26 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,PegSolitair
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-3-0300_c25.xml.lzma,UNSAT,43.9142692508176,,true,,UNSATISFIABLE,ortools_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,106.72616093209945,,true,,FEASIBLE,ortools_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,3.181478555081412,,true,,UNSATISFIABLE,ortools_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0064_c25.xml.lzma,SAT,323.1829381850548,,true,,FEASIBLE,ortools_RamseyPartition-equ-4-0064_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-5-0130_c25.xml.lzma,SAT,126.65248148306273,,true,,FEASIBLE,ortools_RamseyPartition-equ-5-0130_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Rostering-00-14-25_c25.xml.lzma,SAT,134.83581493492238,,true,,FEASIBLE,ortools_Rostering-00-14-25_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Rostering-25-22-20_c25.xml.lzma,SAT,73.61614566599019,,true,,FEASIBLE,ortools_Rostering-25-22-20_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,Rostering-25-22-25_c25.xml.lzma,SAT,86.2007938020397,,true,,FEASIBLE,ortools_Rostering-25-22-25_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.6380758949089795,,,exitcode:1,,ortools_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.3254649871960282,,,exitcode:1,,ortools_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,2.612142249941826,,,exitcode:1,,ortools_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-028-2-3_c25.xml.lzma,UNKNOWN,2.625741458963603,,,exitcode:1,,ortools_RotatingRostering-028-2-3_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-036-2-3_c25.xml.lzma,UNKNOWN,2.865293644135818,,,exitcode:1,,ortools_RotatingRostering-036-2-3_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-036-2-4_c25.xml.lzma,UNKNOWN,2.6879964580293745,,,exitcode:1,,ortools_RotatingRostering-036-2-4_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-044-2-3_c25.xml.lzma,UNKNOWN,2.736174493096769,,,exitcode:1,,ortools_RotatingRostering-044-2-3_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-044-2-4_c25.xml.lzma,UNKNOWN,2.8504454870708287,,,exitcode:1,,ortools_RotatingRostering-044-2-4_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-052-2-3_c25.xml.lzma,UNKNOWN,3.0867131610866636,,,exitcode:1,,ortools_RotatingRostering-052-2-3_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-052-2-4_c25.xml.lzma,UNKNOWN,3.033684296067804,,,exitcode:1,,ortools_RotatingRostering-052-2-4_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-064-2-4-c25.xml.lzma,UNKNOWN,2.9916706311050802,,,exitcode:1,,ortools_RotatingRostering-064-2-4-c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-088-2-4-c25.xml.lzma,UNKNOWN,3.498684415128082,,,exitcode:1,,ortools_RotatingRostering-088-2-4-c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.8431525039486587,,,exitcode:1,,ortools_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.8198885249439627,,,exitcode:1,,ortools_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,SEDF-19-1-C19-3-3-1_c25.xml.lzma,SAT,28.595095730153844,,true,,FEASIBLE,ortools_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,4.125553109915927,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,599.1639265969861,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,3.7984252620954067,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
