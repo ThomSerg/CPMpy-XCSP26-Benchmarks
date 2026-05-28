@@ -603,6 +603,8 @@ Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,Accordion-12-01_c25.xml.lzma,SAT,32.52801747992635,,true,,FEASIBLE,highs_Accordion-12-01_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,Accordion-13-02_c25.xml.lzma,SAT,46.68138197204098,,true,,FEASIBLE,highs_Accordion-13-02_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,Accordion-14-04_c25.xml.lzma,SAT,92.24580146092921,,true,,FEASIBLE,highs_Accordion-14-04_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,Accordion-15-03_c25.xml.lzma,SAT,247.80493588815443,,true,,FEASIBLE,highs_Accordion-15-03_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,Accordion-16-04_c25.xml.lzma,SAT,359.96239435486495,,true,,FEASIBLE,highs_Accordion-16-04_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,AlmostMagic-03-070_c25.xml.lzma,SAT,19.801184577168897,,true,,FEASIBLE,highs_AlmostMagic-03-070_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,AlmostMagic-04-050_c25.xml.lzma,SAT,212.9020513689611,,true,,FEASIBLE,highs_AlmostMagic-04-050_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,AlmostMagic-04-080_c25.xml.lzma,SAT,15.905021178070456,,true,,FEASIBLE,highs_AlmostMagic-04-080_c25.xml.txt.metadata.json
@@ -611,6 +613,11 @@ Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,AlmostMagic-09-200_c25.xml.lzma,UNSAT,69.3220737259835,,true,,UNSATISFIABLE,highs_AlmostMagic-09-200_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,AlmostMagic-10-250_c25.xml.lzma,UNSAT,127.38899676897563,,true,,UNSATISFIABLE,highs_AlmostMagic-10-250_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,ChainReaction-20-025_c25.xml.lzma,SAT,69.43522290303372,,true,,FEASIBLE,highs_ChainReaction-20-025_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,CrazyFrog-09_c25.xml.lzma,UNKNOWN,308.0745647321455,,,memory,,highs_CrazyFrog-09_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,CrazyFrog-10_c25.xml.lzma,UNKNOWN,289.6661778949201,,,memory,,highs_CrazyFrog-10_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,277.0642682479229,,,memory,,highs_CrazyFrog-table-07_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,262.11711003491655,,,memory,,highs_CrazyFrog-table-08_c25.xml.txt.metadata.json
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,203.42329019494355,,,memory,,highs_CrazyFrog-table-09_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,210.3408979109954,,,memory,,highs_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,159.42617557384074,,true,,UNSATISFIABLE,highs_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,Cryptanalysis-3-05-128_c25.xml.lzma,SAT,188.59945757617243,,true,,FEASIBLE,highs_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
