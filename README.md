@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Some transformation improvements** 🔄 | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 10:51:45 | 163/309 |
+| 1 | **Some transformation improvements** 🔄 | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 10:51:45 | 165/329 |
 | 2 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
 | 3 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
 | 4 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
@@ -24,7 +24,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-28 10:27:11 | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 109/200 | 2026-05-28 11:23:49 | 13m 04s |
+| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 129/200 | 2026-05-28 11:23:49 | 15m 18s |
 | `exact` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -48,14 +48,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 75 | 24 | 2 | 99 | 200 |
-| `cpo` | 56 | 8 | 6 | 39 | 109 |
+| `cpo` | 58 | 8 | 6 | 57 | 129 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `ortools` | 174 | 0 | 26 | 200 |
-| `cpo` | 101 | 0 | 8 | 109 |
+| `cpo` | 107 | 0 | 22 | 129 |
 
 ---
 
