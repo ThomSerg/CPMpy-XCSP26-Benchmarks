@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs,9,5,0,5,19,14,0,5
+Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs,12,5,0,8,25,17,0,8
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,24,13,0,163,200,163,0,37
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,60,17,0,5,82,77,0,5
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,62,8,0,130,200,173,0,27
