@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Some transformation improvements - rerun** 🔄 | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-28 17:36:26 | 68/380 |
+| 1 | **Some transformation improvements - rerun** 🔄 | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-28 17:36:26 | 68/397 |
 | 2 | **Table with MDD decomp** 🔄 | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | — | 77/82 |
 | 3 | **Some transformation improvements** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 15:47:34 | 435/1800 |
 | 4 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
@@ -26,7 +26,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `z3` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
-| `highs` | XCSP3-2025-CSP25 | 🔄 running | 193/200 | 2026-05-28 23:19:29 | 40m 09s |
+| `highs` | XCSP3-2025-CSP25 | 🔄 running | 198/200 | 2026-05-28 23:19:29 | 43m 48s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -43,14 +43,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `z3` | 24 | 13 | 26 | 137 | 200 |
-| `highs` | 21 | 10 | 62 | 100 | 193 |
+| `highs` | 21 | 10 | 66 | 101 | 198 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `z3` | 163 | 0 | 37 | 200 |
-| `highs` | 105 | 0 | 88 | 193 |
+| `highs` | 106 | 0 | 92 | 198 |
 
 ---
 
@@ -62,7 +62,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3ed0f343 — Table global from master used 
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 82/200 | 2026-05-28 16:47:36 | 7h 12m |
+| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 82/200 | 2026-05-28 16:47:36 | 7h 15m |
 
 ### Track: XCSP3-2025-CSP25
 
