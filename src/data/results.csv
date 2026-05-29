@@ -1211,16 +1211,37 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Accordion
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Accordion-16-01_c25.xml.lzma,UNKNOWN,3.2373031249735504,,,exitcode:1,,pindakaas_Accordion-16-01_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Accordion-16-04_c25.xml.lzma,UNKNOWN,3.233336213976145,,,exitcode:1,,pindakaas_Accordion-16-04_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Accordion-16-05_c25.xml.lzma,UNKNOWN,2.7197921259794384,,,exitcode:1,,pindakaas_Accordion-16-05_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,ChainReaction-30-035_c25.xml.lzma,UNKNOWN,66.04634221596643,,,memory,,pindakaas_ChainReaction-30-035_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,ChainReaction-30-040_c25.xml.lzma,UNKNOWN,52.99413860309869,,,memory,,pindakaas_ChainReaction-30-040_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,ChainReaction-40-050_c25.xml.lzma,UNKNOWN,66.85849534487352,,,memory,,pindakaas_ChainReaction-40-050_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,ChainReaction-40-055_c25.xml.lzma,UNKNOWN,55.19079899904318,,,memory,,pindakaas_ChainReaction-40-055_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,ChainReaction-50-065_c25.xml.lzma,UNKNOWN,74.7144427401945,,,memory,,pindakaas_ChainReaction-50-065_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,ChainReaction-50-070_c25.xml.lzma,UNKNOWN,87.64800933212973,,,memory,,pindakaas_ChainReaction-50-070_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,ChainReaction-60-085_c25.xml.lzma,UNKNOWN,112.25851838896051,,,memory,,pindakaas_ChainReaction-60-085_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,ChainReaction-60-090_c25.xml.lzma,UNKNOWN,135.67240786598995,,,memory,,pindakaas_ChainReaction-60-090_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,ChainReaction-70-095_c25.xml.lzma,UNKNOWN,159.3233492630534,,,memory,,pindakaas_ChainReaction-70-095_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,ChainReaction-70-100_c25.xml.lzma,UNKNOWN,91.3149909179192,,,memory,,pindakaas_ChainReaction-70-100_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,ChainReaction-80-105_c25.xml.lzma,UNKNOWN,112.35927675198764,,,memory,,pindakaas_ChainReaction-80-105_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,ChainReaction-80-110_c25.xml.lzma,UNKNOWN,108.70223285490647,,,memory,,pindakaas_ChainReaction-80-110_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,175.18384872400202,,,memory,,pindakaas_CrazyFrog-table-08_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,174.48345907009207,,,memory,,pindakaas_CrazyFrog-table-09_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,147.74709142697975,,,memory,,pindakaas_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,8.908927771961316,,true,,UNSATISFIABLE,pindakaas_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Cryptanalysis-3-05-128_c25.xml.lzma,SAT,8.959200507961214,,true,,FEASIBLE,pindakaas_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Cryptanalysis-4-09-128_c25.xml.lzma,UNSAT,18.104772712104023,,true,,UNSATISFIABLE,pindakaas_Cryptanalysis-4-09-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Cryptanalysis-4-11-128_c25.xml.lzma,UNSAT,30.605757812969387,,true,,UNSATISFIABLE,pindakaas_Cryptanalysis-4-11-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Cryptanalysis-4-12-128_c25.xml.lzma,SAT,17.272994252853096,,true,,FEASIBLE,pindakaas_Cryptanalysis-4-12-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Cryptanalysis-5-10-128_c25.xml.lzma,UNSAT,29.330154304858297,,true,,UNSATISFIABLE,pindakaas_Cryptanalysis-5-10-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Cryptanalysis-5-14-128_c25.xml.lzma,UNSAT,68.71645981189795,,true,,UNSATISFIABLE,pindakaas_Cryptanalysis-5-14-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Cryptanalysis-5-15-128_c25.xml.lzma,SAT,57.28223848110065,,true,,FEASIBLE,pindakaas_Cryptanalysis-5-15-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Cryptanalysis-6-12-128_c25.xml.lzma,UNSAT,44.54344770498574,,true,,UNSATISFIABLE,pindakaas_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Cryptanalysis-6-16-128_c25.xml.lzma,UNSAT,129.581686289981,,true,,UNSATISFIABLE,pindakaas_Cryptanalysis-6-16-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Cryptanalysis-6-17-128_c25.xml.lzma,SAT,54.52085370197892,,true,,FEASIBLE,pindakaas_Cryptanalysis-6-17-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,EFPA-3-7-7-06_c25.xml.lzma,SAT,51.49891074211337,,true,,FEASIBLE,pindakaas_EFPA-3-7-7-06_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,EFPA-3-8-8-07_c25.xml.lzma,SAT,88.75145755591802,,true,,FEASIBLE,pindakaas_EFPA-3-8-8-07_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,EFPA-4-4-5-10_c25.xml.lzma,SAT,58.83045984595083,,true,,FEASIBLE,pindakaas_EFPA-4-4-5-10_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,EFPA-4-5-4-10_c25.xml.lzma,SAT,45.092084659961984,,true,,FEASIBLE,pindakaas_EFPA-4-5-4-10_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,EFPA-5-4-4-08_c25.xml.lzma,SAT,24.88853475288488,,true,,FEASIBLE,pindakaas_EFPA-5-4-4-08_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,4.125553109915927,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,599.1639265969861,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,3.7984252620954067,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
