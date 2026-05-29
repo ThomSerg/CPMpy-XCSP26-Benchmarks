@@ -7,7 +7,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
 | 1 | **Order encoding for inequalities** | XCSP3-2025-CSP25 | `632d2f6e — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 13:59:57 | 2026-05-29 15:53:14 | 78/400 |
-| 2 | **NoOverlap via Cumulative linear decomp** 🔄 | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 13:35:25 | 76/306 |
+| 2 | **NoOverlap via Cumulative linear decomp** 🔄 | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 13:35:25 | 77/339 |
 | 3 | **Positive MDD decomp** | XCSP3-2025-CSP25 | `85556f00 — Positive MDD test` | 2026-05-29 09:27:01 | 2026-05-29 09:57:51 | 40/200 |
 | 4 | **Some transformation improvements - rerun** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-29 00:03:40 | 68/400 |
 | 5 | **Table with MDD decomp** | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | 2026-05-29 05:10:05 | 397/1800 |
@@ -59,7 +59,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 13:05:01 | — |
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 106/200 | 2026-05-29 13:53:45 | 2h 24m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 139/200 | 2026-05-29 13:53:45 | 2h 26m |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
@@ -77,14 +77,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `gurobi` | 25 | 14 | 24 | 137 | 200 |
-| `exact` | 26 | 11 | 13 | 56 | 106 |
+| `exact` | 27 | 11 | 14 | 87 | 139 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `gurobi` | 113 | 0 | 87 | 200 |
-| `exact` | 62 | 0 | 44 | 106 |
+| `exact` | 63 | 0 | 76 | 139 |
 
 ---
 
