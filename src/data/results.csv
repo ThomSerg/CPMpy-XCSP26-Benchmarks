@@ -1713,7 +1713,11 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0067_c25.xml.lzma,SAT,32.79618995310739,,true,,FEASIBLE,z3_LotteryDesign-32-6-6-2-0067_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,48.469487357884645,,true,,FEASIBLE,z3_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,49.07514056703076,,true,,FEASIBLE,z3_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0207_c25.xml.lzma,UNKNOWN,600.0695585410576,,true,,UNKNOWN,z3_LotteryDesign-32-6-6-2-0207_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,601.1726945429109,,,walltime,,z3_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,601.1179950588848,,,walltime,,z3_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,317.245910477126,,,memory,,z3_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,486.13624825002626,,,memory,,z3_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,384.9614870788064,,,memory,,z3_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0300_c25.xml.lzma,UNSAT,208.52522148983553,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0600_c25.xml.lzma,UNSAT,377.9122663058806,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
