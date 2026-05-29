@@ -1749,6 +1749,14 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,RamseyPartition-
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,Rostering-00-14-20_c25.xml.lzma,UNKNOWN,600.7617584629916,,true,,UNKNOWN,z3_Rostering-00-14-20_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,Rostering-00-14-25_c25.xml.lzma,UNKNOWN,601.1623202390037,,true,walltime,UNKNOWN,z3_Rostering-00-14-25_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,Rostering-00-14-30_c25.xml.lzma,UNKNOWN,601.1709533999674,,true,walltime,UNKNOWN,z3_Rostering-00-14-30_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,Rostering-00-14-35_c25.xml.lzma,UNKNOWN,491.1705749358516,,,memory,,z3_Rostering-00-14-35_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,Rostering-00-14-40_c25.xml.lzma,UNKNOWN,601.5829540831037,,,walltime,,z3_Rostering-00-14-40_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,Rostering-25-22-20_c25.xml.lzma,UNKNOWN,601.0567970799748,,true,walltime,UNKNOWN,z3_Rostering-25-22-20_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,Rostering-25-22-25_c25.xml.lzma,UNKNOWN,601.2248983730096,,true,walltime,UNKNOWN,z3_Rostering-25-22-25_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,Rostering-25-22-30_c25.xml.lzma,UNKNOWN,601.2888748070691,,true,walltime,UNKNOWN,z3_Rostering-25-22-30_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,Rostering-25-22-35_c25.xml.lzma,UNKNOWN,601.3706812430173,,,walltime,,z3_Rostering-25-22-35_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,Rostering-25-22-40_c25.xml.lzma,UNKNOWN,601.334007171914,,,walltime,,z3_Rostering-25-22-40_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,Rostering-25-28-35_c25.xml.lzma,UNKNOWN,540.6973443480674,,,memory,,z3_Rostering-25-28-35_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,1.793329861946404,,,exitcode:1,,z3_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.0877686659805477,,,exitcode:1,,z3_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,1.9031205379869789,,,exitcode:1,,z3_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
@@ -1763,6 +1771,7 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,RotatingRosterin
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,RotatingRostering-088-2-4-c25.xml.lzma,UNKNOWN,2.682273643091321,,,exitcode:1,,z3_RotatingRostering-088-2-4-c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.2952829538844526,,,exitcode:1,,z3_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,2.9969562240876257,,,exitcode:1,,z3_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,SEDF-19-1-C19-3-3-1_c25.xml.lzma,SAT,175.0706434699241,,true,,FEASIBLE,z3_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,4.125553109915927,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,599.1639265969861,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,3.7984252620954067,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
