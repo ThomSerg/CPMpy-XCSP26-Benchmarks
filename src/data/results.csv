@@ -1599,7 +1599,15 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,TilingRythm
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,600.3379484689794,,true,,UNKNOWN,pumpkin_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,601.4714146689512,,true,walltime,UNKNOWN,pumpkin_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,600.3747042538598,,true,,UNKNOWN,pumpkin_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,Accordion-11-01_c25.xml.lzma,SAT,65.08629901986569,,true,,FEASIBLE,z3_Accordion-11-01_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,AlmostMagic-03-030_c25.xml.lzma,UNSAT,201.2189286230132,,true,,UNSATISFIABLE,z3_AlmostMagic-03-030_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,AlmostMagic-03-040_c25.xml.lzma,SAT,59.69123411201872,,true,,FEASIBLE,z3_AlmostMagic-03-040_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,AlmostMagic-03-070_c25.xml.lzma,SAT,2.6688492328394204,,true,,FEASIBLE,z3_AlmostMagic-03-070_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,ChainReaction-60-085_c25.xml.lzma,UNKNOWN,20.434112499002367,,true,,UNKNOWN,z3_ChainReaction-60-085_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,ChainReaction-60-090_c25.xml.lzma,UNKNOWN,15.011443149996921,,true,,UNKNOWN,z3_ChainReaction-60-090_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,ChainReaction-70-095_c25.xml.lzma,UNKNOWN,23.612486800877377,,true,,UNKNOWN,z3_ChainReaction-70-095_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,ChainReaction-70-100_c25.xml.lzma,UNKNOWN,17.41963900416158,,true,,UNKNOWN,z3_ChainReaction-70-100_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,CrazyFrog-10_c25.xml.lzma,UNKNOWN,184.7202483350411,,,memory,,z3_CrazyFrog-10_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,4.125553109915927,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,599.1639265969861,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,3.7984252620954067,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
