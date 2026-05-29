@@ -7,7 +7,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
 | 1 | **Some transformation improvements - rerun** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-29 00:03:40 | 68/400 |
-| 2 | **Table with MDD decomp** 🔄 | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | 2026-05-29 04:08:28 | 381/1546 |
+| 2 | **Table with MDD decomp** 🔄 | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | 2026-05-29 04:08:28 | 381/1580 |
 | 3 | **Some transformation improvements** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 15:47:34 | 435/1800 |
 | 4 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
 | 5 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
@@ -60,7 +60,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3ed0f343 — Table global from master used 
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 02:47:59 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 00:49:28 | — |
 | `z3` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 03:28:24 | — |
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 155/200 | 2026-05-29 04:08:48 | 20m 06s |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 181/200 | 2026-05-29 04:08:48 | 23m 10s |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 02:25:22 | — |
 | `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 01:54:26 | — |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -83,7 +83,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3ed0f343 — Table global from master used 
 | `cpo` | 63 | 9 | 10 | 118 | 200 |
 | `pumpkin` | 36 | 5 | 28 | 131 | 200 |
 | `exact` | 27 | 11 | 52 | 110 | 200 |
-| `gurobi` | 24 | 14 | 8 | 109 | 155 |
+| `gurobi` | 24 | 14 | 16 | 127 | 181 |
 | `z3` | 25 | 13 | 14 | 148 | 200 |
 | `pindakaas` | 17 | 13 | 7 | 163 | 200 |
 | `highs` | 13 | 10 | 34 | 143 | 200 |
@@ -96,7 +96,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3ed0f343 — Table global from master used 
 | `cpo` | 173 | 0 | 27 | 200 |
 | `pumpkin` | 168 | 0 | 32 | 200 |
 | `exact` | 76 | 0 | 124 | 200 |
-| `gurobi` | 81 | 0 | 74 | 155 |
+| `gurobi` | 93 | 0 | 88 | 181 |
 | `z3` | 166 | 0 | 34 | 200 |
 | `pindakaas` | 73 | 0 | 127 | 200 |
 | `highs` | 93 | 0 | 107 | 200 |
