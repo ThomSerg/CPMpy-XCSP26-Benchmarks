@@ -175,7 +175,10 @@ Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,RotatingRosterin
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,RotatingRostering-088-2-4-c25.xml.lzma,UNKNOWN,3.22803056309931,,,exitcode:1,,gurobi_RotatingRostering-088-2-4-c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.6634014670271426,,,exitcode:1,,gurobi_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.717763736844063,,,exitcode:1,,gurobi_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-19-1-C19-3-3-1_c25.xml.lzma,UNKNOWN,599.2913742191158,,true,,UNKNOWN,gurobi_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNKNOWN,600.8896864028648,,true,,UNKNOWN,gurobi_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNKNOWN,600.3805335999932,,true,,UNKNOWN,gurobi_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,601.2669177309144,,true,walltime,UNKNOWN,gurobi_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-16_c25.xml.lzma,UNKNOWN,3.9191843529697508,,,exitcode:1,,gurobi_TilingRythmicCanons1-16_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-17_c25.xml.lzma,UNKNOWN,2.552011640043929,,,exitcode:1,,gurobi_TilingRythmicCanons1-17_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-18_c25.xml.lzma,UNKNOWN,3.0847004409879446,,,exitcode:1,,gurobi_TilingRythmicCanons1-18_c25.xml.txt.metadata.json

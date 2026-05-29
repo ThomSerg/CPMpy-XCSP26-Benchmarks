@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Positive MDD decomp** 🔄 | XCSP3-2025-CSP25 | `85556f00 — Positive MDD test` | 2026-05-29 09:27:01 | — | 40/190 |
+| 1 | **Positive MDD decomp** 🔄 | XCSP3-2025-CSP25 | `85556f00 — Positive MDD test` | 2026-05-29 09:27:01 | — | 40/194 |
 | 2 | **Some transformation improvements - rerun** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-29 00:03:40 | 68/400 |
 | 3 | **Table with MDD decomp** | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | 2026-05-29 05:10:05 | 397/1800 |
 | 4 | **Some transformation improvements** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 15:47:34 | 435/1800 |
@@ -26,7 +26,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `85556f00 — Positive MDD test` · Created:
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 191/200 | 2026-05-29 09:27:28 | 26m 43s |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 194/200 | 2026-05-29 09:27:28 | 28m 48s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -42,13 +42,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `85556f00 — Positive MDD test` · Created:
 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
-| `gurobi` | 25 | 15 | 18 | 133 | 191 |
+| `gurobi` | 25 | 15 | 19 | 135 | 194 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `gurobi` | 104 | 0 | 87 | 191 |
+| `gurobi` | 107 | 0 | 87 | 194 |
 
 ---
 
