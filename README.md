@@ -28,7 +28,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `632d2f6e — Merge remote-tracking branch '
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 200/200 | — | — |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 200/200 | 2026-05-29 14:41:24 | 2m 38s |
 | `exact` | XCSP3-2025-CSP25 | 🔄 running | 37/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
@@ -66,7 +66,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 13:05:01 | — |
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 32/200 | 2026-05-29 13:53:45 | 47m 23s |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 32/200 | 2026-05-29 13:53:45 | 50m 17s |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
