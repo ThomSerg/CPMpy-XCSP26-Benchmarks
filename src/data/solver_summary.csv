@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,gurobi,25,14,0,127,166,84,0,82
+NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,gurobi,25,14,0,142,181,94,0,87
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,25,15,0,160,200,113,0,87
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs,21,10,0,169,200,106,0,94
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,24,13,0,163,200,163,0,37
