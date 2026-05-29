@@ -975,7 +975,14 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,RotatingRost
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,RotatingRostering-088-2-4-c25.xml.lzma,UNKNOWN,3.600831586867571,,,exitcode:1,,gurobi_RotatingRostering-088-2-4-c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.9391962729860097,,,exitcode:1,,gurobi_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.6475313641130924,,,exitcode:1,,gurobi_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-19-1-C19-3-3-1_c25.xml.lzma,UNKNOWN,599.5307228991296,,true,,UNKNOWN,gurobi_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNKNOWN,600.4781527300365,,true,,UNKNOWN,gurobi_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNKNOWN,601.1800036069471,,true,walltime,UNKNOWN,gurobi_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,601.3011186139192,,,walltime,,gurobi_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-25-2-C5xC5-7-2-1_c25.xml.lzma,UNKNOWN,601.2171717539895,,true,walltime,UNKNOWN,gurobi_SEDF-25-2-C5xC5-7-2-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-28-1-C7C4-4-3-1_c25.xml.lzma,UNKNOWN,601.2470197430812,,true,walltime,UNKNOWN,gurobi_SEDF-28-1-C7C4-4-3-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,601.2840071590617,,true,walltime,UNKNOWN,gurobi_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-28-4-C14xC2-4-3-1_c25.xml.lzma,UNKNOWN,600.9926339460071,,true,,UNKNOWN,gurobi_SEDF-28-4-C14xC2-4-3-1_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-16_c25.xml.lzma,UNKNOWN,3.5672543388791382,,,exitcode:1,,gurobi_TilingRythmicCanons1-16_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-17_c25.xml.lzma,UNKNOWN,3.862429709173739,,,exitcode:1,,gurobi_TilingRythmicCanons1-17_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-18_c25.xml.lzma,UNKNOWN,3.724085931899026,,,exitcode:1,,gurobi_TilingRythmicCanons1-18_c25.xml.txt.metadata.json
