@@ -6,7 +6,8 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,27,11,0,162,2
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,13,10,0,177,200,93,0,107
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,76,25,0,99,200,174,0,26
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,17,13,0,170,200,73,0,127
-Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,36,5,0,151,192,160,0,32
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,36,5,0,159,200,168,0,32
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,0,0,0,1,1,1,0,0
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,62,8,0,130,200,173,0,27
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,37,13,0,150,200,87,0,113
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,gurobi,34,14,0,152,200,151,0,49
