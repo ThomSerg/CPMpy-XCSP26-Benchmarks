@@ -1291,6 +1291,9 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Heterosqu
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Heterosquare-fair-10_c25.xml.lzma,UNKNOWN,599.0690211090259,,true,,UNKNOWN,pindakaas_Heterosquare-fair-10_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Heterosquare-fair-15_c25.xml.lzma,UNKNOWN,601.2434382811189,,,walltime,,pindakaas_Heterosquare-fair-15_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Heterosquare-fair-20_c25.xml.lzma,UNKNOWN,124.81388715701178,,,memory,,pindakaas_Heterosquare-fair-20_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Heterosquare-hard-05_c25.xml.lzma,UNKNOWN,598.7216967591085,,true,,UNKNOWN,pindakaas_Heterosquare-hard-05_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Heterosquare-hard-10_c25.xml.lzma,UNKNOWN,598.9233945610467,,true,,UNKNOWN,pindakaas_Heterosquare-hard-10_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Heterosquare-hard-15_c25.xml.lzma,UNKNOWN,601.1349214590155,,true,walltime,UNKNOWN,pindakaas_Heterosquare-hard-15_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Heterosquare-hard-20_c25.xml.lzma,UNKNOWN,113.15127195022069,,,memory,,pindakaas_Heterosquare-hard-20_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LangfordBin-010_c25.xml.lzma,UNSAT,318.594602053985,,true,,UNSATISFIABLE,pindakaas_LangfordBin-010_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LangfordBin-039_c25.xml.lzma,UNKNOWN,50.66345051093958,,,memory,,pindakaas_LangfordBin-039_c25.xml.txt.metadata.json
@@ -1300,6 +1303,7 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LangfordB
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LangfordBin-079_c25.xml.lzma,UNKNOWN,214.93646940402687,,,memory,,pindakaas_LangfordBin-079_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LangfordBin-080_c25.xml.lzma,UNKNOWN,275.2831460770685,,,memory,,pindakaas_LangfordBin-080_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LangfordBin-120_c25.xml.lzma,UNKNOWN,187.97599899303168,,,memory,,pindakaas_LangfordBin-120_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LangfordBin-240_c25.xml.lzma,UNKNOWN,537.4792454869021,,,memory,,pindakaas_LangfordBin-240_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,11.980481893057004,,true,,FEASIBLE,pindakaas_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,32.0830063810572,,true,,FEASIBLE,pindakaas_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,371.1003104140982,,true,,FEASIBLE,pindakaas_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
@@ -1308,6 +1312,7 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LotteryDe
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,UNKNOWN,77.14032623707317,,,memory,,pindakaas_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0207_c25.xml.lzma,UNKNOWN,177.92765960888937,,,memory,,pindakaas_LotteryDesign-32-6-6-2-0207_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,278.8795886640437,,,memory,,pindakaas_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,312.5893141969573,,,memory,,pindakaas_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,283.98169645294547,,,memory,,pindakaas_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,PegSolitaireTable-english-0-2-0_c25.xml.lzma,UNKNOWN,2.5092592630535364,,,exitcode:1,,pindakaas_PegSolitaireTable-english-0-2-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,PegSolitaireTable-english-0-3-0_c25.xml.lzma,UNKNOWN,2.475864456035197,,,exitcode:1,,pindakaas_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
@@ -1326,6 +1331,7 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,RamseyPar
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,8.644209093181416,,true,,FEASIBLE,pindakaas_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,RamseyPartition-equ-4-0064_c25.xml.lzma,SAT,25.201591350138187,,true,,FEASIBLE,pindakaas_RamseyPartition-equ-4-0064_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,RamseyPartition-equ-5-0130_c25.xml.lzma,SAT,42.23495900910348,,true,,FEASIBLE,pindakaas_RamseyPartition-equ-5-0130_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,RamseyPartition-equ-5-0140_c25.xml.lzma,SAT,329.67438568384387,,true,,FEASIBLE,pindakaas_RamseyPartition-equ-5-0140_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Rostering-00-14-20_c25.xml.lzma,UNKNOWN,2.3421077369712293,,,exitcode:1,,pindakaas_Rostering-00-14-20_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Rostering-00-14-25_c25.xml.lzma,UNKNOWN,2.4172053798101842,,,exitcode:1,,pindakaas_Rostering-00-14-25_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,Rostering-00-14-30_c25.xml.lzma,UNKNOWN,2.540286811068654,,,exitcode:1,,pindakaas_Rostering-00-14-30_c25.xml.txt.metadata.json
@@ -1364,6 +1370,7 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,SEDF-28-1
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,SEDF-28-2-C28-4-3-1_c25.xml.lzma,UNKNOWN,101.94895669212565,,,memory,,pindakaas_SEDF-28-2-C28-4-3-1_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,112.59524078504182,,,memory,,pindakaas_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,SEDF-28-4-C14xC2-4-3-1_c25.xml.lzma,UNKNOWN,106.27876567910425,,,memory,,pindakaas_SEDF-28-4-C14xC2-4-3-1_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,205.45350538985804,,,memory,,pindakaas_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,TilingRythmicCanons1-16_c25.xml.lzma,UNKNOWN,3.191863700048998,,,exitcode:1,,pindakaas_TilingRythmicCanons1-16_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,TilingRythmicCanons1-17_c25.xml.lzma,UNKNOWN,2.9653673390857875,,,exitcode:1,,pindakaas_TilingRythmicCanons1-17_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,TilingRythmicCanons1-18_c25.xml.lzma,UNKNOWN,2.6119830107782036,,,exitcode:1,,pindakaas_TilingRythmicCanons1-18_c25.xml.txt.metadata.json
