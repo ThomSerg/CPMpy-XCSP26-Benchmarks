@@ -811,8 +811,10 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-15
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-16-01_c25.xml.lzma,UNKNOWN,3.5759731670841575,,,exitcode:1,,gurobi_Accordion-16-01_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-16-04_c25.xml.lzma,UNKNOWN,3.3185240279417485,,,exitcode:1,,gurobi_Accordion-16-04_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-16-05_c25.xml.lzma,UNKNOWN,3.056215433869511,,,exitcode:1,,gurobi_Accordion-16-05_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-03-030_c25.xml.lzma,UNSAT,216.39799794601277,,true,,UNSATISFIABLE,gurobi_AlmostMagic-03-030_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-03-040_c25.xml.lzma,SAT,38.78427584795281,,true,,FEASIBLE,gurobi_AlmostMagic-03-040_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-03-070_c25.xml.lzma,SAT,14.517563491826877,,true,,FEASIBLE,gurobi_AlmostMagic-03-070_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-04-050_c25.xml.lzma,SAT,236.0437658750452,,true,,FEASIBLE,gurobi_AlmostMagic-04-050_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-04-080_c25.xml.lzma,SAT,10.273795101093128,,true,,FEASIBLE,gurobi_AlmostMagic-04-080_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-05-070_c25.xml.lzma,SAT,72.3367573840078,,true,,FEASIBLE,gurobi_AlmostMagic-05-070_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-06-100_c25.xml.lzma,SAT,37.030436979141086,,true,,FEASIBLE,gurobi_AlmostMagic-06-100_c25.xml.txt.metadata.json
@@ -821,8 +823,13 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-09-200_c25.xml.lzma,UNSAT,8.673113216878846,,true,,UNSATISFIABLE,gurobi_AlmostMagic-09-200_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-10-250_c25.xml.lzma,UNSAT,15.696577698923647,,true,,UNSATISFIABLE,gurobi_AlmostMagic-10-250_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,ChainReaction-20-025_c25.xml.lzma,SAT,23.091513199964538,,true,,FEASIBLE,gurobi_ChainReaction-20-025_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,261.93504093308,,,memory,,gurobi_CrazyFrog-table-07_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,225.45236608805135,,,memory,,gurobi_CrazyFrog-table-08_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,159.57738245790824,,,memory,,gurobi_CrazyFrog-table-09_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,121.71415865491144,,,memory,,gurobi_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,29.343442138051614,,true,,UNSATISFIABLE,gurobi_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,Cryptanalysis-3-05-128_c25.xml.lzma,SAT,11.310348542872816,,true,,FEASIBLE,gurobi_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,Cryptanalysis-4-09-128_c25.xml.lzma,UNSAT,226.93406713404693,,true,,UNSATISFIABLE,gurobi_Cryptanalysis-4-09-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,Accordion-11-01_c25.xml.lzma,UNKNOWN,2.598365660989657,,,exitcode:1,,highs_Accordion-11-01_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,Accordion-11-03_c25.xml.lzma,UNKNOWN,1.95406756689772,,,exitcode:1,,highs_Accordion-11-03_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,Accordion-12-01_c25.xml.lzma,UNKNOWN,2.310162641108036,,,exitcode:1,,highs_Accordion-12-01_c25.xml.txt.metadata.json
