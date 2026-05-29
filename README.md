@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Order encoding for inequalities** 🔄 | XCSP3-2025-CSP25 | `632d2f6e — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 13:59:57 | 2026-05-29 15:03:21 | 60/237 |
+| 1 | **Order encoding for inequalities** 🔄 | XCSP3-2025-CSP25 | `632d2f6e — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 13:59:57 | 2026-05-29 15:03:21 | 61/238 |
 | 2 | **NoOverlap via Cumulative linear decomp** 🔄 | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 13:35:25 | 57/232 |
 | 3 | **Positive MDD decomp** | XCSP3-2025-CSP25 | `85556f00 — Positive MDD test` | 2026-05-29 09:27:01 | 2026-05-29 09:57:51 | 40/200 |
 | 4 | **Some transformation improvements - rerun** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-29 00:03:40 | 68/400 |
@@ -29,7 +29,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `632d2f6e — Merge remote-tracking branch '
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 37/200 | 2026-05-29 15:22:48 | 2m 14s |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 38/200 | 2026-05-29 15:22:48 | 4m 35s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -46,14 +46,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `632d2f6e — Merge remote-tracking branch '
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `gurobi` | 25 | 14 | 25 | 136 | 200 |
-| `exact` | 14 | 7 | 0 | 16 | 37 |
+| `exact` | 15 | 7 | 0 | 16 | 38 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `gurobi` | 108 | 0 | 92 | 200 |
-| `exact` | 21 | 0 | 16 | 37 |
+| `exact` | 22 | 0 | 16 | 38 |
 
 ---
 
@@ -66,7 +66,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 13:05:01 | — |
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 32/200 | 2026-05-29 13:53:45 | 1h 31m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 32/200 | 2026-05-29 13:53:45 | 1h 33m |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
