@@ -814,12 +814,16 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,Accordion-16-
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,AlmostMagic-03-070_c25.xml.lzma,SAT,16.617585774045438,,true,,FEASIBLE,highs_AlmostMagic-03-070_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,AlmostMagic-04-050_c25.xml.lzma,SAT,175.24817070178688,,true,,FEASIBLE,highs_AlmostMagic-04-050_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,AlmostMagic-04-080_c25.xml.lzma,SAT,16.711047624936327,,true,,FEASIBLE,highs_AlmostMagic-04-080_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,AlmostMagic-06-100_c25.xml.lzma,SAT,301.56519384891726,,true,,FEASIBLE,highs_AlmostMagic-06-100_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,AlmostMagic-07-130_c25.xml.lzma,UNSAT,10.05491698300466,,true,,UNSATISFIABLE,highs_AlmostMagic-07-130_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,AlmostMagic-08-160_c25.xml.lzma,UNSAT,35.653519517043605,,true,,UNSATISFIABLE,highs_AlmostMagic-08-160_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,AlmostMagic-09-200_c25.xml.lzma,UNSAT,64.7564761408139,,true,,UNSATISFIABLE,highs_AlmostMagic-09-200_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,AlmostMagic-10-250_c25.xml.lzma,UNSAT,120.73585760686547,,true,,UNSATISFIABLE,highs_AlmostMagic-10-250_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,ChainReaction-20-025_c25.xml.lzma,SAT,64.39066546806134,,true,,FEASIBLE,highs_ChainReaction-20-025_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,CrazyFrog-07_c25.xml.lzma,UNKNOWN,301.81615831004456,,,memory,,highs_CrazyFrog-07_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,CrazyFrog-08_c25.xml.lzma,UNKNOWN,341.2721337340772,,,memory,,highs_CrazyFrog-08_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,CrazyFrog-09_c25.xml.lzma,UNKNOWN,222.16962532512844,,,memory,,highs_CrazyFrog-09_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,CrazyFrog-10_c25.xml.lzma,UNKNOWN,256.15603818092495,,,memory,,highs_CrazyFrog-10_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,175.50824459595606,,,memory,,highs_CrazyFrog-table-07_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,209.70519761391915,,,memory,,highs_CrazyFrog-table-08_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,125.68791473284364,,,memory,,highs_CrazyFrog-table-09_c25.xml.txt.metadata.json
