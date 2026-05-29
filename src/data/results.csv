@@ -179,6 +179,12 @@ Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-19-1-C19-3-
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNKNOWN,600.8896864028648,,true,,UNKNOWN,gurobi_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNKNOWN,600.3805335999932,,true,,UNKNOWN,gurobi_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,601.2669177309144,,true,walltime,UNKNOWN,gurobi_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-25-2-C5xC5-7-2-1_c25.xml.lzma,UNKNOWN,601.2131468001753,,true,walltime,UNKNOWN,gurobi_SEDF-25-2-C5xC5-7-2-1_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-28-1-C7C4-4-3-1_c25.xml.lzma,UNKNOWN,600.6466586010065,,true,,UNKNOWN,gurobi_SEDF-28-1-C7C4-4-3-1_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-28-2-C28-4-3-1_c25.xml.lzma,UNKNOWN,600.510409652954,,true,,UNKNOWN,gurobi_SEDF-28-2-C28-4-3-1_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,600.8628227300942,,true,,UNKNOWN,gurobi_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-28-4-C14xC2-4-3-1_c25.xml.lzma,UNKNOWN,600.8393043680117,,true,,UNKNOWN,gurobi_SEDF-28-4-C14xC2-4-3-1_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,601.347216160968,,true,walltime,UNKNOWN,gurobi_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-16_c25.xml.lzma,UNKNOWN,3.9191843529697508,,,exitcode:1,,gurobi_TilingRythmicCanons1-16_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-17_c25.xml.lzma,UNKNOWN,2.552011640043929,,,exitcode:1,,gurobi_TilingRythmicCanons1-17_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-18_c25.xml.lzma,UNKNOWN,3.0847004409879446,,,exitcode:1,,gurobi_TilingRythmicCanons1-18_c25.xml.txt.metadata.json
