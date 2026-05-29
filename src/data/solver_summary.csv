@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,exact,39,13,0,123,175,82,0,93
+Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,exact,39,13,0,128,180,82,0,98
 Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,gurobi,38,16,0,146,200,146,0,54
 Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,ortools,82,27,0,91,200,174,0,26
 Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,scip,18,12,0,170,200,94,0,106
