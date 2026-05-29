@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Order_encoding_for_inequalities,Order encoding for inequalities,2026-05-29T13:59:57,2026-05-29T15:03:21,632d2f6e — Merge remote-tracking branch 'origin/master' into xcsp3_26,true,XCSP3-2025-CSP25,77,381,600.0
+1,Order_encoding_for_inequalities,Order encoding for inequalities,2026-05-29T13:59:57,2026-05-29T15:03:21,632d2f6e — Merge remote-tracking branch 'origin/master' into xcsp3_26,true,XCSP3-2025-CSP25,78,392,600.0
 2,NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,2026-05-29T10:57:41,2026-05-29T13:35:25,4566ba81 — Test: linear decomp nooverlap via cumulative,true,XCSP3-2025-CSP25,57,232,600.0
 3,Positive_MDD_decomp,Positive MDD decomp,2026-05-29T09:27:01,2026-05-29T09:57:51,85556f00 — Positive MDD test,false,XCSP3-2025-CSP25,40,200,600.0
 4,Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,2026-05-28T16:55:01,2026-05-29T00:03:40,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,68,400,600.0
