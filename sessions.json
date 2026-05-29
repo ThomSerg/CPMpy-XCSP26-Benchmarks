@@ -71,6 +71,13 @@
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-05-29T10:57:41",
       "last_run_at": "2026-05-29T13:35:25"
+    },
+    {
+      "name": "Order encoding for inequalities",
+      "slug": "Order_encoding_for_inequalities",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-05-29T13:59:57",
+      "last_run_at": null
     }
   ]
 }
