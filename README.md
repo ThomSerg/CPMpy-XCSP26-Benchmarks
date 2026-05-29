@@ -27,7 +27,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap 
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 200/200 | 2026-05-29 13:05:01 | 17m 30s |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 200/200 | 2026-05-29 13:05:01 | 21m 48s |
 | `exact` | XCSP3-2025-CSP25 | 🔄 running | 23/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
@@ -44,7 +44,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap 
 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
-| `gurobi` | 25 | 14 | 23 | 138 | 200 |
+| `gurobi` | 25 | 14 | 24 | 137 | 200 |
 | `exact` | 7 | 4 | 0 | 12 | 23 |
 
 #### Solution Checker
