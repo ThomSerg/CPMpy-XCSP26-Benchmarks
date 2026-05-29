@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Some transformation improvements - long** 🔄 | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 18:48:40 | 2026-05-29 19:58:03 | 163/396 |
+| 1 | **Some transformation improvements - long** 🔄 | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 18:48:40 | 2026-05-29 21:40:57 | 170/407 |
 | 2 | **Order encoding for inequalities** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-29 13:59:57 | 2026-05-29 18:03:17 | 98/600 |
 | 3 | **NoOverlap via Cumulative linear decomp** | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 17:22:33 | 96/600 |
 | 4 | **Positive MDD decomp** | XCSP3-2025-CSP25 | `85556f00 — Positive MDD test` | 2026-05-29 09:27:01 | 2026-05-29 09:57:51 | 40/200 |
@@ -23,16 +23,16 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ## Some transformation improvements - long _(running)_
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` · Created: 2026-05-29 18:48:40 · Last run: 2026-05-29 19:58:03_
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` · Created: 2026-05-29 18:48:40 · Last run: 2026-05-29 21:40:57_
 
 ### Live Progress
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 18:49:55 | — |
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 196/200 | 2026-05-29 19:58:24 | 1h 41m |
+| `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 19:58:24 | — |
+| `scip` | XCSP3-2025-CSP25 | 🔄 running | 7/200 | 2026-05-29 21:41:19 | 1m 15s |
 | `exact` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
-| `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -49,14 +49,16 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 82 | 27 | 2 | 89 | 200 |
-| `gurobi` | 38 | 16 | 38 | 104 | 196 |
+| `gurobi` | 38 | 16 | 42 | 104 | 200 |
+| `scip` | 3 | 4 | 0 | 0 | 7 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `ortools` | 174 | 0 | 26 | 200 |
-| `gurobi` | 144 | 0 | 52 | 196 |
+| `gurobi` | 146 | 0 | 54 | 200 |
+| `scip` | 7 | 0 | 0 | 7 |
 
 ---
 
