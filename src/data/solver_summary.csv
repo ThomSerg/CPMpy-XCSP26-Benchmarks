@@ -3,7 +3,7 @@ Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,gurobi,25,14,0,161,200,108,0,92
 NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,exact,28,11,0,161,200,79,0,121
 NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,gurobi,25,14,0,161,200,113,0,87
-NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,scip,3,4,0,19,26,7,0,19
+NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,scip,6,4,0,40,50,27,0,23
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,25,15,0,160,200,113,0,87
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs,21,10,0,169,200,106,0,94
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,24,13,0,163,200,163,0,37
