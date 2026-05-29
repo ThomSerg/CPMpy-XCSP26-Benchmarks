@@ -469,8 +469,10 @@ Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,EFPA-5-4-4-08_c25.xml.lzma,UNKNOWN,598.9038945380598,,true,,UNKNOWN,scip_EFPA-5-4-4-08_c25.xml.txt.metadata.json
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,EFPA-5-4-4-09_c25.xml.lzma,UNKNOWN,599.1284243157133,,true,,UNKNOWN,scip_EFPA-5-4-4-09_c25.xml.txt.metadata.json
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,GracefulGraph-05-06_c25.xml.lzma,UNKNOWN,49.43266253918409,,,,,scip_GracefulGraph-05-06_c25.xml.txt.metadata.json
+Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,Heterosquare-easy-25_c25.xml.lzma,UNKNOWN,557.1395754478872,,,memory,,scip_Heterosquare-easy-25_c25.xml.txt.metadata.json
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,Heterosquare-easy-30_c25.xml.lzma,UNKNOWN,200.27557367412373,,,memory,,scip_Heterosquare-easy-30_c25.xml.txt.metadata.json
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,Heterosquare-easy-35_c25.xml.lzma,UNKNOWN,342.16144466400146,,,memory,,scip_Heterosquare-easy-35_c25.xml.txt.metadata.json
+Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,Heterosquare-easy-50_c25.xml.lzma,UNKNOWN,370.6701624649577,,,memory,,scip_Heterosquare-easy-50_c25.xml.txt.metadata.json
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,264.0050765029155,,,memory,,scip_Heterosquare-easy-60_c25.xml.txt.metadata.json
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,Heterosquare-fair-05_c25.xml.lzma,SAT,20.228847274091095,,true,,FEASIBLE,scip_Heterosquare-fair-05_c25.xml.txt.metadata.json
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,Heterosquare-hard-05_c25.xml.lzma,UNSAT,3.0126484651118517,,true,,UNSATISFIABLE,scip_Heterosquare-hard-05_c25.xml.txt.metadata.json
@@ -479,6 +481,7 @@ Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,LangfordBin-016_c25.xml.lzma,SAT,17.039786091074347,,true,,FEASIBLE,scip_LangfordBin-016_c25.xml.txt.metadata.json
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,LangfordBin-039_c25.xml.lzma,UNKNOWN,180.28624515561387,,,,,scip_LangfordBin-039_c25.xml.txt.metadata.json
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,LangfordBin-040_c25.xml.lzma,UNKNOWN,233.34306627279148,,,,,scip_LangfordBin-040_c25.xml.txt.metadata.json
+Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,LangfordBin-240_c25.xml.lzma,UNKNOWN,313.3905848390423,,,memory,,scip_LangfordBin-240_c25.xml.txt.metadata.json
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,3.092520193196833,,true,,FEASIBLE,scip_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,5.602497458923608,,true,,FEASIBLE,scip_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,PegSolitaireTable-english-0-2-0_c25.xml.lzma,UNKNOWN,3.21537592029199,,,exitcode:1,,scip_PegSolitaireTable-english-0-2-0_c25.xml.txt.metadata.json
