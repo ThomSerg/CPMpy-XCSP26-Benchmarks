@@ -1,5 +1,5 @@
 session_slug,session_name,track,solvers
-NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,gurobi
+NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,exact;gurobi
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs;z3
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo;exact;gurobi;highs;ortools;pindakaas;pumpkin;scip;z3
