@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **NoOverlap via Cumulative linear decomp** 🔄 | XCSP3-2025-CSP25 | `24917c34 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | — | 14/29 |
+| 1 | **NoOverlap via Cumulative linear decomp** 🔄 | XCSP3-2025-CSP25 | `24917c34 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | — | 18/36 |
 | 2 | **Positive MDD decomp** | XCSP3-2025-CSP25 | `85556f00 — Positive MDD test` | 2026-05-29 09:27:01 | 2026-05-29 09:57:51 | 40/200 |
 | 3 | **Some transformation improvements - rerun** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-29 00:03:40 | 68/400 |
 | 4 | **Table with MDD decomp** | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | 2026-05-29 05:10:05 | 397/1800 |
@@ -27,7 +27,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `24917c34 — Test: linear decomp nooverlap 
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 30/200 | 2026-05-29 10:58:07 | 4m 22s |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 55/200 | 2026-05-29 10:58:07 | 10m 09s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -43,13 +43,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `24917c34 — Test: linear decomp nooverlap 
 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
-| `gurobi` | 7 | 7 | 0 | 16 | 30 |
+| `gurobi` | 12 | 8 | 3 | 32 | 55 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `gurobi` | 14 | 0 | 16 | 30 |
+| `gurobi` | 35 | 0 | 20 | 55 |
 
 ---
 
