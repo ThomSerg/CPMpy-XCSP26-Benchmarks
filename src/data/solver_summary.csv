@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,ortools,69,24,0,21,114,102,0,12
+Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,ortools,76,24,0,49,149,123,0,26
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,exact,28,11,0,161,200,72,0,128
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,gurobi,25,14,0,161,200,108,0,92
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,10,10,0,180,200,78,0,122
