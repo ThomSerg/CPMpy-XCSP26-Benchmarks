@@ -7,7 +7,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
 | 1 | **Order encoding for inequalities** | XCSP3-2025-CSP25 | `632d2f6e — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 13:59:57 | 2026-05-29 15:53:14 | 78/400 |
-| 2 | **NoOverlap via Cumulative linear decomp** 🔄 | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 16:31:01 | 96/585 |
+| 2 | **NoOverlap via Cumulative linear decomp** | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 17:22:33 | 96/600 |
 | 3 | **Positive MDD decomp** | XCSP3-2025-CSP25 | `85556f00 — Positive MDD test` | 2026-05-29 09:27:01 | 2026-05-29 09:57:51 | 40/200 |
 | 4 | **Some transformation improvements - rerun** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-29 00:03:40 | 68/400 |
 | 5 | **Table with MDD decomp** | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | 2026-05-29 05:10:05 | 397/1800 |
@@ -50,17 +50,9 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `632d2f6e — Merge remote-tracking branch '
 
 ---
 
-## NoOverlap via Cumulative linear decomp _(running)_
+## NoOverlap via Cumulative linear decomp
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap via cumulative` · Created: 2026-05-29 10:57:41 · Last run: 2026-05-29 16:31:01_
-
-### Live Progress
-
-| Solver | Track | Status | Progress | Started | Elapsed |
-|--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 13:53:45 | — |
-| `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 13:05:01 | — |
-| `scip` | XCSP3-2025-CSP25 | 🔄 running | 190/200 | 2026-05-29 16:51:39 | 30m 07s |
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap via cumulative` · Created: 2026-05-29 10:57:41 · Last run: 2026-05-29 17:22:33_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -78,7 +70,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap 
 |--------|-----|-------|---------|---------|-------|
 | `exact` | 28 | 11 | 46 | 115 | 200 |
 | `gurobi` | 25 | 14 | 24 | 137 | 200 |
-| `scip` | 10 | 8 | 34 | 138 | 190 |
+| `scip` | 10 | 8 | 42 | 140 | 200 |
 
 #### Solution Checker
 
@@ -86,7 +78,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap 
 |--------|-------|---------|---------|-------|
 | `exact` | 79 | 0 | 121 | 200 |
 | `gurobi` | 113 | 0 | 87 | 200 |
-| `scip` | 77 | 0 | 113 | 190 |
+| `scip` | 79 | 0 | 121 | 200 |
 
 ---
 
