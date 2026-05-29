@@ -63,8 +63,17 @@ Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,EFPA-3-7-7-07_c2
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,EFPA-3-8-8-07_c25.xml.lzma,UNKNOWN,598.8057634579018,,true,,UNKNOWN,gurobi_EFPA-3-8-8-07_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,EFPA-3-8-8-08_c25.xml.lzma,UNKNOWN,598.9579675151035,,true,,UNKNOWN,gurobi_EFPA-3-8-8-08_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,EFPA-4-4-5-10_c25.xml.lzma,UNKNOWN,598.802318082191,,true,,UNKNOWN,gurobi_EFPA-4-4-5-10_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,EFPA-4-4-5-11_c25.xml.lzma,UNKNOWN,598.810685882112,,true,,UNKNOWN,gurobi_EFPA-4-4-5-11_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,EFPA-4-5-4-10_c25.xml.lzma,UNKNOWN,598.9405821571127,,true,,UNKNOWN,gurobi_EFPA-4-5-4-10_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,EFPA-4-5-4-11_c25.xml.lzma,UNKNOWN,599.0034905378707,,true,,UNKNOWN,gurobi_EFPA-4-5-4-11_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,EFPA-5-4-4-08_c25.xml.lzma,UNKNOWN,598.919204015052,,true,,UNKNOWN,gurobi_EFPA-5-4-4-08_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,EFPA-5-4-4-09_c25.xml.lzma,UNKNOWN,598.8912802080158,,true,,UNKNOWN,gurobi_EFPA-5-4-4-09_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,EFPA-6-4-4-13_c25.xml.lzma,UNKNOWN,598.9401185580064,,true,,UNKNOWN,gurobi_EFPA-6-4-4-13_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,EFPA-6-4-4-14_c25.xml.lzma,UNKNOWN,599.0517970349174,,true,,UNKNOWN,gurobi_EFPA-6-4-4-14_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,GracefulGraph-03-08_c25.xml.lzma,UNKNOWN,598.9384912489913,,true,,UNKNOWN,gurobi_GracefulGraph-03-08_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,GracefulGraph-03-10_c25.xml.lzma,UNKNOWN,598.826226277044,,true,,UNKNOWN,gurobi_GracefulGraph-03-10_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Heterosquare-easy-20_c25.xml.lzma,SAT,59.35000100801699,,true,,FEASIBLE,gurobi_Heterosquare-easy-20_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,284.86055802414194,,,memory,,gurobi_Heterosquare-easy-60_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-05_c25.xml.lzma,SAT,3.2425699909217656,,true,,FEASIBLE,gurobi_Heterosquare-fair-05_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-10_c25.xml.lzma,SAT,45.67092085303739,,true,,FEASIBLE,gurobi_Heterosquare-fair-10_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Heterosquare-hard-05_c25.xml.lzma,UNSAT,2.4983883760869503,,true,,UNSATISFIABLE,gurobi_Heterosquare-hard-05_c25.xml.txt.metadata.json
@@ -96,6 +105,7 @@ Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,PegSolitaireTabl
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,PegSolitaireTable-english-2-4-0_c25.xml.lzma,UNKNOWN,2.562326746992767,,,exitcode:1,,gurobi_PegSolitaireTable-english-2-4-0_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,PegSolitaireTable-english-2-6-0_c25.xml.lzma,UNKNOWN,2.4822966889478266,,,exitcode:1,,gurobi_PegSolitaireTable-english-2-6-0_c25.xml.txt.metadata.json
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,PegSolitaireTable-english-3-3-0_c25.xml.lzma,UNKNOWN,2.217987150186673,,,exitcode:1,,gurobi_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,20.028518913080916,,true,,UNSATISFIABLE,gurobi_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs,Accordion-11-01_c25.xml.lzma,SAT,119.84279035101645,,true,,FEASIBLE,highs_Accordion-11-01_c25.xml.txt.metadata.json
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8062545601279,,true,,UNKNOWN,highs_Accordion-11-03_c25.xml.txt.metadata.json
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs,Accordion-12-01_c25.xml.lzma,SAT,22.96631365804933,,true,,FEASIBLE,highs_Accordion-12-01_c25.xml.txt.metadata.json

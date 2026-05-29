@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Positive_MDD_decomp,Positive MDD decomp,2026-05-29T09:27:01,,85556f00 — Positive MDD test,true,XCSP3-2025-CSP25,39,97,600.0
+1,Positive_MDD_decomp,Positive MDD decomp,2026-05-29T09:27:01,,85556f00 — Positive MDD test,true,XCSP3-2025-CSP25,40,107,600.0
 2,Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,2026-05-28T16:55:01,2026-05-29T00:03:40,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,68,400,600.0
 3,Table_with_MDD_decomp,Table with MDD decomp,2026-05-28T16:47:14,2026-05-29T05:10:05,3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition),false,XCSP3-2025-CSP25,397,1800,600.0
 4,Some_transformation_improvements,Some transformation improvements,2026-05-28T10:26:53,2026-05-28T15:47:34,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,435,1800,600.0
