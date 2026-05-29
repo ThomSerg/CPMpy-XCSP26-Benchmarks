@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Order encoding for inequalities** 🔄 | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-29 13:59:57 | 2026-05-29 15:53:14 | 84/418 |
+| 1 | **Order encoding for inequalities** 🔄 | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-29 13:59:57 | 2026-05-29 15:53:14 | 87/426 |
 | 2 | **NoOverlap via Cumulative linear decomp** | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 17:22:33 | 96/600 |
 | 3 | **Positive MDD decomp** | XCSP3-2025-CSP25 | `85556f00 — Positive MDD test` | 2026-05-29 09:27:01 | 2026-05-29 09:57:51 | 40/200 |
 | 4 | **Some transformation improvements - rerun** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-29 00:03:40 | 68/400 |
@@ -30,7 +30,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `e3f20354 — Test: Force cumulative time fo
 |--------|-------|--------|----------|---------|---------|
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-29 15:22:48 | — |
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | — | — |
-| `scip` | XCSP3-2025-CSP25 | 🔄 running | 18/200 | 2026-05-29 17:32:31 | 2m 16s |
+| `scip` | XCSP3-2025-CSP25 | 🔄 running | 27/200 | 2026-05-29 17:32:31 | 4m 23s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -48,7 +48,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `e3f20354 — Test: Force cumulative time fo
 |--------|-----|-------|---------|---------|-------|
 | `exact` | 28 | 11 | 51 | 110 | 200 |
 | `gurobi` | 25 | 14 | 25 | 136 | 200 |
-| `scip` | 2 | 4 | 0 | 12 | 18 |
+| `scip` | 6 | 4 | 0 | 17 | 27 |
 
 #### Solution Checker
 
@@ -56,7 +56,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `e3f20354 — Test: Force cumulative time fo
 |--------|-------|---------|---------|-------|
 | `exact` | 72 | 0 | 128 | 200 |
 | `gurobi` | 108 | 0 | 92 | 200 |
-| `scip` | 6 | 0 | 12 | 18 |
+| `scip` | 10 | 0 | 17 | 27 |
 
 ---
 
