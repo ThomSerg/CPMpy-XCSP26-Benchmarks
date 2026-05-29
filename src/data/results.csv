@@ -1,4 +1,29 @@
 session_slug,session_name,track,solver,instance,status,seconds,objective,checker_valid,termination_reason,exit_status,metadata_file
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-11-01_c25.xml.lzma,UNKNOWN,2.3079132868442684,,,exitcode:1,,gurobi_Accordion-11-01_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-11-03_c25.xml.lzma,UNKNOWN,2.5107175859156996,,,exitcode:1,,gurobi_Accordion-11-03_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-12-01_c25.xml.lzma,UNKNOWN,2.934340360807255,,,exitcode:1,,gurobi_Accordion-12-01_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-12-03_c25.xml.lzma,UNKNOWN,2.722955640172586,,,exitcode:1,,gurobi_Accordion-12-03_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-13-02_c25.xml.lzma,UNKNOWN,2.9962980789132416,,,exitcode:1,,gurobi_Accordion-13-02_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-14-03_c25.xml.lzma,UNKNOWN,2.56724872183986,,,exitcode:1,,gurobi_Accordion-14-03_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-14-04_c25.xml.lzma,UNKNOWN,3.506552437087521,,,exitcode:1,,gurobi_Accordion-14-04_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-15-03_c25.xml.lzma,UNKNOWN,2.6744773511309177,,,exitcode:1,,gurobi_Accordion-15-03_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-15-04_c25.xml.lzma,UNKNOWN,3.475486110895872,,,exitcode:1,,gurobi_Accordion-15-04_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-16-01_c25.xml.lzma,UNKNOWN,3.6412739818915725,,,exitcode:1,,gurobi_Accordion-16-01_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-16-04_c25.xml.lzma,UNKNOWN,3.0719607539940625,,,exitcode:1,,gurobi_Accordion-16-04_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Accordion-16-05_c25.xml.lzma,UNKNOWN,3.051415127934888,,,exitcode:1,,gurobi_Accordion-16-05_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-03-040_c25.xml.lzma,SAT,38.85402691899799,,true,,FEASIBLE,gurobi_AlmostMagic-03-040_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-03-070_c25.xml.lzma,SAT,13.770184302004054,,true,,FEASIBLE,gurobi_AlmostMagic-03-070_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-04-080_c25.xml.lzma,SAT,8.613063486060128,,true,,FEASIBLE,gurobi_AlmostMagic-04-080_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-05-070_c25.xml.lzma,SAT,63.393254201160744,,true,,FEASIBLE,gurobi_AlmostMagic-05-070_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-06-100_c25.xml.lzma,SAT,36.78058118396439,,true,,FEASIBLE,gurobi_AlmostMagic-06-100_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-07-130_c25.xml.lzma,UNSAT,5.688520377967507,,true,,UNSATISFIABLE,gurobi_AlmostMagic-07-130_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-08-160_c25.xml.lzma,UNSAT,7.641425051027909,,true,,UNSATISFIABLE,gurobi_AlmostMagic-08-160_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-09-200_c25.xml.lzma,UNSAT,7.616898644948378,,true,,UNSATISFIABLE,gurobi_AlmostMagic-09-200_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,AlmostMagic-10-250_c25.xml.lzma,UNSAT,10.69915458606556,,true,,UNSATISFIABLE,gurobi_AlmostMagic-10-250_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,ChainReaction-20-025_c25.xml.lzma,SAT,26.801761836046353,,true,,FEASIBLE,gurobi_ChainReaction-20-025_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,173.03767423983663,,,memory,,gurobi_CrazyFrog-table-09_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,28.322879523038864,,true,,UNSATISFIABLE,gurobi_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,Cryptanalysis-3-05-128_c25.xml.lzma,SAT,12.617925737984478,,true,,FEASIBLE,gurobi_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs,Accordion-11-01_c25.xml.lzma,SAT,119.84279035101645,,true,,FEASIBLE,highs_Accordion-11-01_c25.xml.txt.metadata.json
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.8062545601279,,true,,UNKNOWN,highs_Accordion-11-03_c25.xml.txt.metadata.json
 Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs,Accordion-12-01_c25.xml.lzma,SAT,22.96631365804933,,true,,FEASIBLE,highs_Accordion-12-01_c25.xml.txt.metadata.json
