@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,gurobi,25,14,0,159,198,111,0,87
+Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,gurobi,25,14,0,161,200,113,0,87
 NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,exact,12,6,0,14,32,18,0,14
 NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,gurobi,25,14,0,161,200,113,0,87
 Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,25,15,0,160,200,113,0,87
