@@ -19,16 +19,9 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ---
 
-## NoOverlap via Cumulative linear decomp _(running)_
+## NoOverlap via Cumulative linear decomp
 
 _Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap via cumulative` · Created: 2026-05-29 10:57:41 · Last run: 2026-05-29 12:55:04_
-
-### Live Progress
-
-| Solver | Track | Status | Progress | Started | Elapsed |
-|--------|-------|--------|----------|---------|---------|
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 200/200 | 2026-05-29 13:05:01 | 28m 06s |
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 23/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -44,14 +37,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap 
 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
-| `gurobi` | 25 | 14 | 23 | 138 | 200 |
+| `gurobi` | 25 | 14 | 24 | 137 | 200 |
 | `exact` | 7 | 4 | 0 | 12 | 23 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `gurobi` | 112 | 0 | 88 | 200 |
+| `gurobi` | 113 | 0 | 87 | 200 |
 | `exact` | 11 | 0 | 12 | 23 |
 
 ---
