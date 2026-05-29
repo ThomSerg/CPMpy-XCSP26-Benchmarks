@@ -915,6 +915,7 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,LotteryDesign
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,UNKNOWN,599.4878679241519,,true,,UNKNOWN,highs_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,LotteryDesign-32-6-6-2-0207_c25.xml.lzma,UNKNOWN,600.9771371898241,,true,,UNKNOWN,highs_LotteryDesign-32-6-6-2-0207_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,601.2074812359642,,,walltime,,highs_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,601.2572773110587,,,walltime,,highs_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,601.336559779942,,,walltime,,highs_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,410.9716337469872,,,memory,,highs_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,370.9379268218763,,,memory,,highs_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
@@ -930,6 +931,7 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,PegSolitaireT
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-2-4-0_c25.xml.lzma,UNKNOWN,2.3199742501601577,,,exitcode:1,,highs_PegSolitaireTable-english-2-4-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-2-6-0_c25.xml.lzma,UNKNOWN,2.4152686989400536,,,exitcode:1,,highs_PegSolitaireTable-english-2-6-0_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,PegSolitaireTable-english-3-3-0_c25.xml.lzma,UNKNOWN,2.29058811115101,,,exitcode:1,,highs_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,RamseyPartition-equ-3-0600_c25.xml.lzma,UNKNOWN,601.1846124171279,,true,walltime,UNKNOWN,highs_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,8.032134260982275,,true,,UNSATISFIABLE,highs_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,Rostering-00-14-20_c25.xml.lzma,UNKNOWN,2.14102964499034,,,exitcode:1,,highs_Rostering-00-14-20_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,Rostering-00-14-25_c25.xml.lzma,UNKNOWN,2.5091859709937125,,,exitcode:1,,highs_Rostering-00-14-25_c25.xml.txt.metadata.json
