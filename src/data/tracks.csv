@@ -1,5 +1,4 @@
 session_slug,session_name,track,solvers
-Some_transformation_improvements_-_long,Some transformation improvements - long,unknown,exact;gurobi;ortools;scip
 Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,exact;gurobi;ortools;scip
 Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,exact;gurobi;scip
 NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,exact;gurobi;scip
