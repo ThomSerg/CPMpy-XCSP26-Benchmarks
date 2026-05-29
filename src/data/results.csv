@@ -1411,11 +1411,17 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Accordion-1
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Accordion-16-01_c25.xml.lzma,SAT,11.595171828987077,,true,,FEASIBLE,pumpkin_Accordion-16-01_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Accordion-16-04_c25.xml.lzma,SAT,3.7784395879134536,,true,,FEASIBLE,pumpkin_Accordion-16-04_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Accordion-16-05_c25.xml.lzma,SAT,3.639875675085932,,true,,FEASIBLE,pumpkin_Accordion-16-05_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,AlmostMagic-03-040_c25.xml.lzma,SAT,125.11071995692328,,true,,FEASIBLE,pumpkin_AlmostMagic-03-040_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,AlmostMagic-03-070_c25.xml.lzma,SAT,3.1347870391327888,,true,,FEASIBLE,pumpkin_AlmostMagic-03-070_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,AlmostMagic-04-050_c25.xml.lzma,SAT,17.62520640506409,,true,,FEASIBLE,pumpkin_AlmostMagic-04-050_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,AlmostMagic-04-080_c25.xml.lzma,SAT,4.106646867934614,,true,,FEASIBLE,pumpkin_AlmostMagic-04-080_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,AlmostMagic-05-070_c25.xml.lzma,SAT,24.14012490515597,,true,,FEASIBLE,pumpkin_AlmostMagic-05-070_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,ChainReaction-20-020_c25.xml.lzma,UNSAT,67.37881611892954,,true,,UNSATISFIABLE,pumpkin_ChainReaction-20-020_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,ChainReaction-20-025_c25.xml.lzma,SAT,14.15716290101409,,true,,FEASIBLE,pumpkin_ChainReaction-20-025_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,ChainReaction-30-040_c25.xml.lzma,SAT,142.05465907999314,,true,,FEASIBLE,pumpkin_ChainReaction-30-040_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,44.35067418986,,,memory,,pumpkin_CrazyFrog-table-07_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,46.900980999926105,,,memory,,pumpkin_CrazyFrog-table-08_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,179.78241563378833,,,memory,,pumpkin_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-3-04-128_c25.xml.lzma,UNKNOWN,5.831956649199128,,,exitcode:1,,pumpkin_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-3-05-128_c25.xml.lzma,UNKNOWN,4.660404755035415,,,exitcode:1,,pumpkin_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-4-09-128_c25.xml.lzma,UNKNOWN,7.891767967958003,,,exitcode:1,,pumpkin_Cryptanalysis-4-09-128_c25.xml.txt.metadata.json
@@ -1424,9 +1430,13 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Cryptanalys
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-5-10-128_c25.xml.lzma,UNKNOWN,8.40167083311826,,,exitcode:1,,pumpkin_Cryptanalysis-5-10-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-5-14-128_c25.xml.lzma,UNKNOWN,12.268648006953299,,,exitcode:1,,pumpkin_Cryptanalysis-5-14-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-5-15-128_c25.xml.lzma,UNKNOWN,11.429126512957737,,,exitcode:1,,pumpkin_Cryptanalysis-5-15-128_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-6-12-128_c25.xml.lzma,UNKNOWN,15.079339640913531,,,exitcode:1,,pumpkin_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-6-16-128_c25.xml.lzma,UNKNOWN,17.268199898069724,,,exitcode:1,,pumpkin_Cryptanalysis-6-16-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,Cryptanalysis-6-17-128_c25.xml.lzma,UNKNOWN,17.899036089191213,,,exitcode:1,,pumpkin_Cryptanalysis-6-17-128_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,EFPA-3-7-7-06_c25.xml.lzma,SAT,5.502823122078553,,true,,FEASIBLE,pumpkin_EFPA-3-7-7-06_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,EFPA-3-8-8-07_c25.xml.lzma,SAT,35.488868220942095,,true,,FEASIBLE,pumpkin_EFPA-3-8-8-07_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,EFPA-4-5-4-10_c25.xml.lzma,SAT,11.2581120650284,,true,,FEASIBLE,pumpkin_EFPA-4-5-4-10_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,EFPA-5-4-4-08_c25.xml.lzma,SAT,26.814895740011707,,true,,FEASIBLE,pumpkin_EFPA-5-4-4-08_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,4.125553109915927,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,599.1639265969861,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,3.7984252620954067,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
