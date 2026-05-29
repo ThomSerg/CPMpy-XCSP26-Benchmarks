@@ -1703,6 +1703,10 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LangfordBin-039_
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LangfordBin-040_c25.xml.lzma,SAT,9.063550029182807,,true,,FEASIBLE,z3_LangfordBin-040_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LangfordBin-059_c25.xml.lzma,UNKNOWN,598.9768569029402,,true,,UNKNOWN,z3_LangfordBin-059_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LangfordBin-060_c25.xml.lzma,UNKNOWN,598.9968670320231,,true,,UNKNOWN,z3_LangfordBin-060_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LangfordBin-079_c25.xml.lzma,UNKNOWN,599.0612435729709,,true,,UNKNOWN,z3_LangfordBin-079_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LangfordBin-080_c25.xml.lzma,UNKNOWN,598.9195651139598,,true,,UNKNOWN,z3_LangfordBin-080_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LangfordBin-120_c25.xml.lzma,UNKNOWN,599.368117443053,,true,,UNKNOWN,z3_LangfordBin-120_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LangfordBin-240_c25.xml.lzma,UNKNOWN,600.3579528110567,,true,,UNKNOWN,z3_LangfordBin-240_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,2.6273681819438934,,true,,FEASIBLE,z3_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,3.05604926799424,,true,,FEASIBLE,z3_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,30.33374081295915,,true,,FEASIBLE,z3_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
@@ -1710,7 +1714,9 @@ Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,48.469487357884645,,true,,FEASIBLE,z3_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,49.07514056703076,,true,,FEASIBLE,z3_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,317.245910477126,,,memory,,z3_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,384.9614870788064,,,memory,,z3_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
 Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0300_c25.xml.lzma,UNSAT,208.52522148983553,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,RamseyPartition-equ-3-0600_c25.xml.lzma,UNSAT,377.9122663058806,,true,,UNSATISFIABLE,z3_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-01_c25.xml.lzma,SAT,4.125553109915927,,true,,FEASIBLE,cpo_Accordion-11-01_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-11-03_c25.xml.lzma,UNKNOWN,599.1639265969861,,true,,UNKNOWN,cpo_Accordion-11-03_c25.xml.txt.metadata.json
 Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,Accordion-12-01_c25.xml.lzma,SAT,3.7984252620954067,,true,,FEASIBLE,cpo_Accordion-12-01_c25.xml.txt.metadata.json
