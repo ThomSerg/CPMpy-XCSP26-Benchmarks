@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,2026-05-31T22:29:41,2026-05-31T23:38:26,e3f20354 — Test: Force cumulative time for linear decompose,true,XCSP3-2025-CSP25,116,227,1800.0
+1,Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,2026-05-31T22:29:41,2026-05-31T23:38:26,e3f20354 — Test: Force cumulative time for linear decompose,true,XCSP3-2025-CSP25,121,234,1800.0
 2,Some_transformation_improvements_-_long,Some transformation improvements - long,2026-05-29T18:48:40,2026-05-30T01:11:34,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,245,800,1800.0
 3,Order_encoding_for_inequalities,Order encoding for inequalities,2026-05-29T13:59:57,2026-05-29T18:03:17,e3f20354 — Test: Force cumulative time for linear decompose,false,XCSP3-2025-CSP25,98,600,600.0
 4,NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,2026-05-29T10:57:41,2026-05-29T17:22:33,4566ba81 — Test: linear decomp nooverlap via cumulative,false,XCSP3-2025-CSP25,96,600,600.0
