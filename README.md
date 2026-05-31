@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Order encoding for inequalities - long** 🔄 | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-31 22:29:41 | 2026-05-31 23:38:26 | 149/367 |
+| 1 | **Order encoding for inequalities - long** 🔄 | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-31 22:29:41 | 2026-05-31 23:38:26 | 149/368 |
 | 2 | **Some transformation improvements - long** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 18:48:40 | 2026-05-30 01:11:34 | 245/800 |
 | 3 | **Order encoding for inequalities** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-29 13:59:57 | 2026-05-29 18:03:17 | 98/600 |
 | 4 | **NoOverlap via Cumulative linear decomp** | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 17:22:33 | 96/600 |
@@ -31,7 +31,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `e3f20354 — Test: Force cumulative time fo
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-31 22:30:09 | — |
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 167/200 | 2026-05-31 23:38:54 | 52m 26s |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 168/200 | 2026-05-31 23:38:54 | 56m 09s |
 | `exact` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
@@ -50,14 +50,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `e3f20354 — Test: Force cumulative time fo
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 78 | 26 | 2 | 94 | 200 |
-| `gurobi` | 29 | 16 | 1 | 121 | 167 |
+| `gurobi` | 29 | 16 | 2 | 121 | 168 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `ortools` | 174 | 0 | 26 | 200 |
-| `gurobi` | 83 | 0 | 84 | 167 |
+| `gurobi` | 84 | 0 | 84 | 168 |
 
 ---
 
