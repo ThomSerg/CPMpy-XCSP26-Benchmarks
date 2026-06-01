@@ -493,6 +493,7 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Heterosquare-fair
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Heterosquare-fair-20_c25.xml.lzma,UNKNOWN,589.2304928777739,,true,,UNKNOWN,ortools_Heterosquare-fair-20_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Heterosquare-hard-05_c25.xml.lzma,UNSAT,2.448321318253875,,true,,UNSATISFIABLE,ortools_Heterosquare-hard-05_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Heterosquare-hard-10_c25.xml.lzma,UNSAT,7.171332261990756,,true,,UNSATISFIABLE,ortools_Heterosquare-hard-10_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Heterosquare-hard-15_c25.xml.lzma,UNKNOWN,598.8508657407947,,true,,UNKNOWN,ortools_Heterosquare-hard-15_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Heterosquare-hard-20_c25.xml.lzma,UNSAT,2.2338859741576016,,true,,UNSATISFIABLE,ortools_Heterosquare-hard-20_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LangfordBin-010_c25.xml.lzma,UNSAT,2.205657389946282,,true,,UNSATISFIABLE,ortools_LangfordBin-010_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LangfordBin-013_c25.xml.lzma,UNSAT,2.276792000979185,,true,,UNSATISFIABLE,ortools_LangfordBin-013_c25.xml.txt.metadata.json
@@ -505,6 +506,7 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LangfordBin-060_c
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LangfordBin-079_c25.xml.lzma,SAT,7.643006165046245,,true,,FEASIBLE,ortools_LangfordBin-079_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LangfordBin-080_c25.xml.lzma,SAT,7.551330734975636,,true,,FEASIBLE,ortools_LangfordBin-080_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LangfordBin-120_c25.xml.lzma,SAT,11.868351442739367,,true,,FEASIBLE,ortools_LangfordBin-120_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LangfordBin-240_c25.xml.lzma,UNKNOWN,599.4903131211177,,true,,UNKNOWN,ortools_LangfordBin-240_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,2.978569872211665,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,4.903892548754811,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,20.134657801128924,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
@@ -517,15 +519,22 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LotteryDesign-32-
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,445.3274228130467,,,memory,,ortools_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,462.79172382177785,,,memory,,ortools_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,384.6530711292289,,,memory,,ortools_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-0-3-0_c25.xml.lzma,UNKNOWN,599.1673851809464,,true,,UNKNOWN,ortools_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-0-4-0_c25.xml.lzma,UNKNOWN,599.2892145202495,,true,,UNKNOWN,ortools_PegSolitaireTable-english-0-4-0_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-2-0_c25.xml.lzma,UNKNOWN,597.7307249950245,,true,,UNKNOWN,ortools_PegSolitaireTable-english-1-2-0_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-4-0_c25.xml.lzma,SAT,34.876141742803156,,true,,FEASIBLE,ortools_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-2-0_c25.xml.lzma,SAT,48.409104782156646,,true,,FEASIBLE,ortools_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-3-3-0_c25.xml.lzma,SAT,26.936291576828808,,true,,FEASIBLE,ortools_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-3-0300_c25.xml.lzma,UNSAT,63.61814140109345,,true,,UNSATISFIABLE,ortools_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-3-1200_c25.xml.lzma,UNKNOWN,363.8111903700046,,,memory,,ortools_RamseyPartition-equ-3-1200_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,135.5147861558944,,true,,FEASIBLE,ortools_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,4.163703600876033,,true,,UNSATISFIABLE,ortools_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0064_c25.xml.lzma,SAT,269.2705167783424,,true,,FEASIBLE,ortools_RamseyPartition-equ-4-0064_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-5-0130_c25.xml.lzma,SAT,132.9914906034246,,true,,FEASIBLE,ortools_RamseyPartition-equ-5-0130_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Rostering-00-14-20_c25.xml.lzma,SAT,295.41443478222936,,true,,FEASIBLE,ortools_Rostering-00-14-20_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Rostering-25-22-20_c25.xml.lzma,SAT,47.5384509107098,,true,,FEASIBLE,ortools_Rostering-25-22-20_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Rostering-25-22-25_c25.xml.lzma,SAT,82.36661742674187,,true,,FEASIBLE,ortools_Rostering-25-22-25_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Rostering-25-28-25_c25.xml.lzma,SAT,133.00148613285273,,true,,FEASIBLE,ortools_Rostering-25-28-25_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.5223838300444186,,,exitcode:1,,ortools_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.5303839878179133,,,exitcode:1,,ortools_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,2.7924084733240306,,,exitcode:1,,ortools_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
@@ -540,6 +549,7 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RotatingRostering
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RotatingRostering-088-2-4-c25.xml.lzma,UNKNOWN,3.089263360016048,,,exitcode:1,,ortools_RotatingRostering-088-2-4-c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.5286757089197636,,,exitcode:1,,ortools_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.364808789920062,,,exitcode:1,,ortools_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,SEDF-19-1-C19-3-3-1_c25.xml.lzma,SAT,40.017983505968004,,true,,FEASIBLE,ortools_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,Accordion-11-01_c25.xml.lzma,UNKNOWN,598.8640183648095,,true,,UNKNOWN,scip_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,Accordion-11-03_c25.xml.lzma,UNKNOWN,599.0386544778012,,true,,UNKNOWN,scip_Accordion-11-03_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,Accordion-12-01_c25.xml.lzma,SAT,34.830714114010334,,true,,FEASIBLE,scip_Accordion-12-01_c25.xml.txt.metadata.json
