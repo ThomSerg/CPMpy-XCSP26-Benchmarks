@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Reduce MDD** 🔄 | XCSP3-2025-CSP25 | `c6597946 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 09:39:26 | — | 96/154 |
+| 1 | **Reduce MDD** 🔄 | XCSP3-2025-CSP25 | `c6597946 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 09:39:26 | — | 100/162 |
 | 2 | **Order encoding for inequalities - long** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-31 22:29:41 | 2026-06-01 03:44:37 | 212/800 |
 | 3 | **Some transformation improvements - long** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 18:48:40 | 2026-05-30 01:11:34 | 245/800 |
 | 4 | **Order encoding for inequalities** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-29 13:59:57 | 2026-05-29 18:03:17 | 98/600 |
@@ -31,7 +31,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `c6597946 — Merge remote-tracking branch '
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 154/200 | 2026-06-01 09:39:54 | 17m 56s |
+| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 167/200 | 2026-06-01 09:39:54 | 20m 07s |
 | `exact` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -50,13 +50,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `c6597946 — Merge remote-tracking branch '
 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
-| `ortools` | 74 | 22 | 0 | 58 | 154 |
+| `ortools` | 75 | 25 | 1 | 66 | 167 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `ortools` | 128 | 0 | 26 | 154 |
+| `ortools` | 141 | 0 | 26 | 167 |
 
 ---
 
