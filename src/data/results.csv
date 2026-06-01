@@ -334,8 +334,16 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,PegSolitaireTable-english-3-3-
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-3-0300_c25.xml.lzma,UNKNOWN,601.1712262588553,,true,walltime,UNKNOWN,scip_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-3-0600_c25.xml.lzma,UNKNOWN,601.4046905301511,,,walltime,,scip_RamseyPartition-equ-3-0600_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-3-1200_c25.xml.lzma,UNKNOWN,601.5713787991554,,,walltime,,scip_RamseyPartition-equ-3-1200_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-4-0060_c25.xml.lzma,UNKNOWN,599.5148695469834,,true,,UNKNOWN,scip_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,31.048916690982878,,true,,UNSATISFIABLE,scip_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-00-14-20_c25.xml.lzma,UNKNOWN,139.31725139310583,,,memory,,scip_Rostering-00-14-20_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-00-14-25_c25.xml.lzma,UNKNOWN,197.32039310084656,,,memory,,scip_Rostering-00-14-25_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-00-14-30_c25.xml.lzma,UNKNOWN,308.23205048171803,,,memory,,scip_Rostering-00-14-30_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-22-20_c25.xml.lzma,UNKNOWN,207.74693209165707,,,memory,,scip_Rostering-25-22-20_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-22-25_c25.xml.lzma,UNKNOWN,186.79482606984675,,,memory,,scip_Rostering-25-22-25_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-22-30_c25.xml.lzma,UNKNOWN,282.49316559173167,,,memory,,scip_Rostering-25-22-30_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,138.97527326829731,,,memory,,scip_Rostering-25-28-20_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-28-25_c25.xml.lzma,UNKNOWN,174.42957357130945,,,memory,,scip_Rostering-25-28-25_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.097221382893622,,,exitcode:1,,scip_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.371963564772159,,,exitcode:1,,scip_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,2.529609049204737,,,exitcode:1,,scip_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
