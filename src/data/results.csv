@@ -558,6 +558,7 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Rostering-25-22-3
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Rostering-25-22-40_c25.xml.lzma,UNKNOWN,599.6073197810911,,true,,UNKNOWN,ortools_Rostering-25-22-40_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,598.4123149500228,,true,,UNKNOWN,ortools_Rostering-25-28-20_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Rostering-25-28-25_c25.xml.lzma,SAT,133.00148613285273,,true,,FEASIBLE,ortools_Rostering-25-28-25_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Rostering-25-28-30_c25.xml.lzma,UNKNOWN,598.0982623877935,,true,,UNKNOWN,ortools_Rostering-25-28-30_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Rostering-25-28-35_c25.xml.lzma,UNKNOWN,596.6708807097748,,true,,UNKNOWN,ortools_Rostering-25-28-35_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,Rostering-25-28-40_c25.xml.lzma,UNKNOWN,595.0386585830711,,true,,UNKNOWN,ortools_Rostering-25-28-40_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.5223838300444186,,,exitcode:1,,ortools_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
@@ -577,6 +578,12 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,RotatingRostering
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,SEDF-19-1-C19-3-3-1_c25.xml.lzma,SAT,40.017983505968004,,true,,FEASIBLE,ortools_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNSAT,373.89242900768295,,true,,UNSATISFIABLE,ortools_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNSAT,381.2736418507993,,true,,UNSATISFIABLE,ortools_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,598.512475413736,,true,,UNKNOWN,ortools_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,SEDF-25-2-C5xC5-7-2-1_c25.xml.lzma,UNKNOWN,599.1145982933231,,true,,UNKNOWN,ortools_SEDF-25-2-C5xC5-7-2-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,SEDF-28-1-C7C4-4-3-1_c25.xml.lzma,UNKNOWN,598.5209914101288,,true,,UNKNOWN,ortools_SEDF-28-1-C7C4-4-3-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,SEDF-28-2-C28-4-3-1_c25.xml.lzma,UNKNOWN,598.8482894198969,,true,,UNKNOWN,ortools_SEDF-28-2-C28-4-3-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,598.9027391881682,,true,,UNKNOWN,ortools_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,598.5399605580606,,true,,UNKNOWN,ortools_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-23_c25.xml.lzma,SAT,72.92091234121472,,true,,FEASIBLE,ortools_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,Accordion-11-01_c25.xml.lzma,UNKNOWN,598.8640183648095,,true,,UNKNOWN,scip_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,Accordion-11-03_c25.xml.lzma,UNKNOWN,599.0386544778012,,true,,UNKNOWN,scip_Accordion-11-03_c25.xml.txt.metadata.json
