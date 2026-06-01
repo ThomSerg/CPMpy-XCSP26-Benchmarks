@@ -349,12 +349,16 @@ Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-00-14-20_c25.xml.lzma,UNKNOWN,240.93450402887538,,,memory,,scip_Rostering-00-14-20_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-00-14-25_c25.xml.lzma,UNKNOWN,239.35150665882975,,,memory,,scip_Rostering-00-14-25_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-00-14-30_c25.xml.lzma,UNKNOWN,460.3104584729299,,,memory,,scip_Rostering-00-14-30_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-00-14-35_c25.xml.lzma,UNKNOWN,601.4095199853182,,,walltime,,scip_Rostering-00-14-35_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-00-14-40_c25.xml.lzma,UNKNOWN,465.35451272223145,,,memory,,scip_Rostering-00-14-40_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-25-22-20_c25.xml.lzma,UNKNOWN,192.55867399275303,,,memory,,scip_Rostering-25-22-20_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-25-22-25_c25.xml.lzma,UNKNOWN,269.44463213393465,,,memory,,scip_Rostering-25-22-25_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-25-22-30_c25.xml.lzma,UNKNOWN,368.32710539223626,,,memory,,scip_Rostering-25-22-30_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-25-22-35_c25.xml.lzma,UNKNOWN,601.422315062955,,,walltime,,scip_Rostering-25-22-35_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-25-22-40_c25.xml.lzma,UNKNOWN,509.745513712056,,,memory,,scip_Rostering-25-22-40_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,160.02174968784675,,,memory,,scip_Rostering-25-28-20_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-25-28-25_c25.xml.lzma,UNKNOWN,214.73343415977433,,,memory,,scip_Rostering-25-28-25_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Rostering-25-28-30_c25.xml.lzma,UNKNOWN,418.9925039471127,,,memory,,scip_Rostering-25-28-30_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.7551777120679617,,,exitcode:1,,scip_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,3.391635509673506,,,exitcode:1,,scip_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,3.7596593047492206,,,exitcode:1,,scip_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
@@ -371,7 +375,10 @@ Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,4.098781677894294,,,exitcode:1,,scip_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,211.52897089486942,,,memory,,scip_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-30_c25.xml.lzma,UNKNOWN,175.58218022296205,,,memory,,scip_TilingRythmicCanons1-30_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,205.3948587072082,,,memory,,scip_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,193.39659431716427,,,memory,,scip_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,226.1142755919136,,,memory,,scip_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,209.8365144059062,,,memory,,scip_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Accordion-11-01_c25.xml.lzma,UNKNOWN,2.559199946001172,,,exitcode:1,,gurobi_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Accordion-11-03_c25.xml.lzma,UNKNOWN,2.605086226016283,,,exitcode:1,,gurobi_Accordion-11-03_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Accordion-12-01_c25.xml.lzma,UNKNOWN,2.6360863125883043,,,exitcode:1,,gurobi_Accordion-12-01_c25.xml.txt.metadata.json
