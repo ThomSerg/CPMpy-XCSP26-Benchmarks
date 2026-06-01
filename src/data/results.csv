@@ -122,9 +122,16 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-3000_c
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-0-2-0_c25.xml.lzma,UNKNOWN,601.0696492590941,,,walltime,,exact_PegSolitaireTable-english-0-2-0_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-0-3-0_c25.xml.lzma,UNKNOWN,601.0629053669982,,,walltime,,exact_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-0-4-0_c25.xml.lzma,UNKNOWN,601.0666469489224,,true,walltime,UNKNOWN,exact_PegSolitaireTable-english-0-4-0_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-1-2-0_c25.xml.lzma,UNKNOWN,601.0706670233048,,,walltime,,exact_PegSolitaireTable-english-1-2-0_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-1-3-0_c25.xml.lzma,UNKNOWN,601.0832158378325,,,walltime,,exact_PegSolitaireTable-english-1-3-0_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-1-4-0_c25.xml.lzma,SAT,361.6045673461631,,true,,FEASIBLE,exact_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-2-0-0_c25.xml.lzma,UNKNOWN,601.0477089430206,,,walltime,,exact_PegSolitaireTable-english-2-0-0_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-2-2-0_c25.xml.lzma,SAT,222.0627568392083,,true,,FEASIBLE,exact_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-2-3-0_c25.xml.lzma,UNKNOWN,601.0690970839933,,,walltime,,exact_PegSolitaireTable-english-2-3-0_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-2-4-0_c25.xml.lzma,UNKNOWN,601.0787792201154,,,walltime,,exact_PegSolitaireTable-english-2-4-0_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-2-6-0_c25.xml.lzma,UNKNOWN,601.0715810023248,,,walltime,,exact_PegSolitaireTable-english-2-6-0_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RamseyPartition-equ-3-0300_c25.xml.lzma,UNKNOWN,601.0689934683032,,,walltime,,exact_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RamseyPartition-equ-3-1200_c25.xml.lzma,UNKNOWN,499.54097564704716,,,memory,,exact_RamseyPartition-equ-3-1200_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,87.72312390478328,,true,,FEASIBLE,exact_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.476663577836007,,,exitcode:1,,exact_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.4113634759560227,,,exitcode:1,,exact_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
