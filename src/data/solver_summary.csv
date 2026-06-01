@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,24,8,0,3,35,32,0,3
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,26,11,0,6,43,37,0,6
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,35,14,0,151,200,147,0,53
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,16,9,0,175,200,107,0,93
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,25,14,0,102,141,77,0,64

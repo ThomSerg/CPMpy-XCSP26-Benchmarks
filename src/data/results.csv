@@ -2,6 +2,7 @@ session_slug,session_name,track,solver,instance,status,seconds,objective,checker
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,9.653940726071596,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,294.5453131599352,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,5.022280587814748,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-12-03_c25.xml.lzma,UNSAT,308.49975770385936,,true,,UNSATISFIABLE,exact_Accordion-12-03_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-13-02_c25.xml.lzma,SAT,5.131778692826629,,true,,FEASIBLE,exact_Accordion-13-02_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-14-03_c25.xml.lzma,SAT,20.13279998814687,,true,,FEASIBLE,exact_Accordion-14-03_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-14-04_c25.xml.lzma,SAT,9.04417335242033,,true,,FEASIBLE,exact_Accordion-14-04_c25.xml.txt.metadata.json
@@ -18,7 +19,11 @@ Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,AlmostMagic-06-100_c25.xml.lzma,SAT,40.77514165500179,,true,,FEASIBLE,exact_AlmostMagic-06-100_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,ChainReaction-20-020_c25.xml.lzma,UNSAT,143.39211225230247,,true,,UNSATISFIABLE,exact_ChainReaction-20-020_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,ChainReaction-20-025_c25.xml.lzma,SAT,46.63088357076049,,true,,FEASIBLE,exact_ChainReaction-20-025_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,CrazyFrog-09_c25.xml.lzma,UNKNOWN,308.38106699101627,,,memory,,exact_CrazyFrog-09_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,CrazyFrog-10_c25.xml.lzma,UNKNOWN,293.8855586173013,,,memory,,exact_CrazyFrog-10_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,CrazyFrog-table-06_c25.xml.lzma,SAT,304.6068212087266,,true,,FEASIBLE,exact_CrazyFrog-table-06_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,232.275533975102,,,memory,,exact_CrazyFrog-table-07_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,260.1113223489374,,,memory,,exact_CrazyFrog-table-08_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,154.5847657378763,,,memory,,exact_CrazyFrog-table-09_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,147.73393410397694,,,memory,,exact_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,9.207256163936108,,true,,UNSATISFIABLE,exact_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
@@ -27,7 +32,10 @@ Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Cryptanalysis-4-11-128_c25.xml.lzma,UNSAT,39.34770474396646,,true,,UNSATISFIABLE,exact_Cryptanalysis-4-11-128_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Cryptanalysis-4-12-128_c25.xml.lzma,SAT,80.66964687267318,,true,,FEASIBLE,exact_Cryptanalysis-4-12-128_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Cryptanalysis-5-10-128_c25.xml.lzma,UNSAT,42.96385093498975,,true,,UNSATISFIABLE,exact_Cryptanalysis-5-10-128_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Cryptanalysis-5-14-128_c25.xml.lzma,UNSAT,310.7354500051588,,true,,UNSATISFIABLE,exact_Cryptanalysis-5-14-128_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Cryptanalysis-5-15-128_c25.xml.lzma,SAT,248.6312497658655,,true,,FEASIBLE,exact_Cryptanalysis-5-15-128_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Cryptanalysis-6-12-128_c25.xml.lzma,UNSAT,56.62933456385508,,true,,UNSATISFIABLE,exact_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Cryptanalysis-6-16-128_c25.xml.lzma,UNSAT,285.97622368624434,,true,,UNSATISFIABLE,exact_Cryptanalysis-6-16-128_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,EFPA-3-7-7-06_c25.xml.lzma,SAT,11.622764897998422,,true,,FEASIBLE,exact_EFPA-3-7-7-06_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,EFPA-3-7-7-07_c25.xml.lzma,UNSAT,103.2827931358479,,true,,UNSATISFIABLE,exact_EFPA-3-7-7-07_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,EFPA-3-8-8-07_c25.xml.lzma,SAT,34.2366761919111,,true,,FEASIBLE,exact_EFPA-3-8-8-07_c25.xml.txt.metadata.json
