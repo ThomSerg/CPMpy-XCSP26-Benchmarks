@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Simplify bool** 🔄 | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | — | 54/95 |
+| 1 | **Simplify bool** 🔄 | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | — | 58/103 |
 | 2 | **Reduce MDD - rerun** | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 15:40:06 | 234/800 |
 | 3 | **Per-table type linear decompose** | XCSP3-2025-CSP25 | `d6eff956 — Per-table type  linear decompose` | 2026-06-01 10:29:03 | 2026-06-01 12:31:23 | 126/600 |
 | 4 | **Reduce MDD** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-01 09:39:26 | 2026-06-01 10:09:02 | 141/341 |
@@ -34,7 +34,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `36447b7f — remove trailing comma` · Crea
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 97/200 | 2026-06-01 15:54:14 | 16m 58s |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 103/200 | 2026-06-01 15:54:14 | 19m 04s |
 | `exact` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `ortools` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -53,13 +53,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `36447b7f — remove trailing comma` · Crea
 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
-| `gurobi` | 38 | 17 | 5 | 37 | 97 |
+| `gurobi` | 38 | 20 | 5 | 40 | 103 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `gurobi` | 88 | 0 | 9 | 97 |
+| `gurobi` | 94 | 0 | 9 | 103 |
 
 ---
 
