@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Per-table_type_linear_decompose,Per-table type linear decompose,2026-06-01T10:29:03,2026-06-01T11:50:24,d6eff956 — Per-table type  linear decompose,true,XCSP3-2025-CSP25,111,443,600.0
+1,Per-table_type_linear_decompose,Per-table type linear decompose,2026-06-01T10:29:03,2026-06-01T11:50:24,d6eff956 — Per-table type  linear decompose,true,XCSP3-2025-CSP25,115,467,600.0
 2,Reduce_MDD,Reduce MDD,2026-06-01T09:39:26,2026-06-01T10:09:02,,false,XCSP3-2025-CSP25;unknown,141,341,600.0
 3,Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,2026-05-31T22:29:41,2026-06-01T03:44:37,e3f20354 — Test: Force cumulative time for linear decompose,false,XCSP3-2025-CSP25,212,800,1800.0
 4,Some_transformation_improvements_-_long,Some transformation improvements - long,2026-05-29T18:48:40,2026-05-30T01:11:34,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,245,800,1800.0
