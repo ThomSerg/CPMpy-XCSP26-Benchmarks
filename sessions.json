@@ -92,6 +92,13 @@
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-05-31T22:29:41",
       "last_run_at": "2026-06-01T03:44:37"
+    },
+    {
+      "name": "Reduce MDD",
+      "slug": "Reduce_MDD",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-06-01T09:39:26",
+      "last_run_at": null
     }
   ]
 }
