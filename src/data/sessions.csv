@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Simplify_bool,Simplify bool,2026-06-01T15:53:46,2026-06-01T16:34:04,36447b7f — remove trailing comma,true,XCSP3-2025-CSP25,80,310,600.0
+1,Simplify_bool,Simplify bool,2026-06-01T15:53:46,2026-06-01T16:34:04,36447b7f — remove trailing comma,true,XCSP3-2025-CSP25,80,351,600.0
 2,Reduce_MDD_-_rerun,Reduce MDD - rerun,2026-06-01T13:08:07,2026-06-01T15:40:06,7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,234,800,600.0
 3,Per-table_type_linear_decompose,Per-table type linear decompose,2026-06-01T10:29:03,2026-06-01T12:31:23,d6eff956 — Per-table type  linear decompose,false,XCSP3-2025-CSP25,126,600,600.0
 4,Reduce_MDD,Reduce MDD,2026-06-01T09:39:26,2026-06-01T10:09:02,,false,XCSP3-2025-CSP25;unknown,141,341,600.0
