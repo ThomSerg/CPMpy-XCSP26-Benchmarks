@@ -399,6 +399,17 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-31_c25.
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,601.2547254636884,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,601.289176360704,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,601.272090734914,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,Accordion-12-01_c25.xml.lzma,SAT,39.147882821038365,,true,,FEASIBLE,highs_Accordion-12-01_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,Accordion-13-02_c25.xml.lzma,SAT,99.24184834584594,,true,,FEASIBLE,highs_Accordion-13-02_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,Accordion-16-05_c25.xml.lzma,SAT,79.45223460393026,,true,,FEASIBLE,highs_Accordion-16-05_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,AlmostMagic-03-070_c25.xml.lzma,SAT,20.224569738842547,,true,,FEASIBLE,highs_AlmostMagic-03-070_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,AlmostMagic-04-050_c25.xml.lzma,SAT,188.01966474484652,,true,,FEASIBLE,highs_AlmostMagic-04-050_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,AlmostMagic-04-080_c25.xml.lzma,SAT,11.426254272926599,,true,,FEASIBLE,highs_AlmostMagic-04-080_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,AlmostMagic-07-130_c25.xml.lzma,UNSAT,6.056353414896876,,true,,UNSATISFIABLE,highs_AlmostMagic-07-130_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,AlmostMagic-08-160_c25.xml.lzma,UNSAT,28.60585739975795,,true,,UNSATISFIABLE,highs_AlmostMagic-08-160_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,AlmostMagic-09-200_c25.xml.lzma,UNSAT,52.14027426298708,,true,,UNSATISFIABLE,highs_AlmostMagic-09-200_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,AlmostMagic-10-250_c25.xml.lzma,UNSAT,93.10688843298703,,true,,UNSATISFIABLE,highs_AlmostMagic-10-250_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,ChainReaction-20-025_c25.xml.lzma,SAT,73.07885987125337,,true,,FEASIBLE,highs_ChainReaction-20-025_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,3.514236979186535,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,81.58068134682253,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,3.893340398091823,,true,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
