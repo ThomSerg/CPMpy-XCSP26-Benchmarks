@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Simplify bool** 🔄 | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 18:27:45 | 252/824 |
+| 1 | **Simplify bool** 🔄 | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 18:27:45 | 252/849 |
 | 2 | **Reduce MDD - rerun** | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 15:40:06 | 234/800 |
 | 3 | **Per-table type linear decompose** | XCSP3-2025-CSP25 | `d6eff956 — Per-table type  linear decompose` | 2026-06-01 10:29:03 | 2026-06-01 12:31:23 | 126/600 |
 | 4 | **Reduce MDD** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-01 09:39:26 | 2026-06-01 10:09:02 | 141/341 |
@@ -38,7 +38,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `36447b7f — remove trailing comma` · Crea
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-01 15:54:14 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-01 17:17:18 | — |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-01 16:34:25 | — |
-| `highs` | XCSP3-2025-CSP25 | 🔄 running | 25/200 | 2026-06-01 20:24:37 | 8m 15s |
+| `highs` | XCSP3-2025-CSP25 | 🔄 running | 49/200 | 2026-06-01 20:24:37 | 10m 26s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -58,7 +58,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `36447b7f — remove trailing comma` · Crea
 | `gurobi` | 38 | 21 | 51 | 90 | 200 |
 | `exact` | 39 | 13 | 95 | 53 | 200 |
 | `scip` | 12 | 9 | 62 | 117 | 200 |
-| `highs` | 15 | 5 | 0 | 5 | 25 |
+| `highs` | 15 | 5 | 10 | 19 | 49 |
 
 #### Solution Checker
 
@@ -68,7 +68,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `36447b7f — remove trailing comma` · Crea
 | `gurobi` | 155 | 0 | 45 | 200 |
 | `exact` | 87 | 0 | 113 | 200 |
 | `scip` | 105 | 0 | 95 | 200 |
-| `highs` | 20 | 0 | 5 | 25 |
+| `highs` | 32 | 0 | 17 | 49 |
 
 ---
 
