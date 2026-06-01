@@ -194,6 +194,12 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-21_c25.
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-22_c25.xml.lzma,UNKNOWN,600.2805681340396,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-22_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-23_c25.xml.lzma,UNKNOWN,600.0200861929916,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-24_c25.xml.lzma,UNKNOWN,601.090051244013,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-24_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-30_c25.xml.lzma,UNKNOWN,601.0955253820866,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-30_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,601.267277686391,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,601.2547254636884,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,601.289176360704,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,601.272090734914,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,AlmostMagic-07-130_c25.xml.lzma,UNSAT,22.809852124657482,,true,,UNSATISFIABLE,scip_AlmostMagic-07-130_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.72312386892736,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,336.42890187958255,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,4.76947988756001,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
