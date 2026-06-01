@@ -1,6 +1,7 @@
 session_slug,session_name,track,solver,instance,status,seconds,objective,checker_valid,termination_reason,exit_status,metadata_file
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-11-01_c25.xml.lzma,SAT,22.805293162818998,,true,,FEASIBLE,gurobi_Accordion-11-01_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-12-01_c25.xml.lzma,SAT,320.7437606132589,,true,,FEASIBLE,gurobi_Accordion-12-01_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-12-03_c25.xml.lzma,UNKNOWN,598.838823901955,,true,,UNKNOWN,gurobi_Accordion-12-03_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-13-02_c25.xml.lzma,SAT,208.87312495196238,,true,,FEASIBLE,gurobi_Accordion-13-02_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-14-03_c25.xml.lzma,SAT,37.085136726964265,,true,,FEASIBLE,gurobi_Accordion-14-03_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-14-04_c25.xml.lzma,SAT,41.60668299021199,,true,,FEASIBLE,gurobi_Accordion-14-04_c25.xml.txt.metadata.json
@@ -10,6 +11,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-16-01_c25.xml.lzma
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-16-04_c25.xml.lzma,SAT,15.519506539218128,,true,,FEASIBLE,gurobi_Accordion-16-04_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-16-05_c25.xml.lzma,SAT,15.946381425950676,,true,,FEASIBLE,gurobi_Accordion-16-05_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,AlmostMagic-03-030_c25.xml.lzma,UNSAT,219.58760522212833,,true,,UNSATISFIABLE,gurobi_AlmostMagic-03-030_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,AlmostMagic-03-035_c25.xml.lzma,UNKNOWN,598.8467278871685,,true,,UNKNOWN,gurobi_AlmostMagic-03-035_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,AlmostMagic-03-040_c25.xml.lzma,SAT,33.886888158973306,,true,,FEASIBLE,gurobi_AlmostMagic-03-040_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,AlmostMagic-03-070_c25.xml.lzma,SAT,14.864389047026634,,true,,FEASIBLE,gurobi_AlmostMagic-03-070_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,AlmostMagic-04-050_c25.xml.lzma,SAT,241.84423996694386,,true,,FEASIBLE,gurobi_AlmostMagic-04-050_c25.xml.txt.metadata.json
@@ -20,8 +22,27 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,AlmostMagic-07-130_c25.xml.l
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,AlmostMagic-08-160_c25.xml.lzma,UNSAT,6.453052863012999,,true,,UNSATISFIABLE,gurobi_AlmostMagic-08-160_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,AlmostMagic-09-200_c25.xml.lzma,UNSAT,9.632223930209875,,true,,UNSATISFIABLE,gurobi_AlmostMagic-09-200_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,AlmostMagic-10-250_c25.xml.lzma,UNSAT,15.682194794993848,,true,,UNSATISFIABLE,gurobi_AlmostMagic-10-250_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-20-020_c25.xml.lzma,UNKNOWN,598.7558294138871,,true,,UNKNOWN,gurobi_ChainReaction-20-020_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-20-025_c25.xml.lzma,SAT,30.193829613737762,,true,,FEASIBLE,gurobi_ChainReaction-20-025_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-30-035_c25.xml.lzma,UNKNOWN,598.7620072020218,,true,,UNKNOWN,gurobi_ChainReaction-30-035_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-30-040_c25.xml.lzma,UNKNOWN,598.7950722789392,,true,,UNKNOWN,gurobi_ChainReaction-30-040_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-40-050_c25.xml.lzma,UNKNOWN,598.8681558240205,,true,,UNKNOWN,gurobi_ChainReaction-40-050_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-40-055_c25.xml.lzma,UNKNOWN,598.7743795989081,,true,,UNKNOWN,gurobi_ChainReaction-40-055_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-50-065_c25.xml.lzma,UNKNOWN,598.7735671512783,,true,,UNKNOWN,gurobi_ChainReaction-50-065_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-50-070_c25.xml.lzma,UNKNOWN,598.8613208406605,,true,,UNKNOWN,gurobi_ChainReaction-50-070_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-60-085_c25.xml.lzma,UNKNOWN,598.7727383943275,,true,,UNKNOWN,gurobi_ChainReaction-60-085_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-60-090_c25.xml.lzma,UNKNOWN,598.9117074687965,,true,,UNKNOWN,gurobi_ChainReaction-60-090_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-70-095_c25.xml.lzma,UNKNOWN,598.8908830196597,,true,,UNKNOWN,gurobi_ChainReaction-70-095_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-70-100_c25.xml.lzma,UNKNOWN,598.8347383490764,,true,,UNKNOWN,gurobi_ChainReaction-70-100_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-80-105_c25.xml.lzma,UNKNOWN,598.8311331928708,,true,,UNKNOWN,gurobi_ChainReaction-80-105_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,ChainReaction-80-110_c25.xml.lzma,UNKNOWN,598.8763563339598,,true,,UNKNOWN,gurobi_ChainReaction-80-110_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,CrazyFrog-06_c25.xml.lzma,UNKNOWN,601.1338274250738,,true,walltime,UNKNOWN,gurobi_CrazyFrog-06_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,CrazyFrog-07_c25.xml.lzma,UNKNOWN,601.3136667688377,,,walltime,,gurobi_CrazyFrog-07_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,CrazyFrog-08_c25.xml.lzma,UNKNOWN,601.3910336918198,,,walltime,,gurobi_CrazyFrog-08_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,CrazyFrog-09_c25.xml.lzma,UNKNOWN,601.4361026999541,,,walltime,,gurobi_CrazyFrog-09_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,CrazyFrog-10_c25.xml.lzma,UNKNOWN,339.600342517253,,,memory,,gurobi_CrazyFrog-10_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,429.8607501331717,,,memory,,gurobi_CrazyFrog-table-07_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,457.5041635571979,,,memory,,gurobi_CrazyFrog-table-08_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,148.46375352470204,,,memory,,gurobi_CrazyFrog-table-09_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,128.0799336261116,,,memory,,gurobi_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,23.150858169887215,,true,,UNSATISFIABLE,gurobi_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
@@ -29,6 +50,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Cryptanalysis-3-05-128_c25.x
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Cryptanalysis-4-09-128_c25.xml.lzma,UNSAT,181.58709900593385,,true,,UNSATISFIABLE,gurobi_Cryptanalysis-4-09-128_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Cryptanalysis-4-12-128_c25.xml.lzma,SAT,376.1907977601513,,true,,FEASIBLE,gurobi_Cryptanalysis-4-12-128_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,EFPA-3-7-7-06_c25.xml.lzma,SAT,241.2734786318615,,true,,FEASIBLE,gurobi_EFPA-3-7-7-06_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-05_c25.xml.lzma,SAT,4.402153132017702,,true,,FEASIBLE,gurobi_Heterosquare-fair-05_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.72312386892736,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,336.42890187958255,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,4.76947988756001,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
