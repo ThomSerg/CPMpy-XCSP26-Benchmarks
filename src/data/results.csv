@@ -296,11 +296,18 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-hard-10_c25.xml.l
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-hard-15_c25.xml.lzma,UNSAT,184.19238768983632,,true,,UNSATISFIABLE,scip_Heterosquare-hard-15_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-hard-20_c25.xml.lzma,UNKNOWN,601.2273795427755,,true,walltime,UNKNOWN,scip_Heterosquare-hard-20_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LangfordBin-010_c25.xml.lzma,UNKNOWN,599.0332815130241,,true,,UNKNOWN,scip_LangfordBin-010_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LangfordBin-013_c25.xml.lzma,UNKNOWN,599.2632067580707,,true,,UNKNOWN,scip_LangfordBin-013_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LangfordBin-014_c25.xml.lzma,UNKNOWN,598.9397415388376,,true,,UNKNOWN,scip_LangfordBin-014_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LangfordBin-016_c25.xml.lzma,SAT,114.94935988401994,,true,,FEASIBLE,scip_LangfordBin-016_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LangfordBin-039_c25.xml.lzma,UNKNOWN,601.0672519481741,,,walltime,,scip_LangfordBin-039_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LangfordBin-040_c25.xml.lzma,UNKNOWN,601.0611980557442,,,walltime,,scip_LangfordBin-040_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LangfordBin-059_c25.xml.lzma,UNKNOWN,599.6637743529864,,true,,UNKNOWN,scip_LangfordBin-059_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LangfordBin-240_c25.xml.lzma,UNKNOWN,274.4250835250132,,,memory,,scip_LangfordBin-240_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,3.2405017293058336,,true,,FEASIBLE,scip_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,6.7695789793506265,,true,,FEASIBLE,scip_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,215.96025315113366,,,memory,,scip_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,378.7876297486946,,,memory,,scip_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,527.2444524420425,,,memory,,scip_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,31.048916690982878,,true,,UNSATISFIABLE,scip_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.72312386892736,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,336.42890187958255,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
