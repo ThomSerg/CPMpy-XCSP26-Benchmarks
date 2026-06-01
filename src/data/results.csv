@@ -442,12 +442,15 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,CrazyFrog-07_c25.xml.lzma,UNK
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,CrazyFrog-08_c25.xml.lzma,UNKNOWN,470.1500856196508,,,memory,,highs_CrazyFrog-08_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,CrazyFrog-09_c25.xml.lzma,UNKNOWN,245.1008648071438,,,memory,,highs_CrazyFrog-09_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,CrazyFrog-10_c25.xml.lzma,UNKNOWN,229.50712678115815,,,memory,,highs_CrazyFrog-10_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,CrazyFrog-table-06_c25.xml.lzma,UNKNOWN,601.4125361321494,,,walltime,,highs_CrazyFrog-table-06_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,454.2183675840497,,,memory,,highs_CrazyFrog-table-07_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,439.15161484107375,,,memory,,highs_CrazyFrog-table-08_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,212.57110623689368,,,memory,,highs_CrazyFrog-table-09_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,199.44994413293898,,,memory,,highs_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,174.27247350104153,,true,,UNSATISFIABLE,highs_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,Cryptanalysis-3-05-128_c25.xml.lzma,SAT,157.00510888220742,,true,,FEASIBLE,highs_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,Cryptanalysis-4-11-128_c25.xml.lzma,UNKNOWN,598.9536283640191,,true,,UNKNOWN,highs_Cryptanalysis-4-11-128_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,Heterosquare-fair-05_c25.xml.lzma,SAT,10.164882514160126,,true,,FEASIBLE,highs_Heterosquare-fair-05_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,3.514236979186535,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,81.58068134682253,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,3.893340398091823,,true,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
