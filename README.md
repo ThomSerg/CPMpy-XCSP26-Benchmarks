@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Reduce MDD - rerun** 🔄 | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | — | — |
+| 1 | **Reduce MDD - rerun** 🔄 | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | — | 19/19 |
 | 2 | **Per-table type linear decompose** | XCSP3-2025-CSP25 | `d6eff956 — Per-table type  linear decompose` | 2026-06-01 10:29:03 | 2026-06-01 12:31:23 | 126/600 |
 | 3 | **Reduce MDD** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-01 09:39:26 | 2026-06-01 10:09:02 | 141/341 |
 | 4 | **Order encoding for inequalities - long** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-31 22:29:41 | 2026-06-01 03:44:37 | 212/800 |
@@ -33,8 +33,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `7a2345fa — Merge remote-tracking branch '
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 21/200 | 2026-06-01 13:09:00 | 2m 39s |
 | `exact` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
-| `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `ortools` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
@@ -50,11 +50,15 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `7a2345fa — Merge remote-tracking branch '
 
 #### Solve Status
 
-_No results yet._
+| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|---------|-------|
+| `gurobi` | 15 | 5 | 0 | 1 | 21 |
 
 #### Solution Checker
 
-_Solution checker not enabled._
+| Solver | Valid | Invalid | Skipped | Total |
+|--------|-------|---------|---------|-------|
+| `gurobi` | 20 | 0 | 1 | 21 |
 
 ---
 
