@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Order encoding for inequalities - long** 🔄 | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-31 22:29:41 | 2026-06-01 02:23:33 | 187/628 |
+| 1 | **Order encoding for inequalities - long** 🔄 | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-31 22:29:41 | 2026-06-01 02:23:33 | 193/637 |
 | 2 | **Some transformation improvements - long** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 18:48:40 | 2026-05-30 01:11:34 | 245/800 |
 | 3 | **Order encoding for inequalities** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-29 13:59:57 | 2026-05-29 18:03:17 | 98/600 |
 | 4 | **NoOverlap via Cumulative linear decomp** | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 17:22:33 | 96/600 |
@@ -33,7 +33,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `e3f20354 — Test: Force cumulative time fo
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-31 22:30:09 | — |
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-05-31 23:38:54 | — |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-01 00:53:30 | — |
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 28/200 | 2026-06-01 02:23:59 | 1m 53s |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 37/200 | 2026-06-01 02:23:59 | 4m 05s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -51,8 +51,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `e3f20354 — Test: Force cumulative time fo
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 78 | 26 | 2 | 94 | 200 |
 | `gurobi` | 29 | 16 | 16 | 139 | 200 |
+| `exact` | 15 | 7 | 0 | 15 | 37 |
 | `scip` | 11 | 11 | 34 | 144 | 200 |
-| `exact` | 11 | 5 | 0 | 12 | 28 |
 
 #### Solution Checker
 
@@ -60,8 +60,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `e3f20354 — Test: Force cumulative time fo
 |--------|-------|---------|---------|-------|
 | `ortools` | 174 | 0 | 26 | 200 |
 | `gurobi` | 114 | 0 | 86 | 200 |
+| `exact` | 22 | 0 | 15 | 37 |
 | `scip` | 76 | 0 | 124 | 200 |
-| `exact` | 16 | 0 | 12 | 28 |
 
 ---
 
