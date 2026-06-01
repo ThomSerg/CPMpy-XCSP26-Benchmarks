@@ -182,6 +182,10 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-25-1-C25-7-2-1_c25.xml.
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-25-2-C5xC5-7-2-1_c25.xml.lzma,UNKNOWN,601.2109500449151,,true,walltime,UNKNOWN,gurobi_SEDF-25-2-C5xC5-7-2-1_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-28-1-C7C4-4-3-1_c25.xml.lzma,UNKNOWN,601.0391028481536,,true,walltime,UNKNOWN,gurobi_SEDF-28-1-C7C4-4-3-1_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-28-2-C28-4-3-1_c25.xml.lzma,UNKNOWN,601.1596341058612,,true,walltime,UNKNOWN,gurobi_SEDF-28-2-C28-4-3-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,601.0884086620063,,true,walltime,UNKNOWN,gurobi_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-28-4-C14xC2-4-3-1_c25.xml.lzma,UNKNOWN,601.230940731708,,true,walltime,UNKNOWN,gurobi_SEDF-28-4-C14xC2-4-3-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,601.3070953390561,,true,walltime,UNKNOWN,gurobi_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-17_c25.xml.lzma,UNKNOWN,600.6370131578296,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-17_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.72312386892736,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,336.42890187958255,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,4.76947988756001,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
