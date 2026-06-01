@@ -157,6 +157,10 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Rostering-25-22-30_
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Rostering-25-22-35_c25.xml.lzma,UNKNOWN,601.6567691429518,,,walltime,,exact_Rostering-25-22-35_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Rostering-25-22-40_c25.xml.lzma,UNKNOWN,459.4078853139654,,,memory,,exact_Rostering-25-22-40_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,601.1311167776585,,,walltime,,exact_Rostering-25-28-20_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Rostering-25-28-25_c25.xml.lzma,UNKNOWN,601.1801429912448,,true,walltime,UNKNOWN,exact_Rostering-25-28-25_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Rostering-25-28-30_c25.xml.lzma,UNKNOWN,601.3812313312665,,,walltime,,exact_Rostering-25-28-30_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Rostering-25-28-35_c25.xml.lzma,UNKNOWN,591.3492292687297,,,memory,,exact_Rostering-25-28-35_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Rostering-25-28-40_c25.xml.lzma,UNKNOWN,532.7926541310735,,,memory,,exact_Rostering-25-28-40_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.366940278094262,,,exitcode:1,,exact_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.1957679828628898,,,exitcode:1,,exact_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,1.968825207091868,,,exitcode:1,,exact_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
@@ -172,6 +176,8 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,RotatingRostering-0
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.4745188802480698,,,exitcode:1,,exact_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,2.8583327690139413,,,exitcode:1,,exact_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,SEDF-19-1-C19-3-3-1_c25.xml.lzma,SAT,435.36438549589366,,true,,FEASIBLE,exact_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNKNOWN,601.082361061126,,,walltime,,exact_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,601.1149370740168,,,walltime,,exact_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,Accordion-11-01_c25.xml.lzma,SAT,20.925644172821194,,true,,FEASIBLE,gurobi_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.7938861190341,,true,,UNKNOWN,gurobi_Accordion-11-03_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,Accordion-12-01_c25.xml.lzma,SAT,257.5826289560646,,true,,FEASIBLE,gurobi_Accordion-12-01_c25.xml.txt.metadata.json
