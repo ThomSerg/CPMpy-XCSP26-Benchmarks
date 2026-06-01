@@ -23,8 +23,10 @@ Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,AlmostMagic-08-160_c25.xml.lzma,UN
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,AlmostMagic-09-200_c25.xml.lzma,UNSAT,8.39665370900184,,true,,UNSATISFIABLE,gurobi_AlmostMagic-09-200_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,AlmostMagic-10-250_c25.xml.lzma,UNSAT,12.655958298128098,,true,,UNSATISFIABLE,gurobi_AlmostMagic-10-250_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,ChainReaction-20-025_c25.xml.lzma,SAT,22.477146910037845,,true,,FEASIBLE,gurobi_ChainReaction-20-025_c25.xml.txt.metadata.json
+Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,CrazyFrog-09_c25.xml.lzma,UNKNOWN,332.82144378265366,,,memory,,gurobi_CrazyFrog-09_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,CrazyFrog-10_c25.xml.lzma,UNKNOWN,276.59858390316367,,,memory,,gurobi_CrazyFrog-10_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-06_c25.xml.lzma,SAT,339.00127023179084,,true,,FEASIBLE,gurobi_CrazyFrog-table-06_c25.xml.txt.metadata.json
+Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,484.43121870374307,,,memory,,gurobi_CrazyFrog-table-07_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,202.39587602904066,,,memory,,gurobi_CrazyFrog-table-09_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,131.44538142811507,,,memory,,gurobi_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Cryptanalysis-3-04-128_c25.xml.lzma,UNSAT,22.957926803268492,,true,,UNSATISFIABLE,gurobi_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
