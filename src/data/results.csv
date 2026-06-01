@@ -286,7 +286,9 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-easy-30_c25.xml.l
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-easy-35_c25.xml.lzma,UNKNOWN,432.8669020868838,,,memory,,scip_Heterosquare-easy-35_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-easy-40_c25.xml.lzma,UNKNOWN,475.50857537286356,,,memory,,scip_Heterosquare-easy-40_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-easy-50_c25.xml.lzma,UNKNOWN,539.7835036753677,,,memory,,scip_Heterosquare-easy-50_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,563.5119521887973,,,memory,,scip_Heterosquare-easy-60_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-fair-05_c25.xml.lzma,SAT,8.256885716691613,,true,,FEASIBLE,scip_Heterosquare-fair-05_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-fair-10_c25.xml.lzma,UNKNOWN,599.2532684649341,,true,,UNKNOWN,scip_Heterosquare-fair-10_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-hard-05_c25.xml.lzma,UNSAT,3.3556716637685895,,true,,UNSATISFIABLE,scip_Heterosquare-hard-05_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-hard-10_c25.xml.lzma,UNSAT,57.09176508104429,,true,,UNSATISFIABLE,scip_Heterosquare-hard-10_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Heterosquare-hard-15_c25.xml.lzma,UNSAT,184.19238768983632,,true,,UNSATISFIABLE,scip_Heterosquare-hard-15_c25.xml.txt.metadata.json
