@@ -113,6 +113,13 @@
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-06-01T13:08:07",
       "last_run_at": "2026-06-01T15:40:06"
+    },
+    {
+      "name": "Simplify bool",
+      "slug": "Simplify_bool",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-06-01T15:53:46",
+      "last_run_at": null
     }
   ]
 }
