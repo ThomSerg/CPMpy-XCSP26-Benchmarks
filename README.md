@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Reduce MDD - rerun** 🔄 | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 13:47:56 | 73/219 |
+| 1 | **Reduce MDD - rerun** 🔄 | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 13:47:56 | 74/248 |
 | 2 | **Per-table type linear decompose** | XCSP3-2025-CSP25 | `d6eff956 — Per-table type  linear decompose` | 2026-06-01 10:29:03 | 2026-06-01 12:31:23 | 126/600 |
 | 3 | **Reduce MDD** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-01 09:39:26 | 2026-06-01 10:09:02 | 141/341 |
 | 4 | **Order encoding for inequalities - long** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-31 22:29:41 | 2026-06-01 03:44:37 | 212/800 |
@@ -34,7 +34,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `7a2345fa — Merge remote-tracking branch '
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-01 13:09:00 | — |
-| `scip` | XCSP3-2025-CSP25 | 🔄 running | 19/200 | 2026-06-01 13:48:26 | 9m 04s |
+| `scip` | XCSP3-2025-CSP25 | 🔄 running | 48/200 | 2026-06-01 13:48:26 | 11m 10s |
 | `exact` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `ortools` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
@@ -53,14 +53,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `7a2345fa — Merge remote-tracking branch '
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `gurobi` | 39 | 22 | 48 | 91 | 200 |
-| `scip` | 8 | 4 | 0 | 7 | 19 |
+| `scip` | 8 | 5 | 3 | 32 | 48 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `gurobi` | 148 | 0 | 52 | 200 |
-| `scip` | 12 | 0 | 7 | 19 |
+| `scip` | 38 | 0 | 10 | 48 |
 
 ---
 
