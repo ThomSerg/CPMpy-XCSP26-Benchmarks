@@ -247,6 +247,10 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,CrazyFrog-table-07_c
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,359.1376920356415,,,memory,,scip_CrazyFrog-table-08_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,216.85985456313938,,,memory,,scip_CrazyFrog-table-09_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,206.87727765692398,,,memory,,scip_CrazyFrog-table-10_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,Cryptanalysis-3-04-128_c25.xml.lzma,UNKNOWN,599.3066283091903,,true,,UNKNOWN,scip_Cryptanalysis-3-04-128_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,Cryptanalysis-3-05-128_c25.xml.lzma,UNKNOWN,599.2595380097628,,true,,UNKNOWN,scip_Cryptanalysis-3-05-128_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,GracefulGraph-05-06_c25.xml.lzma,UNKNOWN,57.77035575918853,,,,,scip_GracefulGraph-05-06_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,Heterosquare-fair-05_c25.xml.lzma,SAT,36.60243619326502,,true,,FEASIBLE,scip_Heterosquare-fair-05_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,9.653940726071596,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,294.5453131599352,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,5.022280587814748,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
