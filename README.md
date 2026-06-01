@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Simplify bool** 🔄 | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 17:57:24 | 154/622 |
+| 1 | **Simplify bool** 🔄 | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 17:57:24 | 171/641 |
 | 2 | **Reduce MDD - rerun** | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 15:40:06 | 234/800 |
 | 3 | **Per-table type linear decompose** | XCSP3-2025-CSP25 | `d6eff956 — Per-table type  linear decompose` | 2026-06-01 10:29:03 | 2026-06-01 12:31:23 | 126/600 |
 | 4 | **Reduce MDD** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-01 09:39:26 | 2026-06-01 10:09:02 | 141/341 |
@@ -36,7 +36,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `36447b7f — remove trailing comma` · Crea
 |--------|-------|--------|----------|---------|---------|
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-01 15:54:14 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-01 17:17:18 | — |
-| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 23/200 | 2026-06-01 17:57:56 | 0m 32s |
+| `ortools` | XCSP3-2025-CSP25 | 🔄 running | 44/200 | 2026-06-01 17:57:56 | 3m 09s |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-01 16:34:25 | — |
 
 ### Track: XCSP3-2025-CSP25
@@ -55,7 +55,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `36447b7f — remove trailing comma` · Crea
 |--------|-----|-------|---------|---------|-------|
 | `gurobi` | 38 | 21 | 51 | 90 | 200 |
 | `exact` | 39 | 13 | 95 | 53 | 200 |
-| `ortools` | 21 | 2 | 0 | 0 | 23 |
+| `ortools` | 33 | 9 | 0 | 2 | 44 |
 | `scip` | 12 | 9 | 62 | 117 | 200 |
 
 #### Solution Checker
@@ -64,7 +64,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `36447b7f — remove trailing comma` · Crea
 |--------|-------|---------|---------|-------|
 | `gurobi` | 155 | 0 | 45 | 200 |
 | `exact` | 87 | 0 | 113 | 200 |
-| `ortools` | 23 | 0 | 0 | 23 |
+| `ortools` | 42 | 0 | 2 | 44 |
 | `scip` | 105 | 0 | 95 | 200 |
 
 ---
