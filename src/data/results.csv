@@ -29,6 +29,7 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,ChainReaction-30-03
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,ChainReaction-30-040_c25.xml.lzma,UNKNOWN,598.9988708170131,,true,,UNKNOWN,exact_ChainReaction-30-040_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,ChainReaction-40-050_c25.xml.lzma,UNKNOWN,600.3092019925825,,true,,UNKNOWN,exact_ChainReaction-40-050_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,ChainReaction-40-055_c25.xml.lzma,UNKNOWN,599.6045774421655,,true,,UNKNOWN,exact_ChainReaction-40-055_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,ChainReaction-50-065_c25.xml.lzma,UNKNOWN,598.9632035600953,,true,,UNKNOWN,exact_ChainReaction-50-065_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,ChainReaction-50-070_c25.xml.lzma,UNKNOWN,599.8850750098936,,true,,UNKNOWN,exact_ChainReaction-50-070_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,ChainReaction-60-085_c25.xml.lzma,UNKNOWN,598.9481080053374,,true,,UNKNOWN,exact_ChainReaction-60-085_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,ChainReaction-60-090_c25.xml.lzma,UNKNOWN,599.7855079239234,,true,,UNKNOWN,exact_ChainReaction-60-090_c25.xml.txt.metadata.json
@@ -62,10 +63,15 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,EFPA-3-7-7-07_c25.x
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,EFPA-3-8-8-07_c25.xml.lzma,SAT,33.937562066596,,true,,FEASIBLE,exact_EFPA-3-8-8-07_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,EFPA-3-8-8-08_c25.xml.lzma,UNSAT,271.21547196339816,,true,,UNSATISFIABLE,exact_EFPA-3-8-8-08_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,EFPA-4-4-5-10_c25.xml.lzma,SAT,57.36985108628869,,true,,FEASIBLE,exact_EFPA-4-4-5-10_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,EFPA-4-4-5-11_c25.xml.lzma,UNKNOWN,599.6087055820972,,true,,UNKNOWN,exact_EFPA-4-4-5-11_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,EFPA-4-5-4-10_c25.xml.lzma,SAT,10.061680756974965,,true,,FEASIBLE,exact_EFPA-4-5-4-10_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,EFPA-4-5-4-11_c25.xml.lzma,UNKNOWN,598.7801639330573,,true,,UNKNOWN,exact_EFPA-4-5-4-11_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,EFPA-5-4-4-08_c25.xml.lzma,SAT,11.146203533746302,,true,,FEASIBLE,exact_EFPA-5-4-4-08_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Heterosquare-easy-20_c25.xml.lzma,SAT,264.9917612709105,,true,,FEASIBLE,exact_Heterosquare-easy-20_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Heterosquare-fair-05_c25.xml.lzma,SAT,9.290524636860937,,true,,FEASIBLE,exact_Heterosquare-fair-05_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,LangfordBin-016_c25.xml.lzma,SAT,4.612448904197663,,true,,FEASIBLE,exact_LangfordBin-016_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,2.790716532152146,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,4.30345869762823,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,Accordion-11-01_c25.xml.lzma,SAT,20.925644172821194,,true,,FEASIBLE,gurobi_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.7938861190341,,true,,UNKNOWN,gurobi_Accordion-11-03_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,Accordion-12-01_c25.xml.lzma,SAT,257.5826289560646,,true,,FEASIBLE,gurobi_Accordion-12-01_c25.xml.txt.metadata.json
