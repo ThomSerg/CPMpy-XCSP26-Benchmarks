@@ -113,7 +113,17 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0047_c
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0067_c25.xml.lzma,SAT,25.875512717757374,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0067_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,183.31550492811948,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,332.2091802167706,,true,,FEASIBLE,exact_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0207_c25.xml.lzma,UNKNOWN,601.1119267428294,,,walltime,,exact_LotteryDesign-32-6-6-2-0207_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,601.2894306159578,,,walltime,,exact_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,601.40536692366,,,walltime,,exact_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,601.445137436036,,,walltime,,exact_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,601.486949224025,,,walltime,,exact_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,558.5132601088844,,,memory,,exact_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-1-4-0_c25.xml.lzma,SAT,361.6045673461631,,true,,FEASIBLE,exact_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,PegSolitaireTable-english-2-2-0_c25.xml.lzma,SAT,222.0627568392083,,true,,FEASIBLE,exact_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,87.72312390478328,,true,,FEASIBLE,exact_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.476663577836007,,,exitcode:1,,exact_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.4113634759560227,,,exitcode:1,,exact_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-11-01_c25.xml.lzma,SAT,22.805293162818998,,true,,FEASIBLE,gurobi_Accordion-11-01_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.813192569185,,true,,UNKNOWN,gurobi_Accordion-11-03_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-12-01_c25.xml.lzma,SAT,320.7437606132589,,true,,FEASIBLE,gurobi_Accordion-12-01_c25.xml.txt.metadata.json
