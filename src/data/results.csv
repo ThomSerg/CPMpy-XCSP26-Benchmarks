@@ -186,7 +186,17 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-28-3-D28-4-3-
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-28-4-C14xC2-4-3-1_c25.xml.lzma,UNKNOWN,601.2024693209678,,,walltime,,gurobi_SEDF-28-4-C14xC2-4-3-1_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,601.2844715490937,,,walltime,,gurobi_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-16_c25.xml.lzma,UNKNOWN,600.7483271416277,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-16_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-17_c25.xml.lzma,UNKNOWN,600.6160576380789,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-17_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-18_c25.xml.lzma,UNKNOWN,600.4075849191286,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-18_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-19_c25.xml.lzma,UNKNOWN,600.3327528527007,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-19_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-20_c25.xml.lzma,UNKNOWN,601.0807473459281,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-20_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-21_c25.xml.lzma,UNKNOWN,600.260167485103,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-21_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-22_c25.xml.lzma,UNKNOWN,600.3066118089482,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-22_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-23_c25.xml.lzma,UNKNOWN,599.853555039037,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-24_c25.xml.lzma,UNKNOWN,601.1518124989234,,,walltime,,gurobi_TilingRythmicCanons1-24_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-30_c25.xml.lzma,UNKNOWN,601.1324867838994,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-30_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,601.1977128880098,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,601.2147994488478,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,9.653940726071596,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,294.5453131599352,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,5.022280587814748,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
