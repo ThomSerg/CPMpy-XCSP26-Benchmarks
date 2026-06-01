@@ -402,6 +402,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-36_c25.
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,3.514236979186535,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-11-03_c25.xml.lzma,UNSAT,81.58068134682253,,true,,UNSATISFIABLE,ortools_Accordion-11-03_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-12-01_c25.xml.lzma,SAT,3.893340398091823,,true,,FEASIBLE,ortools_Accordion-12-01_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-12-03_c25.xml.lzma,UNSAT,299.1072408943437,,true,,UNSATISFIABLE,ortools_Accordion-12-03_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-13-02_c25.xml.lzma,SAT,3.800433810800314,,true,,FEASIBLE,ortools_Accordion-13-02_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-14-03_c25.xml.lzma,SAT,5.215263609308749,,true,,FEASIBLE,ortools_Accordion-14-03_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-14-04_c25.xml.lzma,SAT,3.053905441891402,,true,,FEASIBLE,ortools_Accordion-14-04_c25.xml.txt.metadata.json
@@ -411,6 +412,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-16-01_c25.xml.lzm
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-16-04_c25.xml.lzma,SAT,4.272284340579063,,true,,FEASIBLE,ortools_Accordion-16-04_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Accordion-16-05_c25.xml.lzma,SAT,5.769896778743714,,true,,FEASIBLE,ortools_Accordion-16-05_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,AlmostMagic-03-030_c25.xml.lzma,UNSAT,110.54448778694496,,true,,UNSATISFIABLE,ortools_AlmostMagic-03-030_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,AlmostMagic-03-035_c25.xml.lzma,UNSAT,361.07914523314685,,true,,UNSATISFIABLE,ortools_AlmostMagic-03-035_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,AlmostMagic-03-040_c25.xml.lzma,SAT,3.3797859880141914,,true,,FEASIBLE,ortools_AlmostMagic-03-040_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,AlmostMagic-03-070_c25.xml.lzma,SAT,2.3207324659451842,,true,,FEASIBLE,ortools_AlmostMagic-03-070_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,AlmostMagic-04-050_c25.xml.lzma,SAT,3.398859187029302,,true,,FEASIBLE,ortools_AlmostMagic-04-050_c25.xml.txt.metadata.json
@@ -423,6 +425,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,ChainReaction-30-040_c25.xm
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,ChainReaction-40-055_c25.xml.lzma,SAT,9.30092671699822,,true,,FEASIBLE,ortools_ChainReaction-40-055_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,ChainReaction-50-070_c25.xml.lzma,SAT,178.46469027828425,,true,,FEASIBLE,ortools_ChainReaction-50-070_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,ChainReaction-60-085_c25.xml.lzma,SAT,180.07068062666804,,true,,FEASIBLE,ortools_ChainReaction-60-085_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,ChainReaction-60-090_c25.xml.lzma,SAT,436.2919907406904,,true,,FEASIBLE,ortools_ChainReaction-60-090_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,CrazyFrog-06_c25.xml.lzma,SAT,15.140691766981035,,true,,FEASIBLE,ortools_CrazyFrog-06_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,CrazyFrog-07_c25.xml.lzma,SAT,253.35907363286242,,true,,FEASIBLE,ortools_CrazyFrog-07_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,CrazyFrog-08_c25.xml.lzma,SAT,286.4259797311388,,true,,FEASIBLE,ortools_CrazyFrog-08_c25.xml.txt.metadata.json
@@ -440,6 +443,8 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-10-128_c25.
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-14-128_c25.xml.lzma,UNSAT,202.67155839502811,,true,,UNSATISFIABLE,ortools_Cryptanalysis-5-14-128_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Cryptanalysis-5-15-128_c25.xml.lzma,SAT,256.774210835807,,true,,FEASIBLE,ortools_Cryptanalysis-5-15-128_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-12-128_c25.xml.lzma,UNSAT,68.60006538685411,,true,,UNSATISFIABLE,ortools_Cryptanalysis-6-12-128_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-16-128_c25.xml.lzma,UNSAT,421.4605050077662,,true,,UNSATISFIABLE,ortools_Cryptanalysis-6-16-128_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Cryptanalysis-6-17-128_c25.xml.lzma,SAT,340.8671350898221,,true,,FEASIBLE,ortools_Cryptanalysis-6-17-128_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,EFPA-3-7-7-06_c25.xml.lzma,SAT,8.423564818222076,,true,,FEASIBLE,ortools_EFPA-3-7-7-06_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,EFPA-3-7-7-07_c25.xml.lzma,UNSAT,95.29834739910439,,true,,UNSATISFIABLE,ortools_EFPA-3-7-7-07_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,EFPA-3-8-8-07_c25.xml.lzma,SAT,25.127661801874638,,true,,FEASIBLE,ortools_EFPA-3-8-8-07_c25.xml.txt.metadata.json
@@ -476,6 +481,9 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0007
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,4.955002787988633,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,20.598302668891847,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0067_c25.xml.lzma,SAT,37.688104800879955,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0067_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,86.19823233922943,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,79.17273320024833,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,136.2386231198907,,,memory,,ortools_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Accordion-11-01_c25.xml.lzma,UNKNOWN,598.7825526366942,,true,,UNKNOWN,scip_Accordion-11-01_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.9851635531522,,true,,UNKNOWN,scip_Accordion-11-03_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Accordion-12-01_c25.xml.lzma,SAT,27.81842453358695,,true,,FEASIBLE,scip_Accordion-12-01_c25.xml.txt.metadata.json
