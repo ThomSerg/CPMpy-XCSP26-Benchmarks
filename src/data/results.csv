@@ -336,6 +336,12 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-3-0600_c25
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-3-1200_c25.xml.lzma,UNKNOWN,601.5713787991554,,,walltime,,scip_RamseyPartition-equ-3-1200_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-4-0060_c25.xml.lzma,UNKNOWN,599.5148695469834,,true,,UNKNOWN,scip_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,31.048916690982878,,true,,UNSATISFIABLE,scip_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-4-0064_c25.xml.lzma,UNKNOWN,599.4531133072451,,true,,UNKNOWN,scip_RamseyPartition-equ-4-0064_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-4-0080_c25.xml.lzma,UNKNOWN,599.7153618149459,,true,,UNKNOWN,scip_RamseyPartition-equ-4-0080_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-4-0100_c25.xml.lzma,UNKNOWN,599.3592952098697,,true,,UNKNOWN,scip_RamseyPartition-equ-4-0100_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-4-0400_c25.xml.lzma,UNKNOWN,601.2487468440086,,,walltime,,scip_RamseyPartition-equ-4-0400_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-5-0130_c25.xml.lzma,UNKNOWN,599.9157178378664,,true,,UNKNOWN,scip_RamseyPartition-equ-5-0130_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RamseyPartition-equ-5-0140_c25.xml.lzma,UNKNOWN,600.1877879891545,,true,,UNKNOWN,scip_RamseyPartition-equ-5-0140_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-00-14-20_c25.xml.lzma,UNKNOWN,139.31725139310583,,,memory,,scip_Rostering-00-14-20_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-00-14-25_c25.xml.lzma,UNKNOWN,197.32039310084656,,,memory,,scip_Rostering-00-14-25_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-00-14-30_c25.xml.lzma,UNKNOWN,308.23205048171803,,,memory,,scip_Rostering-00-14-30_c25.xml.txt.metadata.json
@@ -344,6 +350,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-22-25_c25.xml.lzm
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-22-30_c25.xml.lzma,UNKNOWN,282.49316559173167,,,memory,,scip_Rostering-25-22-30_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,138.97527326829731,,,memory,,scip_Rostering-25-28-20_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-28-25_c25.xml.lzma,UNKNOWN,174.42957357130945,,,memory,,scip_Rostering-25-28-25_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-28-30_c25.xml.lzma,UNKNOWN,324.9980448218994,,,memory,,scip_Rostering-25-28-30_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.097221382893622,,,exitcode:1,,scip_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.371963564772159,,,exitcode:1,,scip_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,2.529609049204737,,,exitcode:1,,scip_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
@@ -358,6 +365,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RotatingRostering-064-2-4-c25.
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RotatingRostering-088-2-4-c25.xml.lzma,UNKNOWN,3.0865026083774865,,,exitcode:1,,scip_RotatingRostering-088-2-4-c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,2.670531475916505,,,exitcode:1,,scip_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,2.7922469759359956,,,exitcode:1,,scip_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,211.5226841471158,,,memory,,scip_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.72312386892736,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,336.42890187958255,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,4.76947988756001,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
