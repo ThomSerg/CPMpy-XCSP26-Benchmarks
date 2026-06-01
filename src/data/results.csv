@@ -155,6 +155,12 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,Rostering-25-22-20_c25.xml.lz
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,Rostering-25-22-25_c25.xml.lzma,UNKNOWN,601.1445356211625,,,walltime,,exact_Rostering-25-22-25_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,Rostering-25-22-30_c25.xml.lzma,UNKNOWN,601.2615428906865,,,walltime,,exact_Rostering-25-22-30_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,Rostering-25-22-35_c25.xml.lzma,UNKNOWN,533.9876722097397,,,memory,,exact_Rostering-25-22-35_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,Rostering-25-22-40_c25.xml.lzma,UNKNOWN,601.345233167056,,,walltime,,exact_Rostering-25-22-40_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,601.1053134063259,,true,walltime,UNKNOWN,exact_Rostering-25-28-20_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,Rostering-25-28-25_c25.xml.lzma,UNKNOWN,601.1186410840601,,,walltime,,exact_Rostering-25-28-25_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,Rostering-25-28-30_c25.xml.lzma,UNKNOWN,601.3501949147321,,,walltime,,exact_Rostering-25-28-30_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,Rostering-25-28-35_c25.xml.lzma,UNKNOWN,601.361470122356,,,walltime,,exact_Rostering-25-28-35_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,Rostering-25-28-40_c25.xml.lzma,UNKNOWN,601.4004927650094,,,walltime,,exact_Rostering-25-28-40_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.476663577836007,,,exitcode:1,,exact_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.4113634759560227,,,exitcode:1,,exact_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,2.4082433208823204,,,exitcode:1,,exact_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
@@ -170,6 +176,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RotatingRostering-088-2-4-c25
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.4209041562862694,,,exitcode:1,,exact_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.704379504080862,,,exitcode:1,,exact_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,SEDF-19-1-C19-3-3-1_c25.xml.lzma,SAT,455.6465071178973,,true,,FEASIBLE,exact_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNKNOWN,601.0780257941224,,,walltime,,exact_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-11-01_c25.xml.lzma,SAT,22.805293162818998,,true,,FEASIBLE,gurobi_Accordion-11-01_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.813192569185,,true,,UNKNOWN,gurobi_Accordion-11-03_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Accordion-12-01_c25.xml.lzma,SAT,320.7437606132589,,true,,FEASIBLE,gurobi_Accordion-12-01_c25.xml.txt.metadata.json
