@@ -1,15 +1,16 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Reduce_MDD,Reduce MDD,2026-06-01T09:39:26,2026-06-01T10:09:02,c6597946 — Merge remote-tracking branch 'origin/master' into xcsp3_26,true,XCSP3-2025-CSP25,141,338,600.0
-2,Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,2026-05-31T22:29:41,2026-06-01T03:44:37,e3f20354 — Test: Force cumulative time for linear decompose,false,XCSP3-2025-CSP25,212,800,1800.0
-3,Some_transformation_improvements_-_long,Some transformation improvements - long,2026-05-29T18:48:40,2026-05-30T01:11:34,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,245,800,1800.0
-4,Order_encoding_for_inequalities,Order encoding for inequalities,2026-05-29T13:59:57,2026-05-29T18:03:17,e3f20354 — Test: Force cumulative time for linear decompose,false,XCSP3-2025-CSP25,98,600,600.0
-5,NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,2026-05-29T10:57:41,2026-05-29T17:22:33,4566ba81 — Test: linear decomp nooverlap via cumulative,false,XCSP3-2025-CSP25,96,600,600.0
-6,Positive_MDD_decomp,Positive MDD decomp,2026-05-29T09:27:01,2026-05-29T09:57:51,85556f00 — Positive MDD test,false,XCSP3-2025-CSP25,40,200,600.0
-7,Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,2026-05-28T16:55:01,2026-05-29T00:03:40,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,68,400,600.0
-8,Table_with_MDD_decomp,Table with MDD decomp,2026-05-28T16:47:14,2026-05-29T05:10:05,3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition),false,XCSP3-2025-CSP25,397,1800,600.0
-9,Some_transformation_improvements,Some transformation improvements,2026-05-28T10:26:53,2026-05-28T15:47:34,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,435,1800,600.0
-10,Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,2026-05-27T09:08:46,2026-05-27T20:08:47,,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,1554,3800,600.0
-11,MDD_global,MDD global,2026-05-26T16:50:39,2026-05-27T09:05:54,,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,436,1807,600.0
-12,linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,2026-05-26T13:50:16,2026-05-26T16:38:08,,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,321,450,600.0
-13,baseline,baseline,2026-05-21T16:23:19,2026-05-26T15:47:47,45fc0181 — Deprecate old runner,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,1519,3800,600.0
-14,Submission_2025,Submission 2025,2026-05-22T12:57:37,2026-05-22T22:44:59,1e446eaf — Add count to second decompose_numerical location,false,XCSP3-2025-CSP25,210,1400,600.0
+1,Per-table_type_linear_decompose,Per-table type linear decompose,2026-06-01T10:29:03,,d6eff956 — Per-table type  linear decompose,true,XCSP3-2025-CSP25,0,0,
+2,Reduce_MDD,Reduce MDD,2026-06-01T09:39:26,2026-06-01T10:09:02,,false,XCSP3-2025-CSP25;unknown,141,341,600.0
+3,Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,2026-05-31T22:29:41,2026-06-01T03:44:37,e3f20354 — Test: Force cumulative time for linear decompose,false,XCSP3-2025-CSP25,212,800,1800.0
+4,Some_transformation_improvements_-_long,Some transformation improvements - long,2026-05-29T18:48:40,2026-05-30T01:11:34,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,245,800,1800.0
+5,Order_encoding_for_inequalities,Order encoding for inequalities,2026-05-29T13:59:57,2026-05-29T18:03:17,e3f20354 — Test: Force cumulative time for linear decompose,false,XCSP3-2025-CSP25,98,600,600.0
+6,NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,2026-05-29T10:57:41,2026-05-29T17:22:33,4566ba81 — Test: linear decomp nooverlap via cumulative,false,XCSP3-2025-CSP25,96,600,600.0
+7,Positive_MDD_decomp,Positive MDD decomp,2026-05-29T09:27:01,2026-05-29T09:57:51,85556f00 — Positive MDD test,false,XCSP3-2025-CSP25,40,200,600.0
+8,Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,2026-05-28T16:55:01,2026-05-29T00:03:40,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,68,400,600.0
+9,Table_with_MDD_decomp,Table with MDD decomp,2026-05-28T16:47:14,2026-05-29T05:10:05,3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition),false,XCSP3-2025-CSP25,397,1800,600.0
+10,Some_transformation_improvements,Some transformation improvements,2026-05-28T10:26:53,2026-05-28T15:47:34,6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,435,1800,600.0
+11,Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,2026-05-27T09:08:46,2026-05-27T20:08:47,,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,1554,3800,600.0
+12,MDD_global,MDD global,2026-05-26T16:50:39,2026-05-27T09:05:54,,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,436,1807,600.0
+13,linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,2026-05-26T13:50:16,2026-05-26T16:38:08,,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,321,450,600.0
+14,baseline,baseline,2026-05-21T16:23:19,2026-05-26T15:47:47,45fc0181 — Deprecate old runner,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,1519,3800,600.0
+15,Submission_2025,Submission 2025,2026-05-22T12:57:37,2026-05-22T22:44:59,1e446eaf — Add count to second decompose_numerical location,false,XCSP3-2025-CSP25,210,1400,600.0

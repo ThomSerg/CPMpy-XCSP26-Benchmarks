@@ -99,6 +99,13 @@
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-06-01T09:39:26",
       "last_run_at": "2026-06-01T10:09:02"
+    },
+    {
+      "name": "Per-table type linear decompose",
+      "slug": "Per-table_type_linear_decompose",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-06-01T10:29:03",
+      "last_run_at": null
     }
   ]
 }

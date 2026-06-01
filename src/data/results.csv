@@ -73,6 +73,8 @@ Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,EFPA-6-4-4-14_c25.xml.lzma,UNKNOWN
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,GracefulGraph-03-08_c25.xml.lzma,UNKNOWN,598.8559667412192,,true,,UNKNOWN,gurobi_GracefulGraph-03-08_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,GracefulGraph-03-10_c25.xml.lzma,UNKNOWN,598.9278079769574,,true,,UNKNOWN,gurobi_GracefulGraph-03-10_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,GracefulGraph-04-05_c25.xml.lzma,UNKNOWN,598.8871427699924,,true,,UNKNOWN,gurobi_GracefulGraph-04-05_c25.xml.txt.metadata.json
+Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,GracefulGraph-04-06_c25.xml.lzma,UNKNOWN,598.9127108249813,,true,,UNKNOWN,gurobi_GracefulGraph-04-06_c25.xml.txt.metadata.json
+Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,GracefulGraph-05-04_c25.xml.lzma,UNKNOWN,598.9701440208592,,true,,UNKNOWN,gurobi_GracefulGraph-05-04_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Heterosquare-easy-20_c25.xml.lzma,SAT,64.09288568561897,,true,,FEASIBLE,gurobi_Heterosquare-easy-20_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Heterosquare-easy-50_c25.xml.lzma,UNKNOWN,508.8077534083277,,,memory,,gurobi_Heterosquare-easy-50_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,287.8650825419463,,,memory,,gurobi_Heterosquare-easy-60_c25.xml.txt.metadata.json
@@ -135,6 +137,7 @@ Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,RotatingRostering-044-2-4_c25.xml.
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,RotatingRostering-052-2-3_c25.xml.lzma,UNKNOWN,3.1610017931088805,,,exitcode:1,,gurobi_RotatingRostering-052-2-3_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,RotatingRostering-052-2-4_c25.xml.lzma,UNKNOWN,3.1291520898230374,,,exitcode:1,,gurobi_RotatingRostering-052-2-4_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,RotatingRostering-064-2-4-c25.xml.lzma,UNKNOWN,3.0594020457938313,,,exitcode:1,,gurobi_RotatingRostering-064-2-4-c25.xml.txt.metadata.json
+Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,RotatingRostering-088-2-4-c25.xml.lzma,UNKNOWN,3.4479245711117983,,,exitcode:1,,gurobi_RotatingRostering-088-2-4-c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.3373253499157727,,,exitcode:1,,gurobi_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.9906246243044734,,,exitcode:1,,gurobi_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,ortools,Accordion-11-01_c25.xml.lzma,SAT,2.819336833897978,,true,,FEASIBLE,ortools_Accordion-11-01_c25.xml.txt.metadata.json
