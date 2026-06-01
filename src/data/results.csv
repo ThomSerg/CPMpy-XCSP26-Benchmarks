@@ -6,6 +6,7 @@ Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,Accordion-14-04_c25.xml.lzma,SAT,42.860668644774705,,true,,FEASIBLE,gurobi_Accordion-14-04_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,Accordion-15-03_c25.xml.lzma,SAT,19.242014766205102,,true,,FEASIBLE,gurobi_Accordion-15-03_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,Accordion-15-04_c25.xml.lzma,SAT,16.649842196144164,,true,,FEASIBLE,gurobi_Accordion-15-04_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,Accordion-16-01_c25.xml.lzma,SAT,316.44852950191125,,true,,FEASIBLE,gurobi_Accordion-16-01_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,Accordion-16-04_c25.xml.lzma,SAT,14.600203885231167,,true,,FEASIBLE,gurobi_Accordion-16-04_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,Accordion-16-05_c25.xml.lzma,SAT,19.345727394800633,,true,,FEASIBLE,gurobi_Accordion-16-05_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,AlmostMagic-03-030_c25.xml.lzma,UNSAT,168.68016911810264,,true,,UNSATISFIABLE,gurobi_AlmostMagic-03-030_c25.xml.txt.metadata.json
@@ -20,7 +21,9 @@ Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,AlmostMagic-09-200_c25.xml.lzma,UNSAT,7.145444550085813,,true,,UNSATISFIABLE,gurobi_AlmostMagic-09-200_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,AlmostMagic-10-250_c25.xml.lzma,UNSAT,11.080867820885032,,true,,UNSATISFIABLE,gurobi_AlmostMagic-10-250_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,ChainReaction-20-025_c25.xml.lzma,SAT,22.1271092700772,,true,,FEASIBLE,gurobi_ChainReaction-20-025_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,CrazyFrog-09_c25.xml.lzma,UNKNOWN,390.7984025753103,,,memory,,gurobi_CrazyFrog-09_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,CrazyFrog-10_c25.xml.lzma,UNKNOWN,280.8800923251547,,,memory,,gurobi_CrazyFrog-10_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-06_c25.xml.lzma,SAT,262.8217229610309,,true,,FEASIBLE,gurobi_CrazyFrog-table-06_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,181.50625980412588,,,memory,,gurobi_CrazyFrog-table-07_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,181.12507983110845,,,memory,,gurobi_CrazyFrog-table-08_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,125.65919606108218,,,memory,,gurobi_CrazyFrog-table-09_c25.xml.txt.metadata.json
