@@ -201,6 +201,9 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-33_c25.
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,601.272090734914,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Accordion-12-01_c25.xml.lzma,SAT,27.81842453358695,,true,,FEASIBLE,scip_Accordion-12-01_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Accordion-13-02_c25.xml.lzma,SAT,49.963828802108765,,true,,FEASIBLE,scip_Accordion-13-02_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Accordion-14-03_c25.xml.lzma,SAT,416.50226853089407,,true,,FEASIBLE,scip_Accordion-14-03_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,AlmostMagic-03-030_c25.xml.lzma,UNSAT,411.40746701695025,,true,,UNSATISFIABLE,scip_AlmostMagic-03-030_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,AlmostMagic-03-040_c25.xml.lzma,SAT,510.3369030659087,,true,,FEASIBLE,scip_AlmostMagic-03-040_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,AlmostMagic-03-070_c25.xml.lzma,SAT,36.26121553219855,,true,,FEASIBLE,scip_AlmostMagic-03-070_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,AlmostMagic-04-050_c25.xml.lzma,SAT,99.13296512095258,,true,,FEASIBLE,scip_AlmostMagic-04-050_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,AlmostMagic-04-080_c25.xml.lzma,SAT,24.574505425058305,,true,,FEASIBLE,scip_AlmostMagic-04-080_c25.xml.txt.metadata.json
@@ -209,6 +212,8 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,AlmostMagic-07-130_c25.xml.lzm
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,AlmostMagic-08-160_c25.xml.lzma,UNSAT,12.237169259227812,,true,,UNSATISFIABLE,scip_AlmostMagic-08-160_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,AlmostMagic-09-200_c25.xml.lzma,UNSAT,29.462097852956504,,true,,UNSATISFIABLE,scip_AlmostMagic-09-200_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,AlmostMagic-10-250_c25.xml.lzma,UNSAT,239.55245915800333,,true,,UNSATISFIABLE,scip_AlmostMagic-10-250_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,CrazyFrog-10_c25.xml.lzma,UNKNOWN,323.90833861287683,,,memory,,scip_CrazyFrog-10_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,CrazyFrog-table-08_c25.xml.lzma,UNKNOWN,407.76297404803336,,,memory,,scip_CrazyFrog-table-08_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,128.79245297703892,,,memory,,scip_CrazyFrog-table-09_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,197.71189038129523,,,memory,,scip_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.72312386892736,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
