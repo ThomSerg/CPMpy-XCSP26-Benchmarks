@@ -140,7 +140,27 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-4-0064_c
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-4-0080_c25.xml.lzma,UNKNOWN,600.3205053959973,,true,,UNKNOWN,gurobi_RamseyPartition-equ-4-0080_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-4-0100_c25.xml.lzma,UNKNOWN,599.6599287949502,,true,,UNKNOWN,gurobi_RamseyPartition-equ-4-0100_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-4-0400_c25.xml.lzma,UNKNOWN,601.2072925819084,,true,walltime,UNKNOWN,gurobi_RamseyPartition-equ-4-0400_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-5-0130_c25.xml.lzma,UNKNOWN,600.0600777431391,,true,,UNKNOWN,gurobi_RamseyPartition-equ-5-0130_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-5-0140_c25.xml.lzma,UNKNOWN,600.9366855858825,,true,,UNKNOWN,gurobi_RamseyPartition-equ-5-0140_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-5-0160_c25.xml.lzma,UNKNOWN,601.155012793839,,true,walltime,UNKNOWN,gurobi_RamseyPartition-equ-5-0160_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-5-0180_c25.xml.lzma,UNKNOWN,600.536079196725,,true,,UNKNOWN,gurobi_RamseyPartition-equ-5-0180_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-5-0200_c25.xml.lzma,UNKNOWN,600.9486585962586,,true,,UNKNOWN,gurobi_RamseyPartition-equ-5-0200_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RamseyPartition-equ-5-0400_c25.xml.lzma,UNKNOWN,601.2542760819197,,true,walltime,UNKNOWN,gurobi_RamseyPartition-equ-5-0400_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-00-14-20_c25.xml.lzma,UNKNOWN,601.3645723178051,,true,walltime,UNKNOWN,gurobi_Rostering-00-14-20_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-00-14-25_c25.xml.lzma,UNKNOWN,601.4221234037541,,true,walltime,UNKNOWN,gurobi_Rostering-00-14-25_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-00-14-30_c25.xml.lzma,UNKNOWN,588.2178194411099,,,memory,,gurobi_Rostering-00-14-30_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-00-14-35_c25.xml.lzma,UNKNOWN,601.6691357661039,,,walltime,,gurobi_Rostering-00-14-35_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-00-14-40_c25.xml.lzma,UNKNOWN,601.4544282960705,,,walltime,,gurobi_Rostering-00-14-40_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-25-22-20_c25.xml.lzma,UNKNOWN,601.2313737478107,,true,walltime,UNKNOWN,gurobi_Rostering-25-22-20_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-25-22-25_c25.xml.lzma,UNKNOWN,601.5605209516361,,true,walltime,UNKNOWN,gurobi_Rostering-25-22-25_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-25-22-30_c25.xml.lzma,UNKNOWN,601.4704810683616,,,walltime,,gurobi_Rostering-25-22-30_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-25-22-35_c25.xml.lzma,UNKNOWN,601.6001735311002,,,walltime,,gurobi_Rostering-25-22-35_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-25-22-40_c25.xml.lzma,UNKNOWN,601.3763617523946,,,walltime,,gurobi_Rostering-25-22-40_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,601.226792533882,,true,walltime,UNKNOWN,gurobi_Rostering-25-28-20_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-25-28-25_c25.xml.lzma,UNKNOWN,601.5754231861793,,,walltime,,gurobi_Rostering-25-28-25_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-25-28-30_c25.xml.lzma,UNKNOWN,524.1046265829355,,,memory,,gurobi_Rostering-25-28-30_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-25-28-35_c25.xml.lzma,UNKNOWN,601.3788570878096,,,walltime,,gurobi_Rostering-25-28-35_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Rostering-25-28-40_c25.xml.lzma,UNKNOWN,601.4349205661565,,,walltime,,gurobi_Rostering-25-28-40_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.338893197942525,,,exitcode:1,,gurobi_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.247493485920131,,,exitcode:1,,gurobi_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,2.7655078852549195,,,exitcode:1,,gurobi_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
@@ -155,6 +175,13 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RotatingRostering-064-2-4-c2
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RotatingRostering-088-2-4-c25.xml.lzma,UNKNOWN,3.33773641474545,,,exitcode:1,,gurobi_RotatingRostering-088-2-4-c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.427846743259579,,,exitcode:1,,gurobi_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.4488736209459603,,,exitcode:1,,gurobi_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-19-1-C19-3-3-1_c25.xml.lzma,UNKNOWN,599.5831543169916,,true,,UNKNOWN,gurobi_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNKNOWN,601.05214685807,,true,walltime,UNKNOWN,gurobi_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNKNOWN,600.9957089601085,,true,,UNKNOWN,gurobi_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,601.2421303903684,,true,walltime,UNKNOWN,gurobi_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-25-2-C5xC5-7-2-1_c25.xml.lzma,UNKNOWN,601.2109500449151,,true,walltime,UNKNOWN,gurobi_SEDF-25-2-C5xC5-7-2-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-28-1-C7C4-4-3-1_c25.xml.lzma,UNKNOWN,601.0391028481536,,true,walltime,UNKNOWN,gurobi_SEDF-28-1-C7C4-4-3-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-28-2-C28-4-3-1_c25.xml.lzma,UNKNOWN,601.1596341058612,,true,walltime,UNKNOWN,gurobi_SEDF-28-2-C28-4-3-1_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.72312386892736,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,336.42890187958255,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,4.76947988756001,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
