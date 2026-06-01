@@ -355,6 +355,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-22-20_c25.xml.lzm
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-22-25_c25.xml.lzma,UNKNOWN,186.79482606984675,,,memory,,scip_Rostering-25-22-25_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-22-30_c25.xml.lzma,UNKNOWN,282.49316559173167,,,memory,,scip_Rostering-25-22-30_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-22-35_c25.xml.lzma,UNKNOWN,479.0384577829391,,,memory,,scip_Rostering-25-22-35_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-22-40_c25.xml.lzma,UNKNOWN,601.5517281391658,,,walltime,,scip_Rostering-25-22-40_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,138.97527326829731,,,memory,,scip_Rostering-25-28-20_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-28-25_c25.xml.lzma,UNKNOWN,174.42957357130945,,,memory,,scip_Rostering-25-28-25_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Rostering-25-28-30_c25.xml.lzma,UNKNOWN,324.9980448218994,,,memory,,scip_Rostering-25-28-30_c25.xml.txt.metadata.json
@@ -388,6 +389,9 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-16_c25.xm
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-17_c25.xml.lzma,UNKNOWN,601.1967112603597,,,walltime,,scip_TilingRythmicCanons1-17_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-18_c25.xml.lzma,UNKNOWN,601.1678545968607,,,walltime,,scip_TilingRythmicCanons1-18_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-19_c25.xml.lzma,UNKNOWN,600.9791477839462,,true,,UNKNOWN,scip_TilingRythmicCanons1-19_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-20_c25.xml.lzma,UNKNOWN,601.2257107510231,,,walltime,,scip_TilingRythmicCanons1-20_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-21_c25.xml.lzma,UNKNOWN,601.1907979450189,,true,walltime,UNKNOWN,scip_TilingRythmicCanons1-21_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-22_c25.xml.lzma,UNKNOWN,601.1410330119543,,true,walltime,UNKNOWN,scip_TilingRythmicCanons1-22_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-30_c25.xml.lzma,UNKNOWN,183.8862447249703,,,memory,,scip_TilingRythmicCanons1-30_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,226.92015557782724,,,memory,,scip_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,165.76598721323535,,,memory,,scip_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
