@@ -556,9 +556,11 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-25-22-25_c25.xml.
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-25-22-30_c25.xml.lzma,SAT,528.9946172703058,,true,,FEASIBLE,ortools_Rostering-25-22-30_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-25-22-35_c25.xml.lzma,UNKNOWN,600.0505560808815,,true,,UNKNOWN,ortools_Rostering-25-22-35_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-25-22-40_c25.xml.lzma,UNKNOWN,599.9422920420766,,true,,UNKNOWN,ortools_Rostering-25-22-40_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-25-28-20_c25.xml.lzma,UNKNOWN,597.4491808507591,,true,,UNKNOWN,ortools_Rostering-25-28-20_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-25-28-25_c25.xml.lzma,SAT,63.833997547160834,,true,,FEASIBLE,ortools_Rostering-25-28-25_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-25-28-30_c25.xml.lzma,UNKNOWN,599.4598149736412,,true,,UNKNOWN,ortools_Rostering-25-28-30_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-25-28-35_c25.xml.lzma,UNKNOWN,599.8439373779111,,true,,UNKNOWN,ortools_Rostering-25-28-35_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-25-28-40_c25.xml.lzma,UNKNOWN,600.3062818986364,,true,,UNKNOWN,ortools_Rostering-25-28-40_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.839688985142857,,,exitcode:1,,ortools_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.6677236459217966,,,exitcode:1,,ortools_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,RotatingRostering-020-2-3_c25.xml.lzma,UNKNOWN,3.1037534750066698,,,exitcode:1,,ortools_RotatingRostering-020-2-3_c25.xml.txt.metadata.json
@@ -576,6 +578,10 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,RotatingRostering-196-2-4_c
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,SEDF-19-1-C19-3-3-1_c25.xml.lzma,SAT,33.847806375008076,,true,,FEASIBLE,ortools_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNSAT,297.71853160485625,,true,,UNSATISFIABLE,ortools_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNSAT,342.378365019802,,true,,UNSATISFIABLE,ortools_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,597.9356480990537,,true,,UNKNOWN,ortools_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,SEDF-25-2-C5xC5-7-2-1_c25.xml.lzma,UNKNOWN,598.0776206450537,,true,,UNKNOWN,ortools_SEDF-25-2-C5xC5-7-2-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,SEDF-28-1-C7C4-4-3-1_c25.xml.lzma,UNKNOWN,599.0475328010507,,true,,UNKNOWN,ortools_SEDF-28-1-C7C4-4-3-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,SEDF-28-2-C28-4-3-1_c25.xml.lzma,UNKNOWN,597.56007267721,,true,,UNKNOWN,ortools_SEDF-28-2-C28-4-3-1_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,TilingRythmicCanons1-23_c25.xml.lzma,SAT,107.94713878817856,,true,,FEASIBLE,ortools_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Accordion-11-01_c25.xml.lzma,UNKNOWN,598.7825526366942,,true,,UNKNOWN,scip_Accordion-11-01_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,Accordion-11-03_c25.xml.lzma,UNKNOWN,598.9851635531522,,true,,UNKNOWN,scip_Accordion-11-03_c25.xml.txt.metadata.json
