@@ -59,6 +59,11 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Cryptanalysis-6-12-128_c25.x
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Cryptanalysis-6-16-128_c25.xml.lzma,UNKNOWN,599.7941541746259,,true,,UNKNOWN,gurobi_Cryptanalysis-6-16-128_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Cryptanalysis-6-17-128_c25.xml.lzma,UNKNOWN,599.9802085813135,,true,,UNKNOWN,gurobi_Cryptanalysis-6-17-128_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,EFPA-3-7-7-06_c25.xml.lzma,SAT,241.2734786318615,,true,,FEASIBLE,gurobi_EFPA-3-7-7-06_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,EFPA-3-7-7-07_c25.xml.lzma,UNKNOWN,598.7875492270105,,true,,UNKNOWN,gurobi_EFPA-3-7-7-07_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,EFPA-3-8-8-07_c25.xml.lzma,UNKNOWN,598.8357446277514,,true,,UNKNOWN,gurobi_EFPA-3-8-8-07_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,EFPA-3-8-8-08_c25.xml.lzma,UNKNOWN,598.8866952499375,,true,,UNKNOWN,gurobi_EFPA-3-8-8-08_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,EFPA-4-4-5-10_c25.xml.lzma,UNKNOWN,598.8113672500476,,true,,UNKNOWN,gurobi_EFPA-4-4-5-10_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,EFPA-4-4-5-11_c25.xml.lzma,UNKNOWN,598.9273155988194,,true,,UNKNOWN,gurobi_EFPA-4-4-5-11_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Heterosquare-easy-20_c25.xml.lzma,SAT,62.0501815401949,,true,,FEASIBLE,gurobi_Heterosquare-easy-20_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-05_c25.xml.lzma,SAT,4.402153132017702,,true,,FEASIBLE,gurobi_Heterosquare-fair-05_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,Heterosquare-fair-10_c25.xml.lzma,SAT,49.38945948006585,,true,,FEASIBLE,gurobi_Heterosquare-fair-10_c25.xml.txt.metadata.json
@@ -77,6 +82,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0007_
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,4.6999605991877615,,true,,FEASIBLE,gurobi_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,15.115459959954023,,true,,FEASIBLE,gurobi_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0067_c25.xml.lzma,SAT,21.88676353590563,,true,,FEASIBLE,gurobi_LotteryDesign-32-6-6-2-0067_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0087_c25.xml.lzma,SAT,43.59657061472535,,true,,FEASIBLE,gurobi_LotteryDesign-32-6-6-2-0087_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0107_c25.xml.lzma,SAT,57.5010454589501,,true,,FEASIBLE,gurobi_LotteryDesign-32-6-6-2-0107_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.72312386892736,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,336.42890187958255,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
