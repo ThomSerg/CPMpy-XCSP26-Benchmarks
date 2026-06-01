@@ -118,6 +118,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0307_
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,543.121344148647,,,memory,,gurobi_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,601.4911928391084,,,walltime,,gurobi_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,601.328060999047,,,walltime,,gurobi_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,601.4903230289929,,,walltime,,gurobi_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,PegSolitaireTable-english-0-2-0_c25.xml.lzma,UNSAT,92.61967471893877,,true,,UNSATISFIABLE,gurobi_PegSolitaireTable-english-0-2-0_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,PegSolitaireTable-english-0-3-0_c25.xml.lzma,SAT,146.03090645512566,,true,,FEASIBLE,gurobi_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,PegSolitaireTable-english-0-4-0_c25.xml.lzma,UNSAT,97.14682705001906,,true,,UNSATISFIABLE,gurobi_PegSolitaireTable-english-0-4-0_c25.xml.txt.metadata.json
