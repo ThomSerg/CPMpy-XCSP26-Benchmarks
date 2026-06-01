@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Reduce MDD - rerun** 🔄 | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 14:28:52 | 134/554 |
+| 1 | **Reduce MDD - rerun** 🔄 | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 14:28:52 | 134/572 |
 | 2 | **Per-table type linear decompose** | XCSP3-2025-CSP25 | `d6eff956 — Per-table type  linear decompose` | 2026-06-01 10:29:03 | 2026-06-01 12:31:23 | 126/600 |
 | 3 | **Reduce MDD** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-01 09:39:26 | 2026-06-01 10:09:02 | 141/341 |
 | 4 | **Order encoding for inequalities - long** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-31 22:29:41 | 2026-06-01 03:44:37 | 212/800 |
@@ -34,7 +34,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `7a2345fa — Merge remote-tracking branch '
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-01 13:09:00 | — |
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 166/200 | 2026-06-01 14:29:18 | 30m 08s |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 173/200 | 2026-06-01 14:29:18 | 32m 18s |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-01 13:48:26 | — |
 | `ortools` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
@@ -53,7 +53,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `7a2345fa — Merge remote-tracking branch '
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `gurobi` | 39 | 22 | 48 | 91 | 200 |
-| `exact` | 38 | 13 | 56 | 59 | 166 |
+| `exact` | 39 | 13 | 61 | 60 | 173 |
 | `scip` | 12 | 10 | 51 | 127 | 200 |
 
 #### Solution Checker
@@ -61,7 +61,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `7a2345fa — Merge remote-tracking branch '
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `gurobi` | 148 | 0 | 52 | 200 |
-| `exact` | 92 | 0 | 74 | 166 |
+| `exact` | 94 | 0 | 79 | 173 |
 | `scip` | 109 | 0 | 91 | 200 |
 
 ---
