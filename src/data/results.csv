@@ -202,13 +202,19 @@ Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Accordion-12-01_c25.xml.lzma,SAT,41.77049849322066,,true,,FEASIBLE,scip_Accordion-12-01_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Accordion-13-02_c25.xml.lzma,SAT,103.79767908528447,,true,,FEASIBLE,scip_Accordion-13-02_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Accordion-14-04_c25.xml.lzma,SAT,94.54205204406753,,true,,FEASIBLE,scip_Accordion-14-04_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Accordion-15-03_c25.xml.lzma,SAT,120.98733349470422,,true,,FEASIBLE,scip_Accordion-15-03_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Accordion-16-04_c25.xml.lzma,SAT,180.52175764227286,,true,,FEASIBLE,scip_Accordion-16-04_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,AlmostMagic-03-070_c25.xml.lzma,SAT,30.35293654585257,,true,,FEASIBLE,scip_AlmostMagic-03-070_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,AlmostMagic-04-050_c25.xml.lzma,SAT,91.38098430726677,,true,,FEASIBLE,scip_AlmostMagic-04-050_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,AlmostMagic-04-080_c25.xml.lzma,SAT,37.06710232933983,,true,,FEASIBLE,scip_AlmostMagic-04-080_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,AlmostMagic-05-070_c25.xml.lzma,SAT,59.26019276306033,,true,,FEASIBLE,scip_AlmostMagic-05-070_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,AlmostMagic-07-130_c25.xml.lzma,UNSAT,15.654849092941731,,true,,UNSATISFIABLE,scip_AlmostMagic-07-130_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,AlmostMagic-08-160_c25.xml.lzma,UNSAT,25.301781647838652,,true,,UNSATISFIABLE,scip_AlmostMagic-08-160_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,AlmostMagic-09-200_c25.xml.lzma,UNSAT,34.63996434677392,,true,,UNSATISFIABLE,scip_AlmostMagic-09-200_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,AlmostMagic-10-250_c25.xml.lzma,UNSAT,73.27622782578692,,true,,UNSATISFIABLE,scip_AlmostMagic-10-250_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,CrazyFrog-table-07_c25.xml.lzma,UNKNOWN,211.3505567801185,,,memory,,scip_CrazyFrog-table-07_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,CrazyFrog-table-09_c25.xml.lzma,UNKNOWN,135.28102329513058,,,memory,,scip_CrazyFrog-table-09_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,CrazyFrog-table-10_c25.xml.lzma,UNKNOWN,128.08491169195622,,,memory,,scip_CrazyFrog-table-10_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Accordion-11-01_c25.xml.lzma,UNKNOWN,2.559199946001172,,,exitcode:1,,gurobi_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Accordion-11-03_c25.xml.lzma,UNKNOWN,2.605086226016283,,,exitcode:1,,gurobi_Accordion-11-03_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Accordion-12-01_c25.xml.lzma,UNKNOWN,2.6360863125883043,,,exitcode:1,,gurobi_Accordion-12-01_c25.xml.txt.metadata.json
