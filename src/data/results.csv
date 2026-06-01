@@ -197,6 +197,17 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanon
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-30_c25.xml.lzma,UNKNOWN,601.1324867838994,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-30_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-31_c25.xml.lzma,UNKNOWN,601.1977128880098,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-31_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-32_c25.xml.lzma,UNKNOWN,601.2147994488478,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-32_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-33_c25.xml.lzma,UNKNOWN,601.2637676605955,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-33_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-36_c25.xml.lzma,UNKNOWN,601.2368018417619,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-36_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,Accordion-12-01_c25.xml.lzma,SAT,34.830714114010334,,true,,FEASIBLE,scip_Accordion-12-01_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,Accordion-14-04_c25.xml.lzma,SAT,78.10466111497954,,true,,FEASIBLE,scip_Accordion-14-04_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,Accordion-16-04_c25.xml.lzma,SAT,117.22934155212715,,true,,FEASIBLE,scip_Accordion-16-04_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,AlmostMagic-03-070_c25.xml.lzma,SAT,9.5618806919083,,true,,FEASIBLE,scip_AlmostMagic-03-070_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,AlmostMagic-04-080_c25.xml.lzma,SAT,20.105917991138995,,true,,FEASIBLE,scip_AlmostMagic-04-080_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,AlmostMagic-07-130_c25.xml.lzma,UNSAT,12.704672847874463,,true,,UNSATISFIABLE,scip_AlmostMagic-07-130_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,AlmostMagic-08-160_c25.xml.lzma,UNSAT,23.34523359593004,,true,,UNSATISFIABLE,scip_AlmostMagic-08-160_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,AlmostMagic-09-200_c25.xml.lzma,UNSAT,19.872773682232946,,true,,UNSATISFIABLE,scip_AlmostMagic-09-200_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,AlmostMagic-10-250_c25.xml.lzma,UNSAT,54.16855022776872,,true,,UNSATISFIABLE,scip_AlmostMagic-10-250_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,9.653940726071596,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,294.5453131599352,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,5.022280587814748,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
