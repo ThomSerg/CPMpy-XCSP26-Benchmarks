@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,38,21,0,128,187,142,0,45
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,38,21,0,136,195,150,0,45
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,39,13,0,148,200,95,0,105
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,39,22,0,139,200,148,0,52
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,75,24,0,101,200,174,0,26

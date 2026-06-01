@@ -185,7 +185,15 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-28-2-C28-4-3-1_c25.xml.
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,601.0884086620063,,true,walltime,UNKNOWN,gurobi_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-28-4-C14xC2-4-3-1_c25.xml.lzma,UNKNOWN,601.230940731708,,true,walltime,UNKNOWN,gurobi_SEDF-28-4-C14xC2-4-3-1_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,601.3070953390561,,true,walltime,UNKNOWN,gurobi_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-16_c25.xml.lzma,UNKNOWN,600.8634490631521,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-16_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-17_c25.xml.lzma,UNKNOWN,600.6370131578296,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-17_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-18_c25.xml.lzma,UNKNOWN,600.6070161880925,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-18_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-19_c25.xml.lzma,UNKNOWN,600.2131179678254,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-19_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-20_c25.xml.lzma,UNKNOWN,601.0791015769355,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-20_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-21_c25.xml.lzma,UNKNOWN,600.4502944969572,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-21_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-22_c25.xml.lzma,UNKNOWN,600.2805681340396,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-22_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-23_c25.xml.lzma,UNKNOWN,600.0200861929916,,true,,UNKNOWN,gurobi_TilingRythmicCanons1-23_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,TilingRythmicCanons1-24_c25.xml.lzma,UNKNOWN,601.090051244013,,true,walltime,UNKNOWN,gurobi_TilingRythmicCanons1-24_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,7.72312386892736,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,336.42890187958255,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,4.76947988756001,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
