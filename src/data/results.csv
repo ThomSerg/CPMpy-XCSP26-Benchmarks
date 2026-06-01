@@ -263,6 +263,7 @@ Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,EFPA-3-8-8-07_c25.xml.lzma,UNKNOWN,599.8348221019842,,true,,UNKNOWN,scip_EFPA-3-8-8-07_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,EFPA-3-8-8-08_c25.xml.lzma,UNKNOWN,601.0087570250034,,true,walltime,UNKNOWN,scip_EFPA-3-8-8-08_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,EFPA-4-4-5-10_c25.xml.lzma,UNKNOWN,599.3135775318369,,true,,UNKNOWN,scip_EFPA-4-4-5-10_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,EFPA-4-4-5-11_c25.xml.lzma,UNKNOWN,599.0964447408915,,true,,UNKNOWN,scip_EFPA-4-4-5-11_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,EFPA-4-5-4-10_c25.xml.lzma,UNKNOWN,599.2240265230648,,true,,UNKNOWN,scip_EFPA-4-5-4-10_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,EFPA-4-5-4-11_c25.xml.lzma,UNKNOWN,599.2298044827767,,true,,UNKNOWN,scip_EFPA-4-5-4-11_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,EFPA-5-4-4-08_c25.xml.lzma,UNKNOWN,599.1600607940927,,true,,UNKNOWN,scip_EFPA-5-4-4-08_c25.xml.txt.metadata.json
@@ -283,17 +284,23 @@ Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-easy-25_c25.xml.lzma,UNKNOWN,357.762142600026,,,memory,,scip_Heterosquare-easy-25_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-easy-30_c25.xml.lzma,UNKNOWN,241.997438239865,,,memory,,scip_Heterosquare-easy-30_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-easy-35_c25.xml.lzma,UNKNOWN,321.6312959548086,,,memory,,scip_Heterosquare-easy-35_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-easy-40_c25.xml.lzma,UNKNOWN,601.6965639982373,,,walltime,,scip_Heterosquare-easy-40_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-easy-50_c25.xml.lzma,UNKNOWN,403.76526776561514,,,memory,,scip_Heterosquare-easy-50_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-easy-60_c25.xml.lzma,UNKNOWN,347.3909937767312,,,memory,,scip_Heterosquare-easy-60_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-fair-05_c25.xml.lzma,SAT,18.498487818054855,,true,,FEASIBLE,scip_Heterosquare-fair-05_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-fair-10_c25.xml.lzma,UNKNOWN,599.3484602207318,,true,,UNKNOWN,scip_Heterosquare-fair-10_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-fair-15_c25.xml.lzma,UNKNOWN,601.1627288581803,,true,walltime,UNKNOWN,scip_Heterosquare-fair-15_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-fair-20_c25.xml.lzma,UNKNOWN,601.3846959257498,,,walltime,,scip_Heterosquare-fair-20_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-hard-05_c25.xml.lzma,UNSAT,3.1987677589058876,,true,,UNSATISFIABLE,scip_Heterosquare-hard-05_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-hard-10_c25.xml.lzma,UNSAT,74.03768063196912,,true,,UNSATISFIABLE,scip_Heterosquare-hard-10_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,Heterosquare-hard-15_c25.xml.lzma,UNSAT,131.01879070838913,,true,,UNSATISFIABLE,scip_Heterosquare-hard-15_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,LangfordBin-016_c25.xml.lzma,SAT,19.467381099704653,,true,,FEASIBLE,scip_LangfordBin-016_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,LangfordBin-039_c25.xml.lzma,UNKNOWN,226.5749305342324,,,,,scip_LangfordBin-039_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,LangfordBin-040_c25.xml.lzma,UNKNOWN,220.93844249099493,,,,,scip_LangfordBin-040_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,LangfordBin-240_c25.xml.lzma,UNKNOWN,322.82998044695705,,,memory,,scip_LangfordBin-240_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,3.488910187035799,,true,,FEASIBLE,scip_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,7.13392892293632,,true,,FEASIBLE,scip_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,33.33541969815269,,true,,UNSATISFIABLE,scip_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Accordion-11-01_c25.xml.lzma,UNKNOWN,2.559199946001172,,,exitcode:1,,gurobi_Accordion-11-01_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Accordion-11-03_c25.xml.lzma,UNKNOWN,2.605086226016283,,,exitcode:1,,gurobi_Accordion-11-03_c25.xml.txt.metadata.json
 Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,Accordion-12-01_c25.xml.lzma,UNKNOWN,2.6360863125883043,,,exitcode:1,,gurobi_Accordion-12-01_c25.xml.txt.metadata.json
