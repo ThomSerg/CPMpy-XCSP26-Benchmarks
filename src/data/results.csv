@@ -175,8 +175,16 @@ Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,RotatingRostering-
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,RotatingRostering-088-2-4-c25.xml.lzma,UNKNOWN,3.151942556258291,,,exitcode:1,,gurobi_RotatingRostering-088-2-4-c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,RotatingRostering-124-2-4-c25.xml.lzma,UNKNOWN,3.4020159649662673,,,exitcode:1,,gurobi_RotatingRostering-124-2-4-c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,RotatingRostering-196-2-4_c25.xml.lzma,UNKNOWN,3.475174211896956,,,exitcode:1,,gurobi_RotatingRostering-196-2-4_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-19-1-C19-3-3-1_c25.xml.lzma,UNKNOWN,599.698303421028,,true,,UNKNOWN,gurobi_SEDF-19-1-C19-3-3-1_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-21-1-C7C3-6-2-1_c25.xml.lzma,UNKNOWN,601.196811767295,,,walltime,,gurobi_SEDF-21-1-C7C3-6-2-1_c25.xml.txt.metadata.json
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-21-2-C21-6-2-1_c25.xml.lzma,UNKNOWN,600.5856494726613,,true,,UNKNOWN,gurobi_SEDF-21-2-C21-6-2-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-25-1-C25-7-2-1_c25.xml.lzma,UNKNOWN,601.1891517918557,,true,walltime,UNKNOWN,gurobi_SEDF-25-1-C25-7-2-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-25-2-C5xC5-7-2-1_c25.xml.lzma,UNKNOWN,601.1785243153572,,true,walltime,UNKNOWN,gurobi_SEDF-25-2-C5xC5-7-2-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-28-1-C7C4-4-3-1_c25.xml.lzma,UNKNOWN,601.2034834851511,,,walltime,,gurobi_SEDF-28-1-C7C4-4-3-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-28-2-C28-4-3-1_c25.xml.lzma,UNKNOWN,601.167904551141,,true,walltime,UNKNOWN,gurobi_SEDF-28-2-C28-4-3-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-28-3-D28-4-3-1_c25.xml.lzma,UNKNOWN,600.9341831770726,,true,,UNKNOWN,gurobi_SEDF-28-3-D28-4-3-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-28-4-C14xC2-4-3-1_c25.xml.lzma,UNKNOWN,601.2024693209678,,,walltime,,gurobi_SEDF-28-4-C14xC2-4-3-1_c25.xml.txt.metadata.json
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,SEDF-29-1-C29-8-2-1_c25.xml.lzma,UNKNOWN,601.2844715490937,,,walltime,,gurobi_SEDF-29-1-C29-8-2-1_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-11-01_c25.xml.lzma,SAT,9.653940726071596,,true,,FEASIBLE,exact_Accordion-11-01_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-11-03_c25.xml.lzma,UNSAT,294.5453131599352,,true,,UNSATISFIABLE,exact_Accordion-11-03_c25.xml.txt.metadata.json
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,Accordion-12-01_c25.xml.lzma,SAT,5.022280587814748,,true,,FEASIBLE,exact_Accordion-12-01_c25.xml.txt.metadata.json
