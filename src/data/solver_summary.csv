@@ -1,7 +1,7 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,39,13,0,148,200,95,0,105
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,39,22,0,139,200,148,0,52
-Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,62,20,0,6,88,82,0,6
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,64,21,0,18,103,95,0,8
 Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,12,10,0,178,200,109,0,91
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,39,13,0,148,200,86,0,114
 Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,35,14,0,151,200,147,0,53
