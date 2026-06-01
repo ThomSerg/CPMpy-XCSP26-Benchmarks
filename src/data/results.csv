@@ -493,6 +493,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Heterosquare-fair-15_c25.xm
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Heterosquare-fair-20_c25.xml.lzma,UNKNOWN,590.2336268280633,,true,,UNKNOWN,ortools_Heterosquare-fair-20_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Heterosquare-hard-05_c25.xml.lzma,UNSAT,2.5248241210356355,,true,,UNSATISFIABLE,ortools_Heterosquare-hard-05_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Heterosquare-hard-10_c25.xml.lzma,UNSAT,6.724776769988239,,true,,UNSATISFIABLE,ortools_Heterosquare-hard-10_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Heterosquare-hard-15_c25.xml.lzma,UNKNOWN,599.3306987723336,,true,,UNKNOWN,ortools_Heterosquare-hard-15_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Heterosquare-hard-20_c25.xml.lzma,UNSAT,2.5595379839651287,,true,,UNSATISFIABLE,ortools_Heterosquare-hard-20_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LangfordBin-010_c25.xml.lzma,UNSAT,2.3705325718037784,,true,,UNSATISFIABLE,ortools_LangfordBin-010_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LangfordBin-013_c25.xml.lzma,UNSAT,2.271722090896219,,true,,UNSATISFIABLE,ortools_LangfordBin-013_c25.xml.txt.metadata.json
@@ -505,6 +506,7 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LangfordBin-060_c25.xml.lzm
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LangfordBin-079_c25.xml.lzma,SAT,7.821417503990233,,true,,FEASIBLE,ortools_LangfordBin-079_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LangfordBin-080_c25.xml.lzma,SAT,7.845511176157743,,true,,FEASIBLE,ortools_LangfordBin-080_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LangfordBin-120_c25.xml.lzma,SAT,14.709983834065497,,true,,FEASIBLE,ortools_LangfordBin-120_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LangfordBin-240_c25.xml.lzma,UNKNOWN,598.7984861750156,,true,,UNKNOWN,ortools_LangfordBin-240_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0007_c25.xml.lzma,SAT,2.8642165940254927,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0007_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0017_c25.xml.lzma,SAT,4.955002787988633,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0017_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0047_c25.xml.lzma,SAT,20.598302668891847,,true,,FEASIBLE,ortools_LotteryDesign-32-6-6-2-0047_c25.xml.txt.metadata.json
@@ -515,15 +517,21 @@ Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0207
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0307_c25.xml.lzma,UNKNOWN,136.2386231198907,,,memory,,ortools_LotteryDesign-32-6-6-2-0307_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-0407_c25.xml.lzma,UNKNOWN,174.45047901198268,,,memory,,ortools_LotteryDesign-32-6-6-2-0407_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-1000_c25.xml.lzma,UNKNOWN,432.9531945469789,,,memory,,ortools_LotteryDesign-32-6-6-2-1000_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-2000_c25.xml.lzma,UNKNOWN,601.6037141480483,,,walltime,,ortools_LotteryDesign-32-6-6-2-2000_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,LotteryDesign-32-6-6-2-3000_c25.xml.lzma,UNKNOWN,601.7701185662299,,,walltime,,ortools_LotteryDesign-32-6-6-2-3000_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-0-3-0_c25.xml.lzma,UNKNOWN,598.8187418980524,,true,,UNKNOWN,ortools_PegSolitaireTable-english-0-3-0_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-1-4-0_c25.xml.lzma,SAT,38.05153989326209,,true,,FEASIBLE,ortools_PegSolitaireTable-english-1-4-0_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-2-2-0_c25.xml.lzma,SAT,32.48253168165684,,true,,FEASIBLE,ortools_PegSolitaireTable-english-2-2-0_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,PegSolitaireTable-english-3-3-0_c25.xml.lzma,SAT,43.85488014575094,,true,,FEASIBLE,ortools_PegSolitaireTable-english-3-3-0_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-3-0300_c25.xml.lzma,UNSAT,39.53463873686269,,true,,UNSATISFIABLE,ortools_RamseyPartition-equ-3-0300_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0060_c25.xml.lzma,SAT,116.054720972199,,true,,FEASIBLE,ortools_RamseyPartition-equ-4-0060_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0062_c25.xml.lzma,UNSAT,3.883181096985936,,true,,UNSATISFIABLE,ortools_RamseyPartition-equ-4-0062_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-4-0064_c25.xml.lzma,SAT,332.91634337604046,,true,,FEASIBLE,ortools_RamseyPartition-equ-4-0064_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,RamseyPartition-equ-5-0130_c25.xml.lzma,SAT,171.64941319590434,,true,,FEASIBLE,ortools_RamseyPartition-equ-5-0130_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-00-14-20_c25.xml.lzma,SAT,116.88810627534986,,true,,FEASIBLE,ortools_Rostering-00-14-20_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-00-14-25_c25.xml.lzma,SAT,294.01787313912064,,true,,FEASIBLE,ortools_Rostering-00-14-25_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-25-22-20_c25.xml.lzma,SAT,46.334299275651574,,true,,FEASIBLE,ortools_Rostering-25-22-20_c25.xml.txt.metadata.json
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-25-22-25_c25.xml.lzma,SAT,162.88119936082512,,true,,FEASIBLE,ortools_Rostering-25-22-25_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,Rostering-25-28-25_c25.xml.lzma,SAT,63.833997547160834,,true,,FEASIBLE,ortools_Rostering-25-28-25_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,RotatingRostering-008-2-3_c25.xml.lzma,UNKNOWN,2.839688985142857,,,exitcode:1,,ortools_RotatingRostering-008-2-3_c25.xml.txt.metadata.json
 Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,RotatingRostering-012-2-3_c25.xml.lzma,UNKNOWN,2.6677236459217966,,,exitcode:1,,ortools_RotatingRostering-012-2-3_c25.xml.txt.metadata.json
