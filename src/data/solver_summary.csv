@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-Selective_channeling,Selective channeling,XCSP3-2025-COP25,cpo,136,20,0,39,195,151,0,44
+Selective_channeling,Selective channeling,XCSP3-2025-COP25,cpo,143,20,0,40,203,157,0,46
 Selective_channeling,Selective channeling,XCSP3-2025-COP25,exact,88,17,0,145,250,112,0,138
 Selective_channeling,Selective channeling,XCSP3-2025-COP25,gurobi,147,17,0,86,250,185,0,65
 Selective_channeling,Selective channeling,XCSP3-2025-COP25,ortools,201,22,0,27,250,226,0,24
