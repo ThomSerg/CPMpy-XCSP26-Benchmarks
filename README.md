@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Selective channeling** 🔄 | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 20:03:12 | 928/1678 |
+| 1 | **Selective channeling** 🔄 | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 20:03:12 | 941/1694 |
 | 2 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
 | 3 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
 | 4 | **Simplify bool** | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 21:09:19 | 268/1000 |
@@ -41,8 +41,8 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `7dcaa8e2 — Merge remote
 | `cpo` | XCSP3-2025-COP25 | ✅ done | 250/250 | 2026-06-02 18:37:00 | — |
 | `gurobi` | XCSP3-2025-COP25 | ✅ done | 250/250 | 2026-06-02 17:55:55 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 450/200 | 2026-06-02 14:25:15 | — |
+| `z3` | XCSP3-2025-COP25 | ❌ error | 245/250 | 2026-06-02 20:03:48 | — |
 | `pumpkin` | XCSP3-2025-COP25 | ✅ done | 250/250 | 2026-06-02 19:25:36 | — |
-| `z3` | XCSP3-2025-COP25 | ❌ error | 228/250 | 2026-06-02 20:03:48 | — |
 | `highs` | XCSP3-2025-COP25 | ⏳ pending | 0/250 | — | — |
 | `scip` | XCSP3-2025-COP25 | ⏳ pending | 0/250 | — | — |
 
@@ -85,9 +85,9 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `7dcaa8e2 — Merge remote
 | `ortools` | 201 | 22 | 1 | 26 | 250 |
 | `cpo` | 164 | 20 | 36 | 30 | 250 |
 | `gurobi` | 147 | 17 | 38 | 48 | 250 |
+| `z3` | 94 | 16 | 56 | 79 | 245 |
 | `exact` | 88 | 17 | 119 | 26 | 250 |
 | `pumpkin` | 103 | 0 | 25 | 122 | 250 |
-| `z3` | 80 | 16 | 55 | 77 | 228 |
 
 #### Solution Checker
 
@@ -96,9 +96,9 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `7dcaa8e2 — Merge remote
 | `ortools` | 226 | 0 | 24 | 250 |
 | `cpo` | 191 | 0 | 59 | 250 |
 | `gurobi` | 185 | 0 | 65 | 250 |
+| `z3` | 167 | 0 | 78 | 245 |
 | `exact` | 112 | 0 | 138 | 250 |
 | `pumpkin` | 153 | 0 | 97 | 250 |
-| `z3` | 151 | 0 | 77 | 228 |
 
 ---
 
