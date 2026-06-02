@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-Exact_SoPlex,Exact SoPlex,XCSP3-2025-CSP25,exact,38,13,0,91,142,80,0,62
+Exact_SoPlex,Exact SoPlex,XCSP3-2025-CSP25,exact,38,13,0,96,147,81,0,66
 Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,cpo,63,9,0,128,200,174,0,26
 Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,exact,39,13,0,148,200,97,0,103
 Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,gurobi,39,22,0,139,200,151,0,49
