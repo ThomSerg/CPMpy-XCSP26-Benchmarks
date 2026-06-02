@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Stronger GCC decomp** 🔄 | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 00:49:20 | 88/292 |
+| 1 | **Stronger GCC decomp** 🔄 | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 00:49:20 | 91/316 |
 | 2 | **Selective channeling** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 23:38:46 | 1184/2200 |
 | 3 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
 | 4 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
@@ -38,7 +38,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 92/200 | 2026-06-03 00:49:49 | 18m 59s |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 116/200 | 2026-06-03 00:49:49 | 21m 15s |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 00:14:00 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -62,14 +62,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
-| `exact` | 36 | 13 | 15 | 28 | 92 |
+| `exact` | 39 | 13 | 34 | 30 | 116 |
 | `pindakaas` | 26 | 13 | 30 | 131 | 200 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `exact` | 73 | 0 | 19 | 92 |
+| `exact` | 76 | 0 | 40 | 116 |
 | `pindakaas` | 98 | 0 | 102 | 200 |
 
 ---
