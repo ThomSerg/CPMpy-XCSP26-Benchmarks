@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Positive decomposition** 🔄 | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 04:45:41 | 381/1431 |
+| 1 | **Positive decomposition** 🔄 | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 04:45:41 | 384/1435 |
 | 2 | **Simplify bool** | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 21:09:19 | 268/1000 |
 | 3 | **Reduce MDD - rerun** | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 15:40:06 | 234/800 |
 | 4 | **Per-table type linear decompose** | XCSP3-2025-CSP25 | `d6eff956 — Per-table type  linear decompose` | 2026-06-01 10:29:03 | 2026-06-01 12:31:23 | 126/600 |
@@ -41,7 +41,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch '
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-02 04:05:39 | — |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-02 03:29:27 | — |
 | `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-02 02:44:43 | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 31/200 | 2026-06-02 04:46:12 | 6m 04s |
+| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 35/200 | 2026-06-02 04:46:12 | 9m 43s |
 | `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-02 00:53:21 | — |
 
 ### Track: XCSP3-2025-CSP25
@@ -64,7 +64,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch '
 | `pumpkin` | 37 | 5 | 29 | 129 | 200 |
 | `pindakaas` | 25 | 13 | 34 | 128 | 200 |
 | `highs` | 25 | 10 | 65 | 100 | 200 |
-| `cpo` | 23 | 5 | 0 | 3 | 31 |
+| `cpo` | 25 | 6 | 0 | 4 | 35 |
 | `scip` | 14 | 10 | 53 | 123 | 200 |
 
 #### Solution Checker
@@ -77,7 +77,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch '
 | `pumpkin` | 168 | 0 | 32 | 200 |
 | `pindakaas` | 96 | 0 | 104 | 200 |
 | `highs` | 115 | 0 | 85 | 200 |
-| `cpo` | 28 | 0 | 3 | 31 |
+| `cpo` | 31 | 0 | 4 | 35 |
 | `scip` | 105 | 0 | 95 | 200 |
 
 ---
