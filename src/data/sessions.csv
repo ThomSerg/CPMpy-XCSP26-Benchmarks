@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Stronger_GCC_decomp,Stronger GCC decomp,2026-06-03T00:12:37,2026-06-03T00:49:20,2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26,true,XCSP3-2025-CSP25,80,267,600.0
+1,Stronger_GCC_decomp,Stronger GCC decomp,2026-06-03T00:12:37,2026-06-03T00:49:20,2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26,true,XCSP3-2025-CSP25,84,273,600.0
 2,Selective_channeling,Selective channeling,2026-06-02T14:24:42,2026-06-02T23:38:46,7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,1184,2200,600.0
 3,Exact_SoPlex,Exact SoPlex,2026-06-02T11:49:55,2026-06-02T12:31:07,009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,52,200,600.0
 4,Positive_decomposition,Positive decomposition,2026-06-02T00:12:55,2026-06-02T05:19:43,009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,425,1600,600.0
