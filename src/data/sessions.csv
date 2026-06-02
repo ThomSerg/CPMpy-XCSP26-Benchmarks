@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Selective_channeling,Selective channeling,2026-06-02T14:24:42,2026-06-02T17:55:23,7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26,true,XCSP3-2025-COP25;XCSP3-2025-CSP25,531,926,600.0
+1,Selective_channeling,Selective channeling,2026-06-02T14:24:42,2026-06-02T17:55:23,7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26,true,XCSP3-2025-COP25;XCSP3-2025-CSP25,532,930,600.0
 2,Exact_SoPlex,Exact SoPlex,2026-06-02T11:49:55,2026-06-02T12:31:07,009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,52,200,600.0
 3,Positive_decomposition,Positive decomposition,2026-06-02T00:12:55,2026-06-02T05:19:43,009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26,false,XCSP3-2025-CSP25,425,1600,600.0
 4,Simplify_bool,Simplify bool,2026-06-01T15:53:46,2026-06-01T21:09:19,36447b7f — remove trailing comma,false,XCSP3-2025-CSP25,268,1000,600.0
