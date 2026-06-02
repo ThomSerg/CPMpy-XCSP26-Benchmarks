@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Selective channeling** 🔄 | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 17:04:16 | 139/392 |
+| 1 | **Selective channeling** 🔄 | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 17:06:19 | 141/403 |
 | 2 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
 | 3 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
 | 4 | **Simplify bool** | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 21:09:19 | 268/1000 |
@@ -31,13 +31,13 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ## Selective channeling _(running)_
 
-_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` · Created: 2026-06-02 14:24:42 · Last run: 2026-06-02 17:04:16_
+_Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` · Created: 2026-06-02 14:24:42 · Last run: 2026-06-02 17:06:19_
 
 ### Live Progress
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | ✅ done | 392/200 | 2026-06-02 14:25:15 | — |
+| `exact` | XCSP3-2025-CSP25 | ✅ done | 403/200 | 2026-06-02 14:25:15 | — |
 | `cpo` | XCSP3-2025-COP25 | ⏳ pending | 0/250 | — | — |
 | `gurobi` | XCSP3-2025-COP25 | ⏳ pending | 0/250 | — | — |
 | `highs` | XCSP3-2025-COP25 | ⏳ pending | 0/250 | — | — |
@@ -82,13 +82,13 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `7dcaa8e2 — Merge remote
 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
-| `exact` | 69 | 17 | 85 | 21 | 192 |
+| `exact` | 71 | 17 | 94 | 21 | 203 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `exact` | 87 | 0 | 105 | 192 |
+| `exact` | 89 | 0 | 114 | 203 |
 
 ---
 
