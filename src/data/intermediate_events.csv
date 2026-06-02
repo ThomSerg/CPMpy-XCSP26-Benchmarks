@@ -1,8 +1,11 @@
 session_slug,track,solver,instance,event_index,elapsed,objective
 Selective_channeling,XCSP3-2025-COP25,cpo,AlteredStates-02_c25.xml.lzma,0,5.242039442062378,7.0
+Selective_channeling,XCSP3-2025-COP25,cpo,AlteredStates-bis-02_c25.xml.lzma,0,232.62225675582886,29145505.0
 Selective_channeling,XCSP3-2025-COP25,cpo,BlockModeling-kansas-02_c25.xml.lzma,0,24.604387283325195,96.0
 Selective_channeling,XCSP3-2025-COP25,cpo,BlockModeling-politicalactor-02_c25.xml.lzma,0,1.2162706851959229,44.0
 Selective_channeling,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-02_c25.xml.lzma,0,0.7813119888305664,33.0
+Selective_channeling,XCSP3-2025-COP25,cpo,BlockModeling-transatlantic-03_c25.xml.lzma,0,85.04981637001038,29.0
+Selective_channeling,XCSP3-2025-COP25,cpo,BusScheduling-t1_c25.xml.lzma,0,0.17198896408081055,7.0
 Selective_channeling,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,0,7.39290452003479,0.0
 Selective_channeling,XCSP3-2025-COP25,gurobi,AlteredStates-02_c25.xml.lzma,1,7.4691321849823,7.0
 Selective_channeling,XCSP3-2025-COP25,gurobi,AlteredStates-03_c25.xml.lzma,0,10.51966404914856,0.0
