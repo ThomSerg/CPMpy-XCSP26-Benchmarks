@@ -1,5 +1,5 @@
 session_slug,session_name,track,solvers
-Selective_channeling,Selective channeling,XCSP3-2025-COP25,cpo;gurobi;highs;ortools;pumpkin;scip;z3
+Selective_channeling,Selective channeling,XCSP3-2025-COP25,cpo;exact;gurobi;highs;ortools;pumpkin;scip;z3
 Selective_channeling,Selective channeling,XCSP3-2025-CSP25,exact
 Exact_SoPlex,Exact SoPlex,XCSP3-2025-CSP25,exact
 Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,cpo;exact;gurobi;highs;ortools;pindakaas;pumpkin;scip
