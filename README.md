@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Exact SoPlex** 🔄 | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | — | 52/185 |
+| 1 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
 | 2 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
 | 3 | **Simplify bool** | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 21:09:19 | 268/1000 |
 | 4 | **Reduce MDD - rerun** | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 15:40:06 | 234/800 |
@@ -28,15 +28,9 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ---
 
-## Exact SoPlex _(running)_
+## Exact SoPlex
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` · Created: 2026-06-02 11:49:55 · Last run: —_
-
-### Live Progress
-
-| Solver | Track | Status | Progress | Started | Elapsed |
-|--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 186/200 | 2026-06-02 11:50:32 | 38m 36s |
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` · Created: 2026-06-02 11:49:55 · Last run: 2026-06-02 12:31:07_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -52,13 +46,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch '
 
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
-| `exact` | 39 | 13 | 80 | 54 | 186 |
+| `exact` | 39 | 13 | 94 | 54 | 200 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `exact` | 87 | 0 | 99 | 186 |
+| `exact` | 87 | 0 | 113 | 200 |
 
 ---
 
