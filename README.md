@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Selective channeling** 🔄 | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 22:52:04 | 1118/2026 |
+| 1 | **Selective channeling** 🔄 | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 22:52:04 | 1120/2030 |
 | 2 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
 | 3 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
 | 4 | **Simplify bool** | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 21:09:19 | 268/1000 |
@@ -44,7 +44,7 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `7dcaa8e2 — Merge remote
 | `highs` | XCSP3-2025-COP25 | ✅ done | 250/250 | 2026-06-02 22:02:54 | — |
 | `z3` | XCSP3-2025-COP25 | ✅ done | 250/250 | 2026-06-02 20:03:48 | — |
 | `pumpkin` | XCSP3-2025-COP25 | ✅ done | 250/250 | 2026-06-02 19:25:36 | — |
-| `scip` | XCSP3-2025-COP25 | 🔄 running | 76/250 | 2026-06-02 22:52:43 | 17m 27s |
+| `scip` | XCSP3-2025-COP25 | 🔄 running | 80/250 | 2026-06-02 22:52:43 | 19m 52s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -89,7 +89,7 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `7dcaa8e2 — Merge remote
 | `z3` | 97 | 16 | 57 | 80 | 250 |
 | `exact` | 88 | 17 | 119 | 26 | 250 |
 | `pumpkin` | 103 | 0 | 25 | 122 | 250 |
-| `scip` | 46 | 0 | 7 | 23 | 76 |
+| `scip` | 48 | 0 | 7 | 25 | 80 |
 
 #### Solution Checker
 
@@ -102,7 +102,7 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `7dcaa8e2 — Merge remote
 | `z3` | 171 | 0 | 79 | 250 |
 | `exact` | 112 | 0 | 138 | 250 |
 | `pumpkin` | 153 | 0 | 97 | 250 |
-| `scip` | 59 | 0 | 17 | 76 |
+| `scip` | 61 | 0 | 19 | 80 |
 
 ---
 
