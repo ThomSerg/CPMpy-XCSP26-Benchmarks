@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Exact SoPlex** 🔄 | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | — | — |
+| 1 | **Exact SoPlex** 🔄 | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | — | 24/24 |
 | 2 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
 | 3 | **Simplify bool** | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 21:09:19 | 268/1000 |
 | 4 | **Reduce MDD - rerun** | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 15:40:06 | 234/800 |
@@ -36,7 +36,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch '
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 24/200 | 2026-06-02 11:50:32 | 2m 18s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -50,11 +50,15 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch '
 
 #### Solve Status
 
-_No results yet._
+| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|---------|-------|
+| `exact` | 19 | 5 | 0 | 0 | 24 |
 
 #### Solution Checker
 
-_Solution checker not enabled._
+| Solver | Valid | Invalid | Skipped | Total |
+|--------|-------|---------|---------|-------|
+| `exact` | 24 | 0 | 0 | 24 |
 
 ---
 
