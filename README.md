@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Positive decomposition** 🔄 | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 04:45:41 | 425/1593 |
+| 1 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
 | 2 | **Simplify bool** | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 21:09:19 | 268/1000 |
 | 3 | **Reduce MDD - rerun** | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 15:40:06 | 234/800 |
 | 4 | **Per-table type linear decompose** | XCSP3-2025-CSP25 | `d6eff956 — Per-table type  linear decompose` | 2026-06-01 10:29:03 | 2026-06-01 12:31:23 | 126/600 |
@@ -27,22 +27,9 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ---
 
-## Positive decomposition _(running)_
+## Positive decomposition
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` · Created: 2026-06-02 00:12:55 · Last run: 2026-06-02 04:45:41_
-
-### Live Progress
-
-| Solver | Track | Status | Progress | Started | Elapsed |
-|--------|-------|--------|----------|---------|---------|
-| `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-02 02:14:58 | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 195/200 | 2026-06-02 04:46:12 | 32m 35s |
-| `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-02 00:13:23 | — |
-| `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-02 01:34:19 | — |
-| `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-02 04:05:39 | — |
-| `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-02 03:29:27 | — |
-| `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-02 02:44:43 | — |
-| `scip` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-02 00:53:21 | — |
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` · Created: 2026-06-02 00:12:55 · Last run: 2026-06-02 05:19:43_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -59,7 +46,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch '
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 76 | 25 | 5 | 94 | 200 |
-| `cpo` | 63 | 9 | 9 | 114 | 195 |
+| `cpo` | 63 | 9 | 9 | 119 | 200 |
 | `gurobi` | 39 | 22 | 49 | 90 | 200 |
 | `exact` | 39 | 13 | 88 | 60 | 200 |
 | `pumpkin` | 37 | 5 | 29 | 129 | 200 |
@@ -72,7 +59,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch '
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `ortools` | 174 | 0 | 26 | 200 |
-| `cpo` | 169 | 0 | 26 | 195 |
+| `cpo` | 174 | 0 | 26 | 200 |
 | `gurobi` | 151 | 0 | 49 | 200 |
 | `exact` | 97 | 0 | 103 | 200 |
 | `pumpkin` | 168 | 0 | 32 | 200 |
