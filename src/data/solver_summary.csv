@@ -3,7 +3,7 @@ Selective_channeling,Selective channeling,XCSP3-2025-COP25,cpo,164,20,0,66,250,1
 Selective_channeling,Selective channeling,XCSP3-2025-COP25,exact,88,17,0,145,250,112,0,138
 Selective_channeling,Selective channeling,XCSP3-2025-COP25,gurobi,147,17,0,86,250,185,0,65
 Selective_channeling,Selective channeling,XCSP3-2025-COP25,ortools,201,22,0,27,250,226,0,24
-Selective_channeling,Selective channeling,XCSP3-2025-COP25,pumpkin,39,0,0,87,126,51,0,75
+Selective_channeling,Selective channeling,XCSP3-2025-COP25,pumpkin,49,0,0,101,150,59,0,91
 Selective_channeling,Selective channeling,XCSP3-2025-CSP25,exact,40,13,0,147,200,98,0,102
 Exact_SoPlex,Exact SoPlex,XCSP3-2025-CSP25,exact,39,13,0,148,200,87,0,113
 Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,cpo,63,9,0,128,200,174,0,26
