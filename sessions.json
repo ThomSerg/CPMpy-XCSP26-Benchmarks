@@ -211,6 +211,13 @@
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-06-03T20:29:41",
       "last_run_at": "2026-06-03T21:07:06"
+    },
+    {
+      "name": "Ablation - Linear Regular",
+      "slug": "Ablation_-_Linear_Regular",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-06-03T21:17:18",
+      "last_run_at": null
     }
   ]
 }
