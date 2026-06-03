@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Revert_Positive_Table,Revert Positive Table,2026-06-03T16:20:59,,"57419228 — Revert ""Table""",true,XCSP3-2025-CSP25,21,97,600.0
+1,Revert_Positive_Table,Revert Positive Table,2026-06-03T16:20:59,,"57419228 — Revert ""Table""",true,XCSP3-2025-CSP25,29,150,600.0
 2,Restore_ShortTable,Restore ShortTable,2026-06-03T14:25:06,2026-06-03T16:06:34,5c385788 — Restore competition regular,false,XCSP3-2025-CSP25,36,200,600.0
 3,Restore_Regular,Restore Regular,2026-06-03T13:26:22,2026-06-03T14:02:23,5c385788 — Restore competition regular,true,XCSP3-2025-CSP25,87,317,600.0
 4,Positive_globals,Positive globals,2026-06-03T10:16:38,2026-06-03T13:15:48,12444731 — Merge remote-tracking branch 'origin/positive_globals' into xcsp3_26,true,XCSP3-2025-CSP25,338,1041,600.0
