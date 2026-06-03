@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Ablation - Positive ShortTable** 🔄 | XCSP3-2025-CSP25 | `8080fcba — Remove duplicate solution row selecting var` | 2026-06-03 20:29:41 | 2026-06-03 21:06:27 | 39/199 |
+| 1 | **Ablation - Positive ShortTable** | XCSP3-2025-CSP25 | `8080fcba — Remove duplicate solution row selecting var` | 2026-06-03 20:29:41 | 2026-06-03 21:07:06 | 39/200 |
 | 2 | **Ablation - Table in Regular** | XCSP3-2025-CSP25 | `137dfa9a — Rename linear to positive` | 2026-06-03 19:33:16 | 2026-06-03 20:09:15 | 35/200 |
 | 3 | **Ablation - NonReifiedTable in Regular and AllDifferentListsExceptN** | XCSP3-2025-CSP25 | `137dfa9a — Rename linear to positive` | 2026-06-03 18:42:46 | 2026-06-03 19:19:51 | 39/200 |
 | 4 | **Ablation - Positive Table** | XCSP3-2025-CSP25 | `137dfa9a — Rename linear to positive` | 2026-06-03 17:59:37 | 2026-06-03 18:36:03 | 35/200 |
@@ -39,15 +39,9 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ---
 
-## Ablation - Positive ShortTable _(running)_
+## Ablation - Positive ShortTable
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `8080fcba — Remove duplicate solution row selecting var` · Created: 2026-06-03 20:29:41 · Last run: 2026-06-03 21:06:27_
-
-### Live Progress
-
-| Solver | Track | Status | Progress | Started | Elapsed |
-|--------|-------|--------|----------|---------|---------|
-| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 199/200 | 2026-06-03 20:30:21 | 36m 16s |
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `8080fcba — Remove duplicate solution row selecting var` · Created: 2026-06-03 20:29:41 · Last run: 2026-06-03 21:07:06_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -63,13 +57,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `8080fcba — Remove duplicate solution row 
 
 | Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|-----|-------|---------|-------|
-| `pindakaas` | 26 | 13 | 33 | **60** | **14** | 53 | 199 |
+| `pindakaas` | 26 | 13 | 34 | **60** | **14** | 53 | 200 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `pindakaas` | 96 | 0 | 103 | 199 |
+| `pindakaas` | 96 | 0 | 104 | 200 |
 
 ---
 
@@ -249,7 +243,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 7h 03m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 7h 04m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
