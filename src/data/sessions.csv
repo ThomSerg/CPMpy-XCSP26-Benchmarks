@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Ablation_-_Disable_Regular_in_linearize,Ablation - Disable Regular in linearize,2026-06-03T22:57:17,,2ab26260 — Revert based on ablation,true,XCSP3-2025-CSP25,6,17,600.0
+1,Ablation_-_Disable_Regular_in_linearize,Ablation - Disable Regular in linearize,2026-06-03T22:57:17,,2ab26260 — Revert based on ablation,true,XCSP3-2025-CSP25,16,33,600.0
 2,Ablation_-_Revert,Ablation - Revert,2026-06-03T22:13:16,2026-06-03T22:49:53,2ab26260 — Revert based on ablation,false,XCSP3-2025-CSP25,34,200,600.0
 3,Ablation_-_Linear_Regular,Ablation - Linear Regular,2026-06-03T21:17:18,2026-06-03T21:53:49,76d54ede — Lost in merge,false,XCSP3-2025-CSP25,34,200,600.0
 4,Ablation_-_Positive_ShortTable,Ablation - Positive ShortTable,2026-06-03T20:29:41,2026-06-03T21:07:06,8080fcba — Remove duplicate solution row selecting var,false,XCSP3-2025-CSP25,39,200,600.0
