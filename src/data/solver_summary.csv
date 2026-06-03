@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
-Restore_Regular,Restore Regular,XCSP3-2025-CSP25,pindakaas,21,13,26,60,14,40,174,77,0,97
+Restore_Regular,Restore Regular,XCSP3-2025-CSP25,pindakaas,22,13,26,62,14,48,185,86,0,99
 Positive_globals,Positive globals,XCSP3-2025-CSP25,cpo,63,9,11,18,14,85,200,160,0,40
 Positive_globals,Positive globals,XCSP3-2025-CSP25,exact,38,13,82,21,14,32,200,87,0,113
 Positive_globals,Positive globals,XCSP3-2025-CSP25,gurobi,37,21,42,19,14,67,200,150,0,50
