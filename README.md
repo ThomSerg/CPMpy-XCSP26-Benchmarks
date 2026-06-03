@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Stronger GCC - rerun** 🔄 | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 17:00:30 | — | 39/195 |
+| 1 | **Stronger GCC - rerun** | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 17:00:30 | 2026-06-03 17:37:26 | 39/200 |
 | 2 | **Revert Positive Table** | XCSP3-2025-CSP25 | `57419228 — Revert "Table"` | 2026-06-03 16:20:59 | 2026-06-03 16:52:13 | 30/200 |
 | 3 | **Restore ShortTable** | XCSP3-2025-CSP25 | `5c385788 — Restore competition regular` | 2026-06-03 14:25:06 | 2026-06-03 16:06:34 | 36/200 |
 | 4 | **Restore Regular** 🔄 | XCSP3-2025-CSP25 | `5c385788 — Restore competition regular` | 2026-06-03 13:26:22 | 2026-06-03 14:02:23 | 87/317 |
@@ -35,15 +35,9 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ---
 
-## Stronger GCC - rerun _(running)_
+## Stronger GCC - rerun
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` · Created: 2026-06-03 17:00:30 · Last run: —_
-
-### Live Progress
-
-| Solver | Track | Status | Progress | Started | Elapsed |
-|--------|-------|--------|----------|---------|---------|
-| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 196/200 | 2026-06-03 17:01:13 | 34m 46s |
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` · Created: 2026-06-03 17:00:30 · Last run: 2026-06-03 17:37:26_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -59,13 +53,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 
 | Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|-----|-------|---------|-------|
-| `pindakaas` | 26 | 13 | 31 | **59** | **14** | 53 | 196 |
+| `pindakaas` | 26 | 13 | 35 | **59** | **14** | 53 | 200 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `pindakaas` | 99 | 0 | 97 | 196 |
+| `pindakaas` | 99 | 0 | 101 | 200 |
 
 ---
 
@@ -133,7 +127,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 3h 32m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 3h 34m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
