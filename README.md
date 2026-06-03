@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Stronger GCC decomp** 🔄 | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 05:21:18 | 466/1778 |
+| 1 | **Stronger GCC decomp** 🔄 | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 05:21:18 | 466/1781 |
 | 2 | **Selective channeling** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 23:38:46 | 1184/2200 |
 | 3 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
 | 4 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
@@ -46,7 +46,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 00:14:00 | — |
 | `z3` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 03:56:01 | — |
 | `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 04:37:01 | — |
-| `scip` | XCSP3-2025-CSP25 | 🔄 running | 178/200 | 2026-06-03 05:21:52 | 36m 55s |
+| `scip` | XCSP3-2025-CSP25 | 🔄 running | 181/200 | 2026-06-03 05:21:52 | 39m 23s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -70,7 +70,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 | `pindakaas` | 26 | 13 | 30 | 131 | 200 |
 | `z3` | 26 | 13 | 19 | 142 | 200 |
 | `highs` | 25 | 10 | 63 | 102 | 200 |
-| `scip` | 17 | 8 | 38 | 115 | 178 |
+| `scip` | 17 | 8 | 39 | 117 | 181 |
 
 #### Solution Checker
 
@@ -84,7 +84,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 | `pindakaas` | 98 | 0 | 102 | 200 |
 | `z3` | 164 | 0 | 36 | 200 |
 | `highs` | 113 | 0 | 87 | 200 |
-| `scip` | 102 | 0 | 76 | 178 |
+| `scip` | 102 | 0 | 79 | 181 |
 
 ---
 
