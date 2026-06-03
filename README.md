@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Stronger GCC - rerun** 🔄 | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 17:00:30 | — | — |
+| 1 | **Stronger GCC - rerun** 🔄 | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 17:00:30 | — | 5/17 |
 | 2 | **Revert Positive Table** | XCSP3-2025-CSP25 | `57419228 — Revert "Table"` | 2026-06-03 16:20:59 | 2026-06-03 16:52:13 | 30/200 |
 | 3 | **Restore ShortTable** | XCSP3-2025-CSP25 | `5c385788 — Restore competition regular` | 2026-06-03 14:25:06 | 2026-06-03 16:06:34 | 36/200 |
 | 4 | **Restore Regular** 🔄 | XCSP3-2025-CSP25 | `5c385788 — Restore competition regular` | 2026-06-03 13:26:22 | 2026-06-03 14:02:23 | 87/317 |
@@ -43,7 +43,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 17/200 | 2026-06-03 17:01:13 | 3m 26s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -57,11 +57,15 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 
 #### Solve Status
 
-_No results yet._
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `pindakaas` | 2 | 3 | 0 | **12** | 0 | 0 | 17 |
 
 #### Solution Checker
 
-_Solution checker not enabled._
+| Solver | Valid | Invalid | Skipped | Total |
+|--------|-------|---------|---------|-------|
+| `pindakaas` | 5 | 0 | 12 | 17 |
 
 ---
 
@@ -129,7 +133,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 2h 57m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 3h 01m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
