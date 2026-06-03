@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Stronger GCC decomp** 🔄 | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 02:40:09 | 322/919 |
+| 1 | **Stronger GCC decomp** 🔄 | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 02:40:09 | 323/953 |
 | 2 | **Selective channeling** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 23:38:46 | 1184/2200 |
 | 3 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
 | 4 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
@@ -39,7 +39,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 01:30:27 | — |
-| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 139/200 | 2026-06-03 02:40:43 | 20m 15s |
+| `cpo` | XCSP3-2025-CSP25 | 🔄 running | 155/200 | 2026-06-03 02:40:43 | 23m 22s |
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 02:00:10 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 00:49:49 | — |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 00:14:00 | — |
@@ -63,7 +63,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 | Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 76 | 25 | 5 | 94 | 200 |
-| `cpo` | 60 | 9 | 5 | 65 | 139 |
+| `cpo` | 61 | 9 | 7 | 78 | 155 |
 | `gurobi` | 39 | 22 | 52 | 87 | 200 |
 | `exact` | 39 | 13 | 95 | 53 | 200 |
 | `pindakaas` | 26 | 13 | 30 | 131 | 200 |
@@ -73,7 +73,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `ortools` | 174 | 0 | 26 | 200 |
-| `cpo` | 117 | 0 | 22 | 139 |
+| `cpo` | 131 | 0 | 24 | 155 |
 | `gurobi` | 154 | 0 | 46 | 200 |
 | `exact` | 85 | 0 | 115 | 200 |
 | `pindakaas` | 98 | 0 | 102 | 200 |
