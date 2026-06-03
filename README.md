@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Stronger GCC decomp** 🔄 | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 04:36:21 | 441/1597 |
+| 1 | **Stronger GCC decomp** 🔄 | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 05:21:18 | 444/1603 |
 | 2 | **Selective channeling** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 23:38:46 | 1184/2200 |
 | 3 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
 | 4 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
@@ -32,7 +32,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ## Stronger GCC decomp _(running)_
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` · Created: 2026-06-03 00:12:37 · Last run: 2026-06-03 04:36:21_
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` · Created: 2026-06-03 00:12:37 · Last run: 2026-06-03 05:21:18_
 
 ### Live Progress
 
@@ -45,8 +45,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 | `pumpkin` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 03:15:24 | — |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 00:14:00 | — |
 | `z3` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 03:56:01 | — |
-| `highs` | XCSP3-2025-CSP25 | 🔄 running | 197/200 | 2026-06-03 04:37:01 | 43m 17s |
-| `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `highs` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 04:37:01 | — |
+| `scip` | XCSP3-2025-CSP25 | 🔄 running | 5/200 | 2026-06-03 05:21:52 | 0m 36s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -69,7 +69,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 | `pumpkin` | 36 | 6 | 28 | 130 | 200 |
 | `pindakaas` | 26 | 13 | 30 | 131 | 200 |
 | `z3` | 26 | 13 | 19 | 142 | 200 |
-| `highs` | 25 | 10 | 60 | 102 | 197 |
+| `highs` | 25 | 10 | 63 | 102 | 200 |
+| `scip` | 3 | 2 | 0 | 0 | 5 |
 
 #### Solution Checker
 
@@ -82,7 +83,8 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 | `pumpkin` | 168 | 0 | 32 | 200 |
 | `pindakaas` | 98 | 0 | 102 | 200 |
 | `z3` | 164 | 0 | 36 | 200 |
-| `highs` | 113 | 0 | 84 | 197 |
+| `highs` | 113 | 0 | 87 | 200 |
+| `scip` | 5 | 0 | 0 | 5 |
 
 ---
 
