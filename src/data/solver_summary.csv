@@ -4,7 +4,7 @@ Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,exact,39,13,0,148,200,8
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,gurobi,39,22,0,139,200,154,0,46
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,ortools,76,25,0,99,200,174,0,26
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,pindakaas,26,13,0,161,200,98,0,102
-Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,pumpkin,36,6,0,141,183,151,0,32
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,pumpkin,36,6,0,147,189,157,0,32
 Selective_channeling,Selective channeling,XCSP3-2025-COP25,cpo,164,20,0,66,250,191,0,59
 Selective_channeling,Selective channeling,XCSP3-2025-COP25,exact,88,17,0,145,250,112,0,138
 Selective_channeling,Selective channeling,XCSP3-2025-COP25,gurobi,147,17,0,86,250,185,0,65
