@@ -1,4 +1,5 @@
 session_slug,session_name,track,solvers
+Restore_ShortTable,Restore ShortTable,XCSP3-2025-CSP25,pindakaas
 Restore_Regular,Restore Regular,XCSP3-2025-CSP25,cpo;exact;gurobi;highs;ortools;pindakaas;pumpkin;scip;z3
 Positive_globals,Positive globals,XCSP3-2025-CSP25,cpo;exact;gurobi;highs;ortools;pindakaas;pumpkin;scip;z3
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,cpo;exact;gurobi;highs;ortools;pindakaas;pumpkin;scip;z3
