@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
-Ablation_-_Positive_Table,Ablation - Positive Table,XCSP3-2025-CSP25,pindakaas,22,12,21,67,14,38,174,78,0,96
+Ablation_-_Positive_Table,Ablation - Positive Table,XCSP3-2025-CSP25,pindakaas,23,12,22,69,14,45,185,86,0,99
 Stronger_GCC_-_rerun,Stronger GCC - rerun,XCSP3-2025-CSP25,pindakaas,26,13,35,59,14,53,200,99,0,101
 Revert_Positive_Table,Revert Positive Table,XCSP3-2025-CSP25,pindakaas,17,13,24,55,44,47,200,78,0,122
 Restore_ShortTable,Restore ShortTable,XCSP3-2025-CSP25,pindakaas,23,13,24,70,14,56,200,96,0,104
