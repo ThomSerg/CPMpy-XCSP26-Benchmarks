@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Ablation_-_NonReifiedTable_in_Regular_and_AllDifferentListsExceptN,Ablation - NonReifiedTable in Regular and AllDifferentListsExceptN,2026-06-03T18:42:46,,137dfa9a — Rename linear to positive,true,XCSP3-2025-CSP25,20,76,600.0
+1,Ablation_-_NonReifiedTable_in_Regular_and_AllDifferentListsExceptN,Ablation - NonReifiedTable in Regular and AllDifferentListsExceptN,2026-06-03T18:42:46,,137dfa9a — Rename linear to positive,true,XCSP3-2025-CSP25,21,85,600.0
 2,Ablation_-_Positive_Table,Ablation - Positive Table,2026-06-03T17:59:37,2026-06-03T18:36:03,137dfa9a — Rename linear to positive,false,XCSP3-2025-CSP25,35,200,600.0
 3,Stronger_GCC_-_rerun,Stronger GCC - rerun,2026-06-03T17:00:30,2026-06-03T17:37:26,2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26,false,XCSP3-2025-CSP25,39,200,600.0
 4,Revert_Positive_Table,Revert Positive Table,2026-06-03T16:20:59,2026-06-03T16:52:13,"57419228 — Revert ""Table""",false,XCSP3-2025-CSP25,30,200,600.0
