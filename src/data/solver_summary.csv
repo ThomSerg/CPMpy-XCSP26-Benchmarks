@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-Positive_globals,Positive globals,XCSP3-2025-CSP25,exact,34,13,0,42,89,70,0,19
+Positive_globals,Positive globals,XCSP3-2025-CSP25,exact,35,13,0,63,111,75,0,36
 Positive_globals,Positive globals,XCSP3-2025-CSP25,pindakaas,20,12,0,168,200,89,0,111
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,cpo,63,9,0,128,200,175,0,25
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,exact,39,13,0,148,200,85,0,115
