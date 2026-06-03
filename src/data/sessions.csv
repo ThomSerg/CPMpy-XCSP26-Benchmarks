@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Ablation_-_Linear_Regular,Ablation - Linear Regular,2026-06-03T21:17:18,,76d54ede — Lost in merge,true,XCSP3-2025-CSP25,34,184,600.0
+1,Ablation_-_Linear_Regular,Ablation - Linear Regular,2026-06-03T21:17:18,,76d54ede — Lost in merge,true,XCSP3-2025-CSP25,34,187,600.0
 2,Ablation_-_Positive_ShortTable,Ablation - Positive ShortTable,2026-06-03T20:29:41,2026-06-03T21:07:06,8080fcba — Remove duplicate solution row selecting var,false,XCSP3-2025-CSP25,39,200,600.0
 3,Ablation_-_Table_in_Regular,Ablation - Table in Regular,2026-06-03T19:33:16,2026-06-03T20:09:15,137dfa9a — Rename linear to positive,false,XCSP3-2025-CSP25,35,200,600.0
 4,Ablation_-_NonReifiedTable_in_Regular_and_AllDifferentListsExceptN,Ablation - NonReifiedTable in Regular and AllDifferentListsExceptN,2026-06-03T18:42:46,2026-06-03T19:19:51,137dfa9a — Rename linear to positive,false,XCSP3-2025-CSP25,39,200,600.0
