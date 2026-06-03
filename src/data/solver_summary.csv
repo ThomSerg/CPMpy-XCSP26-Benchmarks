@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-Positive_globals,Positive globals,XCSP3-2025-CSP25,cpo,59,8,0,43,110,101,0,9
+Positive_globals,Positive globals,XCSP3-2025-CSP25,cpo,61,9,0,81,151,127,0,24
 Positive_globals,Positive globals,XCSP3-2025-CSP25,exact,38,13,0,149,200,87,0,113
 Positive_globals,Positive globals,XCSP3-2025-CSP25,gurobi,37,21,0,142,200,150,0,50
 Positive_globals,Positive globals,XCSP3-2025-CSP25,ortools,75,24,0,101,200,174,0,26
