@@ -108,7 +108,7 @@ const ranking = trackSummary
   .map(d => ({...d, solved: d.sat + d.unsat}))
   .sort((a, b) => b.solved - a.solved || a.solver.localeCompare(b.solver));
 display(Inputs.table(ranking, {
-  columns: ["solver", "solved", "sat", "unsat", "timeout", "unknown", "total", "checker_valid", "checker_invalid"]
+  columns: ["solver", "solved", "sat", "unsat", "timeout", "oom", "error", "unknown", "total", "checker_valid", "checker_invalid"]
 }));
 ```
 

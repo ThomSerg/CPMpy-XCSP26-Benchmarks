@@ -6,28 +6,67 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Positive globals** 🔄 | XCSP3-2025-CSP25 | `12444731 — Merge remote-tracking branch 'origin/positive_globals' into xcsp3_26` | 2026-06-03 10:16:38 | 2026-06-03 13:15:48 | 335/1038 |
-| 2 | **Stronger GCC decomp** | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 06:02:46 | 466/1800 |
-| 3 | **Selective channeling** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 23:38:46 | 1184/2200 |
-| 4 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
-| 5 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
-| 6 | **Simplify bool** | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 21:09:19 | 268/1000 |
-| 7 | **Reduce MDD - rerun** | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 15:40:06 | 234/800 |
-| 8 | **Per-table type linear decompose** | XCSP3-2025-CSP25 | `d6eff956 — Per-table type  linear decompose` | 2026-06-01 10:29:03 | 2026-06-01 12:31:23 | 126/600 |
-| 9 | **Reduce MDD** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-01 09:39:26 | 2026-06-01 10:09:02 | 141/341 |
-| 10 | **Order encoding for inequalities - long** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-31 22:29:41 | 2026-06-01 03:44:37 | 212/800 |
-| 11 | **Some transformation improvements - long** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 18:48:40 | 2026-05-30 01:11:34 | 245/800 |
-| 12 | **Order encoding for inequalities** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-29 13:59:57 | 2026-05-29 18:03:17 | 98/600 |
-| 13 | **NoOverlap via Cumulative linear decomp** | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 17:22:33 | 96/600 |
-| 14 | **Positive MDD decomp** | XCSP3-2025-CSP25 | `85556f00 — Positive MDD test` | 2026-05-29 09:27:01 | 2026-05-29 09:57:51 | 40/200 |
-| 15 | **Some transformation improvements - rerun** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-29 00:03:40 | 68/400 |
-| 16 | **Table with MDD decomp** | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | 2026-05-29 05:10:05 | 397/1800 |
-| 17 | **Some transformation improvements** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 15:47:34 | 435/1800 |
-| 18 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
-| 19 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
-| 20 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
-| 21 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
-| 22 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
+| 1 | **Restore Regular** 🔄 | XCSP3-2025-CSP25 | `5c385788 — Restore competition regular` | 2026-06-03 13:26:22 | — | — |
+| 2 | **Positive globals** 🔄 | XCSP3-2025-CSP25 | `12444731 — Merge remote-tracking branch 'origin/positive_globals' into xcsp3_26` | 2026-06-03 10:16:38 | 2026-06-03 13:15:48 | 338/1041 |
+| 3 | **Stronger GCC decomp** | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 06:02:46 | 466/1800 |
+| 4 | **Selective channeling** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 23:38:46 | 1184/2200 |
+| 5 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
+| 6 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
+| 7 | **Simplify bool** | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 21:09:19 | 268/1000 |
+| 8 | **Reduce MDD - rerun** | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 15:40:06 | 234/800 |
+| 9 | **Per-table type linear decompose** | XCSP3-2025-CSP25 | `d6eff956 — Per-table type  linear decompose` | 2026-06-01 10:29:03 | 2026-06-01 12:31:23 | 126/600 |
+| 10 | **Reduce MDD** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-01 09:39:26 | 2026-06-01 10:09:02 | 141/341 |
+| 11 | **Order encoding for inequalities - long** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-31 22:29:41 | 2026-06-01 03:44:37 | 212/800 |
+| 12 | **Some transformation improvements - long** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 18:48:40 | 2026-05-30 01:11:34 | 245/800 |
+| 13 | **Order encoding for inequalities** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-29 13:59:57 | 2026-05-29 18:03:17 | 98/600 |
+| 14 | **NoOverlap via Cumulative linear decomp** | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 17:22:33 | 96/600 |
+| 15 | **Positive MDD decomp** | XCSP3-2025-CSP25 | `85556f00 — Positive MDD test` | 2026-05-29 09:27:01 | 2026-05-29 09:57:51 | 40/200 |
+| 16 | **Some transformation improvements - rerun** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-29 00:03:40 | 68/400 |
+| 17 | **Table with MDD decomp** | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | 2026-05-29 05:10:05 | 397/1800 |
+| 18 | **Some transformation improvements** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 15:47:34 | 435/1800 |
+| 19 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
+| 20 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
+| 21 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
+| 22 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
+| 23 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
+
+---
+
+## Restore Regular _(running)_
+
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` · Created: 2026-06-03 13:26:22 · Last run: —_
+
+### Live Progress
+
+| Solver | Track | Status | Progress | Started | Elapsed |
+|--------|-------|--------|----------|---------|---------|
+| `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `exact` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `ortools` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `pumpkin` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `z3` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+
+### Track: XCSP3-2025-CSP25
+
+#### Performance Profile
+
+![XCSP3-2025-CSP25 profile](./profile_Restore_Regular_XCSP3-2025-CSP25.svg)
+
+#### Solver Ranking
+
+![XCSP3-2025-CSP25 ranking](./ranking_Restore_Regular_XCSP3-2025-CSP25.svg)
+
+#### Solve Status
+
+_No results yet._
+
+#### Solution Checker
+
+_Solution checker not enabled._
 
 ---
 
@@ -44,7 +83,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `12444731 — Merge remote-tracking branch '
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 12:04:41 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 10:53:33 | — |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 10:17:16 | — |
-| `pumpkin` | XCSP3-2025-CSP25 | 🔄 running | 39/200 | 2026-06-03 13:16:25 | 6m 12s |
+| `pumpkin` | XCSP3-2025-CSP25 | ❌ error | 41/200 | 2026-06-03 13:16:25 | — |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `scip` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `z3` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -61,14 +100,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `12444731 — Merge remote-tracking branch '
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 75 | 24 | 5 | 96 | 200 |
-| `cpo` | 63 | 9 | 11 | 117 | 200 |
-| `gurobi` | 37 | 21 | 42 | 100 | 200 |
-| `exact` | 38 | 13 | 82 | 67 | 200 |
-| `pindakaas` | 20 | 12 | 32 | 136 | 200 |
-| `pumpkin` | 21 | 3 | 0 | 15 | 39 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 75 | 24 | 5 | **10** | **14** | 72 | 200 |
+| `cpo` | 63 | 9 | 11 | **18** | **14** | 85 | 200 |
+| `gurobi` | 37 | 21 | 42 | **19** | **14** | 67 | 200 |
+| `exact` | 38 | 13 | 82 | **21** | **14** | 32 | 200 |
+| `pindakaas` | 20 | 12 | 32 | **67** | **14** | 55 | 200 |
+| `pumpkin` | 22 | 4 | 0 | **4** | **11** | 0 | 41 |
 
 #### Solution Checker
 
@@ -79,7 +118,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `12444731 — Merge remote-tracking branch '
 | `gurobi` | 150 | 0 | 50 | 200 |
 | `exact` | 87 | 0 | 113 | 200 |
 | `pindakaas` | 89 | 0 | 111 | 200 |
-| `pumpkin` | 24 | 0 | 15 | 39 |
+| `pumpkin` | 26 | 0 | 15 | 41 |
 
 ---
 
@@ -99,17 +138,17 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2023f924 — Merge remote-tracking branch '
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 76 | 25 | 5 | 94 | 200 |
-| `cpo` | 63 | 9 | 10 | 118 | 200 |
-| `gurobi` | 39 | 22 | 52 | 87 | 200 |
-| `exact` | 39 | 13 | 95 | 53 | 200 |
-| `pumpkin` | 36 | 6 | 28 | 130 | 200 |
-| `pindakaas` | 26 | 13 | 30 | 131 | 200 |
-| `z3` | 26 | 13 | 19 | 142 | 200 |
-| `highs` | 25 | 10 | 63 | 102 | 200 |
-| `scip` | 17 | 8 | 58 | 117 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 76 | 25 | 5 | **10** | **14** | 70 | 200 |
+| `cpo` | 63 | 9 | 10 | **6** | **14** | 98 | 200 |
+| `gurobi` | 39 | 22 | 52 | **8** | **14** | 65 | 200 |
+| `exact` | 39 | 13 | 95 | **9** | **14** | 30 | 200 |
+| `pumpkin` | 36 | 6 | 28 | **7** | **25** | 98 | 200 |
+| `pindakaas` | 26 | 13 | 30 | **62** | **14** | 55 | 200 |
+| `z3` | 26 | 13 | 19 | **14** | **14** | 114 | 200 |
+| `highs` | 25 | 10 | 63 | **16** | **14** | 72 | 200 |
+| `scip` | 17 | 8 | 58 | **37** | **17** | 63 | 200 |
 
 #### Solution Checker
 
@@ -143,9 +182,9 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `7dcaa8e2 — Merge remote
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `exact` | 40 | 13 | 81 | 66 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `exact` | 40 | 13 | 81 | **13** | **14** | 39 | 200 |
 
 #### Solution Checker
 
@@ -165,16 +204,16 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `7dcaa8e2 — Merge remote
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 201 | 22 | 1 | 26 | 250 |
-| `cpo` | 164 | 20 | 36 | 30 | 250 |
-| `gurobi` | 147 | 17 | 38 | 48 | 250 |
-| `highs` | 115 | 12 | 76 | 47 | 250 |
-| `z3` | 97 | 16 | 57 | 80 | 250 |
-| `scip` | 100 | 12 | 54 | 84 | 250 |
-| `exact` | 88 | 17 | 119 | 26 | 250 |
-| `pumpkin` | 103 | 0 | 25 | 122 | 250 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 201 | 22 | 1 | **13** | 0 | 13 | 250 |
+| `cpo` | 164 | 20 | 36 | **15** | 0 | 15 | 250 |
+| `gurobi` | 147 | 17 | 38 | **25** | 0 | 23 | 250 |
+| `highs` | 115 | 12 | 76 | **20** | 0 | 27 | 250 |
+| `z3` | 97 | 16 | 57 | **30** | **15** | 35 | 250 |
+| `scip` | 100 | 12 | 54 | **43** | **14** | 27 | 250 |
+| `exact` | 88 | 17 | 119 | **21** | 0 | 5 | 250 |
+| `pumpkin` | 103 | 0 | 25 | **25** | **64** | 33 | 250 |
 
 #### Solution Checker
 
@@ -207,9 +246,9 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch '
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `exact` | 39 | 13 | 94 | 54 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `exact` | 39 | 13 | 94 | **14** | **14** | 26 | 200 |
 
 #### Solution Checker
 
@@ -235,16 +274,16 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `009a736d — Merge remote-tracking branch '
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 76 | 25 | 5 | 94 | 200 |
-| `cpo` | 63 | 9 | 9 | 119 | 200 |
-| `gurobi` | 39 | 22 | 49 | 90 | 200 |
-| `exact` | 39 | 13 | 88 | 60 | 200 |
-| `pumpkin` | 37 | 5 | 29 | 129 | 200 |
-| `pindakaas` | 25 | 13 | 34 | 128 | 200 |
-| `highs` | 25 | 10 | 65 | 100 | 200 |
-| `scip` | 14 | 10 | 53 | 123 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 76 | 25 | 5 | **10** | **14** | 70 | 200 |
+| `cpo` | 63 | 9 | 9 | **6** | **14** | 99 | 200 |
+| `gurobi` | 39 | 22 | 49 | **11** | **14** | 65 | 200 |
+| `exact` | 39 | 13 | 88 | **12** | **14** | 34 | 200 |
+| `pumpkin` | 37 | 5 | 29 | **7** | **25** | 97 | 200 |
+| `pindakaas` | 25 | 13 | 34 | **61** | **14** | 53 | 200 |
+| `highs` | 25 | 10 | 65 | **16** | **14** | 70 | 200 |
+| `scip` | 14 | 10 | 53 | **36** | **17** | 70 | 200 |
 
 #### Solution Checker
 
@@ -277,13 +316,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `36447b7f — remove trailing comma` · Crea
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 76 | 24 | 5 | 95 | 200 |
-| `gurobi` | 38 | 21 | 51 | 90 | 200 |
-| `exact` | 39 | 13 | 95 | 53 | 200 |
-| `highs` | 25 | 11 | 64 | 100 | 200 |
-| `scip` | 12 | 9 | 62 | 117 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 76 | 24 | 5 | **10** | **14** | 71 | 200 |
+| `gurobi` | 38 | 21 | 51 | **9** | **14** | 67 | 200 |
+| `exact` | 39 | 13 | 95 | **11** | **14** | 28 | 200 |
+| `highs` | 25 | 11 | 64 | **16** | **14** | 70 | 200 |
+| `scip` | 12 | 9 | 62 | **34** | **14** | 69 | 200 |
 
 #### Solution Checker
 
@@ -313,12 +352,12 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `7a2345fa — Merge remote-tracking branch '
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 75 | 24 | 2 | 99 | 200 |
-| `gurobi` | 39 | 22 | 48 | 91 | 200 |
-| `exact` | 39 | 13 | 86 | 62 | 200 |
-| `scip` | 12 | 10 | 51 | 127 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 75 | 24 | 2 | **12** | **14** | 73 | 200 |
+| `gurobi` | 39 | 22 | 48 | **12** | **14** | 65 | 200 |
+| `exact` | 39 | 13 | 86 | **15** | **14** | 33 | 200 |
+| `scip` | 12 | 10 | 51 | **40** | **18** | 69 | 200 |
 
 #### Solution Checker
 
@@ -347,11 +386,11 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `d6eff956 — Per-table type  linear decompo
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `exact` | 39 | 13 | 91 | 57 | 200 |
-| `gurobi` | 35 | 14 | 51 | 100 | 200 |
-| `scip` | 16 | 9 | 65 | 110 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `exact` | 39 | 13 | 91 | **15** | **14** | 28 | 200 |
+| `gurobi` | 35 | 14 | 51 | **14** | **14** | 72 | 200 |
+| `scip` | 16 | 9 | 65 | **36** | **17** | 57 | 200 |
 
 #### Solution Checker
 
@@ -379,10 +418,10 @@ _Tracks: XCSP3-2025-CSP25, unknown · cpmpy: `—` · Created: 2026-06-01 09:39:
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 77 | 25 | 2 | 96 | 200 |
-| `gurobi` | 25 | 14 | 3 | 99 | 141 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 77 | 25 | 2 | **12** | **14** | 70 | 200 |
+| `gurobi` | 25 | 14 | 3 | **9** | **53** | 37 | 141 |
 
 #### Solution Checker
 
@@ -427,12 +466,12 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `e3f20354 — Test: Force cumulative time fo
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 78 | 26 | 2 | 94 | 200 |
-| `gurobi` | 29 | 16 | 16 | 139 | 200 |
-| `exact` | 29 | 12 | 47 | 112 | 200 |
-| `scip` | 11 | 11 | 34 | 144 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 78 | 26 | 2 | **12** | **14** | 68 | 200 |
+| `gurobi` | 29 | 16 | 16 | **17** | **67** | 55 | 200 |
+| `exact` | 29 | 12 | 47 | **16** | **67** | 29 | 200 |
+| `scip` | 11 | 11 | 34 | **24** | **70** | 50 | 200 |
 
 #### Solution Checker
 
@@ -461,12 +500,12 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 82 | 27 | 2 | 89 | 200 |
-| `gurobi` | 38 | 16 | 42 | 104 | 200 |
-| `exact` | 39 | 13 | 91 | 57 | 200 |
-| `scip` | 18 | 12 | 60 | 110 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 82 | 27 | 2 | **12** | **14** | 63 | 200 |
+| `gurobi` | 38 | 16 | 42 | **33** | **14** | 57 | 200 |
+| `exact` | 39 | 13 | 91 | **23** | **14** | 20 | 200 |
+| `scip` | 18 | 12 | 60 | **44** | **16** | 50 | 200 |
 
 #### Solution Checker
 
@@ -495,11 +534,11 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `e3f20354 — Test: Force cumulative time fo
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `exact` | 28 | 11 | 51 | 110 | 200 |
-| `gurobi` | 25 | 14 | 25 | 136 | 200 |
-| `scip` | 10 | 10 | 44 | 136 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `exact` | 28 | 11 | 51 | **12** | **67** | 31 | 200 |
+| `gurobi` | 25 | 14 | 25 | **10** | **67** | 59 | 200 |
+| `scip` | 10 | 10 | 44 | **19** | **70** | 47 | 200 |
 
 #### Solution Checker
 
@@ -527,11 +566,11 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `4566ba81 — Test: linear decomp nooverlap 
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `exact` | 28 | 11 | 46 | 115 | 200 |
-| `gurobi` | 25 | 14 | 24 | 137 | 200 |
-| `scip` | 10 | 8 | 42 | 140 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `exact` | 28 | 11 | 46 | **13** | **67** | 35 | 200 |
+| `gurobi` | 25 | 14 | 24 | **11** | **67** | 59 | 200 |
+| `scip` | 10 | 8 | 42 | **20** | **70** | 50 | 200 |
 
 #### Solution Checker
 
@@ -559,9 +598,9 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `85556f00 — Positive MDD test` · Created:
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `gurobi` | 25 | 15 | 21 | 139 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `gurobi` | 25 | 15 | 21 | **10** | **67** | 62 | 200 |
 
 #### Solution Checker
 
@@ -587,10 +626,10 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `z3` | 24 | 13 | 26 | 137 | 200 |
-| `highs` | 21 | 10 | 68 | 101 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `z3` | 24 | 13 | 26 | **16** | **14** | 107 | 200 |
+| `highs` | 21 | 10 | 68 | **19** | **14** | 68 | 200 |
 
 #### Solution Checker
 
@@ -617,17 +656,17 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3ed0f343 — Table global from master used 
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 76 | 25 | 2 | 97 | 200 |
-| `cpo` | 63 | 9 | 10 | 118 | 200 |
-| `pumpkin` | 36 | 5 | 28 | 131 | 200 |
-| `exact` | 27 | 11 | 52 | 110 | 200 |
-| `gurobi` | 24 | 14 | 25 | 137 | 200 |
-| `z3` | 25 | 13 | 14 | 148 | 200 |
-| `pindakaas` | 17 | 13 | 7 | 163 | 200 |
-| `highs` | 13 | 10 | 34 | 143 | 200 |
-| `scip` | 8 | 8 | 43 | 141 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 76 | 25 | 2 | **12** | **14** | 71 | 200 |
+| `cpo` | 63 | 9 | 10 | **6** | **14** | 98 | 200 |
+| `pumpkin` | 36 | 5 | 28 | **7** | **25** | 99 | 200 |
+| `exact` | 27 | 11 | 52 | **12** | **67** | 31 | 200 |
+| `gurobi` | 24 | 14 | 25 | **11** | **67** | 59 | 200 |
+| `z3` | 25 | 13 | 14 | **14** | **14** | 120 | 200 |
+| `pindakaas` | 17 | 13 | 7 | **56** | **67** | 40 | 200 |
+| `highs` | 13 | 10 | 34 | **12** | **67** | 64 | 200 |
+| `scip` | 8 | 8 | 43 | **19** | **69** | 53 | 200 |
 
 #### Solution Checker
 
@@ -661,17 +700,17 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `6e268bb7 — Merge remote-tracking branch '
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 75 | 24 | 2 | 99 | 200 |
-| `cpo` | 62 | 8 | 9 | 121 | 200 |
-| `exact` | 37 | 13 | 99 | 51 | 200 |
-| `gurobi` | 34 | 14 | 70 | 82 | 200 |
-| `pumpkin` | 36 | 6 | 29 | 129 | 200 |
-| `z3` | 24 | 13 | 31 | 132 | 200 |
-| `pindakaas` | 24 | 12 | 35 | 129 | 200 |
-| `highs` | 20 | 10 | 70 | 100 | 200 |
-| `scip` | 14 | 9 | 76 | 101 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 75 | 24 | 2 | **12** | **14** | 73 | 200 |
+| `cpo` | 62 | 8 | 9 | **6** | **14** | 101 | 200 |
+| `exact` | 37 | 13 | 99 | **14** | **14** | 23 | 200 |
+| `gurobi` | 34 | 14 | 70 | **8** | **14** | 60 | 200 |
+| `pumpkin` | 36 | 6 | 29 | **7** | **25** | 97 | 200 |
+| `z3` | 24 | 13 | 31 | **9** | **14** | 109 | 200 |
+| `pindakaas` | 24 | 12 | 35 | **61** | **14** | 54 | 200 |
+| `highs` | 20 | 10 | 70 | **19** | **14** | 67 | 200 |
+| `scip` | 14 | 9 | 76 | **34** | **16** | 51 | 200 |
 
 #### Solution Checker
 
@@ -705,17 +744,17 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 74 | 24 | 5 | 97 | 200 |
-| `cpo` | 62 | 9 | 12 | 117 | 200 |
-| `exact` | 35 | 12 | 99 | 54 | 200 |
-| `gurobi` | 32 | 13 | 69 | 86 | 200 |
-| `pumpkin` | 38 | 6 | 32 | 124 | 200 |
-| `z3` | 26 | 12 | 29 | 133 | 200 |
-| `pindakaas` | 23 | 12 | 34 | 131 | 200 |
-| `highs` | 20 | 10 | 71 | 99 | 200 |
-| `scip` | 11 | 8 | 69 | 112 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 74 | 24 | 5 | **11** | **14** | 72 | 200 |
+| `cpo` | 62 | 9 | 12 | **6** | **14** | 97 | 200 |
+| `exact` | 35 | 12 | 99 | **13** | **14** | 27 | 200 |
+| `gurobi` | 32 | 13 | 69 | **10** | **14** | 62 | 200 |
+| `pumpkin` | 38 | 6 | 32 | **7** | **25** | 92 | 200 |
+| `z3` | 26 | 12 | 29 | **11** | **14** | 108 | 200 |
+| `pindakaas` | 23 | 12 | 34 | **62** | **14** | 55 | 200 |
+| `highs` | 20 | 10 | 71 | **19** | **14** | 66 | 200 |
+| `scip` | 11 | 8 | 69 | **32** | **16** | 64 | 200 |
 
 #### Solution Checker
 
@@ -743,16 +782,16 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 202 | 22 | 5 | 21 | 250 |
-| `cpo` | 164 | 20 | 36 | 30 | 250 |
-| `gurobi` | 148 | 17 | 52 | 33 | 250 |
-| `highs` | 113 | 12 | 75 | 50 | 250 |
-| `scip` | 97 | 14 | 68 | 71 | 250 |
-| `z3` | 94 | 16 | 54 | 86 | 250 |
-| `exact` | 88 | 17 | 122 | 23 | 250 |
-| `pumpkin` | 102 | 1 | 24 | 123 | 250 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 202 | 22 | 5 | **13** | 0 | 8 | 250 |
+| `cpo` | 164 | 20 | 36 | **16** | 0 | 14 | 250 |
+| `gurobi` | 148 | 17 | 52 | **14** | 0 | 19 | 250 |
+| `highs` | 113 | 12 | 75 | **29** | 0 | 21 | 250 |
+| `scip` | 97 | 14 | 68 | **41** | **8** | 22 | 250 |
+| `z3` | 94 | 16 | 54 | **26** | **17** | 43 | 250 |
+| `exact` | 88 | 17 | 122 | **17** | 0 | 6 | 250 |
+| `pumpkin` | 102 | 1 | 24 | **25** | **63** | 35 | 250 |
 
 #### Solution Checker
 
@@ -785,17 +824,17 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 73 | 24 | 4 | 99 | 200 |
-| `cpo` | 61 | 8 | 11 | 120 | 200 |
-| `exact` | 35 | 12 | 101 | 52 | 200 |
-| `gurobi` | 32 | 13 | 68 | 87 | 200 |
-| `pumpkin` | 38 | 6 | 30 | 126 | 200 |
-| `z3` | 27 | 12 | 34 | 127 | 200 |
-| `pindakaas` | 23 | 12 | 36 | 129 | 200 |
-| `highs` | 21 | 10 | 71 | 98 | 200 |
-| `scip` | 14 | 8 | 77 | 101 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 73 | 24 | 4 | **12** | **14** | 73 | 200 |
+| `cpo` | 61 | 8 | 11 | **6** | **14** | 100 | 200 |
+| `exact` | 35 | 12 | 101 | **13** | **14** | 25 | 200 |
+| `gurobi` | 32 | 13 | 68 | **10** | **14** | 63 | 200 |
+| `pumpkin` | 38 | 6 | 30 | **7** | **25** | 94 | 200 |
+| `z3` | 27 | 12 | 34 | **9** | **14** | 104 | 200 |
+| `pindakaas` | 23 | 12 | 36 | **63** | **14** | 52 | 200 |
+| `highs` | 21 | 10 | 71 | **19** | **14** | 65 | 200 |
+| `scip` | 14 | 8 | 77 | **32** | **16** | 53 | 200 |
 
 #### Solution Checker
 
@@ -823,9 +862,9 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 7 | 0 | 0 | 0 | 7 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 7 | 0 | 0 | 0 | 0 | 0 | 7 |
 
 #### Solution Checker
 
@@ -851,9 +890,9 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 203 | 22 | 2 | 23 | 250 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 203 | 22 | 2 | **13** | 0 | 10 | 250 |
 
 #### Solution Checker
 
@@ -873,9 +912,9 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `—` · Created: 2026-05-
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 72 | 24 | 2 | 102 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 72 | 24 | 2 | **12** | **14** | 76 | 200 |
 
 #### Solution Checker
 
@@ -901,17 +940,17 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate ol
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 73 | 24 | 4 | 99 | 200 |
-| `exact` | 35 | 12 | 96 | 57 | 200 |
-| `gurobi` | 33 | 14 | 55 | 98 | 200 |
-| `pumpkin` | 38 | 7 | 25 | 130 | 200 |
-| `z3` | 26 | 12 | 32 | 130 | 200 |
-| `pindakaas` | 23 | 12 | 38 | 127 | 200 |
-| `cpo` | 26 | 5 | 1 | 168 | 200 |
-| `highs` | 20 | 10 | 71 | 99 | 200 |
-| `scip` | 15 | 8 | 71 | 106 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 73 | 24 | 4 | **12** | **14** | 73 | 200 |
+| `exact` | 35 | 12 | 96 | **15** | **14** | 28 | 200 |
+| `gurobi` | 33 | 14 | 55 | **18** | **14** | 66 | 200 |
+| `pumpkin` | 38 | 7 | 25 | **7** | **25** | 98 | 200 |
+| `z3` | 26 | 12 | 32 | **10** | **14** | 106 | 200 |
+| `pindakaas` | 23 | 12 | 38 | **62** | **14** | 51 | 200 |
+| `cpo` | 26 | 5 | 1 | **6** | **119** | 43 | 200 |
+| `highs` | 20 | 10 | 71 | **19** | **14** | 66 | 200 |
+| `scip` | 15 | 8 | 71 | **33** | **18** | 55 | 200 |
 
 #### Solution Checker
 
@@ -939,16 +978,16 @@ _Tracks: XCSP3-2025-COP25, XCSP3-2025-CSP25 · cpmpy: `45fc0181 — Deprecate ol
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 202 | 22 | 4 | 22 | 250 |
-| `cpo` | 170 | 16 | 27 | 37 | 250 |
-| `gurobi` | 149 | 14 | 31 | 56 | 250 |
-| `highs` | 114 | 9 | 67 | 60 | 250 |
-| `exact` | 97 | 13 | 99 | 41 | 250 |
-| `z3` | 96 | 13 | 48 | 93 | 250 |
-| `scip` | 98 | 10 | 51 | 91 | 250 |
-| `pumpkin` | 103 | 0 | 21 | 126 | 250 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 202 | 22 | 4 | **13** | 0 | 9 | 250 |
+| `cpo` | 170 | 16 | 27 | **18** | **4** | 15 | 250 |
+| `gurobi` | 149 | 14 | 31 | **33** | **4** | 19 | 250 |
+| `highs` | 114 | 9 | 67 | **34** | **4** | 22 | 250 |
+| `exact` | 97 | 13 | 99 | **34** | **4** | 3 | 250 |
+| `z3` | 96 | 13 | 48 | **33** | **20** | 40 | 250 |
+| `scip` | 98 | 10 | 51 | **52** | **15** | 24 | 250 |
+| `pumpkin` | 103 | 0 | 21 | **25** | **65** | 36 | 250 |
 
 #### Solution Checker
 
@@ -981,15 +1020,15 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `1e446eaf — Add count to second decompose_
 
 #### Solve Status
 
-| Solver | SAT | UNSAT | TIMEOUT | UNKNOWN | TOTAL |
-|--------|-----|-------|---------|---------|-------|
-| `ortools` | 72 | 21 | 1 | 106 | 200 |
-| `z3` | 23 | 13 | 6 | 158 | 200 |
-| `gurobi` | 20 | 12 | 15 | 153 | 200 |
-| `cpo` | 21 | 5 | 1 | 173 | 200 |
-| `exact` | 20 | 3 | 38 | 139 | 200 |
-| `pumpkin` | 0 | 0 | 0 | 200 | 200 |
-| `scip` | 0 | 0 | 0 | 200 | 200 |
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `ortools` | 72 | 21 | 1 | **10** | **39** | 57 | 200 |
+| `z3` | 23 | 13 | 6 | **9** | **80** | 69 | 200 |
+| `gurobi` | 20 | 12 | 15 | **9** | **81** | 63 | 200 |
+| `cpo` | 21 | 5 | 1 | **6** | **126** | 41 | 200 |
+| `exact` | 20 | 3 | 38 | **9** | **106** | 24 | 200 |
+| `pumpkin` | 0 | 0 | 0 | **2** | **198** | 0 | 200 |
+| `scip` | 0 | 0 | 0 | **2** | **198** | 0 | 200 |
 
 #### Solution Checker
 

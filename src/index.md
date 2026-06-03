@@ -44,6 +44,6 @@ const sessionSummary = summary.filter(d => d.session_slug === session.slug);
 display(html`<p><a class="button" href="./session/${session.slug}.html">Open ${session.name}</a></p>`);
 display(Inputs.table(sessionTracks, {columns: ["track", "solvers"]}));
 display(Inputs.table(sessionSummary, {
-  columns: ["track", "solver", "sat", "unsat", "timeout", "unknown", "total", "checker_valid", "checker_invalid"]
+  columns: ["track", "solver", "sat", "unsat", "timeout", "oom", "error", "unknown", "total", "checker_valid", "checker_invalid"]
 }));
 ```

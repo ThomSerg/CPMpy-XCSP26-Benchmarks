@@ -1,136 +1,136 @@
-session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
-Positive_globals,Positive globals,XCSP3-2025-CSP25,cpo,63,9,0,128,200,160,0,40
-Positive_globals,Positive globals,XCSP3-2025-CSP25,exact,38,13,0,149,200,87,0,113
-Positive_globals,Positive globals,XCSP3-2025-CSP25,gurobi,37,21,0,142,200,150,0,50
-Positive_globals,Positive globals,XCSP3-2025-CSP25,ortools,75,24,0,101,200,174,0,26
-Positive_globals,Positive globals,XCSP3-2025-CSP25,pindakaas,20,12,0,168,200,89,0,111
-Positive_globals,Positive globals,XCSP3-2025-CSP25,pumpkin,21,3,0,15,39,24,0,15
-Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,cpo,63,9,0,128,200,175,0,25
-Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,exact,39,13,0,148,200,85,0,115
-Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,gurobi,39,22,0,139,200,154,0,46
-Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,highs,25,10,0,165,200,113,0,87
-Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,ortools,76,25,0,99,200,174,0,26
-Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,pindakaas,26,13,0,161,200,98,0,102
-Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,pumpkin,36,6,0,158,200,168,0,32
-Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,scip,17,8,0,175,200,110,0,90
-Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,z3,26,13,0,161,200,164,0,36
-Selective_channeling,Selective channeling,XCSP3-2025-COP25,cpo,164,20,0,66,250,191,0,59
-Selective_channeling,Selective channeling,XCSP3-2025-COP25,exact,88,17,0,145,250,112,0,138
-Selective_channeling,Selective channeling,XCSP3-2025-COP25,gurobi,147,17,0,86,250,185,0,65
-Selective_channeling,Selective channeling,XCSP3-2025-COP25,highs,115,12,0,123,250,166,0,84
-Selective_channeling,Selective channeling,XCSP3-2025-COP25,ortools,201,22,0,27,250,226,0,24
-Selective_channeling,Selective channeling,XCSP3-2025-COP25,pumpkin,103,0,0,147,250,153,0,97
-Selective_channeling,Selective channeling,XCSP3-2025-COP25,scip,100,12,0,138,250,147,0,103
-Selective_channeling,Selective channeling,XCSP3-2025-COP25,z3,97,16,0,137,250,171,0,79
-Selective_channeling,Selective channeling,XCSP3-2025-CSP25,exact,40,13,0,147,200,98,0,102
-Exact_SoPlex,Exact SoPlex,XCSP3-2025-CSP25,exact,39,13,0,148,200,87,0,113
-Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,cpo,63,9,0,128,200,174,0,26
-Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,exact,39,13,0,148,200,97,0,103
-Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,gurobi,39,22,0,139,200,151,0,49
-Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,highs,25,10,0,165,200,115,0,85
-Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,ortools,76,25,0,99,200,174,0,26
-Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,pindakaas,25,13,0,162,200,96,0,104
-Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,pumpkin,37,5,0,158,200,168,0,32
-Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,scip,14,10,0,176,200,105,0,95
-Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,39,13,0,148,200,87,0,113
-Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,38,21,0,141,200,155,0,45
-Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,25,11,0,164,200,114,0,86
-Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,76,24,0,100,200,174,0,26
-Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,12,9,0,179,200,105,0,95
-Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,39,13,0,148,200,95,0,105
-Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,39,22,0,139,200,148,0,52
-Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,75,24,0,101,200,174,0,26
-Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,12,10,0,178,200,109,0,91
-Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,39,13,0,148,200,86,0,114
-Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,35,14,0,151,200,147,0,53
-Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,16,9,0,175,200,107,0,93
-Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,25,14,0,102,141,77,0,64
-Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,ortools,77,25,0,98,200,174,0,26
-Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,XCSP3-2025-CSP25,exact,29,12,0,159,200,71,0,129
-Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,XCSP3-2025-CSP25,gurobi,29,16,0,155,200,114,0,86
-Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,XCSP3-2025-CSP25,ortools,78,26,0,96,200,174,0,26
-Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,XCSP3-2025-CSP25,scip,11,11,0,178,200,76,0,124
-Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,exact,39,13,0,148,200,83,0,117
-Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,gurobi,38,16,0,146,200,146,0,54
-Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,ortools,82,27,0,91,200,174,0,26
-Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,scip,18,12,0,170,200,94,0,106
-Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,exact,28,11,0,161,200,72,0,128
-Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,gurobi,25,14,0,161,200,108,0,92
-Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,10,10,0,180,200,78,0,122
-NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,exact,28,11,0,161,200,79,0,121
-NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,gurobi,25,14,0,161,200,113,0,87
-NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,scip,10,8,0,182,200,79,0,121
-Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,25,15,0,160,200,113,0,87
-Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs,21,10,0,169,200,106,0,94
-Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,24,13,0,163,200,163,0,37
-Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,63,9,0,128,200,173,0,27
-Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,27,11,0,162,200,76,0,124
-Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,24,14,0,162,200,110,0,90
-Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,13,10,0,177,200,93,0,107
-Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,76,25,0,99,200,174,0,26
-Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,17,13,0,170,200,73,0,127
-Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,36,5,0,159,200,168,0,32
-Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,scip,8,8,0,184,200,80,0,120
-Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,25,13,0,162,200,166,0,34
-Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,62,8,0,130,200,173,0,27
-Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,37,13,0,150,200,87,0,113
-Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,gurobi,34,14,0,152,200,151,0,49
-Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,20,10,0,170,200,105,0,95
-Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,ortools,75,24,0,101,200,174,0,26
-Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,pindakaas,24,12,0,164,200,98,0,102
-Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,pumpkin,36,6,0,158,200,168,0,32
-Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,scip,14,9,0,177,200,89,0,111
-Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,24,13,0,163,200,163,0,37
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,164,20,0,66,250,192,0,58
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,88,17,0,145,250,107,0,143
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,148,17,0,85,250,191,0,59
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,113,12,0,125,250,162,0,88
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,ortools,202,22,0,26,250,228,0,22
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,pumpkin,102,1,0,147,250,153,0,97
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,97,14,0,139,250,142,0,108
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,94,16,0,140,250,175,0,75
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,cpo,62,9,0,129,200,174,0,26
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,exact,35,12,0,153,200,85,0,115
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,gurobi,32,13,0,155,200,149,0,51
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,highs,20,10,0,170,200,106,0,94
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,ortools,74,24,0,102,200,174,0,26
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pindakaas,23,12,0,165,200,98,0,102
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,38,6,0,156,200,167,0,33
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,scip,11,8,0,181,200,97,0,103
-Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,26,12,0,162,200,159,0,41
-MDD_global,MDD global,XCSP3-2025-COP25,ortools,7,0,0,0,7,7,0,0
-MDD_global,MDD global,XCSP3-2025-CSP25,cpo,61,8,0,131,200,173,0,27
-MDD_global,MDD global,XCSP3-2025-CSP25,exact,35,12,0,153,200,86,0,114
-MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,32,13,0,155,200,146,0,54
-MDD_global,MDD global,XCSP3-2025-CSP25,highs,21,10,0,169,200,110,0,90
-MDD_global,MDD global,XCSP3-2025-CSP25,ortools,73,24,0,103,200,174,0,26
-MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,23,12,0,165,200,96,0,104
-MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,38,6,0,156,200,168,0,32
-MDD_global,MDD global,XCSP3-2025-CSP25,scip,14,8,0,178,200,93,0,107
-MDD_global,MDD global,XCSP3-2025-CSP25,z3,27,12,0,161,200,160,0,40
-linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,203,22,0,25,250,229,0,21
-linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-CSP25,ortools,72,24,0,104,200,171,3,26
-baseline,baseline,XCSP3-2025-COP25,cpo,170,16,0,64,250,193,4,53
-baseline,baseline,XCSP3-2025-COP25,exact,97,13,0,140,250,107,1,142
-baseline,baseline,XCSP3-2025-COP25,gurobi,149,14,0,87,250,189,2,59
-baseline,baseline,XCSP3-2025-COP25,highs,114,9,0,127,250,165,0,85
-baseline,baseline,XCSP3-2025-COP25,ortools,202,22,0,26,250,228,0,22
-baseline,baseline,XCSP3-2025-COP25,pumpkin,103,0,0,147,250,151,2,97
-baseline,baseline,XCSP3-2025-COP25,scip,98,10,0,142,250,143,0,107
-baseline,baseline,XCSP3-2025-COP25,z3,96,13,0,141,250,174,2,74
-baseline,baseline,XCSP3-2025-CSP25,cpo,26,5,0,169,200,75,0,125
-baseline,baseline,XCSP3-2025-CSP25,exact,35,12,0,153,200,0,0,200
-baseline,baseline,XCSP3-2025-CSP25,gurobi,33,14,0,153,200,153,0,47
-baseline,baseline,XCSP3-2025-CSP25,highs,20,10,0,170,200,0,0,200
-baseline,baseline,XCSP3-2025-CSP25,ortools,73,24,0,103,200,171,3,26
-baseline,baseline,XCSP3-2025-CSP25,pindakaas,23,12,0,165,200,0,0,200
-baseline,baseline,XCSP3-2025-CSP25,pumpkin,38,7,0,155,200,0,0,200
-baseline,baseline,XCSP3-2025-CSP25,scip,15,8,0,177,200,0,0,200
-baseline,baseline,XCSP3-2025-CSP25,z3,26,12,0,162,200,0,0,200
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,cpo,21,5,0,174,200,47,0,153
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,20,3,0,177,200,30,0,170
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,20,12,0,168,200,81,0,119
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,72,21,0,107,200,79,0,121
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,pumpkin,0,0,0,200,200,0,0,200
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,scip,0,0,0,200,200,0,0,200
-Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,23,13,0,164,200,83,0,117
+session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
+Positive_globals,Positive globals,XCSP3-2025-CSP25,cpo,63,9,11,18,14,85,200,160,0,40
+Positive_globals,Positive globals,XCSP3-2025-CSP25,exact,38,13,82,21,14,32,200,87,0,113
+Positive_globals,Positive globals,XCSP3-2025-CSP25,gurobi,37,21,42,19,14,67,200,150,0,50
+Positive_globals,Positive globals,XCSP3-2025-CSP25,ortools,75,24,5,10,14,72,200,174,0,26
+Positive_globals,Positive globals,XCSP3-2025-CSP25,pindakaas,20,12,32,67,14,55,200,89,0,111
+Positive_globals,Positive globals,XCSP3-2025-CSP25,pumpkin,22,4,0,4,11,0,41,26,0,15
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,cpo,63,9,10,6,14,98,200,175,0,25
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,exact,39,13,95,9,14,30,200,85,0,115
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,gurobi,39,22,52,8,14,65,200,154,0,46
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,highs,25,10,63,16,14,72,200,113,0,87
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,ortools,76,25,5,10,14,70,200,174,0,26
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,pindakaas,26,13,30,62,14,55,200,98,0,102
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,pumpkin,36,6,28,7,25,98,200,168,0,32
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,scip,17,8,58,37,17,63,200,110,0,90
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,z3,26,13,19,14,14,114,200,164,0,36
+Selective_channeling,Selective channeling,XCSP3-2025-COP25,cpo,164,20,36,15,0,15,250,191,0,59
+Selective_channeling,Selective channeling,XCSP3-2025-COP25,exact,88,17,119,21,0,5,250,112,0,138
+Selective_channeling,Selective channeling,XCSP3-2025-COP25,gurobi,147,17,38,25,0,23,250,185,0,65
+Selective_channeling,Selective channeling,XCSP3-2025-COP25,highs,115,12,76,20,0,27,250,166,0,84
+Selective_channeling,Selective channeling,XCSP3-2025-COP25,ortools,201,22,1,13,0,13,250,226,0,24
+Selective_channeling,Selective channeling,XCSP3-2025-COP25,pumpkin,103,0,25,25,64,33,250,153,0,97
+Selective_channeling,Selective channeling,XCSP3-2025-COP25,scip,100,12,54,43,14,27,250,147,0,103
+Selective_channeling,Selective channeling,XCSP3-2025-COP25,z3,97,16,57,30,15,35,250,171,0,79
+Selective_channeling,Selective channeling,XCSP3-2025-CSP25,exact,40,13,81,13,14,39,200,98,0,102
+Exact_SoPlex,Exact SoPlex,XCSP3-2025-CSP25,exact,39,13,94,14,14,26,200,87,0,113
+Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,cpo,63,9,9,6,14,99,200,174,0,26
+Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,exact,39,13,88,12,14,34,200,97,0,103
+Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,gurobi,39,22,49,11,14,65,200,151,0,49
+Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,highs,25,10,65,16,14,70,200,115,0,85
+Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,ortools,76,25,5,10,14,70,200,174,0,26
+Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,pindakaas,25,13,34,61,14,53,200,96,0,104
+Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,pumpkin,37,5,29,7,25,97,200,168,0,32
+Positive_decomposition,Positive decomposition,XCSP3-2025-CSP25,scip,14,10,53,36,17,70,200,105,0,95
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,exact,39,13,95,11,14,28,200,87,0,113
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,gurobi,38,21,51,9,14,67,200,155,0,45
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,highs,25,11,64,16,14,70,200,114,0,86
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,ortools,76,24,5,10,14,71,200,174,0,26
+Simplify_bool,Simplify bool,XCSP3-2025-CSP25,scip,12,9,62,34,14,69,200,105,0,95
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,exact,39,13,86,15,14,33,200,95,0,105
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,gurobi,39,22,48,12,14,65,200,148,0,52
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,ortools,75,24,2,12,14,73,200,174,0,26
+Reduce_MDD_-_rerun,Reduce MDD - rerun,XCSP3-2025-CSP25,scip,12,10,51,40,18,69,200,109,0,91
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,exact,39,13,91,15,14,28,200,86,0,114
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,gurobi,35,14,51,14,14,72,200,147,0,53
+Per-table_type_linear_decompose,Per-table type linear decompose,XCSP3-2025-CSP25,scip,16,9,65,36,17,57,200,107,0,93
+Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,gurobi,25,14,3,9,53,37,141,77,0,64
+Reduce_MDD,Reduce MDD,XCSP3-2025-CSP25,ortools,77,25,2,12,14,70,200,174,0,26
+Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,XCSP3-2025-CSP25,exact,29,12,47,16,67,29,200,71,0,129
+Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,XCSP3-2025-CSP25,gurobi,29,16,16,17,67,55,200,114,0,86
+Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,XCSP3-2025-CSP25,ortools,78,26,2,12,14,68,200,174,0,26
+Order_encoding_for_inequalities_-_long,Order encoding for inequalities - long,XCSP3-2025-CSP25,scip,11,11,34,24,70,50,200,76,0,124
+Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,exact,39,13,91,23,14,20,200,83,0,117
+Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,gurobi,38,16,42,33,14,57,200,146,0,54
+Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,ortools,82,27,2,12,14,63,200,174,0,26
+Some_transformation_improvements_-_long,Some transformation improvements - long,XCSP3-2025-CSP25,scip,18,12,60,44,16,50,200,94,0,106
+Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,exact,28,11,51,12,67,31,200,72,0,128
+Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,gurobi,25,14,25,10,67,59,200,108,0,92
+Order_encoding_for_inequalities,Order encoding for inequalities,XCSP3-2025-CSP25,scip,10,10,44,19,70,47,200,78,0,122
+NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,exact,28,11,46,13,67,35,200,79,0,121
+NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,gurobi,25,14,24,11,67,59,200,113,0,87
+NoOverlap_via_Cumulative_linear_decomp,NoOverlap via Cumulative linear decomp,XCSP3-2025-CSP25,scip,10,8,42,20,70,50,200,79,0,121
+Positive_MDD_decomp,Positive MDD decomp,XCSP3-2025-CSP25,gurobi,25,15,21,10,67,62,200,113,0,87
+Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,highs,21,10,68,19,14,68,200,106,0,94
+Some_transformation_improvements_-_rerun,Some transformation improvements - rerun,XCSP3-2025-CSP25,z3,24,13,26,16,14,107,200,163,0,37
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,cpo,63,9,10,6,14,98,200,173,0,27
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,exact,27,11,52,12,67,31,200,76,0,124
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,gurobi,24,14,25,11,67,59,200,110,0,90
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,highs,13,10,34,12,67,64,200,93,0,107
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,ortools,76,25,2,12,14,71,200,174,0,26
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pindakaas,17,13,7,56,67,40,200,73,0,127
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,pumpkin,36,5,28,7,25,99,200,168,0,32
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,scip,8,8,43,19,69,53,200,80,0,120
+Table_with_MDD_decomp,Table with MDD decomp,XCSP3-2025-CSP25,z3,25,13,14,14,14,120,200,166,0,34
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,cpo,62,8,9,6,14,101,200,173,0,27
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,exact,37,13,99,14,14,23,200,87,0,113
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,gurobi,34,14,70,8,14,60,200,151,0,49
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,highs,20,10,70,19,14,67,200,105,0,95
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,ortools,75,24,2,12,14,73,200,174,0,26
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,pindakaas,24,12,35,61,14,54,200,98,0,102
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,pumpkin,36,6,29,7,25,97,200,168,0,32
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,scip,14,9,76,34,16,51,200,89,0,111
+Some_transformation_improvements,Some transformation improvements,XCSP3-2025-CSP25,z3,24,13,31,9,14,109,200,163,0,37
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,cpo,164,20,36,16,0,14,250,192,0,58
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,exact,88,17,122,17,0,6,250,107,0,143
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,gurobi,148,17,52,14,0,19,250,191,0,59
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,highs,113,12,75,29,0,21,250,162,0,88
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,ortools,202,22,5,13,0,8,250,228,0,22
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,pumpkin,102,1,24,25,63,35,250,153,0,97
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,scip,97,14,68,41,8,22,250,142,0,108
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-COP25,z3,94,16,54,26,17,43,250,175,0,75
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,cpo,62,9,12,6,14,97,200,174,0,26
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,exact,35,12,99,13,14,27,200,85,0,115
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,gurobi,32,13,69,10,14,62,200,149,0,51
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,highs,20,10,71,19,14,66,200,106,0,94
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,ortools,74,24,5,11,14,72,200,174,0,26
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pindakaas,23,12,34,62,14,55,200,98,0,102
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,pumpkin,38,6,32,7,25,92,200,167,0,33
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,scip,11,8,69,32,16,64,200,97,0,103
+Use_new_MDD_global_in_xcsp3_parser,Use new MDD global in xcsp3 parser,XCSP3-2025-CSP25,z3,26,12,29,11,14,108,200,159,0,41
+MDD_global,MDD global,XCSP3-2025-COP25,ortools,7,0,0,0,0,0,7,7,0,0
+MDD_global,MDD global,XCSP3-2025-CSP25,cpo,61,8,11,6,14,100,200,173,0,27
+MDD_global,MDD global,XCSP3-2025-CSP25,exact,35,12,101,13,14,25,200,86,0,114
+MDD_global,MDD global,XCSP3-2025-CSP25,gurobi,32,13,68,10,14,63,200,146,0,54
+MDD_global,MDD global,XCSP3-2025-CSP25,highs,21,10,71,19,14,65,200,110,0,90
+MDD_global,MDD global,XCSP3-2025-CSP25,ortools,73,24,4,12,14,73,200,174,0,26
+MDD_global,MDD global,XCSP3-2025-CSP25,pindakaas,23,12,36,63,14,52,200,96,0,104
+MDD_global,MDD global,XCSP3-2025-CSP25,pumpkin,38,6,30,7,25,94,200,168,0,32
+MDD_global,MDD global,XCSP3-2025-CSP25,scip,14,8,77,32,16,53,200,93,0,107
+MDD_global,MDD global,XCSP3-2025-CSP25,z3,27,12,34,9,14,104,200,160,0,40
+linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-COP25,ortools,203,22,2,13,0,10,250,229,0,21
+linearize_reified_variables_for_OR-Tools,linearize_reified_variables for OR-Tools,XCSP3-2025-CSP25,ortools,72,24,2,12,14,76,200,171,3,26
+baseline,baseline,XCSP3-2025-COP25,cpo,170,16,27,18,4,15,250,193,4,53
+baseline,baseline,XCSP3-2025-COP25,exact,97,13,99,34,4,3,250,107,1,142
+baseline,baseline,XCSP3-2025-COP25,gurobi,149,14,31,33,4,19,250,189,2,59
+baseline,baseline,XCSP3-2025-COP25,highs,114,9,67,34,4,22,250,165,0,85
+baseline,baseline,XCSP3-2025-COP25,ortools,202,22,4,13,0,9,250,228,0,22
+baseline,baseline,XCSP3-2025-COP25,pumpkin,103,0,21,25,65,36,250,151,2,97
+baseline,baseline,XCSP3-2025-COP25,scip,98,10,51,52,15,24,250,143,0,107
+baseline,baseline,XCSP3-2025-COP25,z3,96,13,48,33,20,40,250,174,2,74
+baseline,baseline,XCSP3-2025-CSP25,cpo,26,5,1,6,119,43,200,75,0,125
+baseline,baseline,XCSP3-2025-CSP25,exact,35,12,96,15,14,28,200,0,0,200
+baseline,baseline,XCSP3-2025-CSP25,gurobi,33,14,55,18,14,66,200,153,0,47
+baseline,baseline,XCSP3-2025-CSP25,highs,20,10,71,19,14,66,200,0,0,200
+baseline,baseline,XCSP3-2025-CSP25,ortools,73,24,4,12,14,73,200,171,3,26
+baseline,baseline,XCSP3-2025-CSP25,pindakaas,23,12,38,62,14,51,200,0,0,200
+baseline,baseline,XCSP3-2025-CSP25,pumpkin,38,7,25,7,25,98,200,0,0,200
+baseline,baseline,XCSP3-2025-CSP25,scip,15,8,71,33,18,55,200,0,0,200
+baseline,baseline,XCSP3-2025-CSP25,z3,26,12,32,10,14,106,200,0,0,200
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,cpo,21,5,1,6,126,41,200,47,0,153
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,exact,20,3,38,9,106,24,200,30,0,170
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,gurobi,20,12,15,9,81,63,200,81,0,119
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,ortools,72,21,1,10,39,57,200,79,0,121
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,pumpkin,0,0,0,2,198,0,200,0,0,200
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,scip,0,0,0,2,198,0,200,0,0,200
+Submission_2025,Submission 2025,XCSP3-2025-CSP25,z3,23,13,6,9,80,69,200,83,0,117
