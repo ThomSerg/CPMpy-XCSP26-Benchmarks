@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Restore_Regular,Restore Regular,2026-06-03T13:26:22,,5c385788 — Restore competition regular,true,XCSP3-2025-CSP25,12,25,600.0
+1,Restore_Regular,Restore Regular,2026-06-03T13:26:22,,5c385788 — Restore competition regular,true,XCSP3-2025-CSP25,15,31,600.0
 2,Positive_globals,Positive globals,2026-06-03T10:16:38,2026-06-03T13:15:48,12444731 — Merge remote-tracking branch 'origin/positive_globals' into xcsp3_26,true,XCSP3-2025-CSP25,338,1041,600.0
 3,Stronger_GCC_decomp,Stronger GCC decomp,2026-06-03T00:12:37,2026-06-03T06:02:46,2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26,false,XCSP3-2025-CSP25,466,1800,600.0
 4,Selective_channeling,Selective channeling,2026-06-02T14:24:42,2026-06-02T23:38:46,7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26,false,XCSP3-2025-COP25;XCSP3-2025-CSP25,1184,2200,600.0
