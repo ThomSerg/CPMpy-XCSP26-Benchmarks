@@ -1,4 +1,5 @@
 session_slug,session_name,track,solvers
+Stronger_GCC_-_rerun,Stronger GCC - rerun,XCSP3-2025-CSP25,pindakaas
 Revert_Positive_Table,Revert Positive Table,XCSP3-2025-CSP25,pindakaas
 Restore_ShortTable,Restore ShortTable,XCSP3-2025-CSP25,pindakaas
 Restore_Regular,Restore Regular,XCSP3-2025-CSP25,cpo;exact;gurobi;highs;ortools;pindakaas;pumpkin;scip;z3
