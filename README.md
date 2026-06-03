@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Positive globals** 🔄 | XCSP3-2025-CSP25 | `12444731 — Merge remote-tracking branch 'origin/positive_globals' into xcsp3_26` | 2026-06-03 10:16:38 | 2026-06-03 12:04:03 | 226/678 |
+| 1 | **Positive globals** 🔄 | XCSP3-2025-CSP25 | `12444731 — Merge remote-tracking branch 'origin/positive_globals' into xcsp3_26` | 2026-06-03 10:16:38 | 2026-06-03 12:04:03 | 230/686 |
 | 2 | **Stronger GCC decomp** | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 06:02:46 | 466/1800 |
 | 3 | **Selective channeling** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 23:38:46 | 1184/2200 |
 | 4 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
@@ -41,7 +41,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `12444731 — Merge remote-tracking branch '
 |--------|-------|--------|----------|---------|---------|
 | `ortools` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 11:34:19 | — |
 | `exact` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 10:53:33 | — |
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 80/200 | 2026-06-03 12:04:41 | 12m 47s |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 88/200 | 2026-06-03 12:04:41 | 14m 52s |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 10:17:16 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -65,7 +65,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `12444731 — Merge remote-tracking branch '
 |--------|-----|-------|---------|---------|-------|
 | `ortools` | 75 | 24 | 5 | 96 | 200 |
 | `exact` | 38 | 13 | 82 | 67 | 200 |
-| `gurobi` | 32 | 13 | 5 | 30 | 80 |
+| `gurobi` | 34 | 14 | 5 | 35 | 88 |
 | `pindakaas` | 20 | 12 | 32 | 136 | 200 |
 
 #### Solution Checker
@@ -74,7 +74,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `12444731 — Merge remote-tracking branch '
 |--------|-------|---------|---------|-------|
 | `ortools` | 174 | 0 | 26 | 200 |
 | `exact` | 87 | 0 | 113 | 200 |
-| `gurobi` | 72 | 0 | 8 | 80 |
+| `gurobi` | 80 | 0 | 8 | 88 |
 | `pindakaas` | 89 | 0 | 111 | 200 |
 
 ---
