@@ -2,7 +2,7 @@ session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_v
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,cpo,63,9,0,128,200,175,0,25
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,exact,39,13,0,148,200,85,0,115
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,gurobi,39,22,0,139,200,154,0,46
-Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,highs,24,10,0,81,115,88,0,27
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,highs,25,10,0,115,150,100,0,50
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,ortools,76,25,0,99,200,174,0,26
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,pindakaas,26,13,0,161,200,98,0,102
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,pumpkin,36,6,0,158,200,168,0,32
