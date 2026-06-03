@@ -1,6 +1,7 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,unknown,total,checker_valid,checker_invalid,checker_skipped
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,exact,39,13,0,148,200,85,0,115
-Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,ortools,76,25,0,94,195,169,0,26
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,gurobi,13,5,0,0,18,18,0,0
+Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,ortools,76,25,0,99,200,174,0,26
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,pindakaas,26,13,0,161,200,98,0,102
 Selective_channeling,Selective channeling,XCSP3-2025-COP25,cpo,164,20,0,66,250,191,0,59
 Selective_channeling,Selective channeling,XCSP3-2025-COP25,exact,88,17,0,145,250,112,0,138
