@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Stronger_GCC_-_rerun,Stronger GCC - rerun,2026-06-03T17:00:30,,2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26,true,XCSP3-2025-CSP25,39,188,600.0
+1,Stronger_GCC_-_rerun,Stronger GCC - rerun,2026-06-03T17:00:30,,2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26,true,XCSP3-2025-CSP25,39,196,600.0
 2,Revert_Positive_Table,Revert Positive Table,2026-06-03T16:20:59,2026-06-03T16:52:13,"57419228 — Revert ""Table""",false,XCSP3-2025-CSP25,30,200,600.0
 3,Restore_ShortTable,Restore ShortTable,2026-06-03T14:25:06,2026-06-03T16:06:34,5c385788 — Restore competition regular,false,XCSP3-2025-CSP25,36,200,600.0
 4,Restore_Regular,Restore Regular,2026-06-03T13:26:22,2026-06-03T14:02:23,5c385788 — Restore competition regular,true,XCSP3-2025-CSP25,87,317,600.0
