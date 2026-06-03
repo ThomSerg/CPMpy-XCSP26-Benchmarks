@@ -4,7 +4,7 @@ Positive_globals,Positive globals,XCSP3-2025-CSP25,exact,38,13,0,149,200,87,0,11
 Positive_globals,Positive globals,XCSP3-2025-CSP25,gurobi,37,21,0,142,200,150,0,50
 Positive_globals,Positive globals,XCSP3-2025-CSP25,ortools,75,24,0,101,200,174,0,26
 Positive_globals,Positive globals,XCSP3-2025-CSP25,pindakaas,20,12,0,168,200,89,0,111
-Positive_globals,Positive globals,XCSP3-2025-CSP25,pumpkin,18,3,0,13,34,21,0,13
+Positive_globals,Positive globals,XCSP3-2025-CSP25,pumpkin,21,3,0,15,39,24,0,15
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,cpo,63,9,0,128,200,175,0,25
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,exact,39,13,0,148,200,85,0,115
 Stronger_GCC_decomp,Stronger GCC decomp,XCSP3-2025-CSP25,gurobi,39,22,0,139,200,154,0,46
