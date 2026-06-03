@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Ablation - NonReifiedTable for instantiation** 🔄 | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 23:44:44 | — | 38/197 |
+| 1 | **Ablation - NonReifiedTable for instantiation** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 23:44:44 | 2026-06-04 00:21:17 | 38/200 |
 | 2 | **Ablation - Disable Regular in linearize** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 22:57:17 | 2026-06-03 23:34:28 | 39/200 |
 | 3 | **Ablation - Revert** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 22:13:16 | 2026-06-03 22:49:53 | 34/200 |
 | 4 | **Ablation - Linear Regular** | XCSP3-2025-CSP25 | `76d54ede — Lost in merge` | 2026-06-03 21:17:18 | 2026-06-03 21:53:49 | 34/200 |
@@ -43,15 +43,9 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ---
 
-## Ablation - NonReifiedTable for instantiation _(running)_
+## Ablation - NonReifiedTable for instantiation
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `2ab26260 — Revert based on ablation` · Created: 2026-06-03 23:44:44 · Last run: —_
-
-### Live Progress
-
-| Solver | Track | Status | Progress | Started | Elapsed |
-|--------|-------|--------|----------|---------|---------|
-| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 198/200 | 2026-06-03 23:45:25 | 35m 13s |
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `2ab26260 — Revert based on ablation` · Created: 2026-06-03 23:44:44 · Last run: 2026-06-04 00:21:17_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -67,13 +61,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `2ab26260 — Revert based on ablation` · C
 
 | Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|-----|-------|---------|-------|
-| `pindakaas` | 26 | 12 | 29 | **61** | **14** | 56 | 198 |
+| `pindakaas` | 26 | 12 | 31 | **61** | **14** | 56 | 200 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `pindakaas` | 102 | 0 | 96 | 198 |
+| `pindakaas` | 102 | 0 | 98 | 200 |
 
 ---
 
@@ -365,7 +359,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 10h 17m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 10h 18m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
