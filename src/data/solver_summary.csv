@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
-Ablation_-_Revert,Ablation - Revert,XCSP3-2025-CSP25,pindakaas,2,3,0,12,0,0,17,5,0,12
+Ablation_-_Revert,Ablation - Revert,XCSP3-2025-CSP25,pindakaas,9,8,0,17,0,0,34,17,0,17
 Ablation_-_Linear_Regular,Ablation - Linear Regular,XCSP3-2025-CSP25,pindakaas,21,13,29,73,14,50,200,89,0,111
 Ablation_-_Positive_ShortTable,Ablation - Positive ShortTable,XCSP3-2025-CSP25,pindakaas,26,13,34,60,14,53,200,96,0,104
 Ablation_-_Table_in_Regular,Ablation - Table in Regular,XCSP3-2025-CSP25,pindakaas,23,12,26,71,14,54,200,93,0,107
