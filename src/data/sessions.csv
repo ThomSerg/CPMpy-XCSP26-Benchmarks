@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Safe_reification_to_CSE_map,Safe reification to CSE map,2026-06-04T22:31:23,,efee012c — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26,true,XCSP3-2025-CSP25,46,99,600.0
+1,Safe_reification_to_CSE_map,Safe reification to CSE map,2026-06-04T22:31:23,,efee012c — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26,true,XCSP3-2025-CSP25,46,151,600.0
 2,Baseline_Final_Sprint,Baseline Final Sprint,2026-06-04T17:47:37,2026-06-04T18:21:38,defc217a — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26,false,XCSP3-2025-CSP25,44,200,600.0
 3,Ablation_-_Positive_Circuit,Ablation - Positive Circuit,2026-06-04T06:45:57,2026-06-04T09:02:33,ea0687dd — Positive circuit,false,XCSP3-2025-CSP25,135,600,600.0
 4,Ablation_-_NonReifiedTable_for_instantiation,Ablation - NonReifiedTable for instantiation,2026-06-03T23:44:44,2026-06-04T00:21:17,2ab26260 — Revert based on ablation,false,XCSP3-2025-CSP25,38,200,600.0
