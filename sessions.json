@@ -252,7 +252,7 @@
       "slug": "Baseline_Final_Sprint",
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-06-04T17:47:37",
-      "last_run_at": "2026-06-05T00:42:55"
+      "last_run_at": "2026-06-05T00:45:02"
     },
     {
       "name": "Safe reification to CSE map",
@@ -266,6 +266,13 @@
       "slug": "Undo_selective_channels_linear_solvers",
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-06-05T00:10:48",
+      "last_run_at": null
+    },
+    {
+      "name": "New Baseline Final Sprint",
+      "slug": "New_Baseline_Final_Sprint",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-06-05T00:45:59",
       "last_run_at": null
     }
   ]
