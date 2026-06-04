@@ -259,7 +259,14 @@
       "slug": "Safe_reification_to_CSE_map",
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-06-04T22:31:23",
-      "last_run_at": "2026-06-04T23:37:46"
+      "last_run_at": "2026-06-05T00:08:22"
+    },
+    {
+      "name": "Undo selective channels linear solvers",
+      "slug": "Undo_selective_channels_linear_solvers",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-06-05T00:10:48",
+      "last_run_at": null
     }
   ]
 }
