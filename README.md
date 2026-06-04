@@ -8,7 +8,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 |---|-----------|--------|--------------|---------|----------|--------|
 | 1 | **Undo selective channels linear solvers** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-05 00:10:48 | — | 24/29 |
 | 2 | **Safe reification to CSE map** 🔄 | XCSP3-2025-CSP25 | `efee012c — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26` | 2026-06-04 22:31:23 | 2026-06-05 00:08:22 | 127/604 |
-| 3 | **Baseline Final Sprint** 🔄 | XCSP3-2025-CSP25 | `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` | 2026-06-04 17:47:37 | 2026-06-05 00:40:16 | 45/200 |
+| 3 | **Baseline Final Sprint** 🔄 | XCSP3-2025-CSP25 | `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` | 2026-06-04 17:47:37 | 2026-06-05 00:42:31 | 45/200 |
 | 4 | **Ablation - Positive Circuit** | XCSP3-2025-CSP25 | `ea0687dd — Positive circuit` | 2026-06-04 06:45:57 | 2026-06-04 09:02:33 | 135/600 |
 | 5 | **Ablation - NonReifiedTable for instantiation** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 23:44:44 | 2026-06-04 00:21:17 | 38/200 |
 | 6 | **Ablation - Disable Regular in linearize** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 22:57:17 | 2026-06-03 23:34:28 | 39/200 |
@@ -140,7 +140,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `efee012c — Merge remote-tracking branch '
 
 ## Baseline Final Sprint _(running)_
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` · Created: 2026-06-04 17:47:37 · Last run: 2026-06-05 00:40:16_
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` · Created: 2026-06-04 17:47:37 · Last run: 2026-06-05 00:42:31_
 
 ### Live Progress
 
@@ -166,13 +166,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `009dbfd9 — Revert "Selective channels lin
 
 | Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|-----|-------|---------|-------|
-| `gurobi` | 31 | 14 | 40 | **3** | **44** | 68 | 200 |
+| `gurobi` | 31 | 14 | 39 | **4** | **44** | 68 | 200 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `gurobi` | 133 | 0 | 67 | 200 |
+| `gurobi` | 134 | 0 | 66 | 200 |
 
 ---
 
@@ -524,7 +524,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 34h 37m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 34h 39m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |

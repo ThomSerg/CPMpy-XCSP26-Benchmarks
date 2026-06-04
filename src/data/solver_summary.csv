@@ -4,7 +4,7 @@ Safe_reification_to_CSE_map,Safe reification to CSE map,XCSP3-2025-CSP25,exact,3
 Safe_reification_to_CSE_map,Safe reification to CSE map,XCSP3-2025-CSP25,gurobi,31,15,38,5,44,67,200,133,0,67
 Safe_reification_to_CSE_map,Safe reification to CSE map,XCSP3-2025-CSP25,highs,2,1,0,0,0,1,4,3,0,1
 Safe_reification_to_CSE_map,Safe reification to CSE map,XCSP3-2025-CSP25,pindakaas,17,13,24,57,44,45,200,78,0,122
-Baseline_Final_Sprint,Baseline Final Sprint,XCSP3-2025-CSP25,gurobi,31,14,40,3,44,68,200,133,0,67
+Baseline_Final_Sprint,Baseline Final Sprint,XCSP3-2025-CSP25,gurobi,31,14,40,4,44,67,200,134,0,66
 Ablation_-_Positive_Circuit,Ablation - Positive Circuit,XCSP3-2025-CSP25,gurobi,39,22,50,10,14,65,200,147,0,53
 Ablation_-_Positive_Circuit,Ablation - Positive Circuit,XCSP3-2025-CSP25,highs,25,10,63,15,14,73,200,111,0,89
 Ablation_-_Positive_Circuit,Ablation - Positive Circuit,XCSP3-2025-CSP25,pindakaas,26,13,33,60,14,54,200,100,0,100
