@@ -253,6 +253,13 @@
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-06-04T17:47:37",
       "last_run_at": "2026-06-04T18:21:38"
+    },
+    {
+      "name": "Safe reification to CSE map",
+      "slug": "Safe_reification_to_CSE_map",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-06-04T22:31:23",
+      "last_run_at": null
     }
   ]
 }
