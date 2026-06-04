@@ -1,5 +1,6 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
-Ablation_-_Positive_Circuit,Ablation - Positive Circuit,XCSP3-2025-CSP25,highs,25,10,61,15,14,73,198,111,0,87
+Ablation_-_Positive_Circuit,Ablation - Positive Circuit,XCSP3-2025-CSP25,gurobi,13,5,0,0,0,0,18,18,0,0
+Ablation_-_Positive_Circuit,Ablation - Positive Circuit,XCSP3-2025-CSP25,highs,25,10,63,15,14,73,200,111,0,89
 Ablation_-_Positive_Circuit,Ablation - Positive Circuit,XCSP3-2025-CSP25,pindakaas,26,13,33,60,14,54,200,100,0,100
 Ablation_-_NonReifiedTable_for_instantiation,Ablation - NonReifiedTable for instantiation,XCSP3-2025-CSP25,pindakaas,26,12,31,61,14,56,200,102,0,98
 Ablation_-_Disable_Regular_in_linearize,Ablation - Disable Regular in linearize,XCSP3-2025-CSP25,pindakaas,26,13,31,63,14,53,200,95,0,105
