@@ -1,7 +1,7 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
 Safe_reification_to_CSE_map,Safe reification to CSE map,XCSP3-2025-CSP25,exact,35,13,71,5,44,32,200,85,0,115
 Safe_reification_to_CSE_map,Safe reification to CSE map,XCSP3-2025-CSP25,gurobi,31,15,38,5,44,67,200,133,0,67
-Safe_reification_to_CSE_map,Safe reification to CSE map,XCSP3-2025-CSP25,pindakaas,17,13,16,52,44,43,185,76,0,109
+Safe_reification_to_CSE_map,Safe reification to CSE map,XCSP3-2025-CSP25,pindakaas,17,13,16,55,44,45,190,78,0,112
 Baseline_Final_Sprint,Baseline Final Sprint,XCSP3-2025-CSP25,gurobi,30,14,40,3,44,69,200,133,0,67
 Ablation_-_Positive_Circuit,Ablation - Positive Circuit,XCSP3-2025-CSP25,gurobi,39,22,50,10,14,65,200,147,0,53
 Ablation_-_Positive_Circuit,Ablation - Positive Circuit,XCSP3-2025-CSP25,highs,25,10,63,15,14,73,200,111,0,89
