@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Ablation - Positive Circuit** 🔄 | XCSP3-2025-CSP25 | `ea0687dd — Positive circuit` | 2026-06-04 06:45:57 | 2026-06-04 07:22:58 | 31/134 |
+| 1 | **Ablation - Positive Circuit** 🔄 | XCSP3-2025-CSP25 | `ea0687dd — Positive circuit` | 2026-06-04 06:45:57 | 2026-06-04 07:25:26 | 37/153 |
 | 2 | **Ablation - NonReifiedTable for instantiation** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 23:44:44 | 2026-06-04 00:21:17 | 38/200 |
 | 3 | **Ablation - Disable Regular in linearize** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 22:57:17 | 2026-06-03 23:34:28 | 39/200 |
 | 4 | **Ablation - Revert** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 22:13:16 | 2026-06-03 22:49:53 | 34/200 |
@@ -46,13 +46,13 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ## Ablation - Positive Circuit _(running)_
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `ea0687dd — Positive circuit` · Created: 2026-06-04 06:45:57 · Last run: 2026-06-04 07:22:58_
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `ea0687dd — Positive circuit` · Created: 2026-06-04 06:45:57 · Last run: 2026-06-04 07:25:26_
 
 ### Live Progress
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 135/200 | 2026-06-04 06:46:37 | 36m 38s |
+| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 153/200 | 2026-06-04 06:46:37 | 39m 03s |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
@@ -70,13 +70,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `ea0687dd — Positive circuit` · Created: 
 
 | Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|-----|-------|---------|-------|
-| `pindakaas` | 20 | 12 | 14 | **43** | **9** | 37 | 135 |
+| `pindakaas` | 25 | 12 | 17 | **44** | **14** | 41 | 153 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `pindakaas` | 73 | 0 | 62 | 135 |
+| `pindakaas` | 82 | 0 | 71 | 153 |
 
 ---
 
@@ -396,7 +396,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 17h 20m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 17h 22m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
