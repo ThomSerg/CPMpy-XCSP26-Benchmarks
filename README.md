@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Safe reification to CSE map** 🔄 | XCSP3-2025-CSP25 | `efee012c — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26` | 2026-06-04 22:31:23 | 2026-06-04 23:04:17 | 81/240 |
+| 1 | **Safe reification to CSE map** 🔄 | XCSP3-2025-CSP25 | `efee012c — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26` | 2026-06-04 22:31:23 | 2026-06-04 23:04:17 | 89/280 |
 | 2 | **Baseline Final Sprint** | XCSP3-2025-CSP25 | `defc217a — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-04 17:47:37 | 2026-06-04 18:21:38 | 44/200 |
 | 3 | **Ablation - Positive Circuit** | XCSP3-2025-CSP25 | `ea0687dd — Positive circuit` | 2026-06-04 06:45:57 | 2026-06-04 09:02:33 | 135/600 |
 | 4 | **Ablation - NonReifiedTable for instantiation** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 23:44:44 | 2026-06-04 00:21:17 | 38/200 |
@@ -55,7 +55,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `efee012c — Merge remote-tracking branch '
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-04 22:32:10 | — |
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 40/200 | 2026-06-04 23:05:03 | 8m 41s |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 82/200 | 2026-06-04 23:05:03 | 13m 08s |
 | `highs` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `ortools` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
@@ -76,14 +76,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `efee012c — Merge remote-tracking branch '
 | Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|-----|-------|---------|-------|
 | `gurobi` | 31 | 15 | 38 | **5** | **44** | 67 | 200 |
-| `exact` | 25 | 10 | 0 | **2** | **3** | 0 | 40 |
+| `exact` | 30 | 13 | 13 | **2** | **4** | 20 | 82 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `gurobi` | 133 | 0 | 67 | 200 |
-| `exact` | 35 | 0 | 5 | 40 |
+| `exact` | 66 | 0 | 16 | 82 |
 
 ---
 
@@ -463,7 +463,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 33h 10m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 33h 15m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
