@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **DFA decomp regular** 🔄 | XCSP3-2025-CSP25 | `96efbe87 — DFA decomp regular` | 2026-06-05 09:36:53 | — | — |
+| 1 | **DFA decomp regular** | XCSP3-2025-CSP25 | `96efbe87 — DFA decomp regular` | 2026-06-05 09:36:53 | 2026-06-05 09:39:11 | 0/200 |
 | 2 | **Rsync fix** | XCSP3-2025-CSP25 | `6e486806 — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26` | 2026-06-05 07:28:44 | 2026-06-05 09:20:36 | 223/600 |
 | 3 | **New New Baseline Final Sprint (CSE map fix)** | XCSP3-2025-CSP25 | `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` | 2026-06-05 01:33:41 | 2026-06-05 04:59:35 | 279/1200 |
 | 4 | **New Baseline Final Sprint** 🔄 | XCSP3-2025-CSP25 | `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` | 2026-06-05 00:45:59 | 2026-06-05 01:20:39 | 61/221 |
@@ -51,15 +51,9 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ---
 
-## DFA decomp regular _(running)_
+## DFA decomp regular
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `96efbe87 — DFA decomp regular` · Created: 2026-06-05 09:36:53 · Last run: —_
-
-### Live Progress
-
-| Solver | Track | Status | Progress | Started | Elapsed |
-|--------|-------|--------|----------|---------|---------|
-| `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `96efbe87 — DFA decomp regular` · Created: 2026-06-05 09:36:53 · Last run: 2026-06-05 09:39:11_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -73,11 +67,15 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `96efbe87 — DFA decomp regular` · Created
 
 #### Solve Status
 
-_No results yet._
+| Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
+|--------|-----|-------|---------|-----|-------|---------|-------|
+| `gurobi` | 0 | 0 | 0 | 0 | **200** | 0 | 200 |
 
 #### Solution Checker
 
-_Solution checker not enabled._
+| Solver | Valid | Invalid | Skipped | Total |
+|--------|-------|---------|---------|-------|
+| `gurobi` | 0 | 0 | 200 | 200 |
 
 ---
 
@@ -668,7 +666,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 43h 34m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 43h 36m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
