@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,xglobals_Table_instantiation,xglobals Table instantiation,2026-06-05T19:14:02,,3b563c66 — fix regular and pass custom positives to recursive calls,true,XCSP3-2025-CSP25,42,85,600.0
+1,xglobals_Table_instantiation,xglobals Table instantiation,2026-06-05T19:14:02,,3b563c66 — fix regular and pass custom positives to recursive calls,true,XCSP3-2025-CSP25,43,118,600.0
 2,cpmpy_Table_extension,cpmpy Table extension,2026-06-05T17:29:52,2026-06-05T18:47:25,3b563c66 — fix regular and pass custom positives to recursive calls,false,XCSP3-2025-CSP25,103,400,600.0
 3,xglobals_Baseline,xglobals Baseline,2026-06-05T15:25:25,2026-06-05T17:16:08,0e7b2159 — Fix xglobals import,false,XCSP3-2025-CSP25,219,600,600.0
 4,Baseline,Baseline,2026-06-05T15:18:53,,3b563c66 — fix regular and pass custom positives to recursive calls,true,XCSP3-2025-CSP25,22,26,600.0

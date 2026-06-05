@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
-xglobals_Table_instantiation,xglobals Table instantiation,XCSP3-2025-CSP25,gurobi,29,13,6,4,0,33,85,76,0,9
+xglobals_Table_instantiation,xglobals Table instantiation,XCSP3-2025-CSP25,gurobi,29,14,15,6,0,54,118,100,0,18
 cpmpy_Table_extension,cpmpy Table extension,XCSP3-2025-CSP25,gurobi,42,16,55,13,0,74,200,159,0,41
 cpmpy_Table_extension,cpmpy Table extension,XCSP3-2025-CSP25,pindakaas,29,16,28,71,0,56,200,106,0,94
 xglobals_Baseline,xglobals Baseline,XCSP3-2025-CSP25,gurobi,42,17,60,13,0,68,200,163,0,37
