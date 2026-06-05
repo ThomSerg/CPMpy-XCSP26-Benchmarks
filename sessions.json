@@ -288,6 +288,13 @@
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-06-05T07:28:44",
       "last_run_at": "2026-06-05T09:20:36"
+    },
+    {
+      "name": "DFA decomp regular",
+      "slug": "DFA_decomp_regular",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-06-05T09:36:53",
+      "last_run_at": null
     }
   ]
 }
