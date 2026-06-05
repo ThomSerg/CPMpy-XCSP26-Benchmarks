@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,xglobals_Baseline,xglobals Baseline,2026-06-05T15:25:25,,0e7b2159 — Fix xglobals import,true,XCSP3-2025-CSP25,45,86,600.0
+1,xglobals_Baseline,xglobals Baseline,2026-06-05T15:25:25,,0e7b2159 — Fix xglobals import,true,XCSP3-2025-CSP25,45,88,600.0
 2,Baseline,Baseline,2026-06-05T15:18:53,,3b563c66 — fix regular and pass custom positives to recursive calls,true,XCSP3-2025-CSP25,22,26,600.0
 3,Forse_Regular_via_table_linear,Forse Regular via table (linear),2026-06-05T14:30:43,2026-06-05T15:06:44,0e7b2159 — Fix xglobals import,true,XCSP3-2025-CSP25,64,218,600.0
 4,Regular_via_table,Regular via table,2026-06-05T13:50:52,2026-06-05T14:27:45,0e7b2159 — Fix xglobals import,false,XCSP3-2025-CSP25,46,200,600.0
