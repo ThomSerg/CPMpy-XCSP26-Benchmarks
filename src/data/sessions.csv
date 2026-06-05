@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,New_New_Baseline_Final_Sprint_CSE_map_fix,New New Baseline Final Sprint (CSE map fix),2026-06-05T01:33:41,2026-06-05T03:58:12,"009dbfd9 — Revert ""Selective channels linear solvers xcsp3 (#1008)""",true,XCSP3-2025-CSP25,240,940,600.0
+1,New_New_Baseline_Final_Sprint_CSE_map_fix,New New Baseline Final Sprint (CSE map fix),2026-06-05T01:33:41,2026-06-05T03:58:12,"009dbfd9 — Revert ""Selective channels linear solvers xcsp3 (#1008)""",true,XCSP3-2025-CSP25,245,949,600.0
 2,New_Baseline_Final_Sprint,New Baseline Final Sprint,2026-06-05T00:45:59,2026-06-05T01:20:39,"009dbfd9 — Revert ""Selective channels linear solvers xcsp3 (#1008)""",true,XCSP3-2025-CSP25,61,221,600.0
 3,Undo_selective_channels_linear_solvers,Undo selective channels linear solvers,2026-06-05T00:10:48,,,false,XCSP3-2025-CSP25;unknown,24,29,600.0
 4,Safe_reification_to_CSE_map,Safe reification to CSE map,2026-06-04T22:31:23,2026-06-05T00:08:22,efee012c — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26,true,XCSP3-2025-CSP25,127,604,600.0
