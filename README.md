@@ -6,52 +6,84 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Forse Regular via table (linear)** 🔄 | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 14:30:43 | 2026-06-05 15:06:44 | 46/200 |
-| 2 | **Regular via table** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 13:50:52 | 2026-06-05 14:27:45 | 46/200 |
-| 3 | **Disable regular linearise** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 12:34:06 | 2026-06-05 13:10:17 | 47/200 |
-| 4 | **xglobals regular** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 10:58:49 | 2026-06-05 12:29:54 | 105/400 |
-| 5 | **DFA decomp regular** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 09:36:53 | 2026-06-05 10:52:17 | 58/200 |
-| 6 | **Rsync fix** | XCSP3-2025-CSP25 | `6e486806 — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26` | 2026-06-05 07:28:44 | 2026-06-05 09:20:36 | 223/600 |
-| 7 | **New New Baseline Final Sprint (CSE map fix)** | XCSP3-2025-CSP25 | `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` | 2026-06-05 01:33:41 | 2026-06-05 04:59:35 | 279/1200 |
-| 8 | **New Baseline Final Sprint** 🔄 | XCSP3-2025-CSP25 | `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` | 2026-06-05 00:45:59 | 2026-06-05 01:20:39 | 61/221 |
-| 9 | **Undo selective channels linear solvers** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-05 00:10:48 | — | 24/29 |
-| 10 | **Safe reification to CSE map** 🔄 | XCSP3-2025-CSP25 | `efee012c — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26` | 2026-06-04 22:31:23 | 2026-06-05 00:08:22 | 127/604 |
-| 11 | **Baseline Final Sprint** 🔄 | XCSP3-2025-CSP25 | `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` | 2026-06-04 17:47:37 | 2026-06-05 00:45:02 | 45/200 |
-| 12 | **Ablation - Positive Circuit** | XCSP3-2025-CSP25 | `ea0687dd — Positive circuit` | 2026-06-04 06:45:57 | 2026-06-04 09:02:33 | 135/600 |
-| 13 | **Ablation - NonReifiedTable for instantiation** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 23:44:44 | 2026-06-04 00:21:17 | 38/200 |
-| 14 | **Ablation - Disable Regular in linearize** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 22:57:17 | 2026-06-03 23:34:28 | 39/200 |
-| 15 | **Ablation - Revert** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 22:13:16 | 2026-06-03 22:49:53 | 34/200 |
-| 16 | **Ablation - Linear Regular** | XCSP3-2025-CSP25 | `76d54ede — Lost in merge` | 2026-06-03 21:17:18 | 2026-06-03 21:53:49 | 34/200 |
-| 17 | **Ablation - Positive ShortTable** | XCSP3-2025-CSP25 | `8080fcba — Remove duplicate solution row selecting var` | 2026-06-03 20:29:41 | 2026-06-03 21:07:06 | 39/200 |
-| 18 | **Ablation - Table in Regular** | XCSP3-2025-CSP25 | `137dfa9a — Rename linear to positive` | 2026-06-03 19:33:16 | 2026-06-03 20:09:15 | 35/200 |
-| 19 | **Ablation - NonReifiedTable in Regular and AllDifferentListsExceptN** | XCSP3-2025-CSP25 | `137dfa9a — Rename linear to positive` | 2026-06-03 18:42:46 | 2026-06-03 19:19:51 | 39/200 |
-| 20 | **Ablation - Positive Table** | XCSP3-2025-CSP25 | `137dfa9a — Rename linear to positive` | 2026-06-03 17:59:37 | 2026-06-03 18:36:03 | 35/200 |
-| 21 | **Stronger GCC - rerun** | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 17:00:30 | 2026-06-03 17:37:26 | 39/200 |
-| 22 | **Revert Positive Table** | XCSP3-2025-CSP25 | `57419228 — Revert "Table"` | 2026-06-03 16:20:59 | 2026-06-03 16:52:13 | 30/200 |
-| 23 | **Restore ShortTable** | XCSP3-2025-CSP25 | `5c385788 — Restore competition regular` | 2026-06-03 14:25:06 | 2026-06-03 16:06:34 | 36/200 |
-| 24 | **Restore Regular** 🔄 | XCSP3-2025-CSP25 | `5c385788 — Restore competition regular` | 2026-06-03 13:26:22 | 2026-06-03 14:02:23 | 87/317 |
-| 25 | **Positive globals** 🔄 | XCSP3-2025-CSP25 | `12444731 — Merge remote-tracking branch 'origin/positive_globals' into xcsp3_26` | 2026-06-03 10:16:38 | 2026-06-03 13:15:48 | 338/1041 |
-| 26 | **Stronger GCC decomp** | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 06:02:46 | 466/1800 |
-| 27 | **Selective channeling** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 23:38:46 | 1184/2200 |
-| 28 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
-| 29 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
-| 30 | **Simplify bool** | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 21:09:19 | 268/1000 |
-| 31 | **Reduce MDD - rerun** | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 15:40:06 | 234/800 |
-| 32 | **Per-table type linear decompose** | XCSP3-2025-CSP25 | `d6eff956 — Per-table type  linear decompose` | 2026-06-01 10:29:03 | 2026-06-01 12:31:23 | 126/600 |
-| 33 | **Reduce MDD** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-01 09:39:26 | 2026-06-01 10:09:02 | 141/341 |
-| 34 | **Order encoding for inequalities - long** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-31 22:29:41 | 2026-06-01 03:44:37 | 212/800 |
-| 35 | **Some transformation improvements - long** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 18:48:40 | 2026-05-30 01:11:34 | 245/800 |
-| 36 | **Order encoding for inequalities** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-29 13:59:57 | 2026-05-29 18:03:17 | 98/600 |
-| 37 | **NoOverlap via Cumulative linear decomp** | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 17:22:33 | 96/600 |
-| 38 | **Positive MDD decomp** | XCSP3-2025-CSP25 | `85556f00 — Positive MDD test` | 2026-05-29 09:27:01 | 2026-05-29 09:57:51 | 40/200 |
-| 39 | **Some transformation improvements - rerun** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-29 00:03:40 | 68/400 |
-| 40 | **Table with MDD decomp** | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | 2026-05-29 05:10:05 | 397/1800 |
-| 41 | **Some transformation improvements** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 15:47:34 | 435/1800 |
-| 42 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
-| 43 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
-| 44 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
-| 45 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
-| 46 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
+| 1 | **Baseline** 🔄 | XCSP3-2025-CSP25 | `3b563c66 — fix regular and pass custom positives to recursive calls` | 2026-06-05 15:18:53 | — | — |
+| 2 | **Forse Regular via table (linear)** 🔄 | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 14:30:43 | 2026-06-05 15:06:44 | 64/218 |
+| 3 | **Regular via table** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 13:50:52 | 2026-06-05 14:27:45 | 46/200 |
+| 4 | **Disable regular linearise** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 12:34:06 | 2026-06-05 13:10:17 | 47/200 |
+| 5 | **xglobals regular** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 10:58:49 | 2026-06-05 12:29:54 | 105/400 |
+| 6 | **DFA decomp regular** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 09:36:53 | 2026-06-05 10:52:17 | 58/200 |
+| 7 | **Rsync fix** | XCSP3-2025-CSP25 | `6e486806 — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26` | 2026-06-05 07:28:44 | 2026-06-05 09:20:36 | 223/600 |
+| 8 | **New New Baseline Final Sprint (CSE map fix)** | XCSP3-2025-CSP25 | `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` | 2026-06-05 01:33:41 | 2026-06-05 04:59:35 | 279/1200 |
+| 9 | **New Baseline Final Sprint** 🔄 | XCSP3-2025-CSP25 | `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` | 2026-06-05 00:45:59 | 2026-06-05 01:20:39 | 61/221 |
+| 10 | **Undo selective channels linear solvers** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-05 00:10:48 | — | 24/29 |
+| 11 | **Safe reification to CSE map** 🔄 | XCSP3-2025-CSP25 | `efee012c — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26` | 2026-06-04 22:31:23 | 2026-06-05 00:08:22 | 127/604 |
+| 12 | **Baseline Final Sprint** 🔄 | XCSP3-2025-CSP25 | `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` | 2026-06-04 17:47:37 | 2026-06-05 00:45:02 | 45/200 |
+| 13 | **Ablation - Positive Circuit** | XCSP3-2025-CSP25 | `ea0687dd — Positive circuit` | 2026-06-04 06:45:57 | 2026-06-04 09:02:33 | 135/600 |
+| 14 | **Ablation - NonReifiedTable for instantiation** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 23:44:44 | 2026-06-04 00:21:17 | 38/200 |
+| 15 | **Ablation - Disable Regular in linearize** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 22:57:17 | 2026-06-03 23:34:28 | 39/200 |
+| 16 | **Ablation - Revert** | XCSP3-2025-CSP25 | `2ab26260 — Revert based on ablation` | 2026-06-03 22:13:16 | 2026-06-03 22:49:53 | 34/200 |
+| 17 | **Ablation - Linear Regular** | XCSP3-2025-CSP25 | `76d54ede — Lost in merge` | 2026-06-03 21:17:18 | 2026-06-03 21:53:49 | 34/200 |
+| 18 | **Ablation - Positive ShortTable** | XCSP3-2025-CSP25 | `8080fcba — Remove duplicate solution row selecting var` | 2026-06-03 20:29:41 | 2026-06-03 21:07:06 | 39/200 |
+| 19 | **Ablation - Table in Regular** | XCSP3-2025-CSP25 | `137dfa9a — Rename linear to positive` | 2026-06-03 19:33:16 | 2026-06-03 20:09:15 | 35/200 |
+| 20 | **Ablation - NonReifiedTable in Regular and AllDifferentListsExceptN** | XCSP3-2025-CSP25 | `137dfa9a — Rename linear to positive` | 2026-06-03 18:42:46 | 2026-06-03 19:19:51 | 39/200 |
+| 21 | **Ablation - Positive Table** | XCSP3-2025-CSP25 | `137dfa9a — Rename linear to positive` | 2026-06-03 17:59:37 | 2026-06-03 18:36:03 | 35/200 |
+| 22 | **Stronger GCC - rerun** | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 17:00:30 | 2026-06-03 17:37:26 | 39/200 |
+| 23 | **Revert Positive Table** | XCSP3-2025-CSP25 | `57419228 — Revert "Table"` | 2026-06-03 16:20:59 | 2026-06-03 16:52:13 | 30/200 |
+| 24 | **Restore ShortTable** | XCSP3-2025-CSP25 | `5c385788 — Restore competition regular` | 2026-06-03 14:25:06 | 2026-06-03 16:06:34 | 36/200 |
+| 25 | **Restore Regular** 🔄 | XCSP3-2025-CSP25 | `5c385788 — Restore competition regular` | 2026-06-03 13:26:22 | 2026-06-03 14:02:23 | 87/317 |
+| 26 | **Positive globals** 🔄 | XCSP3-2025-CSP25 | `12444731 — Merge remote-tracking branch 'origin/positive_globals' into xcsp3_26` | 2026-06-03 10:16:38 | 2026-06-03 13:15:48 | 338/1041 |
+| 27 | **Stronger GCC decomp** | XCSP3-2025-CSP25 | `2023f924 — Merge remote-tracking branch 'origin/stronger_gcc_decomp' into xcsp3_26` | 2026-06-03 00:12:37 | 2026-06-03 06:02:46 | 466/1800 |
+| 28 | **Selective channeling** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `7dcaa8e2 — Merge remote-tracking branch 'origin/xcsp3_26' into xcsp3_26` | 2026-06-02 14:24:42 | 2026-06-02 23:38:46 | 1184/2200 |
+| 29 | **Exact SoPlex** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 11:49:55 | 2026-06-02 12:31:07 | 52/200 |
+| 30 | **Positive decomposition** | XCSP3-2025-CSP25 | `009a736d — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-02 00:12:55 | 2026-06-02 05:19:43 | 425/1600 |
+| 31 | **Simplify bool** | XCSP3-2025-CSP25 | `36447b7f — remove trailing comma` | 2026-06-01 15:53:46 | 2026-06-01 21:09:19 | 268/1000 |
+| 32 | **Reduce MDD - rerun** | XCSP3-2025-CSP25 | `7a2345fa — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-06-01 13:08:07 | 2026-06-01 15:40:06 | 234/800 |
+| 33 | **Per-table type linear decompose** | XCSP3-2025-CSP25 | `d6eff956 — Per-table type  linear decompose` | 2026-06-01 10:29:03 | 2026-06-01 12:31:23 | 126/600 |
+| 34 | **Reduce MDD** | XCSP3-2025-CSP25, unknown | `—` | 2026-06-01 09:39:26 | 2026-06-01 10:09:02 | 141/341 |
+| 35 | **Order encoding for inequalities - long** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-31 22:29:41 | 2026-06-01 03:44:37 | 212/800 |
+| 36 | **Some transformation improvements - long** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-29 18:48:40 | 2026-05-30 01:11:34 | 245/800 |
+| 37 | **Order encoding for inequalities** | XCSP3-2025-CSP25 | `e3f20354 — Test: Force cumulative time for linear decompose` | 2026-05-29 13:59:57 | 2026-05-29 18:03:17 | 98/600 |
+| 38 | **NoOverlap via Cumulative linear decomp** | XCSP3-2025-CSP25 | `4566ba81 — Test: linear decomp nooverlap via cumulative` | 2026-05-29 10:57:41 | 2026-05-29 17:22:33 | 96/600 |
+| 39 | **Positive MDD decomp** | XCSP3-2025-CSP25 | `85556f00 — Positive MDD test` | 2026-05-29 09:27:01 | 2026-05-29 09:57:51 | 40/200 |
+| 40 | **Some transformation improvements - rerun** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 16:55:01 | 2026-05-29 00:03:40 | 68/400 |
+| 41 | **Table with MDD decomp** | XCSP3-2025-CSP25 | `3ed0f343 — Table global from master used in competition branch (to be able to use MDD decomposition)` | 2026-05-28 16:47:14 | 2026-05-29 05:10:05 | 397/1800 |
+| 42 | **Some transformation improvements** | XCSP3-2025-CSP25 | `6e268bb7 — Merge remote-tracking branch 'origin/master' into xcsp3_26` | 2026-05-28 10:26:53 | 2026-05-28 15:47:34 | 435/1800 |
+| 43 | **Use new MDD global in xcsp3 parser** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-27 09:08:46 | 2026-05-27 20:08:47 | 1554/3800 |
+| 44 | **MDD global** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 16:50:39 | 2026-05-27 09:05:54 | 436/1807 |
+| 45 | **linearize_reified_variables for OR-Tools** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `—` | 2026-05-26 13:50:16 | 2026-05-26 16:38:08 | 321/450 |
+| 46 | **baseline** | XCSP3-2025-COP25, XCSP3-2025-CSP25 | `45fc0181 — Deprecate old runner` | 2026-05-21 16:23:19 | 2026-05-26 15:47:47 | 1519/3800 |
+| 47 | **Submission 2025** | XCSP3-2025-CSP25 | `1e446eaf — Add count to second decompose_numerical location` | 2026-05-22 12:57:37 | 2026-05-22 22:44:59 | 210/1400 |
+
+---
+
+## Baseline _(running)_
+
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `3b563c66 — fix regular and pass custom positives to recursive calls` · Created: 2026-06-05 15:18:53 · Last run: —_
+
+### Live Progress
+
+| Solver | Track | Status | Progress | Started | Elapsed |
+|--------|-------|--------|----------|---------|---------|
+| `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+
+### Track: XCSP3-2025-CSP25
+
+#### Performance Profile
+
+![XCSP3-2025-CSP25 profile](./profile_Baseline_XCSP3-2025-CSP25.svg)
+
+#### Solver Ranking
+
+![XCSP3-2025-CSP25 ranking](./ranking_Baseline_XCSP3-2025-CSP25.svg)
+
+#### Solve Status
+
+_No results yet._
+
+#### Solution Checker
+
+_Solution checker not enabled._
 
 ---
 
@@ -64,7 +96,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `0e7b2159 — Fix xglobals import` · Create
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-05 14:31:29 | — |
-| `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 18/200 | 2026-06-05 15:16:24 | 2m 43s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -81,12 +113,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `0e7b2159 — Fix xglobals import` · Create
 | Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|-----|-------|---------|-------|
 | `pindakaas` | 30 | 16 | 23 | **73** | 0 | 58 | 200 |
+| `gurobi` | 13 | 5 | 0 | 0 | 0 | 0 | 18 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `pindakaas` | 106 | 0 | 94 | 200 |
+| `gurobi` | 18 | 0 | 0 | 18 |
 
 ---
 
@@ -791,7 +825,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 49h 12m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 49h 16m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
