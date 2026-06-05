@@ -1,6 +1,6 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
 Regular_linear_decompose,Regular linear decompose,XCSP3-2025-CSP25,gurobi,42,16,59,12,0,71,200,159,0,41
-Regular_linear_decompose,Regular linear decompose,XCSP3-2025-CSP25,pindakaas,8,7,0,17,0,0,32,15,0,17
+Regular_linear_decompose,Regular linear decompose,XCSP3-2025-CSP25,pindakaas,9,8,0,18,0,0,35,17,0,18
 xglobals_Table_instantiation,xglobals Table instantiation,XCSP3-2025-CSP25,gurobi,40,16,56,15,0,73,200,161,0,39
 xglobals_Table_instantiation,xglobals Table instantiation,XCSP3-2025-CSP25,pindakaas,30,16,25,72,0,57,200,107,0,93
 cpmpy_Table_extension,cpmpy Table extension,XCSP3-2025-CSP25,gurobi,42,16,55,13,0,74,200,159,0,41
