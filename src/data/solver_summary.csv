@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
-Rsync_fix,Rsync fix,XCSP3-2025-CSP25,gurobi,18,8,6,4,0,19,55,46,0,9
+Rsync_fix,Rsync fix,XCSP3-2025-CSP25,gurobi,31,13,6,4,0,31,85,76,0,9
 Rsync_fix,Rsync fix,XCSP3-2025-CSP25,ortools,87,27,2,11,0,73,200,188,0,12
 New_New_Baseline_Final_Sprint_CSE_map_fix,New New Baseline Final Sprint (CSE map fix),XCSP3-2025-CSP25,exact,35,13,63,10,44,35,200,86,0,114
 New_New_Baseline_Final_Sprint_CSE_map_fix,New New Baseline Final Sprint (CSE map fix),XCSP3-2025-CSP25,gurobi,31,14,38,3,44,70,200,136,0,64
