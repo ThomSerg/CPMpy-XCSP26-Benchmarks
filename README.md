@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **cpmpy Table extension** 🔄 | XCSP3-2025-CSP25 | `3b563c66 — fix regular and pass custom positives to recursive calls` | 2026-06-05 17:29:52 | 2026-06-05 18:10:45 | 103/395 |
+| 1 | **cpmpy Table extension** | XCSP3-2025-CSP25 | `3b563c66 — fix regular and pass custom positives to recursive calls` | 2026-06-05 17:29:52 | 2026-06-05 18:47:25 | 103/400 |
 | 2 | **xglobals Baseline** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 15:25:25 | 2026-06-05 17:16:08 | 219/600 |
 | 3 | **Baseline** 🔄 | XCSP3-2025-CSP25 | `3b563c66 — fix regular and pass custom positives to recursive calls` | 2026-06-05 15:18:53 | — | 22/26 |
 | 4 | **Forse Regular via table (linear)** 🔄 | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 14:30:43 | 2026-06-05 15:06:44 | 64/218 |
@@ -58,16 +58,9 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ---
 
-## cpmpy Table extension _(running)_
+## cpmpy Table extension
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `3b563c66 — fix regular and pass custom positives to recursive calls` · Created: 2026-06-05 17:29:52 · Last run: 2026-06-05 18:10:45_
-
-### Live Progress
-
-| Solver | Track | Status | Progress | Started | Elapsed |
-|--------|-------|--------|----------|---------|---------|
-| `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-05 17:30:39 | — |
-| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 195/200 | 2026-06-05 18:11:36 | 34m 35s |
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `3b563c66 — fix regular and pass custom positives to recursive calls` · Created: 2026-06-05 17:29:52 · Last run: 2026-06-05 18:47:25_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -84,14 +77,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3b563c66 — fix regular and pass custom po
 | Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|-----|-------|---------|-------|
 | `gurobi` | 42 | 16 | 55 | **13** | 0 | 74 | 200 |
-| `pindakaas` | 29 | 16 | 23 | **71** | 0 | 56 | 195 |
+| `pindakaas` | 29 | 16 | 28 | **71** | 0 | 56 | 200 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `gurobi` | 159 | 0 | 41 | 200 |
-| `pindakaas` | 106 | 0 | 89 | 195 |
+| `pindakaas` | 106 | 0 | 94 | 200 |
 
 ---
 
@@ -135,7 +128,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3b563c66 — fix regular and pass custom po
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 26/200 | 2026-06-05 15:19:39 | 3h 26m |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 26/200 | 2026-06-05 15:19:39 | 3h 28m |
 | `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
@@ -171,7 +164,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `0e7b2159 — Fix xglobals import` · Create
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-05 14:31:29 | — |
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 18/200 | 2026-06-05 15:16:24 | 3h 29m |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 18/200 | 2026-06-05 15:16:24 | 3h 31m |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -900,7 +893,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 52h 43m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 52h 44m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
