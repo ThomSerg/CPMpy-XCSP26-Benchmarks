@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,xglobals_regular,xglobals regular,2026-06-05T10:58:49,2026-06-05T11:40:29,0e7b2159 — Fix xglobals import,true,XCSP3-2025-CSP25,85,304,600.0
+1,xglobals_regular,xglobals regular,2026-06-05T10:58:49,2026-06-05T11:40:29,0e7b2159 — Fix xglobals import,true,XCSP3-2025-CSP25,89,325,600.0
 2,DFA_decomp_regular,DFA decomp regular,2026-06-05T09:36:53,2026-06-05T10:52:17,0e7b2159 — Fix xglobals import,false,XCSP3-2025-CSP25,58,200,600.0
 3,Rsync_fix,Rsync fix,2026-06-05T07:28:44,2026-06-05T09:20:36,6e486806 — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26,false,XCSP3-2025-CSP25,223,600,600.0
 4,New_New_Baseline_Final_Sprint_CSE_map_fix,New New Baseline Final Sprint (CSE map fix),2026-06-05T01:33:41,2026-06-05T04:59:35,"009dbfd9 — Revert ""Selective channels linear solvers xcsp3 (#1008)""",false,XCSP3-2025-CSP25,279,1200,600.0

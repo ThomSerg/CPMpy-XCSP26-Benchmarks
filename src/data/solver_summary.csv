@@ -1,6 +1,6 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
 xglobals_regular,xglobals regular,XCSP3-2025-CSP25,gurobi,42,16,59,13,0,70,200,162,0,38
-xglobals_regular,xglobals regular,XCSP3-2025-CSP25,pindakaas,16,11,10,39,0,28,104,57,0,47
+xglobals_regular,xglobals regular,XCSP3-2025-CSP25,pindakaas,19,12,13,44,0,37,125,71,0,54
 DFA_decomp_regular,DFA decomp regular,XCSP3-2025-CSP25,gurobi,42,16,58,13,0,71,200,163,0,37
 Rsync_fix,Rsync fix,XCSP3-2025-CSP25,gurobi,42,16,67,8,0,67,200,165,0,35
 Rsync_fix,Rsync fix,XCSP3-2025-CSP25,ortools,87,27,2,11,0,73,200,188,0,12
