@@ -1,5 +1,5 @@
 order,slug,name,created_at,last_run_at,cpmpy_commit,active,tracks,solved,total,time_limit
-1,Disable_regular_linearise,Disable regular linearise,2026-06-05T12:34:06,,0e7b2159 — Fix xglobals import,true,XCSP3-2025-CSP25,21,77,600.0
+1,Disable_regular_linearise,Disable regular linearise,2026-06-05T12:34:06,,0e7b2159 — Fix xglobals import,true,XCSP3-2025-CSP25,23,95,600.0
 2,xglobals_regular,xglobals regular,2026-06-05T10:58:49,2026-06-05T12:29:54,0e7b2159 — Fix xglobals import,false,XCSP3-2025-CSP25,105,400,600.0
 3,DFA_decomp_regular,DFA decomp regular,2026-06-05T09:36:53,2026-06-05T10:52:17,0e7b2159 — Fix xglobals import,false,XCSP3-2025-CSP25,58,200,600.0
 4,Rsync_fix,Rsync fix,2026-06-05T07:28:44,2026-06-05T09:20:36,6e486806 — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26,false,XCSP3-2025-CSP25,223,600,600.0
