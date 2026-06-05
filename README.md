@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **xglobals Table instantiation** 🔄 | XCSP3-2025-CSP25 | `3b563c66 — fix regular and pass custom positives to recursive calls` | 2026-06-05 19:14:02 | — | 43/116 |
+| 1 | **xglobals Table instantiation** 🔄 | XCSP3-2025-CSP25 | `3b563c66 — fix regular and pass custom positives to recursive calls` | 2026-06-05 19:14:02 | — | 45/126 |
 | 2 | **cpmpy Table extension** | XCSP3-2025-CSP25 | `3b563c66 — fix regular and pass custom positives to recursive calls` | 2026-06-05 17:29:52 | 2026-06-05 18:47:25 | 103/400 |
 | 3 | **xglobals Baseline** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 15:25:25 | 2026-06-05 17:16:08 | 219/600 |
 | 4 | **Baseline** 🔄 | XCSP3-2025-CSP25 | `3b563c66 — fix regular and pass custom positives to recursive calls` | 2026-06-05 15:18:53 | — | 22/26 |
@@ -67,7 +67,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3b563c66 — fix regular and pass custom po
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-05 19:14:53 | 22m 38s |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 126/200 | 2026-06-05 19:14:53 | 24m 49s |
 | `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
@@ -84,13 +84,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3b563c66 — fix regular and pass custom po
 
 | Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|-----|-------|---------|-------|
-| `gurobi` | 29 | 14 | 14 | **6** | 0 | 54 | 117 |
+| `gurobi` | 31 | 14 | 20 | **7** | 0 | 54 | 126 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `gurobi` | 100 | 0 | 17 | 117 |
+| `gurobi` | 105 | 0 | 21 | 126 |
 
 ---
 
@@ -164,7 +164,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `3b563c66 — fix regular and pass custom po
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 26/200 | 2026-06-05 15:19:39 | 4h 17m |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 26/200 | 2026-06-05 15:19:39 | 4h 20m |
 | `pindakaas` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 
 ### Track: XCSP3-2025-CSP25
@@ -200,7 +200,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `0e7b2159 — Fix xglobals import` · Create
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-05 14:31:29 | — |
-| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 18/200 | 2026-06-05 15:16:24 | 4h 21m |
+| `gurobi` | XCSP3-2025-CSP25 | 🔄 running | 18/200 | 2026-06-05 15:16:24 | 4h 23m |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -929,7 +929,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 53h 34m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 53h 36m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
