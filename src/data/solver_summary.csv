@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
-cpmpy_Table_extension,cpmpy Table extension,XCSP3-2025-CSP25,gurobi,40,16,21,9,0,54,140,116,0,24
+cpmpy_Table_extension,cpmpy Table extension,XCSP3-2025-CSP25,gurobi,41,16,37,12,0,64,170,137,0,33
 xglobals_Baseline,xglobals Baseline,XCSP3-2025-CSP25,gurobi,42,17,60,13,0,68,200,163,0,37
 xglobals_Baseline,xglobals Baseline,XCSP3-2025-CSP25,ortools,87,27,3,11,0,72,200,188,0,12
 xglobals_Baseline,xglobals Baseline,XCSP3-2025-CSP25,pindakaas,30,16,25,74,0,55,200,104,0,96
