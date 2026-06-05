@@ -351,6 +351,13 @@
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-06-05T19:14:02",
       "last_run_at": "2026-06-05T20:31:32"
+    },
+    {
+      "name": "Regular linear decompose",
+      "slug": "Regular_linear_decompose",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-06-05T20:39:14",
+      "last_run_at": null
     }
   ]
 }
