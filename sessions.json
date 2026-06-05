@@ -281,6 +281,13 @@
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-06-05T01:33:41",
       "last_run_at": "2026-06-05T04:59:35"
+    },
+    {
+      "name": "Rsync fix",
+      "slug": "Rsync_fix",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-06-05T07:28:44",
+      "last_run_at": null
     }
   ]
 }
