@@ -1,5 +1,4 @@
 session_slug,session_name,track,solvers
-xglobals_Baseline,xglobals Baseline,unknown,gurobi;ortools;pindakaas
 xglobals_Baseline,xglobals Baseline,XCSP3-2025-CSP25,gurobi;ortools;pindakaas
 Baseline,Baseline,XCSP3-2025-CSP25,gurobi;pindakaas
 Forse_Regular_via_table_linear,Forse Regular via table (linear),XCSP3-2025-CSP25,gurobi;pindakaas
