@@ -337,6 +337,13 @@
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-06-05T15:25:25",
       "last_run_at": "2026-06-05T17:16:08"
+    },
+    {
+      "name": "cpmpy Table extension",
+      "slug": "cpmpy_Table_extension",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-06-05T17:29:52",
+      "last_run_at": null
     }
   ]
 }
