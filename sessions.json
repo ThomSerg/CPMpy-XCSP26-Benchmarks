@@ -344,6 +344,13 @@
       "track": "XCSP3-2025-CSP25",
       "created_at": "2026-06-05T17:29:52",
       "last_run_at": "2026-06-05T18:47:25"
+    },
+    {
+      "name": "xglobals Table instantiation",
+      "slug": "xglobals_Table_instantiation",
+      "track": "XCSP3-2025-CSP25",
+      "created_at": "2026-06-05T19:14:02",
+      "last_run_at": null
     }
   ]
 }
