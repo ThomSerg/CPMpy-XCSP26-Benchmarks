@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **Forse Regular via table (linear)** 🔄 | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 14:30:43 | — | 18/64 |
+| 1 | **Forse Regular via table (linear)** 🔄 | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 14:30:43 | — | 21/77 |
 | 2 | **Regular via table** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 13:50:52 | 2026-06-05 14:27:45 | 46/200 |
 | 3 | **Disable regular linearise** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 12:34:06 | 2026-06-05 13:10:17 | 47/200 |
 | 4 | **xglobals regular** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 10:58:49 | 2026-06-05 12:29:54 | 105/400 |
@@ -63,7 +63,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `0e7b2159 — Fix xglobals import` · Create
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 66/200 | 2026-06-05 14:31:29 | 11m 13s |
+| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 78/200 | 2026-06-05 14:31:29 | 13m 23s |
 
 ### Track: XCSP3-2025-CSP25
 
@@ -79,13 +79,13 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `0e7b2159 — Fix xglobals import` · Create
 
 | Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|-----|-------|---------|-------|
-| `pindakaas` | 9 | 9 | 7 | **21** | 0 | 20 | 66 |
+| `pindakaas` | 12 | 9 | 8 | **29** | 0 | 20 | 78 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
-| `pindakaas` | 38 | 0 | 28 | 66 |
+| `pindakaas` | 41 | 0 | 37 | 78 |
 
 ---
 
@@ -790,7 +790,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 48h 39m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 48h 41m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
