@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
-xglobals_Baseline,xglobals Baseline,XCSP3-2025-CSP25,gurobi,40,17,26,8,0,51,142,120,0,22
+xglobals_Baseline,xglobals Baseline,XCSP3-2025-CSP25,gurobi,42,17,44,13,0,58,174,139,0,35
 Baseline,Baseline,XCSP3-2025-CSP25,gurobi,16,6,0,4,0,0,26,22,0,4
 Forse_Regular_via_table_linear,Forse Regular via table (linear),XCSP3-2025-CSP25,gurobi,13,5,0,0,0,0,18,18,0,0
 Forse_Regular_via_table_linear,Forse Regular via table (linear),XCSP3-2025-CSP25,pindakaas,30,16,23,73,0,58,200,106,0,94
