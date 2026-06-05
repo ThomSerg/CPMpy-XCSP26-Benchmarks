@@ -1,5 +1,5 @@
 session_slug,session_name,track,solver,sat,unsat,timeout,oom,error,unknown,total,checker_valid,checker_invalid,checker_skipped
-New_New_Baseline_Final_Sprint_CSE_map_fix,New New Baseline Final Sprint (CSE map fix),XCSP3-2025-CSP25,exact,33,13,11,4,15,21,97,67,0,30
+New_New_Baseline_Final_Sprint_CSE_map_fix,New New Baseline Final Sprint (CSE map fix),XCSP3-2025-CSP25,exact,35,13,12,5,15,26,106,74,0,32
 New_New_Baseline_Final_Sprint_CSE_map_fix,New New Baseline Final Sprint (CSE map fix),XCSP3-2025-CSP25,gurobi,31,14,38,3,44,70,200,136,0,64
 New_New_Baseline_Final_Sprint_CSE_map_fix,New New Baseline Final Sprint (CSE map fix),XCSP3-2025-CSP25,highs,21,10,45,12,44,68,200,103,0,97
 New_New_Baseline_Final_Sprint_CSE_map_fix,New New Baseline Final Sprint (CSE map fix),XCSP3-2025-CSP25,scip,14,11,56,20,47,52,200,95,0,105
