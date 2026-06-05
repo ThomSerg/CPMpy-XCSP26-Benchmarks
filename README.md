@@ -6,7 +6,7 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 | # | Experiment | Tracks | cpmpy commit | Created | Last Run | Solved |
 |---|-----------|--------|--------------|---------|----------|--------|
-| 1 | **xglobals regular** 🔄 | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 10:58:49 | 2026-06-05 11:40:29 | 105/395 |
+| 1 | **xglobals regular** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 10:58:49 | 2026-06-05 12:29:54 | 105/400 |
 | 2 | **DFA decomp regular** | XCSP3-2025-CSP25 | `0e7b2159 — Fix xglobals import` | 2026-06-05 09:36:53 | 2026-06-05 10:52:17 | 58/200 |
 | 3 | **Rsync fix** | XCSP3-2025-CSP25 | `6e486806 — Merge remote-tracking branch 'origin/save_reification_to_csemap' into xcsp3_26` | 2026-06-05 07:28:44 | 2026-06-05 09:20:36 | 223/600 |
 | 4 | **New New Baseline Final Sprint (CSE map fix)** | XCSP3-2025-CSP25 | `009dbfd9 — Revert "Selective channels linear solvers xcsp3 (#1008)"` | 2026-06-05 01:33:41 | 2026-06-05 04:59:35 | 279/1200 |
@@ -52,16 +52,9 @@ Interactive site: https://ThomSerg.github.io/bench-gist-results/
 
 ---
 
-## xglobals regular _(running)_
+## xglobals regular
 
-_Tracks: XCSP3-2025-CSP25 · cpmpy: `0e7b2159 — Fix xglobals import` · Created: 2026-06-05 10:58:49 · Last run: 2026-06-05 11:40:29_
-
-### Live Progress
-
-| Solver | Track | Status | Progress | Started | Elapsed |
-|--------|-------|--------|----------|---------|---------|
-| `gurobi` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-05 10:59:40 | — |
-| `pindakaas` | XCSP3-2025-CSP25 | 🔄 running | 196/200 | 2026-06-05 11:54:26 | 34m 13s |
+_Tracks: XCSP3-2025-CSP25 · cpmpy: `0e7b2159 — Fix xglobals import` · Created: 2026-06-05 10:58:49 · Last run: 2026-06-05 12:29:54_
 
 ### Track: XCSP3-2025-CSP25
 
@@ -78,14 +71,14 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `0e7b2159 — Fix xglobals import` · Create
 | Solver | SAT | UNSAT | TIMEOUT | OOM | ERROR | UNKNOWN | TOTAL |
 |--------|-----|-------|---------|-----|-------|---------|-------|
 | `gurobi` | 42 | 16 | 59 | **13** | 0 | 70 | 200 |
-| `pindakaas` | 31 | 16 | 20 | **74** | 0 | 55 | 196 |
+| `pindakaas` | 31 | 16 | 24 | **74** | 0 | 55 | 200 |
 
 #### Solution Checker
 
 | Solver | Valid | Invalid | Skipped | Total |
 |--------|-------|---------|---------|-------|
 | `gurobi` | 162 | 0 | 38 | 200 |
-| `pindakaas` | 105 | 0 | 91 | 196 |
+| `pindakaas` | 105 | 0 | 95 | 200 |
 
 ---
 
@@ -704,7 +697,7 @@ _Tracks: XCSP3-2025-CSP25 · cpmpy: `5c385788 — Restore competition regular` �
 
 | Solver | Track | Status | Progress | Started | Elapsed |
 |--------|-------|--------|----------|---------|---------|
-| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 46h 25m |
+| `exact` | XCSP3-2025-CSP25 | 🔄 running | 117/200 | 2026-06-03 14:03:02 | 46h 27m |
 | `pindakaas` | XCSP3-2025-CSP25 | ✅ done | 200/200 | 2026-06-03 13:27:02 | — |
 | `cpo` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
 | `gurobi` | XCSP3-2025-CSP25 | ⏳ pending | 0/200 | — | — |
