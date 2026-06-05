@@ -1,5 +1,5 @@
 session_slug,session_name,track,solvers
-Rsync_fix,Rsync fix,XCSP3-2025-CSP25,ortools
+Rsync_fix,Rsync fix,XCSP3-2025-CSP25,gurobi;ortools;pindakaas
 New_New_Baseline_Final_Sprint_CSE_map_fix,New New Baseline Final Sprint (CSE map fix),XCSP3-2025-CSP25,exact;gurobi;highs;ortools;pindakaas;scip
 New_Baseline_Final_Sprint,New Baseline Final Sprint,XCSP3-2025-CSP25,exact;gurobi;highs;ortools;scip
 Undo_selective_channels_linear_solvers,Undo selective channels linear solvers,unknown,gurobi
